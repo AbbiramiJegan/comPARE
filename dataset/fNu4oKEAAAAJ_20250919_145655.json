@@ -1,0 +1,203 @@
+{
+    "author_id": "fNu4oKEAAAAJ",
+    "name": "Mogana Darshini Ganggayah",
+    "affiliations": "Dr",
+    "metrics": [
+        {
+            "citations": {
+                "all": 623,
+                "since_2020": 607
+            }
+        },
+        {
+            "h_index": {
+                "all": 6,
+                "since_2020": 6
+            }
+        },
+        {
+            "i10_index": {
+                "all": 5,
+                "since_2020": 5
+            }
+        }
+    ],
+    "co_authors": [],
+    "articles": [
+        {
+            "title": "Predicting factors for survival of breast cancer patients using machine learning techniques",
+            "authors": "MD Ganggayah, NA Taib, YC Har, P Lio, SK Dhillon",
+            "venue": "BMC medical informatics and decision making 19 (1), 48, 2019",
+            "year": "2019",
+            "citations": 363
+        },
+        {
+            "title": "Machine learning and deep learning approaches in breast cancer survival prediction using clinical data",
+            "authors": "EY Kalafi, NAM Nor, NA Taib, MD Ganggayah, C Town, SK Dhillon",
+            "venue": "Folia biologica 65 (5-6), 212-220, 2019",
+            "year": "2019",
+            "citations": 116
+        },
+        {
+            "title": "Classification of breast cancer lesions in ultrasound images by using attention layer and loss ensemble in deep convolutional neural networks",
+            "authors": "EY Kalafi, A Jodeiri, SK Setarehdan, NW Lin, K Rahmat, NA Taib, ...",
+            "venue": "Diagnostics 11 (10), 1859, 2021",
+            "year": "2021",
+            "citations": 52
+        },
+        {
+            "title": "Understanding and predicting the usage of shared electric scooter services on university campuses",
+            "authors": "SMH Moosavi, Z Ma, DJ Armaghani, M Aghaabbasi, MD Ganggayah, ...",
+            "venue": "Applied Sciences 12 (18), 9392, 2022",
+            "year": "2022",
+            "citations": 29
+        },
+        {
+            "title": "Theory and practice of integrating machine learning and conventional statistics in medical data analysis",
+            "authors": "SK Dhillon, MD Ganggayah, S Sinnadurai, P Lio, NA Taib",
+            "venue": "Diagnostics 12 (10), 2526, 2022",
+            "year": "2022",
+            "citations": 28
+        },
+        {
+            "title": "Automated generation of synoptic reports from narrative pathology reports in University Malaya Medical Centre using natural language processing",
+            "authors": "WM Tan, KH Teoh, MD Ganggayah, NA Taib, HS Zaini, SK Dhillon",
+            "venue": "Diagnostics 12 (4), 879, 2022",
+            "year": "2022",
+            "citations": 9
+        },
+        {
+            "title": "Mediating effects of fear on mental health among undergraduate students during open distance learning",
+            "authors": "NIA HAsAn, MD GAnGGAyAH, S Suhaimi, NA Hasan, NF Jamal",
+            "venue": "The Malaysian journal of medical sciences: MJMS 30 (6), 91, 2023",
+            "year": "2023",
+            "citations": 5
+        },
+        {
+            "title": "Knowledge, attitude and practices (KAP) theory towards preventive measures among Malaysian in early outbreak of Covid-19",
+            "authors": "NIA Hasan, SZ Abidin, MD Ganggayah, NF Jamal, WNHWA Aziz",
+            "venue": "Malaysian Journal of Public Health Medicine 22 (1), 38-47, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "Accelerating autism spectrum disorder care: A rapid review of data science applications in diagnosis and intervention",
+            "authors": "MD Ganggayah, D Zhao, JY Liew, N Aqilah, T Paramasivam, YY Lee, ...",
+            "venue": "Asian Journal of Psychiatry, 104498, 2025",
+            "year": "2025",
+            "citations": 4
+        },
+        {
+            "title": "An artificial intelligence-enabled pipeline for medical domain: Malaysian breast cancer survivorship cohort as a case study",
+            "authors": "MD Ganggayah, SK Dhillon, T Islam, F Kalhor, TC Chiang, EY Kalafi, ...",
+            "venue": "Diagnostics 11 (8), 1492, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Natural language processing in narrative breast radiology reporting in University Malaya Medical Centre",
+            "authors": "WM Tan, WL Ng, MD Ganggayah, VCW Hoe, K Rahmat, HS Zaini, ...",
+            "venue": "Health Informatics Journal 29 (3), 14604582231203763, 2023",
+            "year": "2023",
+            "citations": 3
+        },
+        {
+            "title": "Projection of infant mortality rate in Malaysia using R",
+            "authors": "NI Hasan, AA Aziz, MD Ganggayah, NF Jamal, NMA Ghafar",
+            "venue": "Jurnal Sains Kesihatan Malaysia (Malaysian Journal of Health Sciences) 20 (1 …, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "The “Know Your Lemons” Tools: A strategy to improve breast cancer warning signs recognition in Malaysia",
+            "authors": "MCM Yen, T Islam, C Ellsworth-Beaumont, SK Dhillon, MD Ganggayah, ...",
+            "venue": "Journal of Education and Health Promotion 12 (1), 231, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Theory and Practice of Integrating of Machine Learning and Conventional Statistics in Medical Data Analysis. Diagnostics, 2022, 12, 2526",
+            "authors": "SK Dhillion, MD Ganggayah, S Sinnadurai, P Lio, NA Taib",
+            "venue": "s Note: MDPI stays neu-tral with regard to jurisdictional claims in …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Enhancing PETRONAS share price forecasts: a hybrid Holt.",
+            "authors": "NQM Fozi, NI Abu Hasan, AA Aziz, SM Zahari, MD Ganggayah",
+            "venue": "International Journal of Electrical & Computer Engineering (2088-8708) 15 (1), 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Enhancing PETRONAS share price forecasts: a hybrid Holt integrated moving average",
+            "authors": "NQM Fozi, NIA Hasan, AA Aziz, SM Zahari, MD Ganggayah",
+            "venue": "International Journal of Electrical and Computer Engineering (IJECE) 15 (1 …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Suppression of Hotair Gene in Small-Cell Lung Cancer Effect The Differentially Expressed Genes and Inhibit Progression of the Disease",
+            "authors": "T Manaharan, VM Achari, NRBBN Ahmad, MD Ganggayah",
+            "venue": "Current Trends in Biotechnology and Pharmacy 18 (3s), 136-149, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Psychesync: Smartwatch tracking and classifying mental health for personalized wellbeing",
+            "authors": "NI Abu Hasan, MD Ganggayah, NF Jamal, N Abu Hasan",
+            "venue": "13th International Innovation, Invention & Design Competition (INDES 2024), 1-4, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Innovative scoring system for statistical reasoning, literacy, and thinking (REaLITI) assessment instruments",
+            "authors": "NI Abu Hasan, NH Jamian, MD Ganggayah, NA Md Ghani",
+            "venue": "13th International Innovation, Invention & Design Competition (INDES 2024 …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Correlates of suicide ideation among young adults: insights from machine learning algorithms",
+            "authors": "MD Ganggayah, E Barrios",
+            "venue": "International Conference on Computational Statistics 2024, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Computational assessment of COVID-19 time series using ARIMA models: comparative analysis of new cases, vaccination rates, booster doses, and mortality trends",
+            "authors": "MD Ganggayah, R Rajandaran, NAM Nor, NIA Hasan",
+            "venue": "International Conference on Applied Computing 2023, 0032, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Computational assessment of COVID-19 time series using ARIMA models: comparative analysis of new cases, vaccination rates, booster doses, and mortality trends",
+            "authors": "MDG Ruben Rajandaran, Nurul Aqilah Mohd Nor, Nurhasniza Idham Abu Hasan",
+            "venue": "Proc. Comput. Sci. 2, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Influences on Perceived Stress Among Undergraduates During COVID-19-Induced Transition to Open Distance Learning: A Multiple Linear Regression Analysis",
+            "authors": "NZ Nurhasniza Idham Abu Hasan, Mogana Darshini Ganggayah, Nurul Husna Jamian",
+            "venue": "MATHEMATICAL SCIENCES AND INFORMATICS JOURNAL 4 (2), 76-85, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Non-Parametric Analysis of COVID-19-Driven Online Shopping Behavior in Malaysia",
+            "authors": "NFJ NIA Hasan, MD Ganggayah, SHHBM Zin, NAIBA Razak",
+            "venue": "MATHEMATICAL SCIENCES AND INFORMATICS JOURNAL 4 (2), 56-65, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Application of database and data science techniques in the Malaysian Breast Cancer Survivorship Cohort STUDY",
+            "authors": "MD Ganggayah, NA Taib, T Islam, SK Dhillon",
+            "venue": "Journal of Global Oncology, 110s-110s, 2018",
+            "year": "2018",
+            "citations": null
+        }
+    ]
+}

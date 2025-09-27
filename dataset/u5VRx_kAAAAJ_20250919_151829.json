@@ -1,0 +1,259 @@
+{
+    "author_id": "u5VRx_kAAAAJ",
+    "name": "Mei Kuan Lim",
+    "affiliations": "Senior Lecturer, Monash University Malaysia",
+    "metrics": [
+        {
+            "citations": {
+                "all": 905,
+                "since_2020": 607
+            }
+        },
+        {
+            "h_index": {
+                "all": 14,
+                "since_2020": 10
+            }
+        },
+        {
+            "i10_index": {
+                "all": 18,
+                "since_2020": 10
+            }
+        }
+    ],
+    "co_authors": [],
+    "articles": [
+        {
+            "title": "Crowd behavior analysis: A review where physics meets biology",
+            "authors": "VJ Kok, MK Lim, CS Chan",
+            "venue": "Neurocomputing 177, 342-362, 2016",
+            "year": "2016",
+            "citations": 194
+        },
+        {
+            "title": "A comprehensive overview of Deepfake: generation, detection, datasets, and opportunities",
+            "authors": "JW Seow, MK Lim, RCW Phan, JK Liu",
+            "venue": "Neurocomputing, 2022",
+            "year": "2022",
+            "citations": 155
+        },
+        {
+            "title": "Machine learning for multimodal mental health detection: a systematic review of passive sensing approaches",
+            "authors": "LS Khoo, MK Lim, CY Chong, R McNaney",
+            "venue": "Sensors 24 (2), 348, 2024",
+            "year": "2024",
+            "citations": 69
+        },
+        {
+            "title": "iSurveillance: Intelligent framework for multiple events detection in surveillance videos",
+            "authors": "MK Lim, S Tang, CS Chan",
+            "venue": "Expert Systems with Applications 41 (10), 4704-4715, 2014",
+            "year": "2014",
+            "citations": 66
+        },
+        {
+            "title": "Crowd saliency detection via global similarity structure",
+            "authors": "MK Lim, VJ Kok, CC Loy, CS Chan",
+            "venue": "Pattern Recognition (ICPR), 2014 22nd International Conference on, 3957-3962, 2014",
+            "year": "2014",
+            "citations": 52
+        },
+        {
+            "title": "Assessing AI Detectors in Identifying AI-Generated Code: Implications for Education",
+            "authors": "WH Pan, MJ Chok, JLS Wong, YX Shin, YS Poon, Z Yang, CY Chong, ...",
+            "venue": "Proceedings of the 46th International Conference on Software Engineering …, 2024",
+            "year": "2024",
+            "citations": 48
+        },
+        {
+            "title": "Colour-based object tracking in surveillance application",
+            "authors": "TS Ling, LK Meng, LM Kuan, Z Kadim, AAB Al-Deen",
+            "venue": "Proceedings of the International MultiConference of Engineers and Computer …, 2009",
+            "year": "2009",
+            "citations": 38
+        },
+        {
+            "title": "Execution time prediction of imperative paradigm tasks for grid scheduling optimization",
+            "authors": "M Kiran, AHA Hashim, LM Kuan, YY Jiun",
+            "venue": "International Journal of Computer Science and Network Security 9 (2), 155-163, 2009",
+            "year": "2009",
+            "citations": 38
+        },
+        {
+            "title": "Fairness Evaluation in Deepfake Detection Models using Metamorphic Testing",
+            "authors": "M Pu, MY Kuan, NT Lim, CY Chong, MK Lim",
+            "venue": "arXiv preprint arXiv:2203.06825, 2022",
+            "year": "2022",
+            "citations": 28
+        },
+        {
+            "title": "Hybrid blob and particle filter tracking approach for robust object tracking",
+            "authors": "SL Tang, Z Kadim, KM Liang, MK Lim",
+            "venue": "Procedia Computer Science 1 (1), 2549-2557, 2010",
+            "year": "2010",
+            "citations": 28
+        },
+        {
+            "title": "Implementing image processing algorithms using ‘Hardware in the loop’approach for Xilinx FPGA",
+            "authors": "M Kiran, KM War, LM Kuan, LK Meng, LW Kin",
+            "venue": "Electronic Design, 2008. ICED 2008. International Conference on, 1-6, 2008",
+            "year": "2008",
+            "citations": 25
+        },
+        {
+            "title": "Refined particle swarm intelligence method for abrupt motion tracking",
+            "authors": "MK Lim, CS Chan, D Monekosso, P Remagnino",
+            "venue": "Information Sciences 283, 267-287, 2014",
+            "year": "2014",
+            "citations": 21
+        },
+        {
+            "title": "A prediction module to optimize scheduling in a grid computing environment",
+            "authors": "M Kiran, AH Abdalla, YY Jiun, LM Kuan",
+            "venue": "Computer and Communication Engineering, 2008. ICCCE 2008. International …, 2008",
+            "year": "2008",
+            "citations": 17
+        },
+        {
+            "title": "Detection of salient regions in crowded scenes",
+            "authors": "MK Lim, CS Chan, D Monekosso, P Remagnino",
+            "venue": "Electronics Letters 50 (5), 363-365, 2014",
+            "year": "2014",
+            "citations": 15
+        },
+        {
+            "title": "Metamorphic Testing-based Adversarial Attack to Fool Deepfake Detectors",
+            "authors": "NT Lim, MY Kuan, M Pu, MK Lim, CY Chong",
+            "venue": "arXiv preprint arXiv:2204.08612, 2022",
+            "year": "2022",
+            "citations": 13
+        },
+        {
+            "title": "Robustness evaluation in hand pose estimation models using metamorphic testing",
+            "authors": "M Pu, CY Chong, MK Lim",
+            "venue": "2023 IEEE/ACM 8th International Workshop on Metamorphic Testing (MET), 31-38, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "Robustness Evaluation of Stacked Generative Adversarial Networks using Metamorphic Testing",
+            "authors": "H Park, T Waseem, WQ Teo, YH Low, MK Lim, CY Chong",
+            "venue": "2021 IEEE/ACM 6th International Workshop on Metamorphic Testing (MET), 1-8, 2021",
+            "year": "2021",
+            "citations": 11
+        },
+        {
+            "title": "SwATrack: A Swarm Intelligence-based Abrupt Motion Tracker.",
+            "authors": "MK Lim, CS Chan, DN Monekosso, P Remagnino",
+            "venue": "MVA, 37-40, 2013",
+            "year": "2013",
+            "citations": 10
+        },
+        {
+            "title": "Effective UAV patrolling for swarm of intruders with heterogeneous behavior",
+            "authors": "AM Farid, LM Kuan, MAS Kamal, KS Wong",
+            "venue": "Robotica 41 (6), 1673-1688, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Exploring and repairing gender fairness violations in word embedding-based sentiment analysis model through adversarial patches",
+            "authors": "LS Khoo, JQ Bay, MLK Yap, MK Lim, CY Chong, Z Yang, D Lo",
+            "venue": "2023 IEEE International Conference on Software Analysis, Evolution and …, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "On the application of machine learning models to assess and predict software reusability",
+            "authors": "MYH Yeow, CY Chong, MK Lim",
+            "venue": "Proceedings of the 6th International Workshop on Machine Learning Techniques …, 2022",
+            "year": "2022",
+            "citations": 9
+        },
+        {
+            "title": "Asdf: A differential testing framework for automatic speech recognition systems",
+            "authors": "DHX Yuen, AYC Pang, Z Yang, CY Chong, MK Lim, D Lo",
+            "venue": "2023 IEEE Conference on Software Testing, Verification and Validation (ICST …, 2023",
+            "year": "2023",
+            "citations": 8
+        },
+        {
+            "title": "Investigations into particle swarm optimization for multi-class shape recognition",
+            "authors": "EL Ng, MK Lim, T Maul, WK Lai",
+            "venue": "International Conference on Neural Information Processing, 599-606, 2008",
+            "year": "2008",
+            "citations": 7
+        },
+        {
+            "title": "Semantic analysis of social network site data for flood mapping and assessment",
+            "authors": "I Jamaludin, I Zahidi, A Talei, MK Lim",
+            "venue": "Journal of Hydrology 628, 130519, 2024",
+            "year": "2024",
+            "citations": 6
+        },
+        {
+            "title": "Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing",
+            "authors": "JK Lau, KKW Kong, JH Yong, PH Tan, Z Yang, ZQ Yong, JCW Low, ...",
+            "venue": "Proceedings of the 32nd ACM SIGSOFT International Symposium on Software …, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "SERCNN: Stacked Embedding Recurrent Convolutional Neural Network in Detecting Depression on Twitter",
+            "authors": "HE Tay, MK Lim, CY Chong",
+            "venue": "arXiv preprint arXiv:2207.14535, 2022",
+            "year": "2022",
+            "citations": 4
+        },
+        {
+            "title": "Perspective-Aware Loss Function for Crowd Density Estimation",
+            "authors": "B Yilmaz, VJ Kok, MK Lim, SNHS Abdullah",
+            "venue": "2019 16th International Conference on Machine Vision Applications (MVA), 1-6, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "Comparison of artificial intelligence models to predict oil palm biomass pyrolysis and kinetics using thermogravimetric analysis",
+            "authors": "YM Zaifullizan, LM Kuan, AA Salema, K Ishaque",
+            "venue": "Journal of Oil Palm Research 35 (1), 86-99, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Abnormal event detection in video surveillance/Lim Mei Kuan",
+            "authors": "MK Lim",
+            "venue": "University of Malaya, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "An Optimal Vehicle Counting Framework for Non-CCTV Placements",
+            "authors": "NC Hooi, ETC Pin, CY Shiong, LM Kuan",
+            "venue": "2022 Asia-Pacific Signal and Information Processing Association Annual …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Optimising Search Operations with Swarm Intelligence",
+            "authors": "NC Hou, LW Han, LM Kuan",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Real-time estimation of point-of-interest in video surveillance based on visual fixation",
+            "authors": "LM Kuan, TS Ling, Z Kadim, AA Al-Obaidi, N Samudin, LK Meng",
+            "venue": "Information Sciences Signal Processing and their Applications (ISSPA), 2010 …, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Hybrid particle swarm optimisation for data clustering",
+            "authors": "SL Teng, CS Chan, MK Lim, WK Lai",
+            "venue": "Second International Conference on Digital Image Processing 7546, 75460E, 2010",
+            "year": "2010",
+            "citations": null
+        }
+    ]
+}

@@ -1,0 +1,562 @@
+{
+    "author_id": "uMz0bJIAAAAJ",
+    "name": "Danielle Drozdzewski",
+    "affiliations": "Stockholm University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 2078,
+                "since_2020": 1456
+            }
+        },
+        {
+            "h_index": {
+                "all": 26,
+                "since_2020": 21
+            }
+        },
+        {
+            "i10_index": {
+                "all": 49,
+                "since_2020": 39
+            }
+        }
+    ],
+    "co_authors": [
+        "Emma Waterton",
+        "Dale Dominey-Howes",
+        "Shanti Sumartojo",
+        "Sarah De Nardi",
+        "Daniel F. Robinson",
+        "Charishma Ratnam",
+        "Graciela Metternicht",
+        "Natascha Klocker",
+        "Martina Angela Caretta",
+        "Peta Wolifson",
+        "Natasha A. Webster",
+        "Patrycja Matusz",
+        "Karolina Doughty",
+        "Caitlin Buckle",
+        "Tess Osborne"
+    ],
+    "articles": [
+        {
+            "title": "“Who can play this game?” The lived experiences of doctoral candidates and early career women in the neoliberal university",
+            "authors": "MA Caretta, D Drozdzewski, JC Jokinen, E Falconer",
+            "venue": "Journal of Geography in Higher Education 42 (2), 261-275, 2018",
+            "year": "2018",
+            "citations": 152
+        },
+        {
+            "title": "Geographies of memory, place and identity: Intersections in remembering war and conflict",
+            "authors": "D Drozdzewski, S De Nardi, E Waterton",
+            "venue": "Geography Compass 10 (11), 447-456, 2016",
+            "year": "2016",
+            "citations": 136
+        },
+        {
+            "title": "Electric vehicle adoption: An analysis of best practice and pitfalls for policy making from experiences of Europe and the US",
+            "authors": "GH Broadbent, D Drozdzewski, G Metternicht",
+            "venue": "Geography Compass 12 (2), e12358, 2018",
+            "year": "2018",
+            "citations": 127
+        },
+        {
+            "title": "Surveying rip current survivors: preliminary insights into the experiences of being caught in rip currents",
+            "authors": "D Drozdzewski, W Shaw, D Dominey-Howes, R Brander, T Walton, ...",
+            "venue": "Nat. Hazards Earth Syst. Sci 12 (4), 1201-1211, 2012",
+            "year": "2012",
+            "citations": 93
+        },
+        {
+            "title": "Research and trauma: understanding the impact of traumatic content and places on the researcher",
+            "authors": "D Drozdzewski, D Dominey-Howes",
+            "venue": "Emotion, Space and Society 100 (17), 17-21, 2015",
+            "year": "2015",
+            "citations": 88
+        },
+        {
+            "title": "Using history in the streetscape to affirm geopolitics of memory",
+            "authors": "D Drozdzewski",
+            "venue": "Political Geography 42, 66-78, 2014",
+            "year": "2014",
+            "citations": 88
+        },
+        {
+            "title": "An Analysis of Consumer Incentives in Support of Electric Vehicle Uptake: An Australian Case Study",
+            "authors": "GH Broadbent, G Metternicht, D Drozdzewski",
+            "venue": "World Electric Vehicle Journal 10 (1), 11, 2019",
+            "year": "2019",
+            "citations": 87
+        },
+        {
+            "title": "Commentary: Career progress relative to opportunity: how many papers is a baby 'worth'?",
+            "authors": "N Klocker, D Drozdzewski",
+            "venue": "Environment and Planning A 44, 1271-1277, 2012",
+            "year": "2012",
+            "citations": 82
+        },
+        {
+            "title": "Memory, Place and Identity: Commemoration and remembrance of war and conflict",
+            "authors": "D Drozdzewski, S De Nardi, E Waterton",
+            "venue": "Routledge, 2016",
+            "year": "2016",
+            "citations": 72
+        },
+        {
+            "title": "‘We’re moving out’: Youth Out‐Migration Intentions in Coastal Non‐Metropolitan New South Wales",
+            "authors": "D Drozdzewski",
+            "venue": "Geographical research 46 (2), 153-161, 2008",
+            "year": "2008",
+            "citations": 71
+        },
+        {
+            "title": "The experiences of weak and non-swimmers caught in rip currents at Australian beaches",
+            "authors": "D Drozdzewski, A Roberts, D Dominey-Howes, R Brander",
+            "venue": "Australian Geographer 46 (1), 15-32, 2015",
+            "year": "2015",
+            "citations": 63
+        },
+        {
+            "title": "Cultural memory and identity in the context of war: Experiential, place-based and political concerns",
+            "authors": "D Drozdzewski, E Waterton, S Sumartojo",
+            "venue": "International Review of the Red Cross, 1-22, 2019",
+            "year": "2019",
+            "citations": 58
+        },
+        {
+            "title": "Language tourism in Poland",
+            "authors": "D Drozdzewski",
+            "venue": "Tourism Geographies 13 (2), 165-186, 2011",
+            "year": "2011",
+            "citations": 55
+        },
+        {
+            "title": "Retrospective reflexivity: The residual and subliminal repercussions of researching war",
+            "authors": "D Drozdzewski",
+            "venue": "Emotion, Space and Society 17, 30-36, 2015",
+            "year": "2015",
+            "citations": 49
+        },
+        {
+            "title": "Resident attitudes to farmland protection measures in the northern rivers region, New South Wales",
+            "authors": "C Gibson, R Dufty, D Drozdzewski",
+            "venue": "Australian Geographer 36 (3), 369-383, 2005",
+            "year": "2005",
+            "citations": 44
+        },
+        {
+            "title": "Co-opting the night: the entrepreneurial shift and economic imperative in NTE planning",
+            "authors": "P Wolifson, D Drozdzewski",
+            "venue": "Urban policy and research 35 (4), 486-504, 2017",
+            "year": "2017",
+            "citations": 43
+        },
+        {
+            "title": "Doing Memory Research",
+            "authors": "D Drozdzewski, C Birdsall",
+            "venue": "Palgrave Macmillan, 2019",
+            "year": "2019",
+            "citations": 42
+        },
+        {
+            "title": "Care-work on fieldwork: taking your own children into the field",
+            "authors": "D Drozdzewski, DF Robinson",
+            "venue": "Children's Geographies 13 (3), 372-378, 2015",
+            "year": "2015",
+            "citations": 39
+        },
+        {
+            "title": "Encountering memory in the everyday city",
+            "authors": "D Drozdzewski",
+            "venue": "Memory, Place and Identity: Commemoration and Remembrance of War and …, 2016",
+            "year": "2016",
+            "citations": 37
+        },
+        {
+            "title": "Detour: Bodies, memories, and mobilities in and around the home",
+            "authors": "C Ratnam, D Drozdzewski",
+            "venue": "Mobilities 15 (6), 757-775, 2020",
+            "year": "2020",
+            "citations": 34
+        },
+        {
+            "title": "Capturing commemoration: Using mobile recordings within memory research",
+            "authors": "C Birdsall, D Drozdzewski",
+            "venue": "Mobile Media & Communication 6 (2), 266-284, 2018",
+            "year": "2018",
+            "citations": 33
+        },
+        {
+            "title": "The Significance of Memory in the Present",
+            "authors": "Drozdzewski, D., De Nardi, S., and Waterton, E.",
+            "venue": "Memory, Place and Identity: Commemoration and Remembrance of War and …, 2016",
+            "year": "2016",
+            "citations": 33
+        },
+        {
+            "title": "Knowing (or not) about Katyń: The silencing and surfacing of public memory",
+            "authors": "D Drozdzewski",
+            "venue": "Space and Polity 16 (3), 303-319, 2012",
+            "year": "2012",
+            "citations": 32
+        },
+        {
+            "title": "Operationalising memory and identity politics to influence public opinion of refugees: A snapshot from Poland",
+            "authors": "D Drozdzewski, P Matusz",
+            "venue": "Political Geography 86, 102366, 2021",
+            "year": "2021",
+            "citations": 30
+        },
+        {
+            "title": "A place called ‘Bielany’: Negotiating a diasporic Polish place in Sydney",
+            "authors": "D Drozdzewski",
+            "venue": "Social & Cultural Geography 8 (6), 853-869, 2007",
+            "year": "2007",
+            "citations": 29
+        },
+        {
+            "title": "“Dye in the Water” A Visual Approach to Communicating the Rip Current Hazard",
+            "authors": "RW Brander, D Drozdzewski, D Dominey-Howes",
+            "venue": "Science Communication 36 (6), 802-810, 2014",
+            "year": "2014",
+            "citations": 27
+        },
+        {
+            "title": "Rip Current Survival Principles: Towards Consistency",
+            "authors": "J Bradstreet, A., BRander, R.W., McCarroll, J.R., Brighton,B., Dominey-Howes ...",
+            "venue": "Journal of Coastal Research, 85-92, 2014",
+            "year": "2014",
+            "citations": 23
+        },
+        {
+            "title": "Geographies of Commemoration in a Digital World: Anzac @ 100",
+            "authors": "D Drozdzewski, S Sumartojo, E Waterton",
+            "venue": "Palgrave Pivot, 2021",
+            "year": "2021",
+            "citations": 21
+        },
+        {
+            "title": "‘Less‐than‐fluent’ and culturally connected: language learning and cultural fluency as research methodology",
+            "authors": "D Drozdzewski",
+            "venue": "Area 50 (1), 109-116, 2017",
+            "year": "2017",
+            "citations": 20
+        },
+        {
+            "title": "Research ethics with vulnerable groups: ethics in practice and procedure",
+            "authors": "C Ratnam, D Drozdzewski",
+            "venue": "Gender, Place & Culture 29 (7), 1009-1030, 2022",
+            "year": "2022",
+            "citations": 19
+        },
+        {
+            "title": "Sonic methods, sonic affects",
+            "authors": "K Doughty, D Drozdzewski",
+            "venue": "Emotion, Space and Society 42, 100867, 2022",
+            "year": "2022",
+            "citations": 19
+        },
+        {
+            "title": "Locating the geopolitics of memory in the Polish streetscape",
+            "authors": "D Drozdzewski",
+            "venue": "The Political Life of Urban Streetscapes: Naming, Politics, and Place, 114-131, 2017",
+            "year": "2017",
+            "citations": 19
+        },
+        {
+            "title": "Does Anzac Sit Comfortably within Australia's Multiculturalism?",
+            "authors": "D Drozdzewski",
+            "venue": "Australian Geographer 47 (1), 3-10, 2016",
+            "year": "2016",
+            "citations": 19
+        },
+        {
+            "title": "(Re)visiting the neighbourhood",
+            "authors": "D Drozdzewski, NA Webster",
+            "venue": "Geography Compass, e12597, 2021",
+            "year": "2021",
+            "citations": 18
+        },
+        {
+            "title": "Assembling attachments to homes under bushfire risk",
+            "authors": "C Ratnam, D Drozdzewski",
+            "venue": "Geographical Research 56 (1), 42-53, 2018",
+            "year": "2018",
+            "citations": 18
+        },
+        {
+            "title": "Memory, Movement, Mobility: Affect-full Encounters with Memory in Singapore",
+            "authors": "D Drozdzewski",
+            "venue": "Media Theory 2 (1), 245-265, 2018",
+            "year": "2018",
+            "citations": 18
+        },
+        {
+            "title": "Remembering Polishness: Articulating and maintaining identity through turbulent times",
+            "authors": "D Drozdzewski",
+            "venue": "Unpublished doctoral thesis> Sydney: University of New South Wales, 2008",
+            "year": "2008",
+            "citations": 17
+        },
+        {
+            "title": "Advancing memory methods",
+            "authors": "D Drozdzewski, C Birdsall",
+            "venue": "Doing memory research: New methods and approaches, 1-20, 2019",
+            "year": "2019",
+            "citations": 16
+        },
+        {
+            "title": "Survival and Subversion in the Neoliberal University",
+            "authors": "N Klocker, D Drozdzewski",
+            "venue": "Invited response to AntipodeFoundation.org Symposium on the Participatory …, 2012",
+            "year": "2012",
+            "citations": 16
+        },
+        {
+            "title": "Can place attachment mediate perceptions of bushfire risk? A case study of the Blue Mountains, NSW",
+            "authors": "C Ratnam, D Drozdzewski, R Chapple",
+            "venue": "Australian Journal of Emergency Management 31 (4), 60-64, 2016",
+            "year": "2016",
+            "citations": 15
+        },
+        {
+            "title": "‘They have no concept of what a farm is’: Exploring rural change through tree change migration",
+            "authors": "D Drozdzewski",
+            "venue": "Rural change in Australia: Population, economy, environment, 83-102, 2014",
+            "year": "2014",
+            "citations": 15
+        },
+        {
+            "title": "Stolpersteine and memory in the streetscape",
+            "authors": "D Drozdzewski",
+            "venue": "After Heritage: Critical Perspectives on Heritage from Below, 130-148, 2018",
+            "year": "2018",
+            "citations": 14
+        },
+        {
+            "title": "'“You can’t change our ancestors without our permission”: Cultural Perspectives on Biopiracy'",
+            "authors": "Robinson, D., Drozdzewski, D., and Kiddell, L.",
+            "venue": "Piracy: Leakages of Modernity, 55-74, 2014",
+            "year": "2014",
+            "citations": 14
+        },
+        {
+            "title": "Using emplaced ethnography, mobility, and listening to research memory",
+            "authors": "D Drozdzewski, C Birdsall",
+            "venue": "Doing memory research: New methods and approaches, 39-61, 2019",
+            "year": "2019",
+            "citations": 13
+        },
+        {
+            "title": "Landscape and memory",
+            "authors": "S De Nardi, D Drozdzewski",
+            "venue": "The Routledge Companion to Landscape Studies, 429-439, 2018",
+            "year": "2018",
+            "citations": 12
+        },
+        {
+            "title": "Urban perceptions of tree-change migration",
+            "authors": "C Buckle, D Drozdzewski",
+            "venue": "Rural Society 27 (3), 192-207, 2018",
+            "year": "2018",
+            "citations": 11
+        },
+        {
+            "title": "Stereotyping the Shire: Assigning White Privilege to Place and Identity",
+            "authors": "M Norquay, D Drozdzewski",
+            "venue": "Journal of Intercultural Studies 38 (1), 88-107, 2017",
+            "year": "2017",
+            "citations": 11
+        },
+        {
+            "title": "Hybrid identities: juxtaposing multiple identities against the ‘authentic’ Moken",
+            "authors": "DF Robinson, D Drozdzewski",
+            "venue": "Identities 23 (5), 536-554, 2016",
+            "year": "2016",
+            "citations": 10
+        },
+        {
+            "title": "When the everyday and the sacred collide: Positioning Płaszów in the Kraków landscape",
+            "authors": "D Drozdzewski",
+            "venue": "Landscape Research 39 (3), 255-266, 2014",
+            "year": "2014",
+            "citations": 10
+        },
+        {
+            "title": "Researcher trauma: Considering the ethics, impacts and outcomes of research on researchers",
+            "authors": "D Drozdzewski, D Dominey-Howes",
+            "venue": "Research Ethics in Human Geography, 168-181, 2021",
+            "year": "2021",
+            "citations": 8
+        },
+        {
+            "title": "Representing Women and Gender in Memory Landscapes",
+            "authors": "D Drozdzewski, J Monk",
+            "venue": "Routledge Handbook of Gender and Feminist Geographies, 254-270, 2020",
+            "year": "2020",
+            "citations": 8
+        },
+        {
+            "title": "Waves of Migration Exclusion and Inclusion: the experiences of Polish Australians",
+            "authors": "D Drozdzewski",
+            "venue": "Migration, citizenship and intercultural relations: looking through the lens …, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "“In remembering Anzac Day, what do we forget?”",
+            "authors": "D Drozdzewski, E Waterton",
+            "venue": "The Conversation, https://theconversation.com/in-remembering-anzac-day-what …, 2016",
+            "year": "2016",
+            "citations": 6
+        },
+        {
+            "title": "Treechange Migration to the NSW Southern Highlands: Motivations and Outcomes of Urban to Rural Migration",
+            "authors": "D Drozdzewski, W Shaw, N Godfrey",
+            "venue": "Department of Regional Australia, Regional Development and Local Government …, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "Developing QualNotes: A collaborative and cross-disciplinary ethnography",
+            "authors": "D Drozdzewski, JOL Berengueres",
+            "venue": "Digital Geography and Society 6, 100086, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "The ‘post’ as powerful specific vocabulary",
+            "authors": "D Drozdzewski",
+            "venue": "Dialogues in Human Geography 11 (3), 478–482, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Land territorialisation, contestation and informal place-laws of Indigenous peoples in Phuket and Phang Nga, Thailand",
+            "authors": "D Robinson, D Drozdzewski, JK Enright",
+            "venue": "Handbook on Space, Place and Law, 156-169, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Preparing researchers to manage traumatic research",
+            "authors": "D Dominey-Howes, D Drozdzewski",
+            "venue": "Nature Jobs Blog, 2016",
+            "year": "2016",
+            "citations": 4
+        },
+        {
+            "title": "Locating the embodied interconnections in performative geopolitics",
+            "authors": "D Drozdzewski",
+            "venue": "Dialogues in Human Geography 11 (1), 134-137, 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Discourses of cultural identity and landscape in the Polish community in Sydney",
+            "authors": "D Drozdzewski",
+            "venue": "Honours Thesis, Sydney: University of New South Wales, 2002",
+            "year": "2002",
+            "citations": 3
+        },
+        {
+            "title": "Mobile Methods",
+            "authors": "D Drozdzewski",
+            "venue": "Sage Research Methods: Diversifying and Decolonizing Research, Video …, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "The role of a politics of memory and the digital, in reframing the commemoration of Polish independence",
+            "authors": "D Drozdzewski",
+            "venue": "Experiencing 11 November 2018: Commemoration and the First World War …, 2020",
+            "year": "2020",
+            "citations": 2
+        },
+        {
+            "title": "Mobile mapping, User Journeys & Collaborative Interviews with QualNotes App: Make your own Map!",
+            "authors": "JO Berengueres, D Drozdzewski",
+            "venue": "Adjunct Proceedings of the 2024 Nordic Conference on Human-Computer …, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Memory and Migration",
+            "authors": "D Drozdzewski",
+            "venue": "The Palgrave Encyclopedia of Memory Studies, 1-11, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Geospatial Memory",
+            "authors": "J Synenko, J Dovey, D Speakman, M Flintham, J Didur, LT Fan, M Portela, ...",
+            "venue": null,
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "Festival places: revitalising rural Australia",
+            "authors": "D Drozdzewski",
+            "venue": "Australian Geographer 42 (4), 455-457, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "A Research Agenda for Emotional Geography",
+            "authors": "D Drozdzewski, N Webster, T Osborne, D Conradson",
+            "venue": "Edward Elgar, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Emerging Methods in Affect and Heritage Studies",
+            "authors": "T Osborne, D Drozdzewski",
+            "venue": "International Handbook of Heritage and Affect: Designing and Experiencing …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Digitalisation of Qualitative Research through a Mobile App: A QualNotes Blueprint",
+            "authors": "D Drozdzewski, JOL Berengueres",
+            "venue": "Journal of Interactive Technology and Pedagogy, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Everyday cultural memory in Kraków, Poland",
+            "authors": "D Drozdzewski",
+            "venue": "Miscellanea Geographica, https://doi.org/10.2478/mgrsd-2023-0043, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "The hazard of ascribing and spatialising identity narratives",
+            "authors": "D Drozdzewski, DF Robinson",
+            "venue": "https://www.identitiesjournal.com/blog-collection/the-hazard-of-ascribing …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "SAGE Mixed Methods Research",
+            "authors": "C Birdsall, D Drozdzewski",
+            "venue": "SAGE Publications, Inc., 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Pregnancy, Gender and Career Progression: The Visible Mother in the Workplace",
+            "authors": "D Drozdzewski, N Klocker",
+            "venue": "Maternal Geographies: Mothering In and Out of Place, 117-134, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Commemoration reframed: conceptualising commemoration from the perspective of experience",
+            "authors": "S Sumartojo, D Drozdzewski, M Graves, C Kesteloot, D Vanneste, ...",
+            "venue": "Working Paper, 2017",
+            "year": "2017",
+            "citations": null
+        }
+    ]
+}

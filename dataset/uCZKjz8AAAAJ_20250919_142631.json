@@ -1,0 +1,161 @@
+{
+    "author_id": "uCZKjz8AAAAJ",
+    "name": "Bisan Alsalibi",
+    "affiliations": "Lecturer at School of InformationTechnology, Monash University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 397,
+                "since_2020": 327
+            }
+        },
+        {
+            "h_index": {
+                "all": 10,
+                "since_2020": 8
+            }
+        },
+        {
+            "i10_index": {
+                "all": 10,
+                "since_2020": 8
+            }
+        }
+    ],
+    "co_authors": [],
+    "articles": [
+        {
+            "title": "Lightning search algorithm: a comprehensive survey",
+            "authors": "L Abualigah, MA Elaziz, AG Hussien, B Alsalibi, SMJ Jalali, AH Gandomi",
+            "venue": "Applied Intelligence 51 (4), 2353-2376, 2021",
+            "year": "2021",
+            "citations": 81
+        },
+        {
+            "title": "A novel bat algorithm with dynamic membrane structure for optimization problems",
+            "authors": "B Alsalibi, A Tajudin Khader, L Abualigah",
+            "venue": "Applied Intelligence 50 (11), 2021",
+            "year": "2021",
+            "citations": 71
+        },
+        {
+            "title": "A parallel hybrid krill herd algorithm for feature selection",
+            "authors": "L Abualigah, B Alsalibi, M Shehab, M Alshinwan, AM Khasawneh, ...",
+            "venue": "International Journal of Machine Learning and Cybernetics 12 (3), 783-806, 2021",
+            "year": "2021",
+            "citations": 49
+        },
+        {
+            "title": "A membrane-inspired bat algorithm to recognize faces in unconstrained scenarios",
+            "authors": "B Alsalibi, I Venkat, MA Al-Betar",
+            "venue": "Engineering Applications of Artificial Intelligence 64 (C), 242–260, 2017",
+            "year": "2017",
+            "citations": 41
+        },
+        {
+            "title": "A comprehensive survey on the recent variants and applications of membrane-inspired evolutionary algorithms",
+            "authors": "B Alsalibi, S Mirjalili, L Abualigah, RI Yahya, AH Gandomi",
+            "venue": "Archives of Computational Methods in Engineering 29 (5), 3041-3057, 2022",
+            "year": "2022",
+            "citations": 28
+        },
+        {
+            "title": "The impact of bio-inspired approaches toward the advancement of face recognition",
+            "authors": "B Alsalibi, I Venkat, KG Subramanian, SL Lutfi, PD Wilde",
+            "venue": "ACM Computing Surveys (CSUR) 48 (1), 1-33, 2015",
+            "year": "2015",
+            "citations": 26
+        },
+        {
+            "title": "A Comparative Study between the Nearest Neighbor and Genetic Algorithms: A revisit to the Traveling Salesman Problem",
+            "authors": "BA AlSalibi, MB Jelodar, I Venkat",
+            "venue": null,
+            "year": "2013",
+            "citations": 24
+        },
+        {
+            "title": "Hybrid harmony search algorithm to solve the feature selection for data mining applications",
+            "authors": "L Mohammad Abualigah, M Al‐diabat, M Al Shinwan, K Dhou, B Alsalibi, ...",
+            "venue": "Recent advances in hybrid metaheuristics for data clustering, 19-37, 2020",
+            "year": "2020",
+            "citations": 18
+        },
+        {
+            "title": "Membrane computing for 2D image segmentation",
+            "authors": "RI Yahya, S Hasan, LE George, B Alsalibi",
+            "venue": "Int. J. Advance Soft Compu. Appl 7 (1), 35-50, 2015",
+            "year": "2015",
+            "citations": 15
+        },
+        {
+            "title": "Image segmentation using membrane computing: a literature survey",
+            "authors": "RI Yahya, SM Shamsuddin, SI Yahya, S Hasan, B Al-Salibi, G Al-Khafaji",
+            "venue": "International Conference on Bio-Inspired Computing: Theories and …, 2016",
+            "year": "2016",
+            "citations": 14
+        },
+        {
+            "title": "A bio-inspired software for homology groups of 2D digital images",
+            "authors": "B Alsalibi, I Venkat, KG Subramanian, HA Christinal",
+            "venue": "Asian Conference on Membrane Computing ACMC 2014, 1-4, 2014",
+            "year": "2014",
+            "citations": 9
+        },
+        {
+            "title": "Authentication for ID cards based on colour visual cryptography and facial recognition",
+            "authors": "DR Ibrahim, R Abdullah, JS Teh, B Alsalibi",
+            "venue": "Proceedings of the 3rd International Conference on Cryptography, Security …, 2019",
+            "year": "2019",
+            "citations": 8
+        },
+        {
+            "title": "CFPRS: collaborative filtering privacy recommender system for online social networks",
+            "authors": "BA Alsalibi, N Zakaria",
+            "venue": "Journal of Engineering Research and Applications 3 (5), 1850-1858, 2013",
+            "year": "2013",
+            "citations": 7
+        },
+        {
+            "title": "Automatic 2d image segmentation using tissue-like p system",
+            "authors": "RI Yahya, SM Shamsuddin, SI Yahya, S Hasan, B Alsalibi",
+            "venue": "Int. J. Advance Soft Compu. Appl 10 (1), 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "Membrane Computing for Real Medical Image Segmentation",
+            "authors": "RI Yahya, SM Shamsuddin, SI Yahya, B Alsalibi, GK Al-Khafaji",
+            "venue": "Aro-the Scientific Journal of Koya University 6 (2), 27-38, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "Three-dimensional image segmentation using tissue-like P system",
+            "authors": "SI Yahya, R Yahya, B Al-Salibi, G Al-Khafaji, SM Shamsuddin",
+            "venue": "ARO-The Scientific Journal of Koya University 5 (2), 67-74, 2017",
+            "year": "2017",
+            "citations": 1
+        },
+        {
+            "title": "Correction to: A Comprehensive Survey on the Recent Variants and Applications of Membrane-Inspired Evolutionary Algorithms (Archives of Computational Methods in Engineering …",
+            "authors": "B Alsalibi, S Mirjalili, L Abualigah, AH Gandomi",
+            "venue": "Archives of Computational Methods in Engineering 30 (5), 3467, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Membrane-Inspired Bat Algorithm For Feature Selection To Recognize Faces In Unconstrained Scenarios",
+            "authors": "B Alsalibi",
+            "venue": "Universiti Sains Malaysia, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Authentication for ID Cards based on Colour Visual Cryptography and Facial Recognition",
+            "authors": "B Alsalibi, JS Teh, R Abdullah, DR Ibrahim",
+            "venue": "system 6 (8), 10-16, 0",
+            "year": "",
+            "citations": null
+        }
+    ]
+}

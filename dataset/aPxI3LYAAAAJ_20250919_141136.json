@@ -1,0 +1,312 @@
+{
+    "author_id": "aPxI3LYAAAAJ",
+    "name": "Gothai Sivapragasam",
+    "affiliations": "PhD in Medical Biotechnology",
+    "metrics": [
+        {
+            "citations": {
+                "all": 2532,
+                "since_2020": 2110
+            }
+        },
+        {
+            "h_index": {
+                "all": 17,
+                "since_2020": 16
+            }
+        },
+        {
+            "i10_index": {
+                "all": 22,
+                "since_2020": 20
+            }
+        }
+    ],
+    "co_authors": [
+        "Norhaizan Mohd Esa",
+        "Palanivel Ganesan",
+        "Dong-Kug Choi"
+    ],
+    "articles": [
+        {
+            "title": "Role of antioxidants and natural products in inflammation",
+            "authors": "P Arulselvan, MT Fard, WS Tan, S Gothai, S Fakurazi, ME Norhaizan, ...",
+            "venue": "Oxidative medicine and cellular longevity 2016 (1), 5276130, 2016",
+            "year": "2016",
+            "citations": 1205
+        },
+        {
+            "title": "Natural phyto-bioactive compounds for the treatment of type 2 diabetes: inflammation as a target",
+            "authors": "S Gothai, P Ganesan, SY Park, S Fakurazi, DK Choi, P Arulselvan",
+            "venue": "Nutrients 8 (8), 461, 2016",
+            "year": "2016",
+            "citations": 238
+        },
+        {
+            "title": "In Vitro Wound Healing Potential of Stem Extract of Alternanthera sessilis",
+            "authors": "K Muniandy, S Gothai, WS Tan, SS Kumar, N Mohd Esa, ...",
+            "venue": "Evidence‐Based Complementary and Alternative Medicine 2018 (1), 3142073, 2018",
+            "year": "2018",
+            "citations": 155
+        },
+        {
+            "title": "Sustained release of anticancer agent phytic acid from its chitosan-coated magnetic nanoparticles for drug-delivery system",
+            "authors": "F Barahuie, D Dorniani, B Saifullah, S Gothai, MZ Hussein, ...",
+            "venue": "International journal of nanomedicine, 2361-2372, 2017",
+            "year": "2017",
+            "citations": 127
+        },
+        {
+            "title": "Suppression of proinflammatory cytokines and mediators in LPS‐induced RAW 264.7 macrophages by stem extract of Alternanthera sessilis via the inhibition of the NF‐κB pathway",
+            "authors": "K Muniandy, S Gothai, KMH Badran, S Suresh Kumar, NM Esa, ...",
+            "venue": "Journal of immunology research 2018 (1), 3430684, 2018",
+            "year": "2018",
+            "citations": 123
+        },
+        {
+            "title": "Wound healing properties of ethyl acetate fraction of Moringa oleifera in normal human dermal fibroblasts",
+            "authors": "S Gothai, P Arulselvan, WS Tan, S Fakurazi",
+            "venue": "Journal of intercultural ethnopharmacology 5 (1), 1, 2016",
+            "year": "2016",
+            "citations": 102
+        },
+        {
+            "title": "Anti-Inflammatory Potential of Ethyl Acetate Fraction of Moringa oleifera in Downregulating the NF-κB Signaling Pathway in Lipopolysaccharide-Stimulated …",
+            "authors": "P Arulselvan, WS Tan, S Gothai, K Muniandy, S Fakurazi, NM Esa, ...",
+            "venue": "Molecules 21 (11), 1452, 2016",
+            "year": "2016",
+            "citations": 98
+        },
+        {
+            "title": "Pharmacological insights into antioxidants against colorectal cancer: A detailed review of the possible mechanisms",
+            "authors": "S Gothai, K Muniandy, C Gnanaraj, IAA Ibrahim, N Shahzad, ...",
+            "venue": "Biomedicine & Pharmacotherapy 107, 1514-1522, 2018",
+            "year": "2018",
+            "citations": 81
+        },
+        {
+            "title": "Dietary triterpenes in the treatment of type 2 diabetes: To date",
+            "authors": "H Teng, B Yuan, S Gothai, P Arulselvan, X Song, L Chen",
+            "venue": "Trends in Food Science & Technology 72, 34-44, 2018",
+            "year": "2018",
+            "citations": 63
+        },
+        {
+            "title": "Chemical composition of Moringa oleifera ethyl acetate fraction and its biological activity in diabetic human dermal fibroblasts",
+            "authors": "S Gothai, K Muniandy, MA Zarin, TW Sean, SS Kumar, MA Munusamy, ...",
+            "venue": "Pharmacognosy Magazine 13 (Suppl 3), S462, 2017",
+            "year": "2017",
+            "citations": 39
+        },
+        {
+            "title": "Designing of the anticancer nanocomposite with sustained release properties by using graphene oxide nanocarrier with phenethyl isothiocyanate as anticancer agent",
+            "authors": "DM Jaya Seema, B Saifullah, M Selvanayagam, S Gothai, MZ Hussein, ...",
+            "venue": "Pharmaceutics 10 (3), 109, 2018",
+            "year": "2018",
+            "citations": 37
+        },
+        {
+            "title": "Gadolinium-doped gallic acid-zinc/aluminium-layered double hydroxide/gold theranostic nanoparticles for a bimodal magnetic resonance imaging and drug delivery system",
+            "authors": "M Sani Usman, MZ Hussein, S Fakurazi, MJ Masarudin, FF Ahmad Saad",
+            "venue": "Nanomaterials 7 (9), 244, 2017",
+            "year": "2017",
+            "citations": 36
+        },
+        {
+            "title": "Anticancer potential of Alternanthera sessilis extract on HT-29 human colon cancer cells",
+            "authors": "S Gothai, K Muniandy, NM Esa, SK Subbiah, P Arulselvan",
+            "venue": "Asian Pacific Journal of Tropical Biomedicine 8 (8), 394-402, 2018",
+            "year": "2018",
+            "citations": 26
+        },
+        {
+            "title": "Natural phyto-bioactive compounds for the treatment of type 2 diabetes: inflammation as a target. Nutrients 8 (8): e461",
+            "authors": "S Gothai, P Ganesan, S Park, S Fakurazi, D Choi, P Arulselvan",
+            "venue": null,
+            "year": "2016",
+            "citations": 26
+        },
+        {
+            "title": "Role of antioxidants and natural products in inflammation. Oxid Med Cell Longev 2016; 2016: 5276130",
+            "authors": "P Arulselvan, MT Fard, WS Tan, S Gothai, S Fakurazi, ME Norhaizan, ...",
+            "venue": "PUBMED, 0",
+            "year": "",
+            "citations": 22
+        },
+        {
+            "title": "In vitro and in vivo antifungal activity of Cassia surattensis flower against Aspergillus niger",
+            "authors": "V Sumathy, Z Zakaria, SL Jothy, S Gothai, S Vijayarathna, LY Latha, ...",
+            "venue": "Microbial pathogenesis 77, 7-12, 2014",
+            "year": "2014",
+            "citations": 20
+        },
+        {
+            "title": "Role of antioxidants and natural products in inflammation. Oxid Med Cell Longev 2016: 5276130",
+            "authors": "P Arulselvan, MT Fard, WS Tan, S Gothai, S Fakurazi, ME Norhaizan, ...",
+            "venue": "DOI 10.1155/2016/5276130: 1–15, 2016",
+            "year": "2016",
+            "citations": 19
+        },
+        {
+            "title": "Role of antioxidants and natural products in inflammation",
+            "authors": "A Palanisamy, TF Masoumeh, ST Woan, G Sivapragasam, F Sharida, ...",
+            "venue": "Oxid. Med. Cell Longev 5276130 (10.1155), 2016, 2016",
+            "year": "2016",
+            "citations": 16
+        },
+        {
+            "title": "Anticancer potential of Moringa oleifera flower extract in human prostate cancer PC-3 cells via induction of apoptosis and downregulation of AKT pathway",
+            "authors": "J Ju, S Gothai, M Hasanpourghadi, AA Nasser, IAA Ibrahim, N Shahzad, ...",
+            "venue": "Pharmacognosy Magazine 14 (58), 2018",
+            "year": "2018",
+            "citations": 15
+        },
+        {
+            "title": "Exploration of the anticandidal mechanism of Cassia spectabilis in debilitating candidiasis",
+            "authors": "A Torey, S Vijayarathna, SL Jothy, S Gothai, Y Chen, LY Latha, ...",
+            "venue": "Journal of traditional and complementary medicine 6 (1), 97-104, 2016",
+            "year": "2016",
+            "citations": 14
+        },
+        {
+            "title": "Wound healing potential of edible plants",
+            "authors": "K Muniandy, S Gothai, P Arulselvan, SS Kumar, ME Norhaizan, ...",
+            "venue": "Pakistan Journal of Pharmaceutical Sciences 32 (2), 703-708, 2019",
+            "year": "2019",
+            "citations": 12
+        },
+        {
+            "title": "In vitro-scientific evaluation on anti-Candida albicans activity, antioxidant properties, and phytochemical constituents with the identification of antifungal active fraction …",
+            "authors": "S Gothai, S Vijayarathna, Y Chen, JR Kanwar, HA Wahab, S Sasidharan",
+            "venue": "Flower. J. Complement. Med. Res 8 (2), 85-101, 2018",
+            "year": "2018",
+            "citations": 12
+        },
+        {
+            "title": "Can cancer therapy be achieved by bridging apoptosis and autophagy: a method based on microRNA-dependent gene therapy and phytochemical targets",
+            "authors": "S Vijayarathna, S Gothai, SL Jothy, Y Chen, J Kanwar, S Sasidharan",
+            "venue": "Deakin University, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Amelioration of oxidative stress through apoptosis-mediated pathway in colon cancer cells by hexane fraction of Moringa oleifera extract",
+            "authors": "L Jinghua, S Linmei, H Ping, S Gothai, K Muniandy, SS Kumar, NM Esa, ...",
+            "venue": "Pharmacognosy Magazine 14 (57s), 2018",
+            "year": "2018",
+            "citations": 7
+        },
+        {
+            "title": "Attenuation of lipopolysaccharide-induced neuroinflammatory events in BV-2 microglial cells by Moringa oleifera leaf extract",
+            "authors": "G Sivaprakasam, P Ganesan, K Muniandy, SY Park, DY Cho, JS Kim, ...",
+            "venue": "Asian Pacific Journal of Tropical Biomedicine 9 (3), 109-115, 2019",
+            "year": "2019",
+            "citations": 6
+        },
+        {
+            "title": "A comparative phytochemical characterization of Moringa oleifera plant parts by different solvent extraction",
+            "authors": "G Sivapragasam, TG Devi, ND Ragavan, N Suryadevara, N Sridewi, ...",
+            "venue": "Indian Journal of Pharmaceutical Education and Research 58 (2s), s648-s659, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Lipofection of Single Guide RNA Targeting MMP8 Decreases Proliferation and Migration in Lung Adenocarcinoma Cells",
+            "authors": "ODH Maradiaga, PL Mok, G Sivapragasam, AV Samrot, MS Ali Khan, ...",
+            "venue": "Medicina 57 (7), 710, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Toxicological and pharmacological use of anticancer compounds",
+            "authors": "C Gnanaraj, S Gothai, K Muniandy, R Thamaraiselvan, P Arulselvan",
+            "venue": "Anticancer Plants: Clinical Trials and Nanotechnology: Volume 3, 203-231, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "Apoptotic Activity of Protopine against Human Breast Cancer Cell Lines: An in vitro Study",
+            "authors": "PAASAM Shoujun Li, Gothai Sivapragasam",
+            "venue": "Indian Journal of Pharmaceutical Education and Research 58 (2), s616-s622, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "In vitro and in vivo-scientific evaluation on cytotoxicity and genotoxicity of traditional medicinal plant Couroupita guianensis aubl",
+            "authors": "S Gothai, S Vijayarathna, Y Chen, NS Lai, HA Wahab, H Firdaus, ...",
+            "venue": "Flower. Pharmacologyonline 2, 24-38, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "Corrigendum to “In Vitro Wound Healing Potential of Stem Extract of Alternanthera sessilis”",
+            "authors": "K Muniandy, S Gothai, WS Tan, SS Kumar, NM Esa, G Chandramohan, ...",
+            "venue": "Evidence-based Complementary and Alternative Medicine: eCAM 2020, 2705479, 2020",
+            "year": "2020",
+            "citations": 2
+        },
+        {
+            "title": "Anti-inflammatory activity of Zanthoxylum rhetsa bark fractions via suppression of nuclear factor-kappa B in lipopolysaccharide-stimulated macrophages",
+            "authors": "RK Santhanam, K Muniandy, S Gothai, K Shaari, PK Senthilkumar, ...",
+            "venue": "Pharmacognosy Magazine 16 (70), 2020",
+            "year": "2020",
+            "citations": 2
+        },
+        {
+            "title": "\"Assessment of Antioxidant and Hepatoprotective Effects of Kappaphycus alvarezii (Doty) Doty ex Silva Against Carbon Tetrachloride-Induced Liver Injury in Rats\"",
+            "authors": "MAZBMI Senty VUN-SANG , Gothai SIVAPRAGASAM , Wilson Thau Lym YONG",
+            "venue": "Journal of Tropical Biology and Conservation 21, 73-84, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Identification of chemical constituents and inhibitory effect of Ficus deltoidea fraction against lipopolysaccharide-induced nuclear factor-kappa B inflammatory pathway in …",
+            "authors": "R Santhanam, G Sivapragasam, T Karunakaran, K Muniandy, ...",
+            "venue": "Pharmacognosy Magazine 17 (74), 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Perspective on the Oxidative Stress Biomarkers and Antioxidant Defense Strategies",
+            "authors": "ASAMG Sivapragasam",
+            "venue": "Current Traditional Medicine, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "A Molecular Docking Analysis of Phytochemical as the Potential Inhibitors of Crystal Hemagglutinin structure from Influenza Virus A/Denver/57 bound to CO5 Antibody",
+            "authors": "D Rameshnathan, N Suryadevara, CAS Vairavan, G Shanmugam, ...",
+            "venue": null,
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "A Molecular Docking Analysis of Phytochemical as the Potential Inhibitors of Crystal Hemagglutinin structure from Influenza Virus A/ Denver/57 bound to CO5 Antibody",
+            "authors": "NSCASVGSSVGSMSNKFSF Devarani Rameshnathan",
+            "venue": "Research Square, 1-24, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Analysis Of Antioxidative and Cytotoxic Effects of Crude Methanolic, Ethanolic and Acetone Moringa oleifera Leaf Extracts In Vitro.",
+            "authors": "CA Sethuraman Vairavan, G Sivapragasam, S Subramonie, V Appalaraju, ...",
+            "venue": "Malaysian Journal of Medicine & Health Sciences 18, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Lipofection of Single Guide RNA Targeting MMP8 Decreases Proliferation and Migration in Lung Adenocarcinoma Cells.",
+            "authors": "OD Hernandez Maradiaga, PL Mok, G Sivapragasam, AV Samrot, ...",
+            "venue": "Medicina (1010660X) 57 (7), 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "In vivo radioprotective activity analysis by light microscopy: Methodological approaches",
+            "authors": "SL Jothy, S Gothai, Y Chen, S Sasidharan",
+            "venue": null,
+            "year": "2014",
+            "citations": null
+        }
+    ]
+}

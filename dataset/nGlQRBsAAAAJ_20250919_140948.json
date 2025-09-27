@@ -1,0 +1,504 @@
+{
+    "author_id": "nGlQRBsAAAAJ",
+    "name": "Lai Ti Gew",
+    "affiliations": "Sunway University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 676,
+                "since_2020": 650
+            }
+        },
+        {
+            "h_index": {
+                "all": 16,
+                "since_2020": 15
+            }
+        },
+        {
+            "i10_index": {
+                "all": 20,
+                "since_2020": 19
+            }
+        }
+    ],
+    "co_authors": [
+        "Mohamed Kheireddine Aroua",
+        "MISNI MISRAN",
+        "Patrick Cognet",
+        "Farihahusnah Hussin",
+        "Nur Syahirah Mohamed Hatta",
+        "Yow Yoon Yen",
+        "Chit Laa Poh",
+        "Long Chiau Ming",
+        "Malihe Masomian",
+        "Grace Chin Choo YAP",
+        "Mohammad Khalid (FHEA, FRSC, UK)",
+        "Goh Bey Hing",
+        "Wu Shin Ling",
+        "Elizaveta Berezina",
+        "Pei-Boon Ooi",
+        "VICIT RIZAL EH SUK",
+        "Hwai Chyuan Ong",
+        "Yin Quan Tang",
+        "Vannajan Sanghiran Lee",
+        "ROZANA OTHMAN"
+    ],
+    "articles": [
+        {
+            "title": "Development of next generation Streptococcus pneumoniae vaccines conferring broad protection",
+            "authors": "M Masomian, Z Ahmad, LT Gew, CL Poh",
+            "venue": "Vaccines 8 (1), 132, 2020",
+            "year": "2020",
+            "citations": 175
+        },
+        {
+            "title": "Algae-based bioplastic for packaging: a decade of development and challenges (2010–2020)",
+            "authors": "XY Yap, LT Gew, M Khalid, YY Yow",
+            "venue": "Journal of Polymers and the Environment 31 (3), 833-851, 2023",
+            "year": "2023",
+            "citations": 39
+        },
+        {
+            "title": "A Systematic Review of Amino Acid-Based Adsorbents for CO2 Capture",
+            "authors": "NS Mohamed Hatta, MK Aroua, F Hussin, LT Gew",
+            "venue": "Energies 15 (10), 3753, 2022",
+            "year": "2022",
+            "citations": 37
+        },
+        {
+            "title": "A systematic review of country-specific drivers and barriers to household food waste reduction and prevention",
+            "authors": "D Chia, CC Yap, SL Wu, E Berezina, MK Aroua, LT Gew",
+            "venue": "Waste Management & Research 42 (6), 459-475, 2024",
+            "year": "2024",
+            "citations": 30
+        },
+        {
+            "title": "Enzyme biocatalysis for sustainability applications in reactors: A systematic review",
+            "authors": "KY Chook, MK Aroua, LT Gew",
+            "venue": "Industrial & Engineering Chemistry Research 62 (28), 10800-10812, 2023",
+            "year": "2023",
+            "citations": 27
+        },
+        {
+            "title": "Antiviral peptides against Enterovirus A71 causing hand, foot and mouth disease",
+            "authors": "S Lalani, LT Gew, CL Poh",
+            "venue": "Peptides 136, 170443, 2021",
+            "year": "2021",
+            "citations": 27
+        },
+        {
+            "title": "Plant polyphenols as green sunscreen ingredients: A systematic review",
+            "authors": "SY Ng, VR Eh Suk, LT Gew",
+            "venue": "Journal of Cosmetic Dermatology, 2022",
+            "year": "2022",
+            "citations": 26
+        },
+        {
+            "title": "Albumin-fatty acid interactions at monolayer interface",
+            "authors": "LT Gew, M Misran",
+            "venue": "Nanoscale Research Letters 9 (1), 218, 2014",
+            "year": "2014",
+            "citations": 26
+        },
+        {
+            "title": "UVB Radiation Protective Effect of Brown Alga Padina australis: A Potential Cosmeceutical Application of Malaysian Seaweed",
+            "authors": "K Thiyagarasaiyar, CK Mahendra, BH Goh, LT Gew, YY Yow",
+            "venue": "Cosmetics 8 (3), 58, 2021",
+            "year": "2021",
+            "citations": 25
+        },
+        {
+            "title": "A comprehensive review of plant-based cosmetic oils (virgin coconut oil, olive oil, argan oil, and jojoba oil): chemical and biological properties and their cosmeceutical …",
+            "authors": "S Abdalla, MK Aroua, LT Gew",
+            "venue": "ACS omega 9 (44), 44019-44032, 2024",
+            "year": "2024",
+            "citations": 23
+        },
+        {
+            "title": "COVID-19 vaccine hesitancy and its associated factors in Malaysia",
+            "authors": "KW Lee, LT Gew, CS Siau, SC Peh, YC Chia, S Yacob, NN Chan, ...",
+            "venue": "PloS one 17 (9), e0266925, 2022",
+            "year": "2022",
+            "citations": 23
+        },
+        {
+            "title": "Perspective approaches on melanogenesis inhibition",
+            "authors": "ASA Manap, YK Lum, LH Ong, YQ Tang, LT Gew, AYY Chia",
+            "venue": "Dermatologica Sinica 39 (1), 1-12, 2021",
+            "year": "2021",
+            "citations": 19
+        },
+        {
+            "title": "Enhancing surface functionalization of activated carbon using amino acids from natural source for CO2 capture",
+            "authors": "NSM Hatta, F Hussin, LT Gew, MK Aroua",
+            "venue": "Separation and Purification Technology 313, 123468, 2023",
+            "year": "2023",
+            "citations": 18
+        },
+        {
+            "title": "Kinetics and hydrodynamics of Candida antartica lipase-catalyzed synthesis of glycerol dioleate (GDO) in a continuous flow packed-bed millireactor",
+            "authors": "NN Abd Razak, P Cognet, Y Pérès, LT Gew, MK Aroua",
+            "venue": "Journal of Cleaner Production 373, 133816, 2022",
+            "year": "2022",
+            "citations": 18
+        },
+        {
+            "title": "Thanaka (H. crenulata, N. crenulata, L. acidissima L.): A Systematic Review of Its Chemical, Biological Properties and Cosmeceutical Applications",
+            "authors": "MW Lim, MK Aroua, LT Gew",
+            "venue": "Cosmetics 8 (3), 68, 2021",
+            "year": "2021",
+            "citations": 16
+        },
+        {
+            "title": "Effect of reaction medium mixture on the lipase catalyzed synthesis of diacylglycerol",
+            "authors": "NN Abd Razak, Y Pérès, LT Gew, P Cognet, MK Aroua",
+            "venue": "Industrial & Engineering Chemistry Research 59 (21), 9869-9881, 2020",
+            "year": "2020",
+            "citations": 16
+        },
+        {
+            "title": "Searching for natural plants with antimelanogenesis and antityrosinase properties for cosmeceutical or nutricosmetics applications: a systematic review",
+            "authors": "XY Tung, JQ Yip, LT Gew",
+            "venue": "ACS omega 8 (37), 33115-33201, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "Interaction between C18 fatty acids and DOPE PEG2000 in Langmuir monolayers: effect of degree of unsaturation",
+            "authors": "LT Gew, M Misran",
+            "venue": "Journal of Biological Physics 43 (3), 397-414, 2017",
+            "year": "2017",
+            "citations": 12
+        },
+        {
+            "title": "Malaysia’s progress in achieving the United Nations sustainable development goals (SDGs) through the lens of chemistry",
+            "authors": "HL Lee, VS Lee, MAM Md Akil, NA Mohammed Akib, LT Gew, TH Lim, ...",
+            "venue": "Pure and Applied Chemistry 97 (1), 91-119, 2025",
+            "year": "2025",
+            "citations": 10
+        },
+        {
+            "title": "Recent advances in ultrasonic cavitation technologies for emulsion preparation: A mini review",
+            "authors": "SSL Tiang, LE Low, I Ali, L Zhou, BH Goh, LT Gew, SY Tang",
+            "venue": "Current Opinion in Chemical Engineering 45, 101046, 2024",
+            "year": "2024",
+            "citations": 10
+        },
+        {
+            "title": "LC-MS profiling-based non-targeted secondary metabolite screening for deciphering cosmeceutical potential of Malaysian algae",
+            "authors": "MW Lim, YY Yow, LT Gew",
+            "venue": "Journal of Cosmetic Dermatology, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Technologies to eliminate microplastic from water: Current approaches and future prospects",
+            "authors": "MN Puteri, LT Gew, HC Ong, LC Ming",
+            "venue": "Environment International, 109397, 2025",
+            "year": "2025",
+            "citations": 8
+        },
+        {
+            "title": "Glycerol Extraction of Bioactive Compounds from Thanaka (Hesperethusa crenulata) Bark through LCMS Profiling and Their Antioxidant Properties",
+            "authors": "MW Lim, Y Quan Tang, MK Aroua, LT Gew",
+            "venue": "ACS omega 9 (12), 14388-14405, 2024",
+            "year": "2024",
+            "citations": 8
+        },
+        {
+            "title": "Synergistic effects of starch and carrageenan from Kappaphycus alvarezii in composite film formation: Physicochemical and degradable properties",
+            "authors": "XY Yap, M Khalid, G Raju, LT Gew, YY Yow",
+            "venue": "International Journal of Biological Macromolecules 278, 135205, 2024",
+            "year": "2024",
+            "citations": 7
+        },
+        {
+            "title": "Energetic mixing of anti‐SNAP25 on lipid monolayers: degree of saturation of C18 fatty acids",
+            "authors": "LT Gew, M Misran",
+            "venue": "Surface and Interface Analysis 49 (5), 388-397, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "Glycerol-based extracts of Clitoria ternatea (Butterfly Pea Flower) with enhanced antioxidant potential",
+            "authors": "LT Gew, WJ Teoh, LL Lein, MW Lim, P Cognet, MK Aroua",
+            "venue": "PeerJ Analytical Chemistry 6, e30, 2024",
+            "year": "2024",
+            "citations": 6
+        },
+        {
+            "title": "A Systematic Review on Knowledge, Attitude and Practices towards Single-Use Plastic",
+            "authors": "AN Devi, LT Gew, PB Ooi",
+            "venue": "Journal of Materials in Life Sciences (JOMALISC), 45-57, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Statistical Optimization and Kinetic Modeling of Lipase-Catalyzed Synthesis of Diacylglycerol in the Mixed Solvent System of Acetone/tert-Butanol",
+            "authors": "LT Gew, Y Pérès, P Cognet, MK Aroua",
+            "venue": "Industrial & Engineering Chemistry Research, 2021",
+            "year": "2021",
+            "citations": 5
+        },
+        {
+            "title": "Pharmacological Importance of Peach Gum Polysaccharide: A Review",
+            "authors": "KY Goh, LT Gew",
+            "venue": "Current Bioactive Compounds, 2022",
+            "year": "2022",
+            "citations": 4
+        },
+        {
+            "title": "Antibacterial activity of zinc oxide nanoparticle-loaded soft contact lens",
+            "authors": "J Chew, T Tong, ML Chua, MR Mungroo, YX Yap, M Misran, LT Gew",
+            "venue": "Current Chemical Biology, 2022",
+            "year": "2022",
+            "citations": 4
+        },
+        {
+            "title": "The P-graph approach in optimal synthesis and planning of waste management towards achieving sustainable development goals: A systematic review",
+            "authors": "R Mohd Firdaus, N Abdul Mulok Oon, MK Aroua, LT Gew",
+            "venue": "Waste Management & Research 43 (4), 455-473, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "A decade development of lipase catalysed synthesis of acylglycerols using reactors: a systematic review",
+            "authors": "NN Abd Razak, P Cognet, Y Pérès, MK Aroua, LT Gew",
+            "venue": "Reviews in Chemical Engineering 40 (7), 815-837, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Biocomputational-mediated screening and molecular docking platforms for discovery of coumarin-derived antimelanogenesis agents",
+            "authors": "JY Lim, LT Gew, YQ Tang",
+            "venue": "Dermatologica Sinica 41 (1), 8, 2023",
+            "year": "2023",
+            "citations": 3
+        },
+        {
+            "title": "Therapeutic and Pharmacological Role of Natural Products in Neurological Diseases: Targeting Autophagy Pathways",
+            "authors": "CF Leong, LC Ming, MK Aroua, LT Gew",
+            "venue": "Progress In Microbes & Molecular Biology 8 (1), 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "Culinary waste management for a healthier planet: a qualitative study",
+            "authors": "CC Yap, SL Wu, PV Soon, E Berezina, MK Aroua, LT Gew",
+            "venue": "Cogent Social Sciences 10 (1), 2388178, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Metal Oxide Nanoparticles Exhibit Anti-Acanthamoeba castellanii Properties by Inducing Necrotic Cell Death",
+            "authors": "U Ahmed, LT Gew, R Siddiqui, NA Khan, AM Alharbi, A Alhazmi, A Anwar",
+            "venue": "Acta parasitologica 69 (3), 1717-1723, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Biomass-to-biohydrogen conversion: Comprehensive analysis of processes, environmental, and economic implications",
+            "authors": "MN Puteri, LT Gew, HC Ong, LC Ming",
+            "venue": "Biomass and Bioenergy 200, 107943, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "‘Ignorance is Bliss’. Is that True? Unravelling the Determinants of Plastic Recycling Intentions and Behaviours",
+            "authors": "CPS Tan, PJ Woo, LT Gew",
+            "venue": "The Journal of Environment & Development 34 (1), 126-149, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Response Surface Optimisation of Carbon Dioxide Adsorption Onto Palm Shell Activated Carbon Functionalised With Natural Amino Acids",
+            "authors": "NS Mohamed Hatta, F Hussin, LT Gew, MK Aroua",
+            "venue": "Greenhouse Gases: Science and Technology 15 (1), 36-52, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Insights of bacterial communities in kitchen and agricultural waste composts for environmental sustainability: a systematic review",
+            "authors": "WS Soong, J Chew, LT Gew",
+            "venue": "International Journal of Environmental Science and Technology 22 (3), 2073-2094, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Characterisation Of Egg White-Impregnated Activated Carbon For CO2 Adsorption Application",
+            "authors": "NSM Hatta, F Hussin, LT Gew, MK Aroua",
+            "venue": "Malaysian Journal of Science 43 (Sp1), 20-25, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Theoretical approaches to food waste behaviours: An overview",
+            "authors": "D Chia, CC Yap, MK Aroua, LT Gew",
+            "venue": "Applied Environmental Research 46 (2), 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "PEGylated DPPC/Anti-SNAP25 Antibody Targeted Liposomes from Langmuir Monolayer Study to Formulations",
+            "authors": "LT Gew, M Misran",
+            "venue": "Current Chemical Biology 15 (3), 249-261, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Preparation and Characterization of PEGylated C18 Fatty Acids/Anti-SNAP25 Antibody-Targeted Liposomes",
+            "authors": "LT Gew, VR Eh Suk, M Misran",
+            "venue": "Current Chemical Biology 13 (2), 129-139, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Transforming healthcare sustainability: Circular economy approaches and stakeholder collaboration",
+            "authors": "S Moshawih, SF Wong, CO Woon, MK Lim, HC Ong, KW Goh, LT Gew, ...",
+            "venue": "Sustainable Futures 10, 101199, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Impact of microplastics on the human gut microbiome: a systematic review of microbial composition, diversity, and metabolic disruptions",
+            "authors": "ZS Thin, J Chew, TYY Ong, RA Raja Ali, LT Gew",
+            "venue": "BMC gastroenterology 25 (1), 583, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Environmental and Economic Impact Assessment of Single-Use Laboratory Plastic Waste: A Case Study",
+            "authors": "YH Tan, HC Ong, RAR Ali, LT Gew",
+            "venue": "Cleaner Waste Systems, 100389, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Ecotoxicity of microplastics and nanoplastics in endocrine systems: a systematic review",
+            "authors": "ZS Thin, RA Raja Ali, LT Gew",
+            "venue": "Toxicology and Environmental Health Sciences, 1-19, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Effect of microplastics and nanoplastics in gastrointestinal tract on gut health: A systematic review",
+            "authors": "TAN Yi Huan, N MOKHTAR, RAR ALI, LT GEW",
+            "venue": "Malays J Pathol 47 (2), 221-231, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Effects of Bioactive Compounds on Autophagy: A Systematic Review",
+            "authors": "A Fauzi, CF Leong, LC Ming, MK Aroua, LT Gew",
+            "venue": "Progress In Microbes & Molecular Biology 8 (1), 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Extraction and characterization of bioactive compounds from coffee by-products: physicochemical and LC-MS analysis",
+            "authors": "RMF Achutan, NAIM Ishak, MK Aroua, LT Gew",
+            "venue": null,
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Machine learning optimization of environmental factors influencing biomass and nutritional composition in local algal species",
+            "authors": "A Khan, S Ullah, R Ali, M Rehman, S Moshawih, KW Goh, LC Ming, ...",
+            "venue": "Royal Society Open Science 12 (4), 241336, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Chemistry’s Role in Malaysia Sustainable Development Progress",
+            "authors": "HL Lee, CW Hong, R Othman, VS Lee, MS Su’ait, LT Gew",
+            "venue": "Chemistry International 47 (2), 4-11, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Isotherms, Thermodynamics and Regeneration Studies of CO2 Adsorption on Activated Carbon Impregnated With Waste‐Sourced Natural Amino Acids",
+            "authors": "NS Mohammed Hatta, F Hussin, LT Gew, MK Aroua",
+            "venue": "Greenhouse Gases: Science and Technology, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Addressing the Consumer Food Waste Crisis: A Decade of Psychological Interventions",
+            "authors": "PJ Woo, Y Veshanya, LT Gew",
+            "venue": "Applied Environmental Research 46 (4), 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "miR-21 Expression and its Correlation with Demographics, Subtypes, and Tumour Suppressor Genes; PTEN and PDCD4 in Breast Cancer Tissues in Malaysia",
+            "authors": "SR Wong, CP Pei, MTM Islahuddin, A Baghawi, GL Ti, N Singaram, ...",
+            "venue": "Eurasian Journal of Medicine and Oncology 8 (1), 59, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Insight from India on managing plastic waste",
+            "authors": "LT Gew, CM Long",
+            "venue": "Star Media Group Berhad, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Sowing the seeds of biodiversity",
+            "authors": "LT Gew, HL Ser, CM Long",
+            "venue": "New Straits Times, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Incorporation of Sustainable Development Goal 4 in Biology Curriculum Design: A Case Study",
+            "authors": "LT Gew, A Tumar",
+            "venue": "ATTARBAWIY: Malaysian Online Journal of Education 7 (1), 58-65, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Raising awareness of plastic pollution through online creative engagement",
+            "authors": "R Galabo, LT Gew",
+            "venue": null,
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Food Waste Endangers Us All: What Can We Do About It?",
+            "authors": "LT Gew",
+            "venue": "Reach Publishing Sdn Bhd, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Mixed Langmuir Monolayers of C18 Fatty Acids: Effect of Degree of Saturation",
+            "authors": "LT Gew, M Misran",
+            "venue": "Materials Science Forum 990, 117-123, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Study of albumin and anti-snap25 mixtures on lipid monolayers using the langmuir-blodgett technique/Gew Lai Ti",
+            "authors": "LT Gew",
+            "venue": "University of Malaya, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Characterization of lipid–protein isotherm by using Langmuir–Blodgett (LB) and tapping-mode atomic force microscopy (AFM)",
+            "authors": "LT Gew",
+            "venue": "New Biotechnology, S34, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Application of GC/FID and GC/MS in the Determination of Phthalate Esters Level in Water Samples of Muar River",
+            "authors": "LT Gew",
+            "venue": "Jabatan Kimia, Universiti Malaya, 2003",
+            "year": "2003",
+            "citations": null
+        }
+    ]
+}

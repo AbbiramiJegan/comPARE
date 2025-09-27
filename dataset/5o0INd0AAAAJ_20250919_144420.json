@@ -1,0 +1,596 @@
+{
+    "author_id": "5o0INd0AAAAJ",
+    "name": "Zong Yang Kong",
+    "affiliations": "Sunway University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 1117,
+                "since_2020": 1105
+            }
+        },
+        {
+            "h_index": {
+                "all": 19,
+                "since_2020": 19
+            }
+        },
+        {
+            "i10_index": {
+                "all": 34,
+                "since_2020": 34
+            }
+        }
+    ],
+    "co_authors": [
+        "Jaka Sunarso",
+        "Ao Yang（杨傲）",
+        "Hao-Yeh Lee",
+        "Juan Gabriel Segovia-Hernández",
+        "Weifeng Shen",
+        "SHAOMIN LIU",
+        "Jingzheng Ren (任競爭)"
+    ],
+    "articles": [
+        {
+            "title": "Design and optimisation of novel hybrid side-stream reactive-extractive distillation for recovery of isopropyl alcohol and ethyl acetate from wastewater",
+            "authors": "A Yang, ZY Kong, J Sunarso",
+            "venue": "Chemical Engineering Journal 451, 138563, 2023",
+            "year": "2023",
+            "citations": 90
+        },
+        {
+            "title": "Revamping existing glycol technologies in natural gas dehydration to improve the purity and absorption efficiency: Available methods and recent developments",
+            "authors": "ZY Kong, A Mahmoud, S Liu, J Sunarso",
+            "venue": "Journal of Natural Gas Science and Engineering 56, 486-503, 2018",
+            "year": "2018",
+            "citations": 78
+        },
+        {
+            "title": "The evolution of process design and control for ternary azeotropic separation: Recent advances in distillation and future directions",
+            "authors": "ZY Kong, HY Lee, J Sunarso",
+            "venue": "Separation and Purification Technology 284, 120292, 2022",
+            "year": "2022",
+            "citations": 77
+        },
+        {
+            "title": "Process intensification from conventional to advanced distillations: Past, present, and future",
+            "authors": "ZY Kong, E Sánchez-Ramírez, A Yang, W Shen, JG Segovia-Hernández, ...",
+            "venue": "Chemical Engineering Research and Design 188, 378-392, 2022",
+            "year": "2022",
+            "citations": 71
+        },
+        {
+            "title": "Insights on sustainable separation of ternary azeotropic mixture tetrahydrofuran/ethyl acetate/water using hybrid vapor recompression assisted side-stream extractive distillation",
+            "authors": "A Yang, ZY Kong, J Sunarso, Y Su, Q Wang, S Zhu",
+            "venue": "Separation and Purification Technology 290, 120884, 2022",
+            "year": "2022",
+            "citations": 52
+        },
+        {
+            "title": "Multi-objective optimization of the intensified extractive distillation with side-reboiler for the recovery of ethyl acetate and methanol from wastewater",
+            "authors": "A Yang, L Ernawati, M Wang, ZY Kong, J Sunarso, S Sun, W Shen",
+            "venue": "Separation and Purification Technology 310, 123131, 2023",
+            "year": "2023",
+            "citations": 43
+        },
+        {
+            "title": "Energy-efficient hybrid reactive-extractive distillation with a preconcentration column for recovering isopropyl alcohol and diisopropyl ether from wastewater: process design …",
+            "authors": "ZY Kong, A Yang, J Chua, JJ Chew, J Sunarso",
+            "venue": "Industrial & Engineering Chemistry Research 61 (30), 11156-11167, 2022",
+            "year": "2022",
+            "citations": 43
+        },
+        {
+            "title": "Design of novel side-stream hybrid reactive-extractive distillation for sustainable ternary separation of THF/ethanol/water using mixed entrainer",
+            "authors": "ZY Kong, GC Zarazúa, HY Lee, J Chua, JG Segovia-Hernández, ...",
+            "venue": "Process Safety and Environmental Protection 166, 574-588, 2022",
+            "year": "2022",
+            "citations": 35
+        },
+        {
+            "title": "Towards energy saving and carbon reduction of pressure-swing distillation for separating the ternary azeotropic mixtures by thermodynamic insights and process intensification",
+            "authors": "A Yang, ZY Kong, J Sunarso, W Shen",
+            "venue": "Separation and Purification Technology 301, 121983, 2022",
+            "year": "2022",
+            "citations": 33
+        },
+        {
+            "title": "Advancements in optimization and control techniques for intensifying processes",
+            "authors": "JR Alcántara Avila, ZY Kong, HY Lee, J Sunarso",
+            "venue": "Processes 9 (12), 2150, 2021",
+            "year": "2021",
+            "citations": 33
+        },
+        {
+            "title": "Recent progress on hybrid reactive-extractive distillation for azeotropic separation: A short review",
+            "authors": "ZY Kong, J Sunarso, A Yang",
+            "venue": "Frontiers in Chemical Engineering 4, 986411, 2022",
+            "year": "2022",
+            "citations": 30
+        },
+        {
+            "title": "Insight to the prediction of CO2 solubility in ionic liquids based on the interpretable machine learning model",
+            "authors": "A Yang, S Sun, Y Su, ZY Kong, J Ren, W Shen",
+            "venue": "Chemical Engineering Science 297, 120266, 2024",
+            "year": "2024",
+            "citations": 29
+        },
+        {
+            "title": "Design and control of an energy intensified side-stream extractive distillation for binary azeotropic separation of n-hexane and ethyl acetate",
+            "authors": "YY Chen, ZY Kong, A Yang, HY Lee, J Sunarso",
+            "venue": "Separation and Purification Technology 294, 121176, 2022",
+            "year": "2022",
+            "citations": 27
+        },
+        {
+            "title": "Development of a techno‐economic framework for natural gas dehydration via absorption using Tri‐Ethylene Glycol: a comparative study on conventional and stripping gas …",
+            "authors": "ZY Kong, A Mahmoud, S Liu, J Sunarso",
+            "venue": "Journal of Chemical Technology & Biotechnology 94 (3), 955-963, 2019",
+            "year": "2019",
+            "citations": 25
+        },
+        {
+            "title": "Energy-efficient heterogeneous triple-column azeotropic distillation process for recovery of ethyl acetate and methanol from wastewater",
+            "authors": "A Yang, S Sun, ZY Kong, S Zhu, J Sunarso, W Shen",
+            "venue": "Computers & Chemical Engineering 183, 108618, 2024",
+            "year": "2024",
+            "citations": 24
+        },
+        {
+            "title": "Complementary role of large language models in educating undergraduate design of distillation column: Methodology development",
+            "authors": "ZY Kong, VSK Adi, JG Segovia-Hernández, J Sunarso",
+            "venue": "Digital Chemical Engineering 9, 100126, 2023",
+            "year": "2023",
+            "citations": 24
+        },
+        {
+            "title": "Design and optimization of hybrid reactive-extractive distillation for ternary azeotropic separation: A case considering the effect of side reactions",
+            "authors": "ZY Kong, A Yang, CC Tsai, VSK Adi, A Saptoro, J Sunarso",
+            "venue": "Industrial & Engineering Chemistry Research 62 (27), 10601-10610, 2023",
+            "year": "2023",
+            "citations": 21
+        },
+        {
+            "title": "Insight on the sustainable design and multi-objective optimization for separating the ternary azeotropic mixture of toluene/n-butanol/water by natural decanting coupled with …",
+            "authors": "L Qi, A Yang, ZY Kong, S Sun, W Shen",
+            "venue": "Separation and Purification Technology 313, 123434, 2023",
+            "year": "2023",
+            "citations": 21
+        },
+        {
+            "title": "Development of a techno-economic framework for natural gas dehydration via absorption using tri-ethylene glycol: a comparative study between DRIZO and other dehydration processes",
+            "authors": "ZY Kong, XJ Melvin Wee, A Mahmoud, A Yu, S Liu, J Sunarso",
+            "venue": "South African Journal of Chemical Engineering 31 (1), 17-24, 2020",
+            "year": "2020",
+            "citations": 20
+        },
+        {
+            "title": "A parametric study of different recycling configurations for the natural gas dehydration process via absorption using triethylene glycol",
+            "authors": "ZY Kong, A Mahmoud, S Liu, J Sunarso",
+            "venue": "Process Integration and Optimization for Sustainability 2 (4), 447-460, 2018",
+            "year": "2018",
+            "citations": 18
+        },
+        {
+            "title": "A perspective on the inevitable side reactions in ethylene-glycol based reactive-extractive distillation",
+            "authors": "CC Tsai, ZY Kong, A Yang, VSK Adi, J Sunarso",
+            "venue": "Chemical Engineering Journal 475, 146331, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "Design and multiobjective optimization of a novel double extractive dividing wall column with a side reboiler scheme for the recovery of ethyl acetate and methanol from wastewater",
+            "authors": "A Yang, ZY Kong, S Sun, J Sunarso, J Ren, W Shen",
+            "venue": "Industrial & Engineering Chemistry Research 62 (44), 18591-18602, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "Are process-intensified extractive distillation always energetically more efficient?",
+            "authors": "ZY Kong, JG Segovia-Hernández, HY Lee, J Sunarso",
+            "venue": "Chemical Engineering and Processing-Process Intensification 181, 109131, 2022",
+            "year": "2022",
+            "citations": 17
+        },
+        {
+            "title": "Modeling of supercritical fluid extraction bed: A critical review",
+            "authors": "A Banafi, SK Wee, ANT Tiong, ZY Kong, A Saptoro, J Sunarso",
+            "venue": "Chemical Engineering Research and Design 193, 685-712, 2023",
+            "year": "2023",
+            "citations": 16
+        },
+        {
+            "title": "Unfavorable process intensification of double column reactive extractive distillation system",
+            "authors": "IAX Teh, HY Lee, ZY Kong, A Putranto, J Zheng, J Sunarso",
+            "venue": "Chemical Engineering and Processing-Process Intensification 196, 109657, 2024",
+            "year": "2024",
+            "citations": 14
+        },
+        {
+            "title": "Process design, simulation, and techno-economic analysis of integrated production of furfural and glucose derived from palm oil empty fruit bunches",
+            "authors": "MZR Mohammed, ZW Ng, A Putranto, ZY Kong, J Sunarso, M Aziz, ...",
+            "venue": "Clean Technologies and Environmental Policy 25 (5), 1551-1567, 2023",
+            "year": "2023",
+            "citations": 13
+        },
+        {
+            "title": "Towards sustainable separation and recovery of dichloromethane and methanol azeotropic mixture through process design, control, and intensification",
+            "authors": "ZY Kong, A Yang, JG Segovia‐Hernández, A Putranto, J Sunarso",
+            "venue": "Journal of Chemical Technology & Biotechnology 98 (1), 213-229, 2023",
+            "year": "2023",
+            "citations": 13
+        },
+        {
+            "title": "Toward a flexible design for the bioethanol dehydration using extractive distillation. Part 1: steady-state design and optimization",
+            "authors": "CY Tsai, T Ang, ZY Kong, J Sunarso, VSK Adi",
+            "venue": "Industrial & Engineering Chemistry Research 62 (51), 22043-22057, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "Inherent flexibility design strategy of extractive distillation for binary azeotropic separation",
+            "authors": "ZY Kong, YT Tsai, J Sunarso, VSK Adi",
+            "venue": "Separation and Purification Technology 312, 123344, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "A more appropriate way to optimize the hybrid reactive-extractive distillation system",
+            "authors": "E Sánchez-Ramírez, S Sun, JY Sim, A Yang, ZY Kong, ...",
+            "venue": "Separation and Purification Technology 344, 127184, 2024",
+            "year": "2024",
+            "citations": 11
+        },
+        {
+            "title": "Integrating sustainability metrics to the design of extractive distillation for ternary azeotropic mixtures of ethanol, tetrahydrofuran, and methanol separation",
+            "authors": "E Sánchez-Ramírez, Y Zhang, A Yang, ZY Kong, JG Segovia-Hernández, ...",
+            "venue": "Chemical Engineering Research and Design 200, 58-66, 2023",
+            "year": "2023",
+            "citations": 11
+        },
+        {
+            "title": "An interpretable surrogate model for H2S solubility forecasting in ionic liquids based on machine learning",
+            "authors": "Y He, A Yang, C Zou, T Fan, Q Lan, Y He, M Wang, J Sunarso, ZY Kong",
+            "venue": "Separation and Purification Technology 357, 130061, 2025",
+            "year": "2025",
+            "citations": 10
+        },
+        {
+            "title": "A new hybrid reactive-extractive distillation configuration for ternary azeotropic separation with intensification opportunity",
+            "authors": "YY Chen, ZY Kong, HY Lee",
+            "venue": "Separation and Purification Technology 335, 126220, 2024",
+            "year": "2024",
+            "citations": 10
+        },
+        {
+            "title": "Control of heat-integrated indirect triple-column extractive distillation for separating ternary azeotropic mixture tetrahydrofuran-ethyl acetate-water",
+            "authors": "S Zhu, A Yang, ZY Kong, S Sun, M Bai, J Sunarso",
+            "venue": "Separation and Purification Technology 308, 122951, 2023",
+            "year": "2023",
+            "citations": 10
+        },
+        {
+            "title": "The importance of process intensification in undergraduate chemical engineering education",
+            "authors": "ZY Kong, E Sánchez-Ramírez, JY Sim, J Sunarso, ...",
+            "venue": "Digital Chemical Engineering 11, 100152, 2024",
+            "year": "2024",
+            "citations": 9
+        },
+        {
+            "title": "Exploration of different water content on the performance of reactive-extractive distillation for separating the ternary azeotropic mixture",
+            "authors": "L Qi, S Sun, F Cheng, A Aqsha, ZY Kong, J Sunarso",
+            "venue": "Separation and Purification Technology 334, 125785, 2024",
+            "year": "2024",
+            "citations": 9
+        },
+        {
+            "title": "Novel hybrid reactive-extractive distillation for separation of tetrahydrofuran, ethanol, and water azeotropic system with rigorous side reactions consideration",
+            "authors": "CC Tsai, ZY Kong, A Yang, J Sunarso, VSK Adi",
+            "venue": "Journal of Water Process Engineering 56, 104478, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Modelling of the dry reforming of methane in different reactors: a comparative study",
+            "authors": "ZY Kong, F Twaiq",
+            "venue": "Reaction Kinetics, Mechanisms and Catalysis 122 (2), 853-868, 2017",
+            "year": "2017",
+            "citations": 8
+        },
+        {
+            "title": "A different strategy to reduce energy consumption for designing heterogeneous decanter-assisted advanced pressure-swing distillation process",
+            "authors": "S Sun, C Peng, ZY Kong, HC Ong, Z Qin, A Yang",
+            "venue": "Separation and Purification Technology 352, 128280, 2025",
+            "year": "2025",
+            "citations": 7
+        },
+        {
+            "title": "Introducing process simulation as an alternative to laboratory session in undergraduate chemical engineering thermodynamics course: A case study from Sunway University Malaysia",
+            "authors": "ZY Kong, AA Omar, SL Lau, J Sunarso",
+            "venue": "Digital Chemical Engineering 12, 100167, 2024",
+            "year": "2024",
+            "citations": 7
+        },
+        {
+            "title": "Inherent flexibility design strategy of extractive distillation for binary azeotropic separation: Novel integration of optimization approach with penalty values",
+            "authors": "ZY Kong, YT Tsai, Y Tian, J Sunarso, VSK Adi",
+            "venue": "Separation and Purification Technology 326, 124705, 2023",
+            "year": "2023",
+            "citations": 7
+        },
+        {
+            "title": "A new alternative route for achieving energy saving in intensified reactive-extractive distillation system with a surprise discovery",
+            "authors": "ZY Kong, E Sánchez-Ramírez, A Yang, Y Li, JG Segovia-Hernández, ...",
+            "venue": "Chemical Engineering Journal 503, 158498, 2025",
+            "year": "2025",
+            "citations": 6
+        },
+        {
+            "title": "Toward a flexible design for the bioethanol dehydration using extractive distillation. Part 2: validation of operability under uncertainty using base-layer control",
+            "authors": "T Ang, CY Tsai, VSK Adi, Y Tian, ZY Kong, J Sunarso",
+            "venue": "Industrial & Engineering Chemistry Research 62 (51), 22058-22070, 2023",
+            "year": "2023",
+            "citations": 6
+        },
+        {
+            "title": "Techno-economic analyses of Sulfinol-based absorber-stripper configurations for improving the energy consumption of natural gas sweetening process",
+            "authors": "AB Sahl, M Ahmed, ZY Konga, J Sunarso",
+            "venue": "South African Journal of Chemical Engineering 43 (1), 91-103, 2023",
+            "year": "2023",
+            "citations": 6
+        },
+        {
+            "title": "Revisiting the binary azeotropic separation containing tetrahydrofuran and ethanol: design and control of extractive distillation using dimethyl sulfoxide as alternative solvent",
+            "authors": "ZY Kong, A Yang, A Saptoro, J Sunarso",
+            "venue": "Digital Chemical Engineering 5, 100060, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Interpretable Feedforward Neural Network and XGBoost-Based Algorithms to Predict CO2 Solubility in Ionic Liquids",
+            "authors": "A Yang, S Sun, H Mi, W Wang, J Liu, ZY Kong",
+            "venue": "Industrial & Engineering Chemistry Research 63 (18), 8293-8305, 2024",
+            "year": "2024",
+            "citations": 5
+        },
+        {
+            "title": "The conceptual design and process intensification of the separation of ternary azeotropic mixture with heterogeneous characteristic",
+            "authors": "S Sun, A Yang, ZY Kong, H Huang, L Lv, Q Zhou, B Gu",
+            "venue": "Chemical Engineering Research and Design 204, 303-315, 2024",
+            "year": "2024",
+            "citations": 5
+        },
+        {
+            "title": "A systematic approach for screening green entrainers combining the environmental-health-safety indexes and separation performance",
+            "authors": "A Yang, S Sun, S Zhu, ZY Kong, L Qi, Q Wang",
+            "venue": "Process Safety and Environmental Protection 186, 1320-1329, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Empirical correlations of drug-and plant-based bioactive compound solubility in supercritical CO2: a comparative evaluation study",
+            "authors": "CA Obek, A Saptoro, ANT Tiong, ZA Jawad, ZY Kong, S Ismadji, ...",
+            "venue": "Fluid Phase Equilibria 580, 114061, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Analyzing the sustainability of intensified side‐stream extractive distillation for binary azeotropic separation: a comparative study",
+            "authors": "ZY Kong, E Sánchez‐Ramírez, A Yang, JG Segovia‐Hernández, ...",
+            "venue": "Journal of Chemical Technology & Biotechnology 98 (8), 1995-2015, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "A new approach to design heat-integrated reactive distillation process: Part 1. Application to an ideal indirect neat process case",
+            "authors": "IAX Teh, HY Lee, ZY Kong, A Putranto, J Zheng, J Sunarso",
+            "venue": "Separation and Purification Technology 361, 131201, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "Development of an interpretable QSPR model to predict the octanol-water partition coefficient based on three artificial intelligence algorithms",
+            "authors": "A Yang, S Sun, L Qi, ZY Kong, J Sunarso, W Shen",
+            "venue": "Green Chemical Engineering 6 (2), 193-199, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "Towards sustainable recovery of tetrahydrofuran, ethyl acetate, and methanol from waste effluent via thermal coupled extractive distillation and multi-objective optimization",
+            "authors": "S Sun, H Huang, Z Shi, M Du, ZY Kong, M Wang, T Shi, A Yang, W Shen",
+            "venue": "Process Safety and Environmental Protection 194, 619-629, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "A new strategy to design the purification process of ethyl tertiary butyl ether gasoline additive via hybrid extractive-reactive distillation",
+            "authors": "ZY Kong, S Sun, T Ang, A Yang, HC Ong, J Sunarso",
+            "venue": "Process Safety and Environmental Protection 192, 643-648, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "An alternative to methanol recovery from ternary mixture: Replacing extractive with reactive distillation for maximizing economical potential and resource recovery",
+            "authors": "IGP Wiratama, ZY Kong, A Yang, A Saptoro, J Sunarso",
+            "venue": "Process Safety and Environmental Protection 189, 828-839, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Physicochemical Characteristics of Silicomanganese Slag as a Recycling Construction Material: An Overview",
+            "authors": "NH Wong, ZY Kong, R Sambo, CS Chai, AR Khoso, JA Bamgbade, ...",
+            "venue": "Mining, Metallurgy & Exploration 41 (4), 1891-1907, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Multi-objective optimisation using fuzzy and weighted sum approach for natural gas dehydration with consideration of regional climate",
+            "authors": "ZY Kong, BS How, A Mahmoud, J Sunarso",
+            "venue": "Process Integration and Optimization for Sustainability 6 (3), 845-862, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "Overlooked roles of high-valence Sn in SnS2 loaded on gC3N4 for enhanced photocatalytic H2O2 production: Mechanism, DFT, and techno-economic analysis study",
+            "authors": "CE Choong, K Hong, KT Wong, ZY Kong, A Yang, FM Jais, Y Yoon, ...",
+            "venue": "Journal of Energy Chemistry 108, 154-164, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "Mathematical modeling and experimental analysis of the double-effect DCMD-heat pump integrated system",
+            "authors": "Z Pang, J Sunarso, ZY Kong, C Hou, S Xie, Y Peng",
+            "venue": "Separation and Purification Technology 356, 129985, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "A Quest To Find a New Reactant To Replace Ethylene Oxide in Reactive–Extractive Distillation for Ternary Azeotropic Separation",
+            "authors": "IGP Wiratama, ZY Kong, A Yang, A Saptoro, BT Wong, J Zheng, ...",
+            "venue": "Industrial & Engineering Chemistry Research 64 (4), 2369-2381, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "Exploring the impact of side‐reactions on triple‐column reactive‐extractive distillation",
+            "authors": "IAX Teh, ZY Kong, A Yang, A Aqsha, J Sunarso",
+            "venue": "Journal of Chemical Technology & Biotechnology 99 (7), 1493-1503, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Enhanced Ponceau‐4R and Brilliant Blue Degradation using Mesoporous TiO2 Nanoparticles with Activated Carbon as Support Material",
+            "authors": "L Ernawati, N Hing Wong, A Amrullah, R Agung Wahyuono, Z Yang Kong, ...",
+            "venue": "ChemistrySelect 8 (39), e202300534, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "A new approach to design heat-integrated reactive distillation process: Part 2. Role of additional variable in excess design",
+            "authors": "IAX Teh, HY Lee, ZY Kong, A Putranto, J Zheng, J Sunarso",
+            "venue": "Separation and Purification Technology 361, 131330, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "The importance of process simulation to aid molecular screening of ionic liquid for acidic gas removal in natural gas",
+            "authors": "Y He, W Deng, C Zou, T Fan, Q Lan, Y He, M Wang, ZY Kong, J Zhang, ...",
+            "venue": "Separation and Purification Technology 360, 130948, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Sustainable green technology integrated hydrogen production system for low carbon future",
+            "authors": "R Mishra, IMR Fattah, HC Ong, CM Shu, ARK Gollakota, ZY Kong",
+            "venue": "International Journal of Hydrogen Energy 134, 139-163, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Synthesis of N-best Heat Recovery Networks with Consideration of Dynamic Control Performance",
+            "authors": "ZY Kong, T Ang, HY Lee, Á Orosz, F Friedler, BS How",
+            "venue": "Chemical Engineering Transactions 114, 73-78, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "A perspective on alignment between steady-state design and control for a distillation system in the context of flexibility analysis",
+            "authors": "ZY Kong, T Ang, VSK Adi, J Sunarso",
+            "venue": "Journal of Chemical Technology and Biotechnology 100 (1), 6-12, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Control of Hybrid Reactive–Extractive Distillation Systems for Ternary Azeotropic Mixtures",
+            "authors": "ZY Kong, HY Lee",
+            "venue": "Control and Safety Analysis of Intensified Chemical Processes, 155-181, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Control of new energy‐intensified triple column extractive distillation using feed split technique",
+            "authors": "ZY Kong, Q Wang, A Yang, Z Qin, JY Heah, J Sunarso",
+            "venue": "Journal of Chemical Technology & Biotechnology 98 (7), 1742-1758, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Illuminating the Future of E-Methanol: Solar Energy Pathways and Prospects",
+            "authors": "ZY Kong, SL Hooi, A Yang, T Shi, BT Wong, J Sunarso",
+            "venue": "Journal of Chemical Engineering of Japan 58 (1), 2532867, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Green hydrogen production from oil palm wastes: A techno-economic and environmental perspective",
+            "authors": "ZY Kong, TJN Ang, HC Ong, T Shi, CI Yeo, A Yang",
+            "venue": "Energy Conversion and Management 341, 120026, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Message passing neural network-based contribution analysis towards CO2 solubility prediction in ionic liquids",
+            "authors": "Z Jun, P Dai, ZY Kong, A Yang, W Shen, Q Wang",
+            "venue": "Separation and Purification Technology 364, 132361, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "New hybrid reactive-extractive distillation with two reactants for separating water-free ternary azeotropic mixtures",
+            "authors": "IGP Wiratama, ZY Kong, A Yang, A Saptoro, BT Wong, J Sunarso",
+            "venue": "Chemical Engineering Research and Design, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "An improved and extended approach to design heat-integrated side-stream reactive distillation",
+            "authors": "IAX Teh, HY Lee, ZY Kong, A Aqsha, J Sunarso",
+            "venue": "Chemical Engineering Research and Design, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "A Comprehensive Review of Reactive-Extractive Distillation (RED) for Production and Recovery Applications",
+            "authors": "IGP Wiratama, ZY Kong, A Yang, A Saptoro, BT Wong, J Zheng, ...",
+            "venue": "Industrial & Engineering Chemistry Research, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Editorial–Challenges and opportunities in advanced processes based on distillation for sustainable processes",
+            "authors": "J Sunarso",
+            "venue": "Chemical Engineering Research and Design 208, 765-767, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Process Safety and Environmental Protection for Extractive Distillation: A Guide to the Application of Inherent Risk and Eco-Indicator 99",
+            "authors": "ZY Kong, JY Heah, E Sánchez-Ramírez, GC Zarazúa, A Yang, ...",
+            "venue": "Contributions of Chemical Engineering to Sustainability, 261-292, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Process intensification opportunity for reactive-extractive distillation: A new configuration for ternary azeotropic separation",
+            "authors": "ZY Kong, YY Chen, JG Segovia-Hernández, HY Lee",
+            "venue": "Computer Aided Chemical Engineering 53, 1201-1206, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "7 FRONTIERS OF PHOTOVOLTAIC SYSTEMS FOR SMART CITY",
+            "authors": "ZY Kong, L Qi, A Yang",
+            "venue": "Toward Better Photovoltaic Systems, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "A New Alternative to Design a Flexible Distillation Column: Balancing Process Adaptability and Economic Performance Simultaneously",
+            "authors": "YY Chen, ZY Kong, VSK Adi, HY Lee",
+            "venue": "Available at SSRN 5269189, 0",
+            "year": "",
+            "citations": null
+        }
+    ]
+}

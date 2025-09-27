@@ -1,0 +1,742 @@
+{
+    "author_id": "HAf7E5EAAAAJ",
+    "name": "Heydi Méndez-Vázquez",
+    "affiliations": "CENATAV",
+    "metrics": [
+        {
+            "citations": {
+                "all": 1108,
+                "since_2020": 596
+            }
+        },
+        {
+            "h_index": {
+                "all": 18,
+                "since_2020": 13
+            }
+        },
+        {
+            "i10_index": {
+                "all": 29,
+                "since_2020": 17
+            }
+        }
+    ],
+    "co_authors": [
+        "Yoanna Martínez-Díaz",
+        "Edel Garcia Reyes",
+        "Yenisel Plasencia Calaña",
+        "Zhenhua Chai",
+        "Zhenan Sun",
+        "Dayron Rizo Rodriguez",
+        "Ran He, IAPR/IEEE Fellow",
+        "Josef Kittler",
+        "CESAR SAN MARTIN SALAS",
+        "Robert P.W. Duin",
+        "Chi ho Chan",
+        "Daniel Riccio",
+        "Maria De Marsico"
+    ],
+    "articles": [
+        {
+            "title": "Gabor ordinal measures for face recognition",
+            "authors": "Z Chai, Z Sun, H Mendez-Vazquez, R He, T Tan",
+            "venue": "IEEE transactions on information forensics and security 9 (1), 14-26, 2013",
+            "year": "2013",
+            "citations": 151
+        },
+        {
+            "title": "Shufflefacenet: A lightweight face architecture for efficient and highly-accurate face recognition",
+            "authors": "Y Martindez-Diaz, LS Luevano, H Mendez-Vazquez, M Nicolas-Diaz, ...",
+            "venue": "Proceedings of the IEEE/CVF international conference on computer vision …, 2019",
+            "year": "2019",
+            "citations": 110
+        },
+        {
+            "title": "Benchmarking lightweight face architectures on specific face recognition scenarios",
+            "authors": "Y Martinez-Diaz, M Nicolas-Diaz, H Mendez-Vazquez, LS Luevano, ...",
+            "venue": "Artificial Intelligence Review 54 (8), 6201-6244, 2021",
+            "year": "2021",
+            "citations": 64
+        },
+        {
+            "title": "Volume structured ordinal features with background similarity measure for video face recognition",
+            "authors": "H Méndez-Vázquez, Y Martínez-Díaz, Z Chai",
+            "venue": "2013 International conference on biometrics (ICB), 1-6, 2013",
+            "year": "2013",
+            "citations": 63
+        },
+        {
+            "title": "Face recognition with LWIR imagery using local binary patterns",
+            "authors": "H Méndez, CS Martín, J Kittler, Y Plasencia, E García-Reyes",
+            "venue": "International Conference on Biometrics, 327-336, 2009",
+            "year": "2009",
+            "citations": 55
+        },
+        {
+            "title": "A survey on facial soft biometrics for video surveillance and forensic applications",
+            "authors": "F Becerra-Riera, A Morales-González, H Méndez-Vázquez",
+            "venue": "Artificial Intelligence Review 52 (2), 1155-1187, 2019",
+            "year": "2019",
+            "citations": 45
+        },
+        {
+            "title": "Towards accurate and lightweight masked face recognition: an experimental evaluation",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, LS Luevano, M Nicolás-Díaz, ...",
+            "venue": "IEEE Access 10, 7341-7353, 2021",
+            "year": "2021",
+            "citations": 37
+        },
+        {
+            "title": "Illumination invariant face recognition using quaternion-based correlation filters",
+            "authors": "D Rizo-Rodríguez, H Méndez-Vázquez, E García-Reyes",
+            "venue": "Journal of mathematical imaging and vision 45 (2), 164-175, 2013",
+            "year": "2013",
+            "citations": 33
+        },
+        {
+            "title": "A new image division for LBP method to improve face recognition under varying lighting conditions",
+            "authors": "HM Vázquez, EG Reyes, YC Molleda",
+            "venue": "2008 19th International Conference on Pattern Recognition, 1-4, 2008",
+            "year": "2008",
+            "citations": 33
+        },
+        {
+            "title": "Facial marks for improving face recognition",
+            "authors": "F Becerra-Riera, A Morales-González, H Méndez-Vázquez",
+            "venue": "Pattern Recognition Letters 113, 3-9, 2018",
+            "year": "2018",
+            "citations": 31
+        },
+        {
+            "title": "Lightweight low-resolution face recognition for surveillance applications",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, LS Luevano, L Chang, ...",
+            "venue": "2020 25th International Conference on Pattern Recognition (ICPR), 5421-5428, 2021",
+            "year": "2021",
+            "citations": 29
+        },
+        {
+            "title": "On fisher vector encoding of binary features for video face recognition",
+            "authors": "Y Martinez-Diaz, N Hernandez, RJ Biscay, L Chang, H Mendez-Vazquez, ...",
+            "venue": "Journal of Visual Communication and Image Representation 51, 155-161, 2018",
+            "year": "2018",
+            "citations": 25
+        },
+        {
+            "title": "A study on the performance of unconstrained very low resolution face recognition: Analyzing current trends and new research directions",
+            "authors": "LS Luevano, L Chang, H Méndez-Vázquez, Y Martinez-Diaz, ...",
+            "venue": "IEEE Access 9, 75470-75493, 2021",
+            "year": "2021",
+            "citations": 23
+        },
+        {
+            "title": "Ordered weighted aggregation networks for video face recognition",
+            "authors": "J Rivero-Hernández, A Morales-González, LG Denis, H Mendez-Vazquez",
+            "venue": "Pattern Recognition Letters 146, 237-243, 2021",
+            "year": "2021",
+            "citations": 22
+        },
+        {
+            "title": "Local salient patterns—A novel local descriptor for face recognition",
+            "authors": "Z Chai, Z Sun, T Tan, H Mendez-Vazquez",
+            "venue": "2013 International Conference on Biometrics (ICB), 1-6, 2013",
+            "year": "2013",
+            "citations": 21
+        },
+        {
+            "title": "Semantic pixel sets based local binary patterns for face recognition",
+            "authors": "Z Chai, H Mendez-Vazquez, R He, Z Sun, T Tan",
+            "venue": "Asian Conference on Computer Vision, 639-651, 2012",
+            "year": "2012",
+            "citations": 21
+        },
+        {
+            "title": "Histograms of Gabor ordinal measures for face representation and recognition",
+            "authors": "Z Chai, R He, Z Sun, T Tan, H Méndez-Vázquez",
+            "venue": "2012 5th IAPR International Conference on Biometrics (ICB), 52-58, 2012",
+            "year": "2012",
+            "citations": 20
+        },
+        {
+            "title": "Toward more realistic face recognition evaluation protocols for the youtube faces database",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, L López-Avila, L Chang, ...",
+            "venue": "Proceedings of the IEEE conference on computer vision and pattern …, 2018",
+            "year": "2018",
+            "citations": 19
+        },
+        {
+            "title": "Evaluación de la calidad de las imágenes de rostros utilizadas para la identificación de las personas",
+            "authors": "H Méndez-Vázquez, L Chang, D Rizo-Rodríguez, A Morales-González",
+            "venue": "Computación y Sistemas 16 (2), 147-165, 2012",
+            "year": "2012",
+            "citations": 17
+        },
+        {
+            "title": "An illumination quality measure for face recognition",
+            "authors": "D Rizo-Rodríguez, H Méndez-Vázquez, E García-Reyes",
+            "venue": "2010 20th International Conference on Pattern Recognition, 1477-1480, 2010",
+            "year": "2010",
+            "citations": 17
+        },
+        {
+            "title": "Towards scalable prototype selection by genetic algorithms with fast criteria",
+            "authors": "Y Plasencia-Calana, M Orozco-Alzate, H Méndez-Vázquez, ...",
+            "venue": "Joint IAPR International Workshops on Statistical Techniques in Pattern …, 2014",
+            "year": "2014",
+            "citations": 15
+        },
+        {
+            "title": "On combining face local appearance and geometrical features for race classification",
+            "authors": "F Becerra-Riera, NM Llanes, A Morales-González, H Méndez-Vázquez, ...",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 567-574, 2018",
+            "year": "2018",
+            "citations": 14
+        },
+        {
+            "title": "Is warping-based cancellable biometrics (still) sensible for face recognition?",
+            "authors": "S Kirchgasser, A Uhl, Y Martinez-Diaz, H Mendez-Vazquez",
+            "venue": "2020 IEEE International joint conference on biometrics (IJCB), 1-9, 2020",
+            "year": "2020",
+            "citations": 13
+        },
+        {
+            "title": "An illumination insensitive representation for face verification in the frequency domain",
+            "authors": "K Messer, J Kittler, M Vazquez, L Heydi, E Garea",
+            "venue": "18th International Conference on Pattern Recognition (ICPR'06) 1, 215-218, 2006",
+            "year": "2006",
+            "citations": 13
+        },
+        {
+            "title": "Best-shot selection for video face recognition using FPGA",
+            "authors": "L Chang, I Rodés, H Méndez, E del Toro",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 543-550, 2008",
+            "year": "2008",
+            "citations": 12
+        },
+        {
+            "title": "Age and gender classification using local appearance descriptors from facial components",
+            "authors": "F Becerra-Riera, H Méndez-Vázquez, A Morales-Gonzalez, M Tistarelli",
+            "venue": "2017 IEEE International Joint Conference on Biometrics (IJCB), 799-804, 2017",
+            "year": "2017",
+            "citations": 11
+        },
+        {
+            "title": "A new combination of local appearance based methods for face recognition under varying lighting conditions",
+            "authors": "H Méndez-Vázquez, E García-Reyes, Y Condes-Molleda",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 535-542, 2008",
+            "year": "2008",
+            "citations": 11
+        },
+        {
+            "title": "Deep generic features for tattoo identification",
+            "authors": "M Nicolás-Díaz, A Morales-González, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 272-282, 2019",
+            "year": "2019",
+            "citations": 10
+        },
+        {
+            "title": "Exploring local deep representations for facial gender classification in videos",
+            "authors": "F Becerra-Riera, A Morales-González, H Méndez-Vázquez",
+            "venue": "International Workshop on Artificial Intelligence and Pattern Recognition …, 2018",
+            "year": "2018",
+            "citations": 10
+        },
+        {
+            "title": "Local deep features for composite face sketch recognition",
+            "authors": "H Méndez-Vázquez, F Becerra-Riera, A Morales-González, L López-Avila, ...",
+            "venue": "2019 7th international workshop on biometrics and forensics (IWBF), 1-6, 2019",
+            "year": "2019",
+            "citations": 9
+        },
+        {
+            "title": "Efficient video face recognition by using fisher vector encoding of binary features",
+            "authors": "Y Martínez-Díaz, L Chang, N Hernández, H Méndez-Vázquez, LE Sucar",
+            "venue": "2016 23rd International Conference on Pattern Recognition (ICPR), 1436-1441, 2016",
+            "year": "2016",
+            "citations": 8
+        },
+        {
+            "title": "Facial landmarks detection using extended profile lbp-based active shape models",
+            "authors": "N Méndez, L Chang, Y Plasencia-Calana, H Méndez-Vázquez",
+            "venue": "Iberoamerican congress on pattern recognition, 407-414, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "Dissimilarity representations based on multi-block LBP for face detection",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, Y Plasencia-Calana, ...",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 106-113, 2012",
+            "year": "2012",
+            "citations": 8
+        },
+        {
+            "title": "Explore semantic pixel sets based local patterns with information entropy for face recognition",
+            "authors": "Z Chai, H Mendez-Vazquez, R He, Z Sun, T Tan",
+            "venue": "EURASIP Journal on Image and Video Processing 2014 (1), 26, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "Illumination invariant face recognition in quaternion domain",
+            "authors": "D Rizo-Rodriguez, H Mendez-Vazquez, E García-Reyes",
+            "venue": "International Journal of Pattern Recognition and Artificial Intelligence 27 …, 2013",
+            "year": "2013",
+            "citations": 7
+        },
+        {
+            "title": "Weighted average pooling of deep features for tattoo identification",
+            "authors": "M Nicolás-Díaz, A Morales-González, H Méndez-Vázquez",
+            "venue": "Multimedia Tools and Applications 81 (18), 25853-25875, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Low-resolution face recognition with deep convolutional features in the dissimilarity space",
+            "authors": "M Hernández-Durán, Y Plasencia-Calaña, H Méndez-Vázquez",
+            "venue": "International Workshop on Artificial Intelligence and Pattern Recognition …, 2018",
+            "year": "2018",
+            "citations": 6
+        },
+        {
+            "title": "GETSEL: gallery entropy for template selection on large datasets",
+            "authors": "M De Marsico, D Riccio, HM Vázquez, YP Calaña",
+            "venue": "IEEE International Joint Conference on Biometrics, 1-8, 2014",
+            "year": "2014",
+            "citations": 6
+        },
+        {
+            "title": "Improving faces/non-faces discrimination in video sequences by using a local spatio-temporal representation",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, N Hernández, E García-Reyes",
+            "venue": "2013 International Conference on Biometrics (ICB), 1-5, 2013",
+            "year": "2013",
+            "citations": 6
+        },
+        {
+            "title": "Recent Advances on Face Recongition using Thermal Infrared Images",
+            "authors": "C San, R Carrillo, P Meza, H Mendez-Vazquez, Y Plasencia, ...",
+            "venue": "Reviews, Refinements and New Ideas in Face Recognition, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "On the use of local fixations and quality measures for deep face recognition",
+            "authors": "N Méndez-Llanes, K Castillo-Rosado, H Méndez-Vázquez, M Tistarelli",
+            "venue": "IEEE Transactions on Biometrics, Behavior, and Identity Science 4 (2), 150-162, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "Metric learning in the dissimilarity space to improve low-resolution face recognition",
+            "authors": "M Hernández-Durán, Y Plasencia-Calaña, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 217-224, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Learning flexible block based local binary patterns for unconstrained face detection",
+            "authors": "Z Chai, Y Zhang, Z Du, D Wang, H Méndez-Vázquez",
+            "venue": "2014 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2014",
+            "year": "2014",
+            "citations": 5
+        },
+        {
+            "title": "Photometric normalization for face recognition using local discrete cosine transform",
+            "authors": "H Mendez-Vazquez, J Kittler, CH Chan, E Garcia-Reyes",
+            "venue": "International Journal of Pattern Recognition and Artificial Intelligence 27 …, 2013",
+            "year": "2013",
+            "citations": 5
+        },
+        {
+            "title": "Face recognition using TOF, LBP and SVM in thermal infrared images",
+            "authors": "RD Floody, CS Martín, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 683-691, 2011",
+            "year": "2011",
+            "citations": 5
+        },
+        {
+            "title": "Quaternion correlation filters for illumination invariant face recognition",
+            "authors": "D Rizo-Rodriguez, H Méndez-Vázquez, E García, CS Martín, P Meza",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 467-474, 2011",
+            "year": "2011",
+            "citations": 5
+        },
+        {
+            "title": "Illumination invariant face image representation using quaternions",
+            "authors": "D Rizo-Rodríguez, H Méndez-Vázquez, E García-Reyes",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 434-441, 2010",
+            "year": "2010",
+            "citations": 5
+        },
+        {
+            "title": "Assessing the performance of efficient face anti-spoofing detection against physical and digital presentation attacks",
+            "authors": "LS Luevano, Y Martínez-Díaz, H Méndez-Vázquez, M González-Mendoza, ...",
+            "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Exploring the effectiveness of lightweight architectures for face anti-spoofing",
+            "authors": "Y Martínez-Díaz, H Méndez-Vázquez, LS Luevano, M Gonzalez-Mendoza",
+            "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "Highly efficient protection of biometric face samples with selective jpeg2000 encryption",
+            "authors": "H Hofbauer, Y Martínez-Díaz, S Kirchgasser, H Méndez-Vázquez, A Uhl",
+            "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "On the use of pre-trained neural networks for different face recognition tasks",
+            "authors": "L López-Avila, Y Plasencia-Calaña, Y Martínez-Díaz, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 356-364, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Efficient and effective face frontalization for face recognition in the wild",
+            "authors": "N Méndez, LA Bouza, L Chang, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 391-398, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Novel histograms kernels with structural properties",
+            "authors": "J Correa-Morris, Y Martínez-Díaz, N Hernández, H Méndez-Vázquez",
+            "venue": "Pattern Recognition Letters 68, 146-152, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Swiftfaceformer: An efficient and lightweight hybrid architecture for accurate face recognition applications",
+            "authors": "LS Luevano, Y Martínez-Díaz, H Méndez-Vázquez, M González-Mendoza, ...",
+            "venue": "International Conference on Pattern Recognition, 244-258, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Face recognition on mobile devices based on frames selection",
+            "authors": "N Méndez-Llanes, K Castillo-Rosado, H Méndez-Vázquez, ...",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 316-325, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "On combining local dct with preprocessing sequence for face recognition under varying lighting conditions",
+            "authors": "H Méndez-Vázquez, J Kittler, CH Chan, E García-Reyes",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 410-417, 2010",
+            "year": "2010",
+            "citations": 3
+        },
+        {
+            "title": "Utilizing cnns for cryptanalysis of selective biometric face sample encryption",
+            "authors": "H Hofbauer, Y Martínez-Díaz, LS Luevano, H Méndez-Vázquez, A Uhl",
+            "venue": "2022 26th International Conference on Pattern Recognition (ICPR), 892-899, 2022",
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Attribute-based quality assessment for demographic estimation in face videos",
+            "authors": "F Becerra-Riera, A Morales-González, H Méndez-Vázquez, JL Dugelay",
+            "venue": "2020 25th International Conference on Pattern Recognition (ICPR), 5875-5882, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "FqSD: Full-Quaternion Saliency Detection in Images",
+            "authors": "RL Guerra, EB García Reyes, AM González Quevedo, HM Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 462-469, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "Face composite sketch recognition by bovw-based discriminative representations",
+            "authors": "Y Plasencia-Calaña, H Méndez-Vázquez, RL Fonseca",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 200-207, 2016",
+            "year": "2016",
+            "citations": 2
+        },
+        {
+            "title": "Face detection in video using local spatio-temporal representations",
+            "authors": "Y Martínez-Díaz, N Hernández, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 860-867, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Effectiveness of blind face restoration to boost face recognition performance at low-resolution images",
+            "authors": "Y Martínez-Díaz, LS Luevano, H Méndez-Vázquez",
+            "venue": "International Workshop on Artificial Intelligence and Pattern Recognition …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Face morphometric profiles of groups as early markers for certain diseases",
+            "authors": "R Herrero, MY Diaz, MH Vazquez, J Nieves, A Gonzalez",
+            "venue": "Int J Oral Craniof Sci 9 (1), 008-15, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Demographic attribute estimation in face videos combining local information and quality assessment",
+            "authors": "F Becerra-Riera, A Morales-González, H Méndez-Vázquez, JL Dugelay",
+            "venue": "Machine Vision and Applications 33 (2), 26, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Scalable prototype selection by genetic algorithms and hashing",
+            "authors": "Y Plasencia-Calana, M Orozco-Alzate, H Méndez-Vázquez, ...",
+            "venue": "arXiv preprint arXiv:1712.09277, 2017",
+            "year": "2017",
+            "citations": 1
+        },
+        {
+            "title": "Detectores espacio-temporales para la detección de rostros en video",
+            "authors": "Y Martínez-Díaz, N Hernández, H Méndez-Vázquez",
+            "venue": "Revista Cubana de Ciencias Informáticas 10 (1), 205-214, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Multi-face tracking based on spatio-temporal detections",
+            "authors": "Y Martínez-Díaz, N Hernández, H Méndez-Vázquez",
+            "venue": "Intelligent Data Analysis 20 (1_suppl), S141-S154, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Face Recognition: Would Going Back to Functional Nature Be a Good Idea?",
+            "authors": "N Hernández, Y Martínez-Díaz, D Porro-Muñoz, H Méndez-Vázquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 98-105, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "A Study on Representations for Face Recognition from Thermal Images",
+            "authors": "Y Plasencia, E García-Reyes, RPW Duin, H Mendez-Vazquez, ...",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 185-192, 2009",
+            "year": "2009",
+            "citations": 1
+        },
+        {
+            "title": "BinaryFaceNet: A Binarized Approach for Real-Time Very Low Resolution Face Recognition in Video Surveillance Scenarios",
+            "authors": "LS Luevano, L Chang, M González-Mendoza, Y Martínez-Díaz, ...",
+            "venue": null,
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "for Spanish Database",
+            "authors": "H Méndez-Vázquez",
+            "venue": "Progress in Artificial Intelligence and Pattern Recognition: 8th …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Offline Writer Identification and Verification Evaluation Protocols for Spanish Database",
+            "authors": "E Carballea Alonso, Y Martínez-Díaz, H Méndez-Vázquez",
+            "venue": "International Workshop on Artificial Intelligence and Pattern Recognition …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Exploring the Potential for Real-Time Vision Transformer-Level Precision on Face Recognition Scenarios through Binarization on Embedded Systems",
+            "authors": "LS Luevano, M González-Mendoza, Y Martínez-Díaz, H Méndez-Vázquez",
+            "venue": "ICCVW 2023-IEEE/CVF International Conference on Computer Vision Workshops, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Does Melania Trump Have a Body Double from the Perspective of Automatic Face Verification?",
+            "authors": "K Mallat, F Becerra-Riera, A Morales-González, H Méndez-Vázquez, ...",
+            "venue": "ICPRAM, 737-744, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Does Melania Trump have a body double from the perspective of automatic face recognition?",
+            "authors": "K Mallat, F Becerra-Riera, A Morales-González, H Méndez-Vázquez, ...",
+            "venue": "arXiv preprint arXiv:2109.02283, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Special issue of PAAA devoted to CIARP 2019",
+            "authors": "H Méndez-Vázquez, J Ruiz-Shulcloper",
+            "venue": "Pattern Analysis and Applications 24 (2), 409-411, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Quality-based Representation for Unconstrained Face Recognition",
+            "authors": "N Méndez-Llanes, K Castillo-Rosado, H Méndez-Vázquez, M Tistarelli",
+            "venue": "2020 25th International Conference on Pattern Recognition (ICPR), 6494-6500, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Frontalización de imágenes de rostro de perfil basada en puntos característicos y en el uso de un Modelo 3D Genérico Elástico",
+            "authors": "N Méndez, MA Nicolás, H Méndez-Vázquez",
+            "venue": "Ingeniería Electrónica, Automática y Comunicaciones 40 (3), 72-78, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Nuevos mÃ© todos para el reconocimiento automÃ¡ tico de rostros en video",
+            "authors": "YMÃ DÃaz, MÃ Heydi",
+            "venue": "Anales de la Academia de Ciencias de Cuba 9 (3), 659, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Profile Face Image Frontalization based on landmark points and 3D Generic Elastic Model",
+            "authors": "NM Llanes, MA Nicolas, HM Vázquez",
+            "venue": "Revista Científica de Ingeniería Electrónica, Automática y Comunicaciones 40 …, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Low-Resolution Face Recognition",
+            "authors": "H Méndez-Vázquez",
+            "venue": "Progress in Artificial Intelligence and Pattern Recognition: 6th …, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "Detectores espacio-temporales para la detección de rostros en video: Detectores espaciotemporales para la detección de rostros en video",
+            "authors": "MD Yoanna, H Noslen, MV Heydi",
+            "venue": "Revista Cubana de Ciencias Informáticas 10 (1), 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Detectores espacio-temporales para la detección de rostros en video Spatio-temporal detectors for face detection in video",
+            "authors": "Y Martınez-Dıaz, N Hernández, H Méndez-Vázquez",
+            "venue": "Revista Cubana de Ciencias Informáticas 10 (1), 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Face Image Quality Evaluation for Person Identification",
+            "authors": "H Méndez-Vázquez, L Chang, D Rizo-Rodríguez, A Morales-González",
+            "venue": "Computación y Sistemas 16 (2), 147-165, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Recent Advances on Face Recognition Using Thermal Infrared Images",
+            "authors": "H Mendez-Vazquez, Y Plasencia, E García-Reyes",
+            "venue": "Reviews, Refinements and New Ideas in Face Recognition, 95, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Dissimilarity representations for thermal signature recognition at a distance",
+            "authors": "Y Plasencia, E Garcıa, RPW Duin, H Méndez, C San Martın, C Soto",
+            "venue": "Proceedings of the fifteenth annual conference of the Advanced School for …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "OBTENCIÓN DE LA MEJOR IMAGEN PARA EL RECONOCIMIENTO DE ROSTROS",
+            "authors": "LC Fernández, IR Alfonso, HM Vázquez",
+            "venue": null,
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "A comparative study of face representations in the frequency domain",
+            "authors": "EG Llano, J Kittler, K Messer, HM Vazquez",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 99-108, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "A fast method for localization of local illumination variations and photometric normalization in face images",
+            "authors": "EMÁ Morales, FS Mata, EG Llano, HM Vazquez, M Herrera",
+            "venue": "Iberoamerican Congress on Pattern Recognition, 48-57, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "A Study on the Performance of Unconstrained Very Low Resolution Face Recognition: Analyzing Current Trends and New Research Directions",
+            "authors": "H MÉNDEZ-VÁZQUEZ, Y MARTÍNEZ-DÍAZ, M GONZÁLEZ-MENDOZA",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "An Illumination Quality Measure for Face Recognition",
+            "authors": "D Rizo, HM Vazquez, E Garcia",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "THIS IS A PRE-PRINT VERION OF THE CURRENT STUDY: Is Warping-based Cancellable Biometrics (still) Sensible for Face Recognition?",
+            "authors": "S Kirchgasser, A Uhl, Y Martınez-Dıaz, H Mendez-Vazquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "AGREGACIÓN ADAPTATIVA DE CUADROS APLICADA AL RECONOCIMIENTO DE ROSTROS EN VIDEO FRAME AGGREGATION LEARNING FOR VIDEO FACE RECOGNITION",
+            "authors": "J Rivero-Hernández, M Nicolás-Díaz, LG Denis, A Morales-Gonzáles, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Face Recognition at scale",
+            "authors": "JP Martin, YP Calana, HM Vázquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "FACE ANALYSIS AND PROCESSING FOR AUGMENTED REALITY APPLICATIONS ANÁLISIS Y PROCESAMIENTO DE IMÁGENES DE ROSTROS PARA APLICACIONES DE REALIDAD AUMENTADA",
+            "authors": "A Morales-González, L Chang, N Méndez-Llanes, F Becerra-Riera, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Estudio Comparativo de descriptores locales para atacar el problema del reconocimiento de rostros envejecidos",
+            "authors": "LM Alonso, RL Fonseca, HM Vázquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Reconocimiento Facial por Retrato Hablado: Revisión del Estado del Arte",
+            "authors": "R Larin-Fonseca, L Meneses-Alonso, H Méndez-Vázquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Reconstrucción de modelos faciales 3D a partir de imágenes bi-dimensionales",
+            "authors": "A Alejo-Combarro, R Larin-Fonseca, H Méndez-Vázquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "EVALUACIÓN DE FONDO UNIFORME EN IMÁGENES DE ROSTROS",
+            "authors": "A Morales-González, H Méndez-Vázquez",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "A rank based classifier combination to improve face recognition",
+            "authors": "HM Vázquez, YP Calaña, FJS Mata, YC Molleda",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

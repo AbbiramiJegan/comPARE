@@ -1,0 +1,124 @@
+{
+    "author_id": "tF9mVBEAAAAJ",
+    "name": "Nazirul Hazim A. Khalim",
+    "affiliations": "Monash University Malaysia",
+    "metrics": [
+        {
+            "citations": {
+                "all": 3,
+                "since_2020": 3
+            }
+        },
+        {
+            "h_index": {
+                "all": 1,
+                "since_2020": 1
+            }
+        },
+        {
+            "i10_index": {
+                "all": 0,
+                "since_2020": 0
+            }
+        }
+    ],
+    "co_authors": [
+        "Santha Vaithilingam",
+        "Mahendhiran Sanggaran Nair",
+        "Pervaiz Ahmed",
+        "Wee Chan Au",
+        "Hong Qing Yeng",
+        "Christina Kwai Choi Lee",
+        "Erniel Barrios",
+        "ADIL JOHAN",
+        "Shalini Nagaratnam",
+        "Maude E. Phipps",
+        "Ewilly J.Y. Liew"
+    ],
+    "articles": [
+        {
+            "title": "The quadratic effect of life expectancy on economic growth",
+            "authors": "NHA Khalim",
+            "venue": "International Statistical Institute (ISI) Regional Statistics Conference …, 2017",
+            "year": "2017",
+            "citations": 2
+        },
+        {
+            "title": "A Study on Knowledge Content in Key Economic Sectors in Malaysia: Phase III (MYKE III): Final Report (Phase 1)",
+            "authors": "MS Nair, PK Ahmed, C Lee, S Vaithilingam, TP Lee, AW Chan, A Hilles, ...",
+            "venue": "Economic Planning Unit, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Phylogeny of cultural heritage in Southeast Asia: a computational analysis of artefact evolution",
+            "authors": "NHA Khalim, ME Phipps, HC Lee",
+            "venue": "International Conference on Human-Computer Interaction 2025, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Social media, controversy and dissent in Southeast Asian popular music: entanglements of Southeast Asian popular music",
+            "authors": "A Johan, R Ong, H Lu, L Mendoza, NHA Khalim, R Iskandar, A Yunor",
+            "venue": "IASPM-SEA & IAPMS Joint Conference 2024: Human and More-than-Human …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Characterising brain connectivity in terms of contagion: a multiple time series perspective",
+            "authors": "NHA Khalim, EB Barrios",
+            "venue": "Joint meeting of the IASC-ARC Interim Conference 2024 and CSAT 2024, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Virtual reality (VR) in econometrics and analytics: interactive learning of vector geometry and data visualisation",
+            "authors": "NHA Khalim, LH Chinh, EJY Liew, S Nagaratnam, M Cabanag",
+            "venue": "TransformED 2024 Learning and Teaching Conference, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Evaluating the efficacy of monetary policy transmission channels in the context of Islamic financial intermediation: a quantitative examination utilising high-granularity …",
+            "authors": "NHA Khalim",
+            "venue": "Conference of the Asian Regional Section of the International Association …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "A Multi-Centre Study of Radiological Liver Regeneration In Children With Hepatoblastoma Following Major Hepatic Resection",
+            "authors": "SA Aruljoethy, S., Md Anour, A. A., A Khalim, N. H., Othman, M. Y., Teoh, T ...",
+            "venue": "Pacific Association of Pediatric Surgeons (PAPS) 57th Annual Meeting, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "An empirical study of the transmission mechanism and interest rates pass-through: conventional vs Islamic",
+            "authors": "NHA Khalim",
+            "venue": "International Statistical Institute (ISI) Regional Statistics Conference 2014, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Startup Innovation and Growth: Resource Constraints and the Mediating Role of Dynamic Capabilities",
+            "authors": "NHA KHALIM",
+            "venue": "Monash University, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "In this section",
+            "authors": "HS Nielsen, H Matthey, CR Hulten, G Edwards-Jones, C Loewald, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "CPS16",
+            "authors": "NHA Khalim, N Klinjun, A Lim, W Wanishsakpong, KA Notodiputro",
+            "venue": "egional S, 443, 0",
+            "year": "",
+            "citations": null
+        }
+    ]
+}

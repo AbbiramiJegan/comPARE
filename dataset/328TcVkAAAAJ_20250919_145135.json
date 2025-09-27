@@ -1,0 +1,1316 @@
+{
+    "author_id": "328TcVkAAAAJ",
+    "name": "Wageeh Boles",
+    "affiliations": "Full Professor, Queensland University of Technology",
+    "metrics": [
+        {
+            "citations": {
+                "all": 5554,
+                "since_2020": 1293
+            }
+        },
+        {
+            "h_index": {
+                "all": 32,
+                "since_2020": 16
+            }
+        },
+        {
+            "i10_index": {
+                "all": 72,
+                "since_2020": 22
+            }
+        }
+    ],
+    "co_authors": [
+        "Samuel Cunningham",
+        "Colin Boyd",
+        "Anthony J Maeder",
+        "Hussain Nyeem",
+        "Andrea Goncher",
+        "Vamsi Krishna Madasu",
+        "Arnold Wiliem",
+        "Prasad KDV Yarlagadda",
+        "Justin Boyle",
+        "Prof Boualem Boashash",
+        "Vinod Chandran",
+        "Peter Corke",
+        "Sridha Sridharan",
+        "Jason A. Dowling",
+        "Dhammika Jayalath",
+        "Damien Dusha",
+        "Prof. Mohamed Deriche, Signal & Ima...",
+        "Leonard Raj",
+        "Duncan Campbell",
+        "Yin Xiao"
+    ],
+    "articles": [
+        {
+            "title": "A human identification technique using images of the iris and wavelet transform",
+            "authors": "WW Boles, B Boashash",
+            "venue": "IEEE transactions on signal processing 46 (4), 1185-1188, 2002",
+            "year": "2002",
+            "citations": 1847
+        },
+        {
+            "title": "Recognition of 2D object contours using the wavelet transform zero-crossing representation",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 19 (8), 910-916, 1997",
+            "year": "1997",
+            "citations": 275
+        },
+        {
+            "title": "A review of chatbots in education: practical steps forward",
+            "authors": "S Cunningham-Nelson, W Boles, L Trouton, E Margerison",
+            "venue": "30th annual conference for the australasian association for engineering …, 2019",
+            "year": "2019",
+            "citations": 251
+        },
+        {
+            "title": "Texture for script identification",
+            "authors": "A Busch, WW Boles, S Sridharan",
+            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 27 (11), 1720 …, 2005",
+            "year": "2005",
+            "citations": 248
+        },
+        {
+            "title": "A review of medical image watermarking requirements for teleradiology",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "Journal of digital imaging 26 (2), 326-343, 2013",
+            "year": "2013",
+            "citations": 210
+        },
+        {
+            "title": "A security system based on human iris identification using wavelet transform",
+            "authors": "WW Boles",
+            "venue": "Engineering Applications of Artificial Intelligence 11 (1), 77-85, 1998",
+            "year": "1998",
+            "citations": 210
+        },
+        {
+            "title": "Wavelet-based affine invariant representation: a tool for recognizing planar objects in 3D space",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 19 (8), 846-857, 1997",
+            "year": "1997",
+            "citations": 134
+        },
+        {
+            "title": "Digital image watermarking: its formal model, fundamental properties and possible attacks",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "EURASIP Journal on Advances in Signal Processing 2014 (1), 135, 2014",
+            "year": "2014",
+            "citations": 108
+        },
+        {
+            "title": "Investigation of fish-eye lenses for small-UAV aerial photography",
+            "authors": "A Gurtner, DG Greer, R Glassock, L Mejias, RA Walker, WW Boles",
+            "venue": "IEEE Transactions on Geoscience and Remote Sensing 47 (3), 709-721, 2009",
+            "year": "2009",
+            "citations": 98
+        },
+        {
+            "title": "Attitude estimation for a fixed-wing aircraft using horizon detection and optical flow",
+            "authors": "D Dusha, W Boles, R Walker",
+            "venue": "9th Biennial Conference of the Australian Pattern Recognition Society on …, 2007",
+            "year": "2007",
+            "citations": 95
+        },
+        {
+            "title": "Visualizing student opinion through text analysis",
+            "authors": "S Cunningham-Nelson, M Baktashmotlagh, W Boles",
+            "venue": "IEEE Transactions on Education 62 (4), 305-311, 2019",
+            "year": "2019",
+            "citations": 93
+        },
+        {
+            "title": "A suspicious behaviour detection using a context space model for smart surveillance systems",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "Computer Vision and Image Understanding 116 (2), 194-209, 2012",
+            "year": "2012",
+            "citations": 81
+        },
+        {
+            "title": "Barriers to student success in engineering education",
+            "authors": "W Boles, K Whelan",
+            "venue": "European Journal of Engineering Education 42 (4), 368-381, 2017",
+            "year": "2017",
+            "citations": 77
+        },
+        {
+            "title": "Fixed-wing attitude estimation using computer vision based horizon detection",
+            "authors": "D Dusha, W Boles, R Walker",
+            "venue": "Proceedings of AIAC12: 2nd Australasian Unmanned Air Vehicles Conference, 1-19, 2007",
+            "year": "2007",
+            "citations": 73
+        },
+        {
+            "title": "Matching cognitive styles to computer-based instruction: An approach for enhanced learning in electrical engineering",
+            "authors": "WW Boles, H Pillay, L Raj",
+            "venue": "European Journal of Engineering Education 24 (4), 371-383, 1999",
+            "year": "1999",
+            "citations": 69
+        },
+        {
+            "title": "Combining multi-channel color space with local binary co-occurrence feature descriptors for accurate smoke detection from surveillance videos",
+            "authors": "N Alamgir, K Nguyen, V Chandran, W Boles",
+            "venue": "Fire safety journal 102, 1-10, 2018",
+            "year": "2018",
+            "citations": 64
+        },
+        {
+            "title": "Wide-angle visual feature matching for outdoor localization",
+            "authors": "P Hansen, P Corke, W Boles",
+            "venue": "The International Journal of Robotics Research 29 (2-3), 267-297, 2010",
+            "year": "2010",
+            "citations": 64
+        },
+        {
+            "title": "Scale invariant feature matching with wide angle images",
+            "authors": "P Hansen, P Corke, W Boles, K Daniilidis",
+            "venue": "2007 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2007",
+            "year": "2007",
+            "citations": 59
+        },
+        {
+            "title": "Detecting uncommon trajectories",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "2008 Digital Image Computing: Techniques and Applications, 398-404, 2008",
+            "year": "2008",
+            "citations": 58
+        },
+        {
+            "title": "Scale-invariant features on the sphere",
+            "authors": "P Hansen, P Corke, W Boles, K Daniilidis",
+            "venue": "2007 IEEE 11th International Conference on Computer Vision, 1-8, 2007",
+            "year": "2007",
+            "citations": 58
+        },
+        {
+            "title": "Mobility enhancement and assessment for a visual prosthesis",
+            "authors": "JA Dowling, A Maeder, W Boles",
+            "venue": "Medical Imaging 2004: Physiology, Function, and Structure from Medical …, 2004",
+            "year": "2004",
+            "citations": 53
+        },
+        {
+            "title": "Applying natural language processing to automatically assess student conceptual understanding from textual responses",
+            "authors": "R Somers, S Cunningham-Nelson, W Boles",
+            "venue": "Australasian Journal of Educational Technology 37 (5), 98-115, 2021",
+            "year": "2021",
+            "citations": 48
+        },
+        {
+            "title": "Region-of-interest processing for electronic visual prostheses",
+            "authors": "JR Boyle, AJ Maeder, WW Boles",
+            "venue": "Journal of Electronic Imaging 17 (1), 013002-013002-12, 2008",
+            "year": "2008",
+            "citations": 48
+        },
+        {
+            "title": "Personal identification using images of the human palm",
+            "authors": "WW Boles, SYT Chu",
+            "venue": "TENCON'97 Brisbane-Australia. Proceedings of IEEE TENCON'97. IEEE Region 10 …, 1997",
+            "year": "1997",
+            "citations": 47
+        },
+        {
+            "title": "Segmentation of bone marrow stromal cells in phase contrast microscopy images",
+            "authors": "CJ Bradhurst, W Boles, Y Xiao",
+            "venue": "2008 23rd International Conference Image and Vision Computing New Zealand, 1-6, 2008",
+            "year": "2008",
+            "citations": 45
+        },
+        {
+            "title": "Utilizing least significant bit-planes of RONI pixels for medical image watermarking",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "2013 International Conference on Digital Image Computing: Techniques and …, 2013",
+            "year": "2013",
+            "citations": 44
+        },
+        {
+            "title": "A wavelet transform based technique for the recognition of the human iris",
+            "authors": "WW Boles",
+            "venue": "Fourth International Symposium on Signal Processing and Its Applications 2 …, 1996",
+            "year": "1996",
+            "citations": 41
+        },
+        {
+            "title": "Monocular vision as a range sensor",
+            "authors": "T Taylor, S Geva, W Boles",
+            "venue": "Proceedings of the International Conference on Computational Intelligence …, 2004",
+            "year": "2004",
+            "citations": 40
+        },
+        {
+            "title": "On the robustness and security of digital image watermarking",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "2012 International Conference on Informatics, Electronics & Vision (ICIEV …, 2012",
+            "year": "2012",
+            "citations": 36
+        },
+        {
+            "title": "Texture classification using multiple wavelet analysis",
+            "authors": "A Busch, WW Boles",
+            "venue": "Proceedings of the Sixth Digital Image Computing: Techniques and …, 2002",
+            "year": "2002",
+            "citations": 36
+        },
+        {
+            "title": "Developing a digital image watermarking model",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "2011 International Conference on Digital Image Computing: Techniques and …, 2011",
+            "year": "2011",
+            "citations": 35
+        },
+        {
+            "title": "An application of wavelet-based affine-invariant representation",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Pattern Recognition Letters 16 (12), 1287-1296, 1995",
+            "year": "1995",
+            "citations": 34
+        },
+        {
+            "title": "Static image simulation of electronic visual prostheses",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "The Seventh Australian and New Zealand Intelligent Information Systems …, 2001",
+            "year": "2001",
+            "citations": 29
+        },
+        {
+            "title": "Classroom Assessment for Improved Learning: a case study in using e‐mail and involving students in preparing assignments",
+            "authors": "W Boles",
+            "venue": "Higher Education Research & Development 18 (1), 145-159, 1999",
+            "year": "1999",
+            "citations": 28
+        },
+        {
+            "title": "Content-independent embedding scheme for multi-modal medical image watermarking",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "Biomedical engineering online 14 (1), 7, 2015",
+            "year": "2015",
+            "citations": 27
+        },
+        {
+            "title": "A context-based approach for detecting suspicious behaviours",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "2009 Digital Image Computing: Techniques and Applications, 146-153, 2009",
+            "year": "2009",
+            "citations": 24
+        },
+        {
+            "title": "Challenges in digital imaging for artificial human vision",
+            "authors": "JR Boyle, AJ Maeder, WW Boles",
+            "venue": "Human Vision and Electronic Imaging VI 4299, 533-543, 2001",
+            "year": "2001",
+            "citations": 24
+        },
+        {
+            "title": "Recognition of 2D objects from the wavelet transform zero-crossing representation",
+            "authors": "WW Boles, QM Tieng",
+            "venue": "Mathematical Imaging: Wavelet Applications in Signal and Image Processing …, 1993",
+            "year": "1993",
+            "citations": 23
+        },
+        {
+            "title": "Multispectral periocular classification with multimodal compact multi-linear pooling",
+            "authors": "FM Algashaam, K Nguyen, M Alkanhal, V Chandran, W Boles, J Banks",
+            "venue": "IEEE Access 5, 14572-14578, 2017",
+            "year": "2017",
+            "citations": 22
+        },
+        {
+            "title": "A feature based face recognition technique using Zernike moments",
+            "authors": "W Arnold, VK Madasu, WW Boles, PK Yarlagadda",
+            "venue": "Proc. RNSA Security Technology Conference, 341-345, 2007",
+            "year": "2007",
+            "citations": 22
+        },
+        {
+            "title": "Scene specific imaging for bionic vision implants",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "3rd International Symposium on Image and Signal Processing and Analysis …, 2003",
+            "year": "2003",
+            "citations": 22
+        },
+        {
+            "title": "Insights into students' conceptual understanding using textual analysis: A case study in signal processing",
+            "authors": "AM Goncher, D Jayalath, W Boles",
+            "venue": "IEEE Transactions on Education 59 (3), 216-223, 2016",
+            "year": "2016",
+            "citations": 19
+        },
+        {
+            "title": "Spherical diffusion for scale-invariant keypoint detection in wide-angle images",
+            "authors": "P Hansen, W Boles, P Corke",
+            "venue": "2008 Digital Image Computing: Techniques and Applications, 525-532, 2008",
+            "year": "2008",
+            "citations": 19
+        },
+        {
+            "title": "Deploying bloom's taxonomy in a work integrated learning environment",
+            "authors": "W Boles, H Beck, D Hargreaves",
+            "venue": "Proceedings of the 2005 ASEE/AaeE 4th Global Colloquium on Engineering …, 2005",
+            "year": "2005",
+            "citations": 18
+        },
+        {
+            "title": "Image enhancement for electronic visual prostheses",
+            "authors": "JR Boyle, AJ Maeder, WW Boles",
+            "venue": "Australasian Physics & Engineering Sciences in Medicine 25 (2), 81-86, 2002",
+            "year": "2002",
+            "citations": 18
+        },
+        {
+            "title": "Counterfeiting attacks on block-wise dependent fragile watermarking schemes",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "Proceedings of the 6th International Conference on Security of Information …, 2013",
+            "year": "2013",
+            "citations": 17
+        },
+        {
+            "title": "Adaptive unsupervised learning of human actions",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "3rd International Conference on Imaging for Crime Detection and Prevention …, 2009",
+            "year": "2009",
+            "citations": 17
+        },
+        {
+            "title": "Mobility assessment using simulated Arti. cial Human Vision",
+            "authors": "J Dowling, W Boles, A Maeder",
+            "venue": "2005 IEEE Computer Society Conference on Computer Vision and Pattern …, 2005",
+            "year": "2005",
+            "citations": 17
+        },
+        {
+            "title": "Text analysis in education: a review of selected software packages with an application for analysing students’ conceptual understanding",
+            "authors": "S Cunningham-Nelson, M Mukherjee, A Goncher, W Boles",
+            "venue": "Australasian Journal of Engineering Education 23 (1), 25-39, 2018",
+            "year": "2018",
+            "citations": 16
+        },
+        {
+            "title": "Logarithmic quantisation of wavelet coefficients for improved texture classification performance",
+            "authors": "A Busch, WW Boles, S Sridharan",
+            "venue": "2004 IEEE International Conference on Acoustics, Speech, and Signal …, 2004",
+            "year": "2004",
+            "citations": 16
+        },
+        {
+            "title": "Texture classification using wavelet scale relationships",
+            "authors": "A Busch, WW Boles",
+            "venue": "2002 IEEE International Conference on Acoustics, Speech, and Signal …, 2002",
+            "year": "2002",
+            "citations": 16
+        },
+        {
+            "title": "A PDA based artificial human vision simulator",
+            "authors": "J Dowling, A Maeder, W Boles",
+            "venue": "APRS Workshop on Digital Image Computing (WDIC): Workshop Proceedings, 109-114, 2005",
+            "year": "2005",
+            "citations": 15
+        },
+        {
+            "title": "Intelligent image processing constraints for blind mobility facilitated through artificial vision",
+            "authors": "J Dowling, A Maeder, W Boles",
+            "venue": "8th Australian & New Zealand Intelligent Information Systems Conference, 109-114, 2003",
+            "year": "2003",
+            "citations": 14
+        },
+        {
+            "title": "Complex daubechies wavelet based affine invariant representation for object recognition",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Proceedings of 1st International Conference on Image Processing 1, 198-202, 1994",
+            "year": "1994",
+            "citations": 14
+        },
+        {
+            "title": "Face recognition: Sparse representation vs. Deep learning",
+            "authors": "NH Alskeini, KN Thanh, V Chandran, W Boles",
+            "venue": "Proceedings of the 2nd International Conference on Graphics and Signal …, 2018",
+            "year": "2018",
+            "citations": 13
+        },
+        {
+            "title": "A context space model for detecting anomalous behaviour in video surveillance",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "2012 Ninth International Conference on Information Technology-New …, 2012",
+            "year": "2012",
+            "citations": 13
+        },
+        {
+            "title": "A face recognition approach using Zernike Moments for video surveillance",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "Recent Advances in Security Technology: Proceedings of the 2007 RNSA …, 2007",
+            "year": "2007",
+            "citations": 13
+        },
+        {
+            "title": "Inherent visual information for low quality image presentation",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "WDIC 2003, 51-56, 2003",
+            "year": "2003",
+            "citations": 13
+        },
+        {
+            "title": "Watermarking capacity control for dynamic payload embedding",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "Recent Advances in Information and Communication Technology 2015 …, 2015",
+            "year": "2015",
+            "citations": 12
+        },
+        {
+            "title": "A multiple-control fuzzy vault",
+            "authors": "M Hirschbichler, C Boyd, W Boles",
+            "venue": "2008 Sixth Annual Conference on Privacy, Security and Trust, 36-47, 2008",
+            "year": "2008",
+            "citations": 12
+        },
+        {
+            "title": "Vibration compensation for fisheye lenses in UAV applications",
+            "authors": "A Gurtner, R Walker, W Boles",
+            "venue": "9th Biennial Conference of the Australian Pattern Recognition Society on …, 2007",
+            "year": "2007",
+            "citations": 12
+        },
+        {
+            "title": "Categorising conceptual assessments under the framework for Bloom's taxonomy",
+            "authors": "W Boles, D Jayalath, A Goncher",
+            "venue": "Proceedings of the 26th Annual Conference of the Australasian Association …, 2015",
+            "year": "2015",
+            "citations": 11
+        },
+        {
+            "title": "Recursive two-dimensional median filtering algorithms for fast image root extraction",
+            "authors": "WW Boles, M Kanefsky, M Simaan",
+            "venue": "IEEE transactions on circuits and systems 35 (10), 1323-1326, 2002",
+            "year": "2002",
+            "citations": 11
+        },
+        {
+            "title": "Morphological scale-space fingerprints and their use in object recognition in range images",
+            "authors": "P Jackway, WW Boles, M Deriche",
+            "venue": "Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …, 1994",
+            "year": "1994",
+            "citations": 11
+        },
+        {
+            "title": "A reduced edge distortion median filtering algorithm for binary images",
+            "authors": "WW Boles, M Kanefsky, M Simaan",
+            "venue": "Signal processing 21 (1), 37-47, 1990",
+            "year": "1990",
+            "citations": 11
+        },
+        {
+            "title": "Overcoming barriers to learning: A guide for academics",
+            "authors": "W Boles",
+            "venue": "QUT Department of eLearning Services, 2010",
+            "year": "2010",
+            "citations": 10
+        },
+        {
+            "title": "Balancing pedagogy and student experience in first-year engineering courses",
+            "authors": "D Campbell, W Boles, M Murray, RI Mahalinga-Iyer, D Hargreaves, A Keir",
+            "venue": "Proceedings of Third International CDIO Conference, 1-14, 2007",
+            "year": "2007",
+            "citations": 10
+        },
+        {
+            "title": "Engineering the learning experience: Influences and options",
+            "authors": "W Boles, M Murray, D Campbell, RI Mahalinga-Iyer",
+            "venue": "Proceedings of the 17th annual conference of the Australasian association …, 2006",
+            "year": "2006",
+            "citations": 10
+        },
+        {
+            "title": "Visual perception of low quality images",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "Proceedings of the 9th International Conference on Neural Information …, 2002",
+            "year": "2002",
+            "citations": 10
+        },
+        {
+            "title": "An image processing approach for estimating the number of live prawn larvae in water",
+            "authors": "WW Boles, S Geva, A Busch",
+            "venue": "ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",
+            "year": "1999",
+            "citations": 10
+        },
+        {
+            "title": "A study on the impact of designing computer based instruction considering preferred cognitive styles",
+            "authors": "WW Boles, H Pillay",
+            "venue": "Unfolding Landscapes in Engineering Education: Proceedings of the 11th …, 1999",
+            "year": "1999",
+            "citations": 10
+        },
+        {
+            "title": "Personalizing the design of computer-based instruction to enhance learning",
+            "authors": "H Pillay, W Boles, L Raj",
+            "venue": "ALT-J 6 (2), 17-32, 1998",
+            "year": "1998",
+            "citations": 10
+        },
+        {
+            "title": "Linking numerical scores with sentiment analysis of students' teaching and subject evaluation surveys: Pointers to teaching enhancements",
+            "authors": "S Cunningham-Nelson, M Baktashmotlagh, W Boles",
+            "venue": "Proceedings of the 27th Australasian Association for Engineering Education …, 2016",
+            "year": "2016",
+            "citations": 9
+        },
+        {
+            "title": "Using textual analysis with concept inventories to identify root causes of misconceptions",
+            "authors": "A Goncher, W Boles, D Jayalath",
+            "venue": "2014 IEEE frontiers in education conference (FIE) proceedings, 1-4, 2014",
+            "year": "2014",
+            "citations": 9
+        },
+        {
+            "title": "Using Camera Tilt to Assist with Localisation",
+            "authors": "T Taylor, S Geva, W Boles",
+            "venue": "Proceedings of the Third International Conference on Autonomous Robots and …, 2006",
+            "year": "2006",
+            "citations": 9
+        },
+        {
+            "title": "Enhancing the effectiveness of concept inventories using textual analysis: investigations in an electrical engineering subject",
+            "authors": "AM Goncher, W Boles",
+            "venue": "European Journal of Engineering Education 44 (1-2), 222-233, 2019",
+            "year": "2019",
+            "citations": 8
+        },
+        {
+            "title": "Periocular recognition under expression variation using higher order spectral features",
+            "authors": "F AlGashaam, K Nguyen, W Boles, V Chandran",
+            "venue": "2015 International Conference on Image and Vision Computing New Zealand …, 2015",
+            "year": "2015",
+            "citations": 8
+        },
+        {
+            "title": "Object recognition using an affine invariant wavelet representation",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Proceedings of ANZIIS'94-Australian New Zealnd Intelligent Information …, 1994",
+            "year": "1994",
+            "citations": 8
+        },
+        {
+            "title": "A model integrating fire prediction and detection for rural-urban interface",
+            "authors": "N Alamgir, W Boles, V Chandran",
+            "venue": "2015 International Conference on Digital Image Computing: Techniques and …, 2015",
+            "year": "2015",
+            "citations": 7
+        },
+        {
+            "title": "An update-describe approach for human action recognition in surveillance video",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "2010 International Conference on Digital Image Computing: Techniques and …, 2010",
+            "year": "2010",
+            "citations": 7
+        },
+        {
+            "title": "Directed exploration using a modified distance transform",
+            "authors": "T Taylor, S Geva, WW Boles",
+            "venue": "Digital Image Computing: Techniques and Applications (DICTA'05), 53-53, 2005",
+            "year": "2005",
+            "citations": 7
+        },
+        {
+            "title": "Uncovering misconceptions through text analysis",
+            "authors": "W Boles, A Goncher, D Jayalath",
+            "venue": "Translating research into practice: Proceedings of the 2015 Research in …, 2015",
+            "year": "2015",
+            "citations": 6
+        },
+        {
+            "title": "A scheme for enhancing security using multiple fingerprints and the fuzzy vault",
+            "authors": "M Hirschbichler, C Boyd, W Boles",
+            "venue": "2008 Digital Image Computing: Techniques and Applications, 540-547, 2008",
+            "year": "2008",
+            "citations": 6
+        },
+        {
+            "title": "Map building using cheap digital cameras",
+            "authors": "T Taylor, WW Boles, S Geva",
+            "venue": "9th Biennial Conference of the Australian Pattern Recognition Society on …, 2007",
+            "year": "2007",
+            "citations": 6
+        },
+        {
+            "title": "Vision-based pirouettes using radial obstacle profile",
+            "authors": "T Taylor, S Geva, W Boles",
+            "venue": "IEEE Conference on Robotics, Automation and Mechatronics, 2004. 1, 147-152, 2004",
+            "year": "2004",
+            "citations": 6
+        },
+        {
+            "title": "Can environmental knowledge improve perception with electronic visual prostheses",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "Proceedings of the World Congress on Medical Physics and Biomedical …, 2003",
+            "year": "2003",
+            "citations": 6
+        },
+        {
+            "title": "Visually exploring sentiment and keywords for analysing student satisfaction data",
+            "authors": "S Cunningham-Nelson, M Baktashmotlagh, W Boles",
+            "venue": "Proceedings of the 29th Australasian Association of Engineering Education …, 2018",
+            "year": "2018",
+            "citations": 5
+        },
+        {
+            "title": "Pointers to conceptual understanding",
+            "authors": "S Cunningham-Nelson, A Goncher, M Mukherjee, W Boles",
+            "venue": "Proceedings of the 28th Annual Conference of the Australasian Association …, 2017",
+            "year": "2017",
+            "citations": 5
+        },
+        {
+            "title": "Modelling attacks on self-authentication watermarking",
+            "authors": "H Nyeem, W Boles, C Boyd",
+            "venue": "Multimedia Tools and Applications 75 (23), 15849-15880, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Influences on student learning in engineering: Some results from case study fieldwork",
+            "authors": "W Boles, L Jolly, R Hadgraft, P Howard, H Beck",
+            "venue": "Australasian Journal of Engineering Education 16 (2), 149-166, 2010",
+            "year": "2010",
+            "citations": 5
+        },
+        {
+            "title": "A performance evaluation of using fish-eye lenses in low-altitude UAV mapping applications",
+            "authors": "A Gurtner, W Boles, R Walker",
+            "venue": "Proceedings of AIAC12: 2nd Australasian Unmanned Air Vehicles Conference, 1-17, 2007",
+            "year": "2007",
+            "citations": 5
+        },
+        {
+            "title": "Understanding the use of domain and task knowledge in the interpretation of graphical displays",
+            "authors": "H Pillay, WW Boles, AR McCrindle",
+            "venue": "European journal of psychology of education 16 (4), 491-508, 2001",
+            "year": "2001",
+            "citations": 5
+        },
+        {
+            "title": "High resolution change detection using Planet mosaic",
+            "authors": "A Woodley, C McLaughlin, H Hutson, S Geva, T Chappell, W Kelly, ...",
+            "venue": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium …, 2019",
+            "year": "2019",
+            "citations": 4
+        },
+        {
+            "title": "Developing students' employability in work placements",
+            "authors": "M Jollands, W Boles, F Peterson",
+            "venue": "Proceedings of the 28th Annual Conference of the Australasian Association …, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Visualising student satisfaction",
+            "authors": "S Cunningham-Nelson, M Baktashmotlagh, W Boles",
+            "venue": "Proceedings of the 28th Annual Conference of the Australasian Association …, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Using reflective writing and textual explanations to evaluate students' conceptual knowledge",
+            "authors": "A Goncher, C Venters, W Boles, D Jayalath, L McNair, M Paretti",
+            "venue": "Proceedings of the 26th Annual Conference of the Australasian Association …, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Connecting learning and teaching: A guide for academics",
+            "authors": "W Boles",
+            "venue": "QUT Department of eLearning Services, 2010",
+            "year": "2010",
+            "citations": 4
+        },
+        {
+            "title": "Exploring synergies between learning and teaching in engineering: A case study approach",
+            "authors": "W Boles, R Hadgraft, P Howard",
+            "venue": "Australasian Journal of Engineering Education 15 (1), 19-26, 2009",
+            "year": "2009",
+            "citations": 4
+        },
+        {
+            "title": "Tracking iris surface deformation using Elastic Graph Matching",
+            "authors": "SSS Phang, W Boles, M Collins",
+            "venue": "Proceedings Image and Vision Computing New Zealand 2006, 499-504, 2006",
+            "year": "2006",
+            "citations": 4
+        },
+        {
+            "title": "Early Results in Vision-based Map Building",
+            "authors": "T Taylor, S Geva, WW Boles",
+            "venue": "Proceedings of the 3rd International Symposium on Autonomous Minirobots for …, 2005",
+            "year": "2005",
+            "citations": 4
+        },
+        {
+            "title": "Digital imaging challenges for artificial human vision",
+            "authors": "J Boyle, A Maeder, WW Boles",
+            "venue": "South African Computer Journal 2000 (26), 222-227, 2000",
+            "year": "2000",
+            "citations": 4
+        },
+        {
+            "title": "Developing a culturally responsive curriculum: An electrical engineering experience",
+            "authors": "W Boles, P Kelly",
+            "venue": "ASCILITE 99 Conference proceedings, 1999",
+            "year": "1999",
+            "citations": 4
+        },
+        {
+            "title": "Categorising student responses for feedback based on multiple choice and text responses",
+            "authors": "S Cunningham-Nelson, A Goncher, W Boles",
+            "venue": "2018 IEEE International Conference on Teaching, Assessment, and Learning for …, 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "Using automated text analysis to evaluate students' conceptual understanding",
+            "authors": "A Goncher, W Boles, D Jayalath",
+            "venue": "Proceedings of the 2014 Annual Conference of the Australasian Association …, 2014",
+            "year": "2014",
+            "citations": 3
+        },
+        {
+            "title": "Work integrated learning: Exposure to professional practice: expectations and challenges",
+            "authors": "W Boles, D Peach",
+            "venue": "Proceedings of the 24th Australasian Association for Engineering Education …, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "Visual prostheses for the blind: a framework for information presentation",
+            "authors": "J Dowling, W Boles, A Maeder",
+            "venue": "Mechatronics and Machine Vision in Practice, 275-287, 2008",
+            "year": "2008",
+            "citations": 3
+        },
+        {
+            "title": "Detecting commonly occupied regions in video sequences",
+            "authors": "A Wiliem, V Madasu, W Boles, P Yarlagadda",
+            "venue": "TENCON 2008-2008 IEEE Region 10 Conference, 1-6, 2008",
+            "year": "2008",
+            "citations": 3
+        },
+        {
+            "title": "Reflections on changing the culture of engineering education at QUT",
+            "authors": "D Hargreaves, W Boles",
+            "venue": "4th ASEE/AaeE Global Colloquium on Engineering Education, [1456]-[1466], 2005",
+            "year": "2005",
+            "citations": 3
+        },
+        {
+            "title": "Detection of unknown forms from document images",
+            "authors": "A Busch, WW Boles, S Sridharan, V Chandran",
+            "venue": "WDIC 2003, 141, 2003",
+            "year": "2003",
+            "citations": 3
+        },
+        {
+            "title": "Space curve recognition based on the wavelet transform and string-matching techniques",
+            "authors": "QM Tieng, WW Boles, M Deriche",
+            "venue": "Proceedings., International Conference on Image Processing 2, 643-646, 1995",
+            "year": "1995",
+            "citations": 3
+        },
+        {
+            "title": "Object identification using the dyadic wavelet transform and indexing techniques",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "1995 International Conference on Acoustics, Speech, and Signal Processing 4 …, 1995",
+            "year": "1995",
+            "citations": 3
+        },
+        {
+            "title": "Change detection over the state of Queensland using high resolution Planet satellite mosaics",
+            "authors": "C McLaughlin, H Hutson, L De Vine, A Woodley, S Geva, T Chappell, ...",
+            "venue": "2019 Digital Image Computing: Techniques and Applications (DICTA), 1-8, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "Regular and automatic feedback of concepts as formative assessment",
+            "authors": "S Cunningham-Nelson, M Mukherjee, A Goncher, W Boles",
+            "venue": "Proceedings of the 29th Australasian Association of Engineering Education …, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "From review to rating: Exploring dependency measures for text classification",
+            "authors": "S Cunningham-Nelson, M Baktashmotlagh, W Boles",
+            "venue": "arXiv preprint arXiv:1709.00813, 2017",
+            "year": "2017",
+            "citations": 2
+        },
+        {
+            "title": "A three-year longitudinal textual analysis investigation of students' conceptual understanding: Lessons learnt and implications for teaching",
+            "authors": "S Cunningham-Nelson, A Goncher, W Boles",
+            "venue": "Proceedings of the 27th Australasian Association for Engineering Education …, 2016",
+            "year": "2016",
+            "citations": 2
+        },
+        {
+            "title": "Cell image classification using histograms, higher order statistics and adaboost",
+            "authors": "V Chandran, J Banks, W Boles, B Chen, I Tomeo-Reyes",
+            "venue": "Cells Classification by Fluorescent Image Analysis!, 11, 2013",
+            "year": "2013",
+            "citations": 2
+        },
+        {
+            "title": "Textual Analysis for Script Recognition",
+            "authors": "A Busch, W Boles, S Sridharan, V Chandran",
+            "venue": "Proceedings of Image and Vision Computing New Zealand 2001, 289-293, 2001",
+            "year": "2001",
+            "citations": 2
+        },
+        {
+            "title": "A Technique for Object Recognition Using Wavelet Transform",
+            "authors": "WW Boles",
+            "venue": "JOURNAL OF ELECTRICAL AND ELECTRONICS ENGINEERING AUSTRALIA 16, 177-184, 1996",
+            "year": "1996",
+            "citations": 2
+        },
+        {
+            "title": "Beyond the algorithm: Student perspectives on generative AI in engineering education",
+            "authors": "N Margetts, S Cunningham, W Boles",
+            "venue": "Proceedings of the 35th Annual Conference of the Australasian Association …, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Panel Session—Providing Automated and Individually Tailored Assessment Feedback",
+            "authors": "S Cunningham-Nelson, MJ Mohammadi-Aragh, A Goncher, W Boles",
+            "venue": "2018 IEEE International Conference on Teaching, Assessment, and Learning for …, 2018",
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "Investigating the use of vector analysis to assess students' understanding",
+            "authors": "A Goncher, W Boles",
+            "venue": "Proceedings of the 27th Australasian Association for Engineering Education …, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Creating efficiencies in teaching: Where are the right resources when you need them?",
+            "authors": "W Boles, R King, R Hadgraft, D Lowe",
+            "venue": "Proceedings of the 24th Australasian Association for Engineering Education …, 2013",
+            "year": "2013",
+            "citations": 1
+        },
+        {
+            "title": "Creating more rewarding careers: A mentoring guide for the professoriate",
+            "authors": "W Boles, RA Diehm",
+            "venue": null,
+            "year": "2013",
+            "citations": 1
+        },
+        {
+            "title": "Enriching the academic culture through mentoring: A guide for Heads of School",
+            "authors": "W Boles, RA Diehm",
+            "venue": "Australia: QUT Department of eLearning Services, 2013",
+            "year": "2013",
+            "citations": 1
+        },
+        {
+            "title": "Faculty mentoring, evidence-based assessment, and student learning: An Australian exploration of American initiatives",
+            "authors": "B Narayan, W Boles",
+            "venue": "Proceedings of the 8th International CDIO Conference, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "A model for enhancing assessment and teaching practice at the coalface: Insights from a Fellow-In-Residence Engagement program",
+            "authors": "W Boles, H Beck",
+            "venue": "Proceedings of the 23rd Annual Conference of the Australasian Association …, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Contract learningin higher education: Encouraging autonomous learning by making university learning authentic",
+            "authors": "H Pillay, WW Boles",
+            "venue": "Building Education and Research, 312-317, 2005",
+            "year": "2005",
+            "citations": 1
+        },
+        {
+            "title": "Web Interface in Support of Work Integrated Learning",
+            "authors": "W Boles, D Emmett",
+            "venue": "Creating Flexible Learning Environments: Proceedings of the 15th …, 2004",
+            "year": "2004",
+            "citations": 1
+        },
+        {
+            "title": "Research Centre in Speech, Audio, Image and Video Technology School of Electrical and Electronic Systems Engineering Queensland University of Technology a. busch@ qut. edu. au …",
+            "authors": "A Busch",
+            "venue": null,
+            "year": "2003",
+            "citations": 1
+        },
+        {
+            "title": "A Multi-resolution Approach to Document Segmentation",
+            "authors": "A Busch, W Boles, S Sridharan",
+            "venue": "Proceedings of the 4th Australasian Workshop on Signal Processing and …, 2002",
+            "year": "2002",
+            "citations": 1
+        },
+        {
+            "title": "Space curve representation and recognition based on wavelet transform zero-crossings",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Journal of Mathematical Imaging and Vision 13 (1), 5-16, 2000",
+            "year": "2000",
+            "citations": 1
+        },
+        {
+            "title": "Cognitive styles, subject content and the design of computer based instruction",
+            "authors": "WW Boles, H Pillay",
+            "venue": "ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",
+            "year": "1999",
+            "citations": 1
+        },
+        {
+            "title": "A new view of shape",
+            "authors": "V Chandran, WW Boles",
+            "venue": "1999 IEEE International Conference on Acoustics, Speech, and Signal …, 1999",
+            "year": "1999",
+            "citations": 1
+        },
+        {
+            "title": "A method for recognising household tools using the wavelet transform",
+            "authors": "WW Boles, SK P'ng",
+            "venue": "TENCON'97 Brisbane-Australia. Proceedings of IEEE TENCON'97. IEEE Region 10 …, 1997",
+            "year": "1997",
+            "citations": 1
+        },
+        {
+            "title": "Object Recognition Using B-Spline Wavelets",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Fourth International Symposium on Signal Processing and Its Applications 1 …, 1996",
+            "year": "1996",
+            "citations": 1
+        },
+        {
+            "title": "On the performance of Hough and Wavelet Transform algorithms for object recognition",
+            "authors": "WW Boles, RS Riyat, QM Tieng",
+            "venue": "Australian Pattern Recognition Society, 1995",
+            "year": "1995",
+            "citations": 1
+        },
+        {
+            "title": "Recognition of space curves based on the dyadic wavelet transform",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …, 1994",
+            "year": "1994",
+            "citations": 1
+        },
+        {
+            "title": "Wavelet based affine invariant representation for object recognition",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "ISITA'94: International Symposium on Information Theory & Its Applications …, 1994",
+            "year": "1994",
+            "citations": 1
+        },
+        {
+            "title": "Three-dimensional curve representation based on dyadic wavelet transform",
+            "authors": "WW Boles, QM Tieng",
+            "venue": null,
+            "year": "1993",
+            "citations": 1
+        },
+        {
+            "title": "Curvature representation of two-dimensional objects based on dyadic wavelet transform",
+            "authors": "WW Boles, QM Tieng",
+            "venue": "IEEE, 1993",
+            "year": "1993",
+            "citations": 1
+        },
+        {
+            "title": "3-D object recognition using morphological scale-space fingerprints",
+            "authors": "PT Jackway, WW Boles, M Deriche",
+            "venue": "Proceedings of IEEE Workshop on Visual Signal Processing and Communications …, 1993",
+            "year": "1993",
+            "citations": 1
+        },
+        {
+            "title": "Finding answers to student questions in engineering textbooks through machine learning",
+            "authors": "J Van Heekeren, S Cunningham, W Boles",
+            "venue": "33rd Australasian Association for Engineering Education Conference (AAEE …, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Object Based Remote Sensing Using Sentinel Data",
+            "authors": "C McLaughlin, A Woodley, S Geva, T Chappell, W Kelly, W Boles, ...",
+            "venue": "2020 Digital Image Computing: Techniques and Applications (DICTA), 1-7, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Adamu, Abdullahi",
+            "authors": "A Asadullah, A Bargiela, P Lu, MA Bawazir, W Boles, S Boonkrong, ...",
+            "venue": "Recent Advances in Information and Communication Technology 2015 361, 307, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Navigating pathways for academic staff development: Implications for institutions and academic ranks",
+            "authors": "W Boles, A Goncher",
+            "venue": "Proceedings of the 2014 Annual Conference of the Australasian Association …, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Student focus and prioritization of design parameters in first-year engineering design projects",
+            "authors": "A Goncher, A Johri, W Boles",
+            "venue": "Proceedings of the 24th Annual Conference of the Australasian Association …, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Literature Review of Evidence-based Assessments in Engineering Education",
+            "authors": "W Boles, B Narayan",
+            "venue": null,
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Outdoor localization using wide-angle visual feature matching and image retrieval",
+            "authors": "P Hansen, P Corke, W Boles",
+            "venue": "Robotics Research: The 13th International Symposium ISRR, 255-265, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "A practical self-evaluation guide for enhancing teaching",
+            "authors": "W Boles",
+            "venue": "QUT Department of eLearning Services, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Towards a better understanding of the student-lecturer-university interactions to enhance learning in engineering",
+            "authors": "W Boles, R Howard, R Hadgraft, L Jolly",
+            "venue": "CQUniversity, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Vibration Compensation for Fisheye Lenses in UAV Applications. In Proceedings Digital Image Computing: Techniques and Applications (DICTA) 2007, pages pp. 1-8, Adelaide …",
+            "authors": "A Gurtner, WW Boles, RA Walker",
+            "venue": null,
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Practical Crypto-Biometric Systems: What Can a Fuzzy Vault Do?",
+            "authors": "M Hirschbichler, W Boles, C Boyd, G Maitland",
+            "venue": "Recent advances in security technology, 111, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "A display framework for presenting information from a visual prosthesis",
+            "authors": "J Dowling, W Boles, A Maeder",
+            "venue": "Proceedings of the 13th International Conference on Mechatronics and Machine …, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "A web-based learning package in image processing",
+            "authors": "WW Boles, V Chandran, N Harle",
+            "venue": "Building Education and Research, 235-241, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "Combining Scale and Spatial Wavelet Features for Improved Texture Modelling",
+            "authors": "A Busch, W Boles, S Sridharan",
+            "venue": "Proceedings of the International Conference on Computational Intelligence …, 2004",
+            "year": "2004",
+            "citations": null
+        },
+        {
+            "title": "Ensuring quality outcomes from the first year of Bachelor of Engineering degrees",
+            "authors": "K Whelan, W Boles",
+            "venue": "Research and Development in Higher Education Vol. 25: Quality Conversations …, 2002",
+            "year": "2002",
+            "citations": null
+        },
+        {
+            "title": "Iris Based Human Identification: Enhancing Performance through Pre-processing and Feature Reduction",
+            "authors": "J Cook, W Boles",
+            "venue": "Proceedings of the 4th Australasian Workshop on Signal Processing and …, 2002",
+            "year": "2002",
+            "citations": null
+        },
+        {
+            "title": "Image processing in artificial human vision systems",
+            "authors": "J Boyle, A Maeder, W Boles",
+            "venue": "Technology and Health Care 9 (1-2), 145-146, 2001",
+            "year": "2001",
+            "citations": null
+        },
+        {
+            "title": "Towards excellence in engineering education: proceedings of the 12th Australasian Conference on Engineering Education, 7th Australasian Women in Engineering Forum, 26th-28th …",
+            "authors": "L Dawes, W Boles, A Maeder",
+            "venue": "CQUniversity, 2001",
+            "year": "2001",
+            "citations": null
+        },
+        {
+            "title": "The Learners and Their Learning Environment in an Engineering Curriculum",
+            "authors": "W Boles",
+            "venue": "Towards Sustainable Development: Collaborative Approaches in Built …, 2001",
+            "year": "2001",
+            "citations": null
+        },
+        {
+            "title": "Representing and identifying jointed objects using a multiresolution technique",
+            "authors": "WW Boles",
+            "venue": "ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",
+            "year": "1999",
+            "citations": null
+        },
+        {
+            "title": "Recognising 2D object contours in 3D space using wavelet transform",
+            "authors": "WW Boles",
+            "venue": "Australian Computer Journal 31 (1), 17-26, 1999",
+            "year": "1999",
+            "citations": null
+        },
+        {
+            "title": "Proceedings of the Fifth International Symposium on Signal Processing and Its Applications",
+            "authors": "M Deriche, B Boashash, WW Boles",
+            "venue": "Queensland University of Technology, 1999",
+            "year": "1999",
+            "citations": null
+        },
+        {
+            "title": "A Method for Recognising Household Object Contours Using Wavelet Transform",
+            "authors": "W Boles, S P'ng",
+            "venue": "Speech and Image Technologies for Computing and Telecommunications, 1997",
+            "year": "1997",
+            "citations": null
+        },
+        {
+            "title": "Population Estimation of Prawn Larvae using Image Processing Techniques",
+            "authors": "W Boles, S Geva, D Reid, G McGarry",
+            "venue": "Proceedings of WOSPA'97, 1997",
+            "year": "1997",
+            "citations": null
+        },
+        {
+            "title": "Cardinal point detection based on dyadic wavelet transform",
+            "authors": "QM Tieng, WW Boles",
+            "venue": "Queensland University of Technology, 1997",
+            "year": "1997",
+            "citations": null
+        },
+        {
+            "title": "Recognising the Iris of Human Eyes Using a Wavelet-Transform-Based Technique",
+            "authors": "WW Boles",
+            "venue": "APPLIED SIGNAL PROCESSING 4, 229-238, 1997",
+            "year": "1997",
+            "citations": null
+        },
+        {
+            "title": "Recognition of polyhedral objects based on wavelet affine invariant representation and attributed graphs",
+            "authors": "QM Tieng, WW Boles, M Deriche",
+            "venue": "Machine Graphics and Vision 6 (2), 203-224, 1997",
+            "year": "1997",
+            "citations": null
+        },
+        {
+            "title": "Wavelet transform, attributed graphs and polyhedral object recognition",
+            "authors": "QM Tieng, WW Boles, M Deriche",
+            "venue": "Australian Pattern Recognition Society, 1995",
+            "year": "1995",
+            "citations": null
+        },
+        {
+            "title": "Wavelet transform based algorithm for representation and recognition of 2D objects",
+            "authors": "WW Boles, QM Tieng",
+            "venue": "Centre for Intelligent Information Processing Systems, 1994",
+            "year": "1994",
+            "citations": null
+        },
+        {
+            "title": "Recognition of 2D objects from the wavelet transform zero-crossing representation [2034-11]",
+            "authors": "WW Boles, QM Tieng",
+            "venue": "PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 104-104, 1993",
+            "year": "1993",
+            "citations": null
+        },
+        {
+            "title": "Fast root extraction and minimum distortion algorithms of two-dimensional median filters",
+            "authors": "WW Boles",
+            "venue": "University of Pittsburgh, 1988",
+            "year": "1988",
+            "citations": null
+        },
+        {
+            "title": "A MINIMUM DISTORTION BOUNDARY PRESERVING MEDIAN PRE-FILTER FOR BINARY IMAGES",
+            "authors": "WW BOLES, M KANEFSKY, M SIMAAN",
+            "venue": "Proceedings of the... Conference on Information Sciences and Systems, 213, 1988",
+            "year": "1988",
+            "citations": null
+        },
+        {
+            "title": "A differentially coded DPCM system",
+            "authors": "WW Boles",
+            "venue": "University of Pittsburgh, 1983",
+            "year": "1983",
+            "citations": null
+        },
+        {
+            "title": "A DIFFERENTIALLY ENCODED DPCM TECHNIQUE",
+            "authors": "WW Boles, M Kanefsky",
+            "venue": "Proceedings of the... Conference on Information Sciences and Systems 17, 340, 1983",
+            "year": "1983",
+            "citations": null
+        },
+        {
+            "title": "Tuesday Papers 1: 45 pm–3: 15 pm",
+            "authors": "H Doh, H Guan, D Thambiratnam, W Boles, L Trouton, E Margerison, ...",
+            "venue": "Conference Handbook, 35, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Abe, N., see Jiang Yu Zheng, T-PAMI May 97 513-520 Adini, Y., Y. Moses, and S. Ullman. Face recognition: the problem of compensating for changes in illumination direction; T …",
+            "authors": "N Ahuja, M Aladjem, Y Amit, JT Astola, SM Atourian, A Azarbayejani, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "This file was downloaded from: http://eprints. qut. edu. au/82712",
+            "authors": "H Nyeem, WW Boles, C Boyd",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Adamu, Abdullahi 85",
+            "authors": "A Asadullah, A Bargiela, MA Bawazir, W Boles, S Boonkrong, P Boonma, ...",
+            "venue": "Recent Advances in Information and Communication Technology 2015, 307, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Enriching the academic culture through mentoring",
+            "authors": "W Boles",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Creating more rewarding careers",
+            "authors": "W Boles",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

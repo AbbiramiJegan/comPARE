@@ -1,0 +1,1645 @@
+{
+    "author_id": "oMjrLWcAAAAJ",
+    "name": "KokSheik Wong",
+    "affiliations": "Monash University Malaysia",
+    "metrics": [
+        {
+            "citations": {
+                "all": 4675,
+                "since_2020": 3230
+            }
+        },
+        {
+            "h_index": {
+                "all": 33,
+                "since_2020": 25
+            }
+        },
+        {
+            "i10_index": {
+                "all": 76,
+                "since_2020": 60
+            }
+        }
+    ],
+    "co_authors": [
+        "Raphaël C.-W. Phan",
+        "Vishnu Monn Baskaran",
+        "Simying Ong",
+        "John See",
+        "LIONG SZE TENG",
+        "Yiqi Tew",
+        "Xiaojun Qi",
+        "Kazuki Minemura",
+        "Jing-Ming Guo",
+        "Joanne Mun-Yee Lim",
+        "Mustafa S. Abdul Karim AL-Wahaib",
+        "Yip Sook Chin",
+        "Kang Leng Chiew",
+        "Jin Zhe",
+        "Massimo Tistarelli",
+        "Ryan Rad, Ph.D.",
+        "Huo-Chong Ling",
+        "Colin Choon Lin Tan",
+        "Xingbo Dong",
+        "Adamu Muhammad Buhari"
+    ],
+    "articles": [
+        {
+            "title": "Less is more: Micro-expression recognition from video using apex frame",
+            "authors": "ST Liong, J See, KS Wong, RCW Phan",
+            "venue": "Signal Processing: Image Communication 62, 82-92, 2018",
+            "year": "2018",
+            "citations": 426
+        },
+        {
+            "title": "A new hybrid ensemble feature selection framework for machine learning-based phishing detection system",
+            "authors": "KL Chiew, CL Tan, KS Wong, KSC Yong, WK Tiong",
+            "venue": "Information Sciences 484, 153-166, 2019",
+            "year": "2019",
+            "citations": 414
+        },
+        {
+            "title": "Detection of energy theft and defective smart meters in smart grids using linear regression",
+            "authors": "SC Yip, KS Wong, WP Hew, MT Gan, RCW Phan, SW Tan",
+            "venue": "International Journal of Electrical Power & Energy Systems 91, 230-240, 2017",
+            "year": "2017",
+            "citations": 223
+        },
+        {
+            "title": "An overview of information hiding in H. 264/AVC compressed video",
+            "authors": "Y Tew, KS Wong",
+            "venue": "IEEE transactions on circuits and systems for video technology 24 (2), 305-319, 2013",
+            "year": "2013",
+            "citations": 198
+        },
+        {
+            "title": "UniSpaCh: A text-based data hiding method using Unicode space characters",
+            "authors": "LY Por, KS Wong, KO Chee",
+            "venue": "Journal of Systems and Software 85 (5), 1075-1082, 2012",
+            "year": "2012",
+            "citations": 187
+        },
+        {
+            "title": "An anomaly detection framework for identifying energy theft and defective meters in smart grids",
+            "authors": "SC Yip, WN Tan, CK Tan, MT Gan, KS Wong",
+            "venue": "International Journal of Electrical Power & Energy Systems 101, 189-203, 2018",
+            "year": "2018",
+            "citations": 163
+        },
+        {
+            "title": "PhishWHO: Phishing webpage detection via identity keywords extraction and target domain name finder",
+            "authors": "CL Tan, KL Chiew, KS Wong, SN Sze",
+            "venue": "Decision Support Systems 88, 18-27, 2016",
+            "year": "2016",
+            "citations": 149
+        },
+        {
+            "title": "JPEG image scrambling without expansion in bitstream size",
+            "authors": "K Minemura, Z Moayed, KS Wong, X Qi, K Tanaka",
+            "venue": "2012 19th IEEE International Conference on Image Processing, 261-264, 2012",
+            "year": "2012",
+            "citations": 149
+        },
+        {
+            "title": "Automatic apex frame spotting in micro-expression database",
+            "authors": "ST Liong, J See, KS Wong, AC Le Ngo, YH Oh, R Phan",
+            "venue": "2015 3rd IAPR Asian conference on pattern recognition (ACPR), 665-669, 2015",
+            "year": "2015",
+            "citations": 135
+        },
+        {
+            "title": "Subtle expression recognition using optical strain weighted features",
+            "authors": "ST Liong, J See, RCW Phan, AC Le Ngo, YH Oh, KS Wong",
+            "venue": "Asian conference on computer vision, 644-657, 2014",
+            "year": "2014",
+            "citations": 115
+        },
+        {
+            "title": "Complete video quality-preserving data hiding",
+            "authors": "KS Wong, K Tanaka, K Takagi, Y Nakajima",
+            "venue": "IEEE Transactions on circuits and systems for video technology 19 (10), 1499 …, 2009",
+            "year": "2009",
+            "citations": 105
+        },
+        {
+            "title": "Image encryption method based on chaotic fuzzy cellular neural networks",
+            "authors": "K Ratnavelu, M Kalpana, P Balasubramaniam, K Wong, P Raveendran",
+            "venue": "Signal Processing 140, 87-96, 2017",
+            "year": "2017",
+            "citations": 81
+        },
+        {
+            "title": "Spontaneous subtle expression detection and recognition based on facial strain",
+            "authors": "ST Liong, J See, RCW Phan, YH Oh, AC Le Ngo, KS Wong, SW Tan",
+            "venue": "Signal Processing: Image Communication 47, 170-182, 2016",
+            "year": "2016",
+            "citations": 81
+        },
+        {
+            "title": "Information hiding in HEVC standard using adaptive coding block size decision",
+            "authors": "Y Tew, KS Wong",
+            "venue": "2014 IEEE international conference on image processing (ICIP), 5502-5506, 2014",
+            "year": "2014",
+            "citations": 76
+        },
+        {
+            "title": "A survey of reversible data hiding in encrypted images–the first 12 years",
+            "authors": "P Puteaux, SY Ong, KS Wong, W Puech",
+            "venue": "Journal of Visual Communication and Image Representation 77, 103085, 2021",
+            "year": "2021",
+            "citations": 74
+        },
+        {
+            "title": "Optical strain based recognition of subtle emotions",
+            "authors": "ST Liong, RCW Phan, J See, YH Oh, KS Wong",
+            "venue": "2014 International symposium on intelligent signal processing and …, 2014",
+            "year": "2014",
+            "citations": 73
+        },
+        {
+            "title": "Automatic micro-expression recognition from long video using a single spotted apex",
+            "authors": "ST Liong, J See, KS Wong, RCW Phan",
+            "venue": "Asian conference on computer vision, 345-360, 2016",
+            "year": "2016",
+            "citations": 71
+        },
+        {
+            "title": "Universal data embedding in encrypted domain",
+            "authors": "MSA Karim, KS Wong",
+            "venue": "Signal Processing 94, 174-182, 2014",
+            "year": "2014",
+            "citations": 66
+        },
+        {
+            "title": "DCT based scalable scrambling method with reversible data hiding functionality",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "2010 4th International Symposium on Communications, Control and Signal …, 2010",
+            "year": "2010",
+            "citations": 65
+        },
+        {
+            "title": "A DCT-based Mod4 steganographic method",
+            "authors": "KS Wong, X Qi, K Tanaka",
+            "venue": "Signal Processing 87 (6), 1251-1263, 2007",
+            "year": "2007",
+            "citations": 63
+        },
+        {
+            "title": "Micro-expression recognition using apex frame with phase information",
+            "authors": "ST Liong, KS Wong",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 62
+        },
+        {
+            "title": "A unified data embedding and scrambling method",
+            "authors": "RM Rad, KS Wong, JM Guo",
+            "venue": "IEEE Transactions on Image processing 23 (4), 1463-1475, 2014",
+            "year": "2014",
+            "citations": 60
+        },
+        {
+            "title": "Nighttime vehicle lamp detection and tracking with adaptive mask training",
+            "authors": "JM Guo, CH Hsia, KS Wong, JY Wu, YT Wu, NJ Wang",
+            "venue": "IEEE Transactions on Vehicular Technology 65 (6), 4023-4032, 2015",
+            "year": "2015",
+            "citations": 56
+        },
+        {
+            "title": "Deep multi-level feature pyramids: Application for non-canonical firearm detection in video surveillance",
+            "authors": "JY Lim, MI Al Jobayer, VM Baskaran, JM Lim, J See, KS Wong",
+            "venue": "Engineering applications of artificial intelligence 97, 104094, 2021",
+            "year": "2021",
+            "citations": 50
+        },
+        {
+            "title": "Hybrid facial regions extraction for micro-expression recognition system",
+            "authors": "ST Liong, J See, RCW Phan, KS Wong, SW Tan",
+            "venue": "Journal of Signal Processing Systems 90 (4), 601-617, 2018",
+            "year": "2018",
+            "citations": 49
+        },
+        {
+            "title": "Reversible data hiding by adaptive group modification on histogram of prediction errors",
+            "authors": "RM Rad, KS Wong, JM Guo",
+            "venue": "Signal Processing 125, 315-328, 2016",
+            "year": "2016",
+            "citations": 46
+        },
+        {
+            "title": "Beyond format-compliant encryption for JPEG image",
+            "authors": "SY Ong, KS Wong, X Qi, K Tanaka",
+            "venue": "Signal Processing: Image Communication 31, 47-60, 2015",
+            "year": "2015",
+            "citations": 43
+        },
+        {
+            "title": "Gun detection in surveillance videos using deep neural networks",
+            "authors": "JY Lim, MI Al Jobayer, VM Baskaran, JMY Lim, KS Wong, J See",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 42
+        },
+        {
+            "title": "Ernet: An efficient and reliable human-object interaction detection network",
+            "authors": "JY Lim, VM Baskaran, JMY Lim, KS Wong, J See, M Tistarelli",
+            "venue": "IEEE Transactions on Image Processing 32, 964-979, 2023",
+            "year": "2023",
+            "citations": 41
+        },
+        {
+            "title": "Efficient known-sample attack for distance-preserving hashing biometric template protection schemes",
+            "authors": "Y Lai, Z Jin, KS Wong, M Tistarelli",
+            "venue": "IEEE Transactions on Information Forensics and Security 16, 3170-3185, 2021",
+            "year": "2021",
+            "citations": 38
+        },
+        {
+            "title": "Vehicle verification using Gabor filter magnitude with gamma distribution modeling",
+            "authors": "JM Guo, H Prasetyo, KS Wong",
+            "venue": "IEEE Signal Processing Letters 21 (5), 600-604, 2014",
+            "year": "2014",
+            "citations": 35
+        },
+        {
+            "title": "Scrambling–embedding for JPEG compressed image",
+            "authors": "S Ong, KS Wong, K Tanaka",
+            "venue": "Signal Processing 109, 38-53, 2015",
+            "year": "2015",
+            "citations": 34
+        },
+        {
+            "title": "A scalable reversible data embedding method with progressive quality degradation functionality",
+            "authors": "S Ong, KS Wong, K Tanaka",
+            "venue": "Signal Processing: Image Communication 29 (1), 135-149, 2014",
+            "year": "2014",
+            "citations": 33
+        },
+        {
+            "title": "Network packet payload parity based steganography",
+            "authors": "OI Abdullaziz, VT Goh, HC Ling, KS Wong",
+            "venue": "2013 IEEE Conference on Sustainable Utilization and Development in …, 2013",
+            "year": "2013",
+            "citations": 30
+        },
+        {
+            "title": "A lossless image compression algorithm using duplication free run-length coding",
+            "authors": "MS Al-Wahaib, KS Wong",
+            "venue": "2010 second international conference on network applications, protocols and …, 2010",
+            "year": "2010",
+            "citations": 29
+        },
+        {
+            "title": "Progressive quality degradation in JPEG compressed image using DC block orientation with rewritable data embedding functionality",
+            "authors": "SY Ong, K Minemura, KS Wong",
+            "venue": "2013 IEEE International Conference on Image Processing, 4574-4578, 2013",
+            "year": "2013",
+            "citations": 28
+        },
+        {
+            "title": "FACS-based graph features for real-time micro-expression recognition",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Journal of Imaging 6 (12), 130, 2020",
+            "year": "2020",
+            "citations": 25
+        },
+        {
+            "title": "On the risk of cancelable biometrics",
+            "authors": "X Dong, J Park, Z Jin, ABJ Teoh, M Tistarelli, KS Wong",
+            "venue": "arXiv preprint arXiv:1910.07770, 2019",
+            "year": "2019",
+            "citations": 25
+        },
+        {
+            "title": "A cancellable face template scheme based on nonlinear multi-dimension spectral hashing",
+            "authors": "X Dong, KS Wong, Z Jin, J Dugelay",
+            "venue": "2019 7th International Workshop on Biometrics and Forensics (IWBF), 1-6, 2019",
+            "year": "2019",
+            "citations": 24
+        },
+        {
+            "title": "Separable authentication in encrypted HEVC video",
+            "authors": "Y Tew, KS Wong, RCW Phan, KN Ngan",
+            "venue": "Multimedia Tools and Applications 77 (18), 24165-24184, 2018",
+            "year": "2018",
+            "citations": 24
+        },
+        {
+            "title": "Keypoint based authentication and localization of copy-move forgery in digital image",
+            "authors": "S Sadeghi, HA Jalab, KS Wong, D Uliyan, S Dadkhah",
+            "venue": "Malaysian Journal of Computer Science 30 (2), 117-133, 2017",
+            "year": "2017",
+            "citations": 24
+        },
+        {
+            "title": "HEVC selective encryption using transform skip signal and sign bin",
+            "authors": "Y Tew, K Minemura, KS Wong",
+            "venue": "2015 Asia-Pacific Signal and Information Processing Association Annual …, 2015",
+            "year": "2015",
+            "citations": 24
+        },
+        {
+            "title": "Innovative lane detection method to increase the accuracy of lane departure warning system",
+            "authors": "TY Teo, R Sutopo, JMY Lim, KS Wong",
+            "venue": "Multimedia Tools and Applications 80 (2), 2063-2080, 2021",
+            "year": "2021",
+            "citations": 23
+        },
+        {
+            "title": "Fast watermarking scheme for real-time spatial scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "Signal Processing: Image Communication 47, 86-95, 2016",
+            "year": "2016",
+            "citations": 23
+        },
+        {
+            "title": "A novel sketch attack for H. 264/AVC format-compliant encrypted video",
+            "authors": "K Minemura, KS Wong, RCW Phan, K Tanaka",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 27 (11), 2309 …, 2016",
+            "year": "2016",
+            "citations": 23
+        },
+        {
+            "title": "An adaptive DCT-based mod-4 steganographic method",
+            "authors": "X Qi, KS Wong",
+            "venue": "IEEE International Conference on Image Processing 2005 2, II-297, 2005",
+            "year": "2005",
+            "citations": 21
+        },
+        {
+            "title": "Ocular recognition for blinking eyes",
+            "authors": "P Liu, JM Guo, SH Tseng, KS Wong, JD Lee, CC Yao, D Zhu",
+            "venue": "IEEE Transactions on Image Processing 26 (10), 5070-5081, 2017",
+            "year": "2017",
+            "citations": 20
+        },
+        {
+            "title": "Multi-layer authentication scheme for HEVC video based on embedded statistics",
+            "authors": "Y Tew, KS Wong, RCW Phan, KN Ngan",
+            "venue": "Journal of Visual Communication and Image Representation 40, 502-515, 2016",
+            "year": "2016",
+            "citations": 20
+        },
+        {
+            "title": "Vision-based hand grasping posture recognition in drinking activity",
+            "authors": "JL Chua, YC Chang, MH Jaward, J Parkkinen, KS Wong",
+            "venue": "2014 International Symposium on Intelligent Signal Processing and …, 2014",
+            "year": "2014",
+            "citations": 20
+        },
+        {
+            "title": "Covert communication in multi-hop UAV network",
+            "authors": "D Mallikarachchi, KS Wong, JMY Lim",
+            "venue": "Ad Hoc Networks 128, 102788, 2022",
+            "year": "2022",
+            "citations": 18
+        },
+        {
+            "title": "Detection of energy theft and metering defects in advanced metering infrastructure using analytics",
+            "authors": "SC Yip, CK Tan, WN Tan, MT Gan, KS Wong, RCW Phan",
+            "venue": "2018 International Conference on Smart Grid and Clean Energy Technologies …, 2018",
+            "year": "2018",
+            "citations": 18
+        },
+        {
+            "title": "Fast recovery of unknown coefficients in DCT-transformed images",
+            "authors": "SY Ong, S Li, KS Wong, KY Tan",
+            "venue": "Signal Processing: Image Communication 58, 1-13, 2017",
+            "year": "2017",
+            "citations": 18
+        },
+        {
+            "title": "Progressive halftone watermarking using multilayer table lookup strategy",
+            "authors": "JM Guo, GH Lai, K Wong, LC Chang",
+            "venue": "IEEE Transactions on Image Processing 24 (7), 2009-2024, 2015",
+            "year": "2015",
+            "citations": 18
+        },
+        {
+            "title": "Attacking mouse dynamics authentication using novel Wasserstein conditional DCGAN",
+            "authors": "A Roy, K Wong, RCW Phan",
+            "venue": "IEEE Transactions on Information Forensics and Security 18, 3622-3631, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "AIPISteg: An active IP identification based steganographic method",
+            "authors": "OI Abdullaziz, VT Goh, HC Ling, KS Wong",
+            "venue": "Journal of Network and Computer Applications 63, 150-158, 2016",
+            "year": "2016",
+            "citations": 17
+        },
+        {
+            "title": "A privacy-preserving and cheat-resilient electricity consumption reporting scheme for smart grids",
+            "authors": "SC Yip, KS Wong, RCW Phan, SW Tan, I Ku, WP Hew",
+            "venue": "2014 International conference on computer, information and telecommunication …, 2014",
+            "year": "2014",
+            "citations": 17
+        },
+        {
+            "title": "A scrambling framework for block transform compressed image",
+            "authors": "K Minemura, KS Wong, X Qi, K Tanaka",
+            "venue": "Multimedia Tools and Applications 76 (5), 6709-6729, 2017",
+            "year": "2017",
+            "citations": 15
+        },
+        {
+            "title": "Invisible emotion magnification algorithm (IEMA) for real-time micro-expression recognition with graph-based features",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Multimedia Tools and Applications 81 (7), 9151-9176, 2022",
+            "year": "2022",
+            "citations": 14
+        },
+        {
+            "title": "Moving object detection in HEVC video by frame sub-sampling",
+            "authors": "M Moriyama, K Minemura, KS Wong",
+            "venue": "2015 International Symposium on Intelligent Signal Processing and …, 2015",
+            "year": "2015",
+            "citations": 14
+        },
+        {
+            "title": "Low-cost campus bus tracker using WiFi access points",
+            "authors": "KY Tan, KS Wong",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 13
+        },
+        {
+            "title": "Multiple messages embedding using DCT-based Mod4 steganographic method",
+            "authors": "KS Wong, K Tanaka, X Qi",
+            "venue": "International Workshop on Multimedia Content Representation, Classification …, 2006",
+            "year": "2006",
+            "citations": 13
+        },
+        {
+            "title": "Baitradar: A multi-model clickbait detection algorithm using deep learning",
+            "authors": "B Gamage, A Labib, A Joomun, CH Lim, KS Wong",
+            "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+            "year": "2021",
+            "citations": 12
+        },
+        {
+            "title": "Authentication of mp4 file by perceptual hash and data hiding",
+            "authors": "APM Maung, Y Tew, KS Wong",
+            "venue": "Malaysian Journal of Computer Science 32 (4), 304-314, 2019",
+            "year": "2019",
+            "citations": 12
+        },
+        {
+            "title": "Reversible data embedding using reflective blocks with scalable visual quality degradation",
+            "authors": "SY Ong, KS Wong, K Tanaka",
+            "venue": "2012 Eighth International Conference on Intelligent Information Hiding and …, 2012",
+            "year": "2012",
+            "citations": 12
+        },
+        {
+            "title": "An authentication scheme for FANET packet payload using data hiding",
+            "authors": "D Mallikarachchi, KS Wong, JMY Lim",
+            "venue": "Journal of Information Security and Applications 77, 103559, 2023",
+            "year": "2023",
+            "citations": 11
+        },
+        {
+            "title": "High payload watermarking based on enhanced image saliency detection",
+            "authors": "A Khan, KS Wong",
+            "venue": "Multimedia Tools and Applications 82 (10), 15553-15571, 2023",
+            "year": "2023",
+            "citations": 11
+        },
+        {
+            "title": "A novel coverless information hiding technique using pattern image synthesis",
+            "authors": "WK Lee, SY Ong, KS Wong, K Tanaka",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 11
+        },
+        {
+            "title": "Halftoning-based block truncation coding image restoration",
+            "authors": "JM Guo, H Prasetyo, KS Wong",
+            "venue": "Journal of Visual Communication and Image Representation 35, 193-197, 2016",
+            "year": "2016",
+            "citations": 11
+        },
+        {
+            "title": "Optical flow based dynamic curved video text detection",
+            "authors": "P Shivakuamra, M Lubani, KS Wong, T Lu",
+            "venue": "2014 IEEE International Conference on Image Processing (ICIP), 1668-1672, 2014",
+            "year": "2014",
+            "citations": 11
+        },
+        {
+            "title": "Rotational based rewritable data hiding in JPEG",
+            "authors": "SY Ong, KS Wong",
+            "venue": "2013 Visual Communications and Image Processing (VCIP), 1-6, 2013",
+            "year": "2013",
+            "citations": 11
+        },
+        {
+            "title": "Audio mixer with automatic gain controller for software based multipoint control unit",
+            "authors": "VM Baskaran, KS Wong",
+            "venue": "2010 IEEE Asia Pacific Conference on Circuits and Systems, 164-167, 2010",
+            "year": "2010",
+            "citations": 11
+        },
+        {
+            "title": "Appearance-based passenger counting in cluttered scenes with lateral movement compensation",
+            "authors": "R Sutopo, JMY Lim, VM Baskaran, KS Wong, M Tistarelli, HF Liau",
+            "venue": "Neural Computing and Applications 33 (16), 9891-9912, 2021",
+            "year": "2021",
+            "citations": 10
+        },
+        {
+            "title": "Reduced contact lifting of latent fingerprints from curved surfaces",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "Journal of Information Security and Applications 53, 102520, 2020",
+            "year": "2020",
+            "citations": 10
+        },
+        {
+            "title": "Lightweight authentication for MP4 format container using subtitle track",
+            "authors": "KS Wong, CS Chan, A Maungmaung",
+            "venue": "IEICE TRANSACTIONS on Information and Systems 103 (1), 2-10, 2020",
+            "year": "2020",
+            "citations": 10
+        },
+        {
+            "title": "Format-compliant perceptual encryption method for JPEG XT",
+            "authors": "J Ting, KS Wong, S Ong",
+            "venue": "2019 IEEE International Conference on Image Processing (ICIP), 4559-4563, 2019",
+            "year": "2019",
+            "citations": 10
+        },
+        {
+            "title": "HEVC video authentication using data embedding technique",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2015 IEEE International Conference on Image Processing (ICIP), 1265-1269, 2015",
+            "year": "2015",
+            "citations": 10
+        },
+        {
+            "title": "Self supervised BERT for legal text classification",
+            "authors": "A Pal, S Rajanala, RCW Phan, K Wong",
+            "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Effective UAV patrolling for swarm of intruders with heterogeneous behavior",
+            "authors": "AM Farid, LM Kuan, MAS Kamal, KS Wong",
+            "venue": "Robotica 41 (6), 1673-1688, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Region-of-interest encryption in HEVC compressed video",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 9
+        },
+        {
+            "title": "Digital image forgery detection by edge analysis",
+            "authors": "RM Rad, KS Wong",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 19-20, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Data embedding in random domain",
+            "authors": "MSA Karim, KS Wong",
+            "venue": "Signal Processing 108, 56-68, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Scalable image scrambling method using unified constructive permutation function on diagonal blocks",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "28th Picture Coding Symposium, 138-141, 2010",
+            "year": "2010",
+            "citations": 9
+        },
+        {
+            "title": "High-fidelity reversible data hiding using novel comprehensive rhombus predictor",
+            "authors": "R Kumar, R Caldelli, KS Wong, A Malik, KH Jung",
+            "venue": "Multimedia Tools and Applications 84 (8), 4115-4137, 2025",
+            "year": "2025",
+            "citations": 8
+        },
+        {
+            "title": "Information hiding in image enhancement",
+            "authors": "S Ong, KS Wong",
+            "venue": "2020 IEEE International Conference on Image Processing (ICIP), 1261-1265, 2020",
+            "year": "2020",
+            "citations": 8
+        },
+        {
+            "title": "On the reliability of cancelable biometrics: Revisit the irreversibility",
+            "authors": "X Dong, Z Jin, ABJ Teoh, M Tistarelli, KS Wong",
+            "venue": "Academic Press Inc., 2019",
+            "year": "2019",
+            "citations": 8
+        },
+        {
+            "title": "A secure visual-thermal fused face recognition system based on non-linear hashing",
+            "authors": "X Dong, KS Wong, Z Jin, JL Dugelay",
+            "venue": "2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP …, 2019",
+            "year": "2019",
+            "citations": 8
+        },
+        {
+            "title": "John See, KokSheik Wong, and Raphael C",
+            "authors": "ST Liong",
+            "venue": "W. Phan, 82-92, 2018",
+            "year": "2018",
+            "citations": 8
+        },
+        {
+            "title": "Software-based serverless endpoint video combiner architecture for high-definition multiparty video conferencing",
+            "authors": "VM Baskaran, YC Chang, J Loo, KS Wong",
+            "venue": "Journal of Network and Computer Applications 36 (1), 336-352, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "Improvement of carrier capacity for scalable scrambling method with reversible information insertion functionality",
+            "authors": "KS Wong, S Ong, K Tanaka",
+            "venue": "2011 IEEE International Conference on Signal and Image Processing …, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "StegErmelc: A Novel DCT-Based Steganographic Method Using Three Strategies",
+            "authors": "W KokSheik, K Tanaka",
+            "venue": "IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and …, 2008",
+            "year": "2008",
+            "citations": 8
+        },
+        {
+            "title": "A data hiding method using Mquant in MPEG domain",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "The Journal of the Institute of Image Electronics Engineers of Japan 37 (3 …, 2008",
+            "year": "2008",
+            "citations": 8
+        },
+        {
+            "title": "StealthPDF: Data hiding method for PDF file with no visual degradation",
+            "authors": "M Kuribayashi, KS Wong",
+            "venue": "Journal of Information Security and Applications 61, 102875, 2021",
+            "year": "2021",
+            "citations": 7
+        },
+        {
+            "title": "Selected neuropeptide genes show genetic differentiation between Africans and non-Africans",
+            "authors": "KY Tai, KS Wong, F Aghakhanian, IS Parhar, J Dhaliwal, Q Ayub",
+            "venue": "BMC genetics 21 (1), 31, 2020",
+            "year": "2020",
+            "citations": 7
+        },
+        {
+            "title": "Reduced contact lifting of latent fingerprint",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "Sketch attacks: A note on designing video encryption method in H. 264/AVC",
+            "authors": "K Minemura, KS Wong",
+            "venue": "Signal and Information Processing Association Annual Summit and Conference …, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "Multi-oriented text detection for intra-frame in H. 264/AVC video",
+            "authors": "K Minemura, S Palaiahnakote, KS Wong",
+            "venue": "2014 International Symposium on Intelligent Signal Processing and …, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "Learning a weighted semantic manifold for content-based image retrieval",
+            "authors": "R Chang, Z Xiao, KS Wong, X Qi",
+            "venue": "2012 19th IEEE International Conference on Image Processing, 2401-2404, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "Reversible data embedding in Golomb-Rice code",
+            "authors": "MSA Karim, KS Wong, K Tanaka",
+            "venue": "2011 IEEE International Conference on Signal and Image Processing …, 2011",
+            "year": "2011",
+            "citations": 7
+        },
+        {
+            "title": "Scalable scrambling method using unified constructive permutation function",
+            "authors": "K Wong, K Tanaka",
+            "venue": "Proceedings of the iieej image electronics and visual computing workshop, 2010",
+            "year": "2010",
+            "citations": 7
+        },
+        {
+            "title": "Multi-mmlg: a novel framework of extracting multiple main melodies from MIDI files",
+            "authors": "J Zhao, D Taniar, K Adhinugraha, VM Baskaran, KS Wong",
+            "venue": "Neural Computing and Applications 35 (30), 22687-22704, 2023",
+            "year": "2023",
+            "citations": 6
+        },
+        {
+            "title": "Image watermarking based on saliency detection and multiple transformations",
+            "authors": "A Khan, KS Wong, VM Baskaran",
+            "venue": "2022 Asia-Pacific Signal and Information Processing Association Annual …, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Descover: Debiased semantic context prior for venue recommendation",
+            "authors": "S Rajanala, A Pal, M Singh, RCW Phan, KS Wong",
+            "venue": "Proceedings of the 45th International ACM SIGIR Conference on Research and …, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Complete quality preserving data hiding in animated GIF with reversibility and scalable capacity functionalities",
+            "authors": "KS Wong, MNM Nazeeb, JL Dugelay",
+            "venue": "International Workshop on Digital Watermarking, 125-135, 2020",
+            "year": "2020",
+            "citations": 6
+        },
+        {
+            "title": "Reversible data hiding in PDF document exploiting prefix zeros in glyph coordinates",
+            "authors": "N Nursiah, KS Wong, M Kuribayashi",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 6
+        },
+        {
+            "title": "Planting attack on latent fingerprints",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "IET Biometrics 7 (5), 396-404, 2018",
+            "year": "2018",
+            "citations": 6
+        },
+        {
+            "title": "Authentication for aac compressed audio using data hiding",
+            "authors": "IM Maung, Y Tew, KS Wong",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 6
+        },
+        {
+            "title": "Real-time high-resolution downsampling algorithm on many-core processor for spatially scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "Journal of Electronic Imaging 24 (1), 013025-013025, 2015",
+            "year": "2015",
+            "citations": 6
+        },
+        {
+            "title": "An efficient sign prediction method for DCT coefficients and its application to reversible data embedding in scrambled JPEG image",
+            "authors": "RM Rad, KS Wong",
+            "venue": "2013 IEEE International Conference on Image Processing, 4442-4446, 2013",
+            "year": "2013",
+            "citations": 6
+        },
+        {
+            "title": "Dynamic semantic feature-based long-term cross-session learning approach to content-based image retrieval",
+            "authors": "Z Xiao, MJ Clark, KS Wong, X Qi",
+            "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012",
+            "year": "2012",
+            "citations": 6
+        },
+        {
+            "title": "Trade-off independent image watermarking using enhanced structured matrix decomposition",
+            "authors": "A Khan, KS Wong, VM Baskaran",
+            "venue": "Multimedia Tools and Applications 84 (4), 1877-1905, 2025",
+            "year": "2025",
+            "citations": 5
+        },
+        {
+            "title": "Arthdr-net: Perceptually realistic and accurate hdr content creation",
+            "authors": "HB Barua, G Krishnasamy, KS Wong, K Stefanov, A Dhall",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 5
+        },
+        {
+            "title": "Risk score prediction model based on single nucleotide polymorphism for predicting malaria: a machine learning approach",
+            "authors": "KY Tai, J Dhaliwal, KS Wong",
+            "venue": "BMC bioinformatics 23 (1), 325, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "Improved DM-QIM watermarking scheme for PDF document",
+            "authors": "M Kuribayashi, KS Wong",
+            "venue": "International Workshop on Digital Watermarking, 171-183, 2019",
+            "year": "2019",
+            "citations": 5
+        },
+        {
+            "title": "Data hiding in perceptually masked OpenEXR image",
+            "authors": "KL Chia, KS Wong, JL Dugelay",
+            "venue": "2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP …, 2019",
+            "year": "2019",
+            "citations": 5
+        },
+        {
+            "title": "Data embedding in scalable coded video",
+            "authors": "LL Pang, KS Wong, ST Liong",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 5
+        },
+        {
+            "title": "Reversible data hiding for compression-friendly image encryption method",
+            "authors": "KS Wong, H Kiya",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 5
+        },
+        {
+            "title": "Joint selective encryption and data embedding technique in HEVC video",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2016 Asia-Pacific Signal and Information Processing Association Annual …, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Reversible data hiding methods based on audio and video synchronization in mp4 container",
+            "authors": "I MaungMaung, KS Wong, K Tanaka",
+            "venue": "2016 International Symposium on Intelligent Signal Processing and …, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Low complexity watermarking scheme for scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "John See, Raphael C.-W. Phan, Yee-Hui Oh, Anh Cat Le Ngo, Kok-Sheik Wong, and Su-Wei Tan. Spontaneous subtle expression detection and recognition based on facial strain",
+            "authors": "ST Liong",
+            "venue": "Signal Processing: Image Communication 47, 170-182, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Amogel: a multi-omics classification framework using associative graph neural networks with prior knowledge for biomarker identification",
+            "authors": "CY Tan, HF Ong, CH Lim, MS Tan, EH Ooi, KS Wong",
+            "venue": "BMC bioinformatics 26 (1), 1-27, 2025",
+            "year": "2025",
+            "citations": 4
+        },
+        {
+            "title": "GTA-HDR: A large-scale synthetic dataset for HDR image reconstruction",
+            "authors": "HB Barua, K Stefanov, KS Wong, A Dhall, G Krishnasamy",
+            "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
+            "year": "2025",
+            "citations": 4
+        },
+        {
+            "title": "HDR image watermarking using saliency detection and quantization index modulation",
+            "authors": "A Khan, M Kuribayashi, KS Wong, VM Baskaran",
+            "venue": "arXiv preprint arXiv:2302.11361, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "A data embedding technique for spatial scalable coded video using motion vector predictor",
+            "authors": "LL Pang, KS Wong",
+            "venue": "2019 IEEE International Conference on Image Processing (ICIP), 4050-4054, 2019",
+            "year": "2019",
+            "citations": 4
+        },
+        {
+            "title": "A generalized approach for cancellable template and its realization for minutia cylinder-code",
+            "authors": "XB Dong, Z Jin, KS Wong",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "Dominant speaker detection in multipoint video communication using Markov chain with non-linear weights and dynamic transition window",
+            "authors": "VM Baskaran, YC Chang, J Loo, KS Wong, MT Gan",
+            "venue": "Information Sciences 463, 344-362, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "Rewritable data insertion in encrypted JPEG using coefficient prediction method",
+            "authors": "KY Tan, KS Wong, S Ong, K Tanaka",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Accurate facial landmark extraction",
+            "authors": "JM Guo, SH Tseng, KS Wong",
+            "venue": "IEEE Signal Processing Letters 23 (5), 605-609, 2016",
+            "year": "2016",
+            "citations": 4
+        },
+        {
+            "title": "Design and implementation of parallel video combiner architecture for multi-user video conferencing at ultra-high definition resolution",
+            "authors": "VM Baskaran, YC Chang, J Loo, KS Wong",
+            "venue": "Multimedia Tools and Applications 74 (17), 6589-6622, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "John See, Raphael C.-W. Phan, Anh Cat Le Ngo, Yee-Hui Oh, and KokSheik Wong. Subtle expression recognition using optical strain weighted features",
+            "authors": "ST Liong",
+            "venue": "Asian Conference on Computer Vision, 644-657, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Data fusion in universal domain using dual semantic code",
+            "authors": "MSA Karim, KS Wong",
+            "venue": "Information Sciences 283, 123-141, 2014",
+            "year": "2014",
+            "citations": 4
+        },
+        {
+            "title": "Data embedding for geo-tagging any contents in smart device",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "2014 IEEE REGION 10 SYMPOSIUM, 527-530, 2014",
+            "year": "2014",
+            "citations": 4
+        },
+        {
+            "title": "Reversible and tunable scrambling-embedding method",
+            "authors": "SY Ong, KS Wong, K Tanaka",
+            "venue": "2013 International Symposium on Intelligent Signal Processing and …, 2013",
+            "year": "2013",
+            "citations": 4
+        },
+        {
+            "title": "Building a real-time multiple H. 264 video streaming system based on intel IPP",
+            "authors": "VM Baskaran, YS Low, KS Wong",
+            "venue": "2010 IEEE Asia Pacific Conference on Circuits and Systems, 156-159, 2010",
+            "year": "2010",
+            "citations": 4
+        },
+        {
+            "title": "Complete video quality preserving data hiding with reversible functionality",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "2008 3rd International Symposium on Communications, Control and Signal …, 2008",
+            "year": "2008",
+            "citations": 4
+        },
+        {
+            "title": "HistoHDR-Net: Histogram equalization for single LDR to HDR image translation",
+            "authors": "HB Barua, G Krishnasamy, KS Wong, A Dhall, K Stefanov",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2730-2736, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Computational music: Analysis of music forms",
+            "authors": "J Zhao, KS Wong, VM Baskaran, K Adhinugraha, D Taniar",
+            "venue": "International Conference on Computational Science and Its Applications, 366-384, 2023",
+            "year": "2023",
+            "citations": 3
+        },
+        {
+            "title": "Recurrent network with attention for symbol detection in communication systems",
+            "authors": "K Chia, VM Baskaran, KS Wong, ML Sim, CH Chee",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "Image watermarking based on non-Newtonian effect and interpolated SWT-DWT",
+            "authors": "A Khan, KS Wong",
+            "venue": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Synthesize-it-classifier: Learning a generative classifier through recurrent self-analysis",
+            "authors": "A Pal, RCW Phan, KS Wong",
+            "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Merge mode-based data embedding in SHVC compressed video",
+            "authors": "LL Pang, KS Wong, R Ito",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "Authentication of mp4 file by joint data embedding in audio and video tracks",
+            "authors": "I MaungMaung, Y Tew, KS Wong",
+            "venue": "2016 Asia-Pacific Signal and Information Processing Association Annual …, 2016",
+            "year": "2016",
+            "citations": 3
+        },
+        {
+            "title": "John See, Raphael Chung-Wei Phan, and KokSheik Wong. Less is more: Micro-expression recognition from video using apex frame",
+            "authors": "ST Liong",
+            "venue": "arXiv preprint arXiv:1606.01721, 2016",
+            "year": "2016",
+            "citations": 3
+        },
+        {
+            "title": "Defining redundancy in Histogram of any signal for reversible data embedding",
+            "authors": "MSA Karim, KS Wong",
+            "venue": "2014 International Symposium on Intelligent Signal Processing and …, 2014",
+            "year": "2014",
+            "citations": 3
+        },
+        {
+            "title": "Bitstream size suppression for DCT-based information hiding method",
+            "authors": "KS Wong, S Ong, K Tanaka, X Qi",
+            "venue": "2011 International Symposium on Intelligent Signal Processing and …, 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "A message verification scheme based on physical layer-enabled data hiding for flying ad hoc network",
+            "authors": "D Mallikarachchi, KS Wong, JMY Lim",
+            "venue": "Multimedia Tools and Applications 83 (32), 77165-77185, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "On the security risk of pre-image attack on cancelable biometrics",
+            "authors": "X Dong, J Park, Z Jin, ABJ Teoh, M Tistarelli, K Wong",
+            "venue": "Journal of King Saud University-Computer and Information Sciences 36 (5), 102060, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "l2match: Optimization techniques on subgraph matching algorithm using label pair, neighboring label index, and jump-redo method",
+            "authors": "CQ Cheng, KS Wong, LK Soon",
+            "venue": "2024 International Conference on Electronics, Information, and Communication …, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Is it Violin or Viola? Classifying the Instruments’ Music Pieces using Descriptive Statistics",
+            "authors": "CH Tan, K Wong, VM Baskaran, K Adhinugraha, D Taniar",
+            "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 19 …, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Strengthening speech content authentication against tampering",
+            "authors": "RCW Phan, YY Low, KS Wong, K Minemura",
+            "venue": "Speech Communication 129, 41-57, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Delving into the methods of coverless image steganography",
+            "authors": "S Ong, KS Wong",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "Rewritable data embedding in jpeg xt image using coefficient count across layers",
+            "authors": "J Ting, KS Wong, S Ong",
+            "venue": "2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "Dual layer video stream in HEVC through information hiding",
+            "authors": "Y Tew, KS Wong, VM Baskaran",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 15-16, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Reversible data hiding by adaptive modification of prediction errors",
+            "authors": "R Moradi Rad, SY Ong, KS Wong",
+            "venue": "Proceedings of the 1st international workshop on Information hiding and its …, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Quality degradative reversible data embedding using pixel replacement",
+            "authors": "RM Rad, KS Wong",
+            "venue": "2013 Visual Communications and Image Processing (VCIP), 1-6, 2013",
+            "year": "2013",
+            "citations": 2
+        },
+        {
+            "title": "Reversible data embedding for any digital signal",
+            "authors": "MSA Karim, KS Wong, K Tanaka",
+            "venue": "2012 5th International Symposium on Communications, Control and Signal …, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "Improvement of StegErmelc with hybrid recursive matrix encoding",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "2008 International Symposium on Intelligent Signal Processing and …, 2009",
+            "year": "2009",
+            "citations": 2
+        },
+        {
+            "title": "Graphical comparative study on DCT-based steganographic methods",
+            "authors": "KS Wong, K Tanaka, X Qi",
+            "venue": "2006 International Symposium on Intelligent Signal Processing and …, 2005",
+            "year": "2005",
+            "citations": 2
+        },
+        {
+            "title": "John See, Raphael CW Phan, Anh Cat Le Ngo, Yee-Hui Oh, and KokSheik Wong (2014).“Subtle expression recognition using optical strain weighted features”",
+            "authors": "ST Liong",
+            "venue": "Asian Conference on Computer Vision. Springer, 644-657, 0",
+            "year": "",
+            "citations": 2
+        },
+        {
+            "title": "A permutation-based reversible data hiding method with zero visual distortion",
+            "authors": "W Zhu, KS Wong, M Kuribayashi",
+            "venue": "2024 Asia Pacific Signal and Information Processing Association Annual …, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "LLM-HDR: Bridging LLM-based Perception and Self-Supervision for Unpaired LDR-to-HDR Image Reconstruction",
+            "authors": "HB Barua, K Stefanov, LLE Che, A Dhall, KS Wong, G Krishnasamy",
+            "venue": "arXiv preprint arXiv:2410.15068, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Music Form Analysis: A Case Study of The Theme and Variations Form",
+            "authors": "J Zhao, KS Wong, VM Baskaran, K Adhinugraha, D Taniar",
+            "venue": "2024 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Tone-mapping resilient HDR image watermarking based on multi-transforms and saliency detection",
+            "authors": "A Khan, KS Wong, M Kuribayashi, VM Baskaran",
+            "venue": "2024 International Conference on Electronics, Information, and Communication …, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "A novel image descriptor based on dot-diffused block truncation coding with bit probability",
+            "authors": "D Riyono, CC Sun, JM Guo, KS Wong",
+            "venue": "Journal of Ambient Intelligence and Humanized Computing 14 (11), 14841-14858, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "CapFormer: A Space-Time Video Description Model using Joint-Attention Transformer",
+            "authors": "M Moussa, CH Lim, KS Wong",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "HDR image watermarking based on saliency detection and quantization index modulation",
+            "authors": "A Khan, M Kuribayashi, KS Wong, VM Baskaran",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Neural data-to-text generation: An encoder-decoder structure with Multi-Candidate-based Context Module",
+            "authors": "JM Guo, KS Wong, BR Cheng, CH Chung",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Detection For Non-Genuine Identification Documents",
+            "authors": "C Yap, KS Wong, G Krishnasamy, IKT Tan",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Moving object detection in hevc video",
+            "authors": "LL Pang, KS Wong",
+            "venue": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Computational Intelligence-based Real-time Lane Departure Warning System Using Gabor Features",
+            "authors": "R Sutopo, TT Yau, JMY Lim, KS Wong",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Encryption and data insertion technique using region division and histogram manipulation",
+            "authors": "R Ito, KS Wong, S Ong, K Tanaka",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "Data hiding in MP4 video container based on subtitle track",
+            "authors": "CS Chan, KS Wong, I Maungmuang",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "Dominant speaker detection using discrete Markov chain for multi-user video conferencing",
+            "authors": "VM Baskaran, YC Chang, J Loo, KS Wong, MT Gan",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 492-493, 2015",
+            "year": "2015",
+            "citations": 1
+        },
+        {
+            "title": "A preliminary study on data hiding into JPEG-XR compressed image",
+            "authors": "K Minemura, K Wong",
+            "venue": "ITE Technical Report 37.35, 43-46, 2013",
+            "year": "2013",
+            "citations": 1
+        },
+        {
+            "title": "Re-conceptualization of applications achieved by data hiding",
+            "authors": "MSA Karim, KS Wong",
+            "venue": "2012 International Symposium on Intelligent Signal Processing and …, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Improvement on Reversible Data Embedding Method using Virtual Queue Decomposition",
+            "authors": "S Ong, K Wong, K Tanaka",
+            "venue": "Proceedings of the IIEEJ Image Electronics and Visual Computing Workshop, 6, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Improvements of data embedding in DCT compressed domain",
+            "authors": "KS Wong, MSA Karim, K Tanaka",
+            "venue": "Proceedings of 2011 IEEE Pacific Rim Conference on Communications, Computers …, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "A novel Mod4-based steganographic method",
+            "authors": "KS Wong",
+            "venue": "Utah State University, 2005",
+            "year": "2005",
+            "citations": 1
+        },
+        {
+            "title": "Conceptualizing Multi-scale Wavelet Attention and Ray-based Encoding for Human-Object Interaction Detection",
+            "authors": "QB Pay, VM Baskaran, JY Loo, KS Wong, S See",
+            "venue": "arXiv preprint arXiv:2507.10977, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "SpaRTAN: Spatial Reinforcement Token-based Aggregation Network for Visual Recognition",
+            "authors": "QB Pay, VM Baskaran, JY Loo, KS Wong, S See",
+            "venue": "arXiv preprint arXiv:2507.10999, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "On The Notion of Complete Quality Preserving in Data Hiding",
+            "authors": "D Variya, NCY Kiat, S Ong, KS Wong",
+            "venue": "2025 International Conference on Electronics, Information, and Communication …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Reimagining Violent Action Detection with Human-Object Interaction",
+            "authors": "VM Baskaran, R Sutopo, JY Lim, JMY Lim, KS Wong",
+            "venue": "2024 IEEE International Conference on Advanced Video and Signal Based …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Efficient GANs for Document Image Binarization Based on DWT and Normalization",
+            "authors": "RY Ju, KS Wong, JS Chiang",
+            "venue": "arXiv preprint arXiv:2407.04231, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction",
+            "authors": "H Bakul Barua, K Stefanov, KS Wong, A Dhall, G Krishnasamy",
+            "venue": "arXiv e-prints, arXiv: 2403.17837, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation",
+            "authors": "H Bakul Barua, G Krishnasamy, KS Wong, A Dhall, K Stefanov",
+            "venue": "arXiv e-prints, arXiv: 2402.06692, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "A Cycle Ride to HDR: Semantics Aware Self-Supervised Framework for Unpaired LDR-to-HDR Image Translation",
+            "authors": "HB Barua, K Stefanov, LLE Che, A Dhall, K Wong, G Krishnasamy",
+            "venue": "CoRR, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": ": Cryptographically Distinguishing Autoencoder for Cipher Cryptanalysis",
+            "authors": "RCW Phan, A Pal, KS Wong, S Rajanala",
+            "venue": "GLOBECOM 2023-2023 IEEE Global Communications Conference, 4467-4472, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "ScratchHOI: Training Human-Object Interaction Detectors from Scratch",
+            "authors": "JY Lim, VM Baskaran, JMY Lim, R Sutopo, KS Wong, M Tistarelli",
+            "venue": "2023 IEEE International Conference on Image Processing (ICIP), 1690-1694, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "ArtHDR-Net: Perceptually Realistic and Accurate HDR Content Creation",
+            "authors": "H Bakul Barua, G Krishnasamy, KS Wong, K Stefanov, A Dhall",
+            "venue": "arXiv e-prints, arXiv: 2309.03827, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Improved Median-Filtered Data Embedding Method for Image Enhancement",
+            "authors": "S Ong, KS Wong",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Guess-It-Generator: Generating in a Lewis Signaling Framework through Logical Reasoning",
+            "authors": "A Pal, S Rajanala, R Phan, K Wong",
+            "venue": "Proceedings of the 30th ACM International Conference on Multimedia, 6396-6405, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "An Extended Reversible Data Hiding Method for HDR Images Using Edge Estimation",
+            "authors": "M Ueda, S Imaizumi, KS Wong",
+            "venue": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Improved Coefficient Recovery and Its Application for Rewritable Data Embedding",
+            "authors": "A Sii, S Ong, KS Wong",
+            "venue": "Journal of Imaging 7 (11), 244, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Rewritable data embedding in image based on improved coefficient recovery",
+            "authors": "A Sii, S Ong, MC Wee, KS Wong",
+            "venue": "2021 IEEE International Conference on Signal and Image Processing …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Data Embedding in SHVC Video Using Threshold-Controlled Block Splitting",
+            "authors": "LL Pang, KS Wong, Y Tew, S Rahardja",
+            "venue": "Applied Sciences 11 (11), 4850, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "CUPSEED-A combined use of prediction syntax elements to embed data in SHVC video",
+            "authors": "LL Pang, Y Tew, KS Wong, MNB Ayub",
+            "venue": "Multimedia Tools and Applications 80 (9), 13121-13142, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Towards a machine learning based identifier-free face cryptosystem",
+            "authors": "X Dong",
+            "venue": "Monash University, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Data Embedding Method Using Photo Effects with Resistance to Compression",
+            "authors": "WKW Yeong, S Ong, KS Wong",
+            "venue": "2020 Asia-Pacific Signal and Information Processing Association Annual …, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Extending Egocentric Vision into Vehicles: Malaysian Dash-Cam Dataset",
+            "authors": "M Moussa, CH Lim, KS Wong",
+            "venue": "International Conference on Intelligent Robotics and Applications, 270-281, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Improvements on Data Insertion Technique in Encrypted Image against Lossy Compression",
+            "authors": "R Ito, K Tanaka, KS Wong, S Ong",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Reversible Data Embedding For Fingerprint Minutiae Templates Authentication",
+            "authors": "YL Lai, MJ Lee, Z Jin, KS Wong",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Improved DM-QIM Watermarking for PDF Document",
+            "authors": "M Kuribayashi, KS Wong",
+            "venue": "IEICE Technical Report; IEICE Tech. Rep. 119 (48), 49-53, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Redesigning data hiding: Interpolation-based scrambling-embedding method",
+            "authors": "S Ong, KS Wong, K Tanaka",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Welcome Message from TPC Chair",
+            "authors": "YC Fan, CP Fan, H Nishino, K Wong",
+            "venue": "IEEE International Conference on Consumer Electronics-Taiwan 2016, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Using IP identification for fragmentation resilient data embedding",
+            "authors": "OI Abdullaziz, VT Goh, HC Ling, KS Wong",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 11-12, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Reversible multiple messages embedding using reflective blocks",
+            "authors": "SY Ong, KS Wong",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 17-18, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Recent Advances in Data Hiding",
+            "authors": "W kokSheik, K TANAKA",
+            "venue": "IIEEJ transactions on image electronics and visual computing 3 (1), 9-18, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "See John, Phan Raphael CW, Cat Anh Ngo Le, Oh Yee-Hui, and Wong KokSheik,“",
+            "authors": "L Sze-Teng",
+            "venue": "Subtle expression recognition using optical strain weighted features”, in …, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "A survey of network protocol based steganographic techniques",
+            "authors": "OI Abdullaziz Ibrahiem, VT Goh, HC Ling",
+            "venue": "Institute for Mathematical Research (INSPEM), 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "A Rewritable Data Embedding in JPEG-XR Compressed Image with File Size Preservation",
+            "authors": "K Minemura, KS Wong",
+            "venue": "International Visual Informatics Conference, 569-580, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Reversible and tunable scrambling-embedding method",
+            "authors": "K Tanaka, KS Wong, S Ong",
+            "venue": "2013 International Symposium on Intelligent Signal Processing and …, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "A Preliminary Study of Steganalysis on Half-tone Image",
+            "authors": "MAA Jani, KL Chiew, KS Wong",
+            "venue": "ITE Technical Report 37.35, 39-42, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Complete Video Quality Preserving Data Hiding for Multimedia Indexing",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "IntechOpen, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Improvements of StegErmelc Steganographic Method Using Hybrid Recursive Matrix Encoding",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "The Journal of the Institute of Image Electronics Engineers of Japan 38 (5 …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Complete Video Quality Preserving Data Hiding in MPEG Domain with Reverse Zerorun Length Data Representation Scheme",
+            "authors": "K Wong, K Tanaka",
+            "venue": "The Journal of the Institute of Image Electronics Engineers of Japan 37 (5 …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "An efficient data representation scheme for complete video quality preserving data hiding",
+            "authors": "KS Wong, K Tanaka, K Takagi, Y Nakajima",
+            "venue": "2008 IEEE International Conference on Multimedia and Expo, 913-916, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Reverse Zerorun Length Data Representation Scheme for Complete Video Quality Preserving Data Hiding Method",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "Proceedings of the Annual Conference of the Institute of Image Electronics …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Multiple Messages Embedding Using DCT-based Mod4 Steganographic Method",
+            "authors": "KS Wong, K Tanaka",
+            "venue": "The Journal of the Institute of Image Electronics Engineers of Japan 36 (5 …, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Graphical Comparative Study on DCT-based Steganographic Methods",
+            "authors": "X Qi, KS Wong, K Tanaka",
+            "venue": "2006 International Symposium on Intelligent Signal Processing and Communications, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "Multiple Messages Embedding Using DCT-Based Mod4 Steganographic Method",
+            "authors": "X Qi, K Tanaka, KS Wong",
+            "venue": "(No Title), 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "Multimedia Content Security: Steganography/Watermarking/Authentication-Multiple Messages Embedding Using DCT-Based Mod4 Steganographic Method",
+            "authors": "KS Wong, K Tanaka, X Qi",
+            "venue": "Lecture Notes in Computer Science 4105, 57-65, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "Image/Video Processing",
+            "authors": "KQ Dinh, B Jeon, K Minemura, K Wong, RCW Phan, K Tanaka",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "APSIPA ASC 2021 Organizing Committee",
+            "authors": "S Furui, KJR Liu, CCJ Kuo, H Li, WC Siu, H Kiya, T Kawahara, K Takeda, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "REVERSIBLE VISIBLE WATERMARK TECHNIQUE IN DCT COMPRESSED DOMAIN",
+            "authors": "K Minemura, KS Wong",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Technical Sponsor",
+            "authors": "YO Su, RCH Chang, PJ Lee, JM Guo, YUC Fan, CP Fan, KS Wong, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "IMPROVEMENTS OF DUPLICATION FREE RUN-LENGTH CODING FOR TEXTURED IMAGES",
+            "authors": "MSA Karim, KS Wong",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "INFORMATION HIDING IN TRANSITIONAL REGIONS FOR DCT COMPRESSED",
+            "authors": "Z Moayed, K Wong",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "A SURVEY OF INFORMATION HIDING IN H. 264/AVC",
+            "authors": "Y Tew, KS Wong",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

@@ -1,0 +1,2373 @@
+{
+    "author_id": "7Gho1l0AAAAJ",
+    "name": "Jing-Ming Guo",
+    "affiliations": "IEEE Fellow, Professor, Department of Electrical Engineering, Taiwan Tech",
+    "metrics": [
+        {
+            "citations": {
+                "all": 5609,
+                "since_2020": 2188
+            }
+        },
+        {
+            "h_index": {
+                "all": 42,
+                "since_2020": 23
+            }
+        },
+        {
+            "i10_index": {
+                "all": 113,
+                "since_2020": 58
+            }
+        }
+    ],
+    "co_authors": [],
+    "articles": [
+        {
+            "title": "License plate localization and character segmentation with feedback self-learning and hybrid binarization techniques",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE transactions on vehicular technology 57 (3), 1417-1424, 2008",
+            "year": "2008",
+            "citations": 248
+        },
+        {
+            "title": "Fusion of color histogram and LBP-based features for texture image retrieval and classification",
+            "authors": "P Liu, JM Guo, K Chamnongthai, H Prasetyo",
+            "venue": "Information Sciences 390, 95-111, 2017",
+            "year": "2017",
+            "citations": 210
+        },
+        {
+            "title": "Fusion of deep learning and compressed domain features for content-based image retrieval",
+            "authors": "P Liu, JM Guo, CY Wu, D Cai",
+            "venue": "IEEE Transactions on Image Processing 26 (12), 5706-5717, 2017",
+            "year": "2017",
+            "citations": 164
+        },
+        {
+            "title": "Content-based image retrieval using features extracted from halftoning-based block truncation coding",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "IEEE Transactions on image processing 24 (3), 1010-1024, 2014",
+            "year": "2014",
+            "citations": 154
+        },
+        {
+            "title": "False-positive-free SVD-based image watermarking",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "Journal of Visual Communication and Image Representation 25 (5), 1149-1163, 2014",
+            "year": "2014",
+            "citations": 145
+        },
+        {
+            "title": "Hierarchical method for foreground detection using codebook model",
+            "authors": "JM Guo, YF Liu, CH Hsia, MH Shih, CS Hsu",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 21 (6), 804-815, 2011",
+            "year": "2011",
+            "citations": 132
+        },
+        {
+            "title": "Fast background subtraction based on a multilayer codebook model for moving object detection",
+            "authors": "JM Guo, CH Hsia, YF Liu, MH Shih, CH Chang, JY Wu",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 23 (10), 1809 …, 2013",
+            "year": "2013",
+            "citations": 125
+        },
+        {
+            "title": "Content-based image retrieval using error diffusion block truncation coding features",
+            "authors": "JM Guo, H Prasetyo, JH Chen",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 25 (3), 466-481, 2014",
+            "year": "2014",
+            "citations": 121
+        },
+        {
+            "title": "Driver drowsiness detection using hybrid convolutional neural network and long short-term memory",
+            "authors": "JM Guo, H Markoni",
+            "venue": "Multimedia tools and applications 78 (20), 29059-29087, 2019",
+            "year": "2019",
+            "citations": 107
+        },
+        {
+            "title": "Hybrid pixel-based data hiding and block-based watermarking for error-diffused halftone images",
+            "authors": "SC Pei, JM Guo",
+            "venue": "IEEE transactions on circuits and systems for video technology 13 (8), 867-884, 2003",
+            "year": "2003",
+            "citations": 107
+        },
+        {
+            "title": "Improved block truncation coding based on the void-and-cluster dithering approach",
+            "authors": "JM Guo, MF Wu",
+            "venue": "IEEE Transactions on image processing 18 (1), 211-213, 2008",
+            "year": "2008",
+            "citations": 98
+        },
+        {
+            "title": "Improved block truncation coding using optimized dot diffusion",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE Transactions on Image Processing 23 (3), 1269-1275, 2013",
+            "year": "2013",
+            "citations": 95
+        },
+        {
+            "title": "Contact-free hand geometry-based identification system",
+            "authors": "JM Guo, CH Hsia, YF Liu, JC Yu, MH Chu, TN Le",
+            "venue": "Expert Systems with Applications 39 (14), 11728-11736, 2012",
+            "year": "2012",
+            "citations": 93
+        },
+        {
+            "title": "Memory-efficient hardware architecture of 2-D dual-mode lifting-based discrete wavelet transform",
+            "authors": "CH Hsia, JS Chiang, JM Guo",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 23 (4), 671-683, 2012",
+            "year": "2012",
+            "citations": 87
+        },
+        {
+            "title": "BARNet: Boundary aware refinement network for crack detection",
+            "authors": "JM Guo, H Markoni, JD Lee",
+            "venue": "IEEE Transactions on Intelligent Transportation Systems 23 (7), 7343-7358, 2021",
+            "year": "2021",
+            "citations": 79
+        },
+        {
+            "title": "An efficient fusion-based defogging",
+            "authors": "JM Guo, J Syue, VR Radzicki, H Lee",
+            "venue": "IEEE Transactions on Image Processing 26 (9), 4217-4228, 2017",
+            "year": "2017",
+            "citations": 79
+        },
+        {
+            "title": "Duplication forgery detection using improved DAISY descriptor",
+            "authors": "JM Guo, YF Liu, ZJ Wu",
+            "venue": "Expert Systems with Applications 40 (2), 707-714, 2013",
+            "year": "2013",
+            "citations": 78
+        },
+        {
+            "title": "Fingerprint classification based on decision tree from singular points and orientation field",
+            "authors": "JM Guo, YF Liu, JY Chang, JD Lee",
+            "venue": "Expert Systems with Applications 41 (2), 752-764, 2014",
+            "year": "2014",
+            "citations": 75
+        },
+        {
+            "title": "Improved block truncation coding using modified error diffusion",
+            "authors": "JM Guo",
+            "venue": "Electronics Letters 44 (7), 462-464, 2008",
+            "year": "2008",
+            "citations": 71
+        },
+        {
+            "title": "Improved low-complexity algorithm for 2-D integer lifting-based discrete wavelet transform using symmetric mask-based scheme",
+            "authors": "CH Hsia, JM Guo, JS Chiang",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 19 (8), 1202-1208, 2009",
+            "year": "2009",
+            "citations": 67
+        },
+        {
+            "title": "Image indexing using the color and bit pattern feature fusion",
+            "authors": "JM Guo, H Prasetyo, HS Su",
+            "venue": "Journal of Visual Communication and Image Representation 24 (8), 1360-1379, 2013",
+            "year": "2013",
+            "citations": 63
+        },
+        {
+            "title": "Complexity reduced face detection using probability-based face mask prefiltering and pixel-based hierarchical-feature adaboosting",
+            "authors": "JM Guo, CC Lin, MF Wu, CH Chang, H Lee",
+            "venue": "IEEE Signal Processing Letters 18 (8), 447-450, 2011",
+            "year": "2011",
+            "citations": 63
+        },
+        {
+            "title": "Reversible data hiding based on histogram modification of SMVQ indices",
+            "authors": "JD Lee, YH Chiou, JM Guo",
+            "venue": "IEEE Transactions on Information Forensics and Security 5 (4), 638-648, 2010",
+            "year": "2010",
+            "citations": 63
+        },
+        {
+            "title": "Data hiding in halftone images with noise-balanced error diffusion",
+            "authors": "SC Pei, JM Guo",
+            "venue": "IEEE signal processing letters 10 (12), 349-351, 2003",
+            "year": "2003",
+            "citations": 61
+        },
+        {
+            "title": "A unified data embedding and scrambling method",
+            "authors": "RM Rad, KS Wong, JM Guo",
+            "venue": "IEEE Transactions on Image processing 23 (4), 1463-1475, 2014",
+            "year": "2014",
+            "citations": 60
+        },
+        {
+            "title": "Halftone image classification using LMS algorithm and naive Bayes",
+            "authors": "YF Liu, JM Guo, JD Lee",
+            "venue": "IEEE Transactions on Image Processing 20 (10), 2837-2847, 2011",
+            "year": "2011",
+            "citations": 60
+        },
+        {
+            "title": "Effective image retrieval system using dot-diffused block truncation coding features",
+            "authors": "JM Guo, H Prasetyo, NJ Wang",
+            "venue": "IEEE Transactions on Multimedia 17 (9), 1576-1590, 2015",
+            "year": "2015",
+            "citations": 57
+        },
+        {
+            "title": "Nighttime vehicle lamp detection and tracking with adaptive mask training",
+            "authors": "JM Guo, CH Hsia, KS Wong, JY Wu, YT Wu, NJ Wang",
+            "venue": "IEEE Transactions on Vehicular Technology 65 (6), 4023-4032, 2015",
+            "year": "2015",
+            "citations": 56
+        },
+        {
+            "title": "Security analyses of the watermarking scheme based on redundant discrete wavelet transform and singular value decomposition",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "AEU-International Journal of Electronics and Communications 68 (9), 816-834, 2014",
+            "year": "2014",
+            "citations": 56
+        },
+        {
+            "title": "Inverse halftoning based on the Bayesian theorem",
+            "authors": "YF Liu, JM Guo, JD Lee",
+            "venue": "IEEE Transactions on Image Processing 20 (4), 1077-1084, 2010",
+            "year": "2010",
+            "citations": 56
+        },
+        {
+            "title": "Joint compression/watermarking scheme using majority-parity guidance and halftoning-based block truncation coding",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE transactions on image processing 19 (8), 2056-2069, 2010",
+            "year": "2010",
+            "citations": 54
+        },
+        {
+            "title": "Lossless data hiding for VQ indices based on neighboring correlation",
+            "authors": "JD Lee, YH Chiou, JM Guo",
+            "venue": "Information Sciences 221, 419-438, 2013",
+            "year": "2013",
+            "citations": 52
+        },
+        {
+            "title": "Improved hand tracking system",
+            "authors": "JM Guo, YF Liu, CH Chang, HS Nguyen",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 22 (5), 693-701, 2011",
+            "year": "2011",
+            "citations": 52
+        },
+        {
+            "title": "Secret communication using JPEG double compression",
+            "authors": "JM Guo, TN Le",
+            "venue": "IEEE Signal Processing Letters 17 (10), 879-882, 2010",
+            "year": "2010",
+            "citations": 49
+        },
+        {
+            "title": "Efficient modified directional lifting-based discrete wavelet transform for moving object detection",
+            "authors": "CH Hsia, JM Guo",
+            "venue": "signal Processing 96, 138-152, 2014",
+            "year": "2014",
+            "citations": 48
+        },
+        {
+            "title": "Reversible data hiding by adaptive group modification on histogram of prediction errors",
+            "authors": "RM Rad, KS Wong, JM Guo",
+            "venue": "Signal Processing 125, 315-328, 2016",
+            "year": "2016",
+            "citations": 46
+        },
+        {
+            "title": "Improved beta chaotic image encryption for multiple secret sharing",
+            "authors": "JM Guo, D Riyono, H Prasetyo",
+            "venue": "IEEE Access 6, 46297-46321, 2018",
+            "year": "2018",
+            "citations": 44
+        },
+        {
+            "title": "Watermarking in dithered halftone images with embeddable cells selection and inverse halftoning",
+            "authors": "JM Guo",
+            "venue": "Signal Processing 88 (6), 1496-1510, 2008",
+            "year": "2008",
+            "citations": 44
+        },
+        {
+            "title": "High-capacity data hiding in halftone images using minimal-error bit searching and least-mean square filter",
+            "authors": "SC Pei, JM Guo",
+            "venue": "IEEE Transactions on Image Processing 15 (6), 1665-1679, 2006",
+            "year": "2006",
+            "citations": 44
+        },
+        {
+            "title": "A weakly supervised deep learning-based method for glioma subtype classification using WSI and mpMRIs",
+            "authors": "WW Hsu, JM Guo, L Pei, LA Chiang, YF Li, JC Hsiao, R Colen, P Liu",
+            "venue": "Scientific Reports 12 (1), 6111, 2022",
+            "year": "2022",
+            "citations": 43
+        },
+        {
+            "title": "High efficiency ordered dither block truncation coding with dither array LUT and its scalable coding application",
+            "authors": "JM Guo",
+            "venue": "Digital Signal Processing 20 (1), 97-110, 2010",
+            "year": "2010",
+            "citations": 43
+        },
+        {
+            "title": "High capacity data hiding for error-diffused block truncation coding",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE transactions on image processing 21 (12), 4808-4818, 2012",
+            "year": "2012",
+            "citations": 42
+        },
+        {
+            "title": "Contrast enhancement using stratified parametric-oriented histogram equalization",
+            "authors": "YF Liu, JM Guo, JC Yu",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 27 (6), 1171-1181, 2016",
+            "year": "2016",
+            "citations": 40
+        },
+        {
+            "title": "A note on multiple secret sharing using Chinese remainder theorem and exclusive-OR",
+            "authors": "H Prasetyo, JM Guo",
+            "venue": "IEEE Access 7, 37473-37497, 2019",
+            "year": "2019",
+            "citations": 38
+        },
+        {
+            "title": "Evolutionary multi-task optimization with hybrid knowledge transfer strategy",
+            "authors": "Y Cai, D Peng, P Liu, JM Guo",
+            "venue": "Information Sciences 580, 874-896, 2021",
+            "year": "2021",
+            "citations": 37
+        },
+        {
+            "title": "Oriented modulation for watermarking in direct binary search halftone images",
+            "authors": "JM Guo, CC Su, YF Liu, H Lee, JD Lee",
+            "venue": "IEEE transactions on image processing 21 (9), 4117-4127, 2012",
+            "year": "2012",
+            "citations": 37
+        },
+        {
+            "title": "A fast Discrete Wavelet Transform algorithm for visual processing applications",
+            "authors": "CH Hsia, JM Guo, JS Chiang",
+            "venue": "Signal Processing 92 (1), 89-106, 2012",
+            "year": "2012",
+            "citations": 37
+        },
+        {
+            "title": "Watermarking in conjugate ordered dither block truncation coding images",
+            "authors": "JM Guo, MF Wu, YC Kang",
+            "venue": "Signal Processing 89 (10), 1864-1882, 2009",
+            "year": "2009",
+            "citations": 37
+        },
+        {
+            "title": "Improved dot diffusion by diffused matrix and class matrix co-optimization",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE Transactions on Image Processing 18 (8), 1804-1816, 2009",
+            "year": "2009",
+            "citations": 37
+        },
+        {
+            "title": "Vehicle verification using Gabor filter magnitude with gamma distribution modeling",
+            "authors": "JM Guo, H Prasetyo, KS Wong",
+            "venue": "IEEE Signal Processing Letters 21 (5), 600-604, 2014",
+            "year": "2014",
+            "citations": 35
+        },
+        {
+            "title": "FastNet: Fast high-resolution network for human pose estimation",
+            "authors": "Y Luo, Z Ou, T Wan, JM Guo",
+            "venue": "Image and Vision Computing 119, 104390, 2022",
+            "year": "2022",
+            "citations": 34
+        },
+        {
+            "title": "Halftone-image security improving using overall minimal-error searching",
+            "authors": "JM Guo, YF Liu",
+            "venue": "IEEE Transactions on Image Processing 20 (10), 2800-2812, 2011",
+            "year": "2011",
+            "citations": 34
+        },
+        {
+            "title": "Multi-person pose estimation via multi-layer fractal network and joints kinship pattern",
+            "authors": "Y Luo, Z Xu, P Liu, Y Du, JM Guo",
+            "venue": "IEEE Transactions on Image Processing 28 (1), 142-155, 2018",
+            "year": "2018",
+            "citations": 32
+        },
+        {
+            "title": "The innovative university library: strategic choice, construction practices and development ideas",
+            "authors": "G Jing, C Jin",
+            "venue": "Library Management 30 (4/5), 295-308, 2009",
+            "year": "2009",
+            "citations": 31
+        },
+        {
+            "title": "Finger-vein recognition based on parametric-oriented corrections",
+            "authors": "CH Hsia, JM Guo, CS Wu",
+            "venue": "Multimedia Tools and Applications 76 (23), 25179-25196, 2017",
+            "year": "2017",
+            "citations": 30
+        },
+        {
+            "title": "A hybrid evolutionary multitask algorithm for the multiobjective vehicle routing problem with time windows",
+            "authors": "Y Cai, M Cheng, Y Zhou, P Liu, JM Guo",
+            "venue": "Information Sciences 612, 168-187, 2022",
+            "year": "2022",
+            "citations": 29
+        },
+        {
+            "title": "Watermarking in halftone images with parity-matched error diffusion",
+            "authors": "JM Guo, SC Pei, H Lee",
+            "venue": "Signal Processing 91 (1), 126-135, 2011",
+            "year": "2011",
+            "citations": 29
+        },
+        {
+            "title": "Novel robust watermarking technique in dithering halftone images",
+            "authors": "SC Pei, JM Guo, H Lee",
+            "venue": "IEEE Signal Processing Letters 12 (4), 333-336, 2005",
+            "year": "2005",
+            "citations": 29
+        },
+        {
+            "title": "Signer-independence finger alphabet recognition using discrete wavelet transform and area level run lengths",
+            "authors": "K Pattanaworapan, K Chamnongthai, JM Guo",
+            "venue": "Journal of Visual Communication and Image Representation 38, 658-677, 2016",
+            "year": "2016",
+            "citations": 28
+        },
+        {
+            "title": "Low complexity semi-fragile watermarking scheme for H. 264/AVC authentication",
+            "authors": "ME Farfoura, SJ Horng, JM Guo, A Al-Haj",
+            "venue": "Multimedia Tools and Applications 75 (13), 7465-7493, 2016",
+            "year": "2016",
+            "citations": 28
+        },
+        {
+            "title": "Hiding multitone watermarks in halftone images",
+            "authors": "JM Guo, YF Liu",
+            "venue": "Ieee Multimedia 17 (01), 34-43, 2010",
+            "year": "2010",
+            "citations": 28
+        },
+        {
+            "title": "Image retrieval using indexed histogram of void-and-cluster block truncation coding",
+            "authors": "JM Guo, H Prasetyo, H Lee, CC Yao",
+            "venue": "Signal Processing 123, 143-156, 2016",
+            "year": "2016",
+            "citations": 27
+        },
+        {
+            "title": "Vehicle verification using features from curvelet transform and generalized Gaussian distribution modeling",
+            "authors": "JM Guo, H Prasetyo, ME Farfoura, H Lee",
+            "venue": "IEEE Transactions on Intelligent Transportation Systems 16 (4), 1989-1998, 2015",
+            "year": "2015",
+            "citations": 27
+        },
+        {
+            "title": "Digital halftone database (DHD): A comprehensive analysis on halftone types",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 26
+        },
+        {
+            "title": "A low cost fragile watermarking scheme in H. 264/AVC compressed domain",
+            "authors": "SJ Horng, ME Farfoura, P Fan, X Wang, T Li, JM Guo",
+            "venue": "Multimedia Tools and Applications 72 (3), 2469-2495, 2014",
+            "year": "2014",
+            "citations": 26
+        },
+        {
+            "title": "High efficient contrast enhancement using parametric approximation",
+            "authors": "YF Liu, JM Guo, BS Lai, JD Lee",
+            "venue": "2013 IEEE International conference on acoustics, speech and signal …, 2013",
+            "year": "2013",
+            "citations": 25
+        },
+        {
+            "title": "Panoramic face recognition",
+            "authors": "YF Liu, JM Guo, PH Liu, JD Lee, CC Yao",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 28 (8), 1864-1874, 2017",
+            "year": "2017",
+            "citations": 24
+        },
+        {
+            "title": "Impact of the lips for biometrics",
+            "authors": "YF Liu, CY Lin, JM Guo",
+            "venue": "IEEE transactions on image processing 21 (6), 3092-3101, 2012",
+            "year": "2012",
+            "citations": 24
+        },
+        {
+            "title": "A new model-based digital halftoning and data hiding designed with LMS optimization",
+            "authors": "JM Guo",
+            "venue": "IEEE transactions on multimedia 9 (4), 687-700, 2007",
+            "year": "2007",
+            "citations": 24
+        },
+        {
+            "title": "Image processing method combining compression and watermark techniques",
+            "authors": "JM Guo, MF Wu",
+            "venue": "US Patent 8,395,822, 2013",
+            "year": "2013",
+            "citations": 23
+        },
+        {
+            "title": "Data-hiding in halftone images using adaptive noise-balanced error diffusion",
+            "authors": "JM Guo, JJ Tsai",
+            "venue": "IEEE MultiMedia 18 (02), 48-59, 2011",
+            "year": "2011",
+            "citations": 23
+        },
+        {
+            "title": "UformPose: A U-shaped hierarchical multi-scale keypoint-aware framework for human pose estimation",
+            "authors": "YJ Wang, YM Luo, GH Bai, JM Guo",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 33 (4), 1697-1709, 2022",
+            "year": "2022",
+            "citations": 21
+        },
+        {
+            "title": "A light-weight CNN for object detection with sparse model and knowledge distillation",
+            "authors": "JM Guo, JS Yang, S Seshathiri, HW Wu",
+            "venue": "Electronics 11 (4), 575, 2022",
+            "year": "2022",
+            "citations": 21
+        },
+        {
+            "title": "New class tiling design for dot-diffused halftoning",
+            "authors": "YF Liu, JM Guo",
+            "venue": "IEEE transactions on image processing 22 (3), 1199-1208, 2012",
+            "year": "2012",
+            "citations": 21
+        },
+        {
+            "title": "Surviving in the digital age by utilizing libraries' distinctive advantages",
+            "authors": "S Liu, S Liao, J Guo",
+            "venue": "The Electronic Library 27 (2), 298-307, 2009",
+            "year": "2009",
+            "citations": 21
+        },
+        {
+            "title": "Paired subimage matching watermarking method on ordered dither images and its high-quality progressive coding",
+            "authors": "JM Guo, SC Pei, H Lee",
+            "venue": "IEEE Transactions on Multimedia 10 (1), 16-30, 2008",
+            "year": "2008",
+            "citations": 21
+        },
+        {
+            "title": "Ocular recognition for blinking eyes",
+            "authors": "P Liu, JM Guo, SH Tseng, KS Wong, JD Lee, CC Yao, D Zhu",
+            "venue": "IEEE Transactions on Image Processing 26 (10), 5070-5081, 2017",
+            "year": "2017",
+            "citations": 20
+        },
+        {
+            "title": "Human face age estimation with adaptive hybrid features",
+            "authors": "JM Guo, YM Liou, HS Nguyen",
+            "venue": "Proceedings 2011 International Conference on System Science and Engineering …, 2011",
+            "year": "2011",
+            "citations": 20
+        },
+        {
+            "title": "我国生态工业园发展的 SWOT 分析",
+            "authors": "贾丽， 沈玉芳",
+            "venue": "长江流域资源与环境 16 (6), 711-714, 2007",
+            "year": "2007",
+            "citations": 20
+        },
+        {
+            "title": "Reversible data hiding in low complexity and high quality compression scheme",
+            "authors": "JM Guo, JJ Tsai",
+            "venue": "Digital Signal Processing 22 (5), 776-785, 2012",
+            "year": "2012",
+            "citations": 19
+        },
+        {
+            "title": "Progressive halftone watermarking using multilayer table lookup strategy",
+            "authors": "JM Guo, GH Lai, K Wong, LC Chang",
+            "venue": "IEEE Transactions on Image Processing 24 (7), 2009-2024, 2015",
+            "year": "2015",
+            "citations": 18
+        },
+        {
+            "title": "Information hiding based on block match coding for vector quantization-compressed images",
+            "authors": "JD Lee, YH Chiou, JM Guo",
+            "venue": "IEEE Systems Journal 8 (3), 737-748, 2013",
+            "year": "2013",
+            "citations": 18
+        },
+        {
+            "title": "Deep learning-based image retrieval with unsupervised double bit hashing",
+            "authors": "JM Guo, AWH Prayuda, H Prasetyo, S Seshathiri",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 33 (11), 7050 …, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "H-GAN: Deep learning model for halftoning and its reconstruction",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2020 IEEE International Conference on Consumer Electronics (ICCE), 1-2, 2020",
+            "year": "2020",
+            "citations": 17
+        },
+        {
+            "title": "Improved block truncation coding using extreme mean value scaling and block-based high speed direct binary search",
+            "authors": "JM Guo, CC Su",
+            "venue": "IEEE Signal Processing Letters 18 (11), 694-697, 2011",
+            "year": "2011",
+            "citations": 17
+        },
+        {
+            "title": "Face gender recognition using improved appearance-based Average Face Difference and support vector machine",
+            "authors": "JM Guo, CC Lin, HS Nguyen",
+            "venue": "2010 International Conference on System Science and Engineering, 637-640, 2010",
+            "year": "2010",
+            "citations": 17
+        },
+        {
+            "title": "Improved data hiding in halftone images with cooperating pair toggling human visual system",
+            "authors": "JM Guo",
+            "venue": "International Journal of Imaging Systems and Technology 17 (6), 328-332, 2007",
+            "year": "2007",
+            "citations": 17
+        },
+        {
+            "title": "Hyperchaos permutation on false-positive-free SVD-based image watermarking",
+            "authors": "JM Guo, D Riyono, H Prasetyo",
+            "venue": "Multimedia Tools and Applications 78 (20), 29229-29270, 2019",
+            "year": "2019",
+            "citations": 16
+        },
+        {
+            "title": "Clustered-dot screen design for digital multitoning",
+            "authors": "YF Liu, JM Guo",
+            "venue": "IEEE Transactions on Image Processing 25 (7), 2971-2982, 2016",
+            "year": "2016",
+            "citations": 16
+        },
+        {
+            "title": "Dot-diffused halftoning with improved homogeneity",
+            "authors": "YF Liu, JM Guo",
+            "venue": "IEEE Transactions on image processing 24 (11), 4581-4591, 2015",
+            "year": "2015",
+            "citations": 16
+        },
+        {
+            "title": "Image data processing systems for hiding secret information and data hiding methods using the same",
+            "authors": "JM Guo, JJ Tsai",
+            "venue": "US Patent 8,363,889, 2013",
+            "year": "2013",
+            "citations": 16
+        },
+        {
+            "title": "Low resolution pedestrian detection using light robust features and hierarchical system",
+            "authors": "YF Liu, JM Guo, CH Chang",
+            "venue": "Pattern recognition 47 (4), 1616-1625, 2014",
+            "year": "2014",
+            "citations": 15
+        },
+        {
+            "title": "Multiple moving objects detection and tracking using discrete wavelet transform",
+            "authors": "CH Hsia, JS Chiang, JM Guo, H Olkkonen",
+            "venue": "Discrete Wavelet Transforms-Biomedical Applications, 297-320, 2011",
+            "year": "2011",
+            "citations": 15
+        },
+        {
+            "title": "鄱阳湖流域未来降水变化预测分析",
+            "authors": "郭家力， 郭生练， 郭靖， 陈华",
+            "venue": "长江科学院院报 27 (8), 20, 2010",
+            "year": "2010",
+            "citations": 15
+        },
+        {
+            "title": "On recovery of plane object shape by projections",
+            "authors": "AP Buslaev, NJ Wang, JM Guo, MV Yashina",
+            "venue": "Proceedings of the 2009 International Conference on Image Processing …, 2009",
+            "year": "2009",
+            "citations": 15
+        },
+        {
+            "title": "Contact-free hand geometry identification system",
+            "authors": "JM Guo, YF Liu, MH Chu, CC Wu, TN Le",
+            "venue": "2011 18th IEEE International Conference on Image Processing, 3185-3188, 2011",
+            "year": "2011",
+            "citations": 14
+        },
+        {
+            "title": "A hybrid convolutional neural network based-method for brain tumor classification using mMRI and WSI",
+            "authors": "L Pei, WW Hsu, LA Chiang, JM Guo, KM Iftekharuddin, R Colen",
+            "venue": "International MICCAI Brainlesion Workshop, 487-496, 2020",
+            "year": "2020",
+            "citations": 13
+        },
+        {
+            "title": "Cascaded background subtraction using block-based and pixel-based codebooks",
+            "authors": "JM Guo, CS Hsu",
+            "venue": "2010 20th International Conference on Pattern Recognition, 1373-1376, 2010",
+            "year": "2010",
+            "citations": 13
+        },
+        {
+            "title": "吉林延边地区浅成热液金 (铜) 矿床的^(40) Ar/^(39) Ar 激光探针测年与成矿时代讨论",
+            "authors": "赵羽军， 孙景贵， 王清海， 门兰静， 李怡欣， 郭佳， 崔培龙",
+            "venue": "地学前缘, 156-169, 2010",
+            "year": "2010",
+            "citations": 13
+        },
+        {
+            "title": "A study of the interpretability of fundus analysis with deep learning-based approaches for glaucoma assessment",
+            "authors": "JM Guo, YT Hsiao, WW Hsu, S Seshathiri, JD Lee, YM Luo, P Liu",
+            "venue": "Electronics 12 (9), 2013, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "A novel fast algorithm based on SMDWT for visual processing applications",
+            "authors": "CH Hsia, JM Guo, JS Chiang, CH Lin",
+            "venue": "2009 IEEE International Symposium on Circuits and Systems (ISCAS), 762-765, 2009",
+            "year": "2009",
+            "citations": 12
+        },
+        {
+            "title": "Transformer based refinement network for accurate crack detection",
+            "authors": "JM Guo, H Markoni",
+            "venue": "2021 International Conference on System Science and Engineering (ICSSE), 442-446, 2021",
+            "year": "2021",
+            "citations": 11
+        },
+        {
+            "title": "Halftoning-based block truncation coding image restoration",
+            "authors": "JM Guo, H Prasetyo, KS Wong",
+            "venue": "Journal of Visual Communication and Image Representation 35, 193-197, 2016",
+            "year": "2016",
+            "citations": 11
+        },
+        {
+            "title": "Tone-replacement error diffusion for multitoning",
+            "authors": "JM Guo, JY Chang, YF Liu, GH Lai, JD Lee",
+            "venue": "IEEE Transactions on Image Processing 24 (11), 4312-4321, 2015",
+            "year": "2015",
+            "citations": 11
+        },
+        {
+            "title": "A study of UHF-RFID data model construction in university libraries",
+            "authors": "J Guo, Q Huang, J Chen",
+            "venue": "The Electronic Library 32 (5), 726-741, 2014",
+            "year": "2014",
+            "citations": 11
+        },
+        {
+            "title": "High speed multi-layer background subtraction",
+            "authors": "JM Guo, CH Hsia, MH Shih, YF Liu, JY Wu",
+            "venue": "2012 International Symposium on Intelligent Signal Processing and …, 2012",
+            "year": "2012",
+            "citations": 11
+        },
+        {
+            "title": "High efficient direct binary search using multiple lookup tables",
+            "authors": "JM Guo, YF Liu, JY Chang",
+            "venue": "2012 19th IEEE International Conference on Image Processing, 813-816, 2012",
+            "year": "2012",
+            "citations": 11
+        },
+        {
+            "title": "Prediction-based watermarking schemes using ahead/post AC prediction",
+            "authors": "JM Guo, CH Chang",
+            "venue": "Signal processing 90 (8), 2552-2566, 2010",
+            "year": "2010",
+            "citations": 11
+        },
+        {
+            "title": "Parallel and element-reduced error-diffused block truncation coding",
+            "authors": "JM Guo, CY Lin",
+            "venue": "IEEE Transactions on Communications 58 (6), 1667-1673, 2010",
+            "year": "2010",
+            "citations": 11
+        },
+        {
+            "title": "Ablation plus transarterial embolic therapy for hepatocellular carcinoma larger than 3 cm: science, evidence, and future directions",
+            "authors": "AR Lewis, CA Padula, JM McKinney, BB Toskich",
+            "venue": "Seminars in Interventional Radiology 36 (04), 303-309, 2019",
+            "year": "2019",
+            "citations": 10
+        },
+        {
+            "title": "A hybrid facial expression recognition system based on recurrent neural network",
+            "authors": "JM Guo, PC Huang, LY Chang",
+            "venue": "2019 16th IEEE international conference on advanced video and signal based …, 2019",
+            "year": "2019",
+            "citations": 10
+        },
+        {
+            "title": "Airborne platform's tracking algorithm for free space optical communication based on IMMPF methods",
+            "authors": "Y Cao, M Zhao, B Luo, X Quan, J Guo, X Li",
+            "venue": "Infrared and Laser Engineering 41 (11), 2012",
+            "year": "2012",
+            "citations": 10
+        },
+        {
+            "title": "Reversible data hiding in highly efficient compression scheme",
+            "authors": "JM Guo, JJ Tsai",
+            "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009",
+            "year": "2009",
+            "citations": 10
+        },
+        {
+            "title": "Double chain networks for monocular 3D human pose estimation",
+            "authors": "G Bai, Y Luo, X Pan, Y Wang, J Wang, JM Guo",
+            "venue": "Image and Vision Computing 123, 104452, 2022",
+            "year": "2022",
+            "citations": 9
+        },
+        {
+            "title": "Deep learning based inverse halftoning via stationary wavelet domain",
+            "authors": "HPA Wicaksono, H Prasetyo, JM Guo",
+            "venue": "2020 27th International Conference on Telecommunications (ICT), 1-5, 2020",
+            "year": "2020",
+            "citations": 9
+        },
+        {
+            "title": "A rapid watermarking strategy for multi-tone images",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual …, 2018",
+            "year": "2018",
+            "citations": 9
+        },
+        {
+            "title": "Parametric-oriented fitting for local contrast enhancement",
+            "authors": "YF Liu, JM Guo, BS Lai",
+            "venue": "Information Sciences 370, 323-342, 2016",
+            "year": "2016",
+            "citations": 9
+        },
+        {
+            "title": "Sample space dimensionality refinement for symmetrical object detection",
+            "authors": "YF Liu, JM Guo, CH Hsia, SY Su, H Lee",
+            "venue": "IEEE Transactions on Information Forensics and Security 9 (11), 1953-1961, 2014",
+            "year": "2014",
+            "citations": 9
+        },
+        {
+            "title": "Efficient halftoning based on multiple look-up tables",
+            "authors": "JM Guo, YF Liu, JY Chang, JD Lee",
+            "venue": "IEEE transactions on image processing 22 (11), 4522-4531, 2013",
+            "year": "2013",
+            "citations": 9
+        },
+        {
+            "title": "天津盐渍化生境 54 种植物钙晶体与钙组分特征",
+            "authors": "徐静静， 慈华聪， 何兴东， 薛苹苹， 赵雪莱， 郭健潭， 高玉葆",
+            "venue": "应用生态学报 23 (05), 1247, 2012",
+            "year": "2012",
+            "citations": 9
+        },
+        {
+            "title": "Vapor-liquid equilibrium of ethylene+ mesitylene system and process simulation for ethylene recovery",
+            "authors": "GUO Jing, WU Xianghong, J Shuhong",
+            "venue": "Chinese Journal of Chemical Engineering 19 (4), 543-548, 2011",
+            "year": "2011",
+            "citations": 9
+        },
+        {
+            "title": "Data hiding in halftone images with secret-shared dot diffusion",
+            "authors": "JM Guo, JH Huang",
+            "venue": "Proceedings of 2010 IEEE International Symposium on Circuits and Systems …, 2010",
+            "year": "2010",
+            "citations": 9
+        },
+        {
+            "title": "伐区采育结合作业优化模式的选择",
+            "authors": "郭建钢， 景芸， 章若鸿， 熊文愈， 粟金云",
+            "venue": "应用生态学报, 814, 2000",
+            "year": "2000",
+            "citations": 9
+        },
+        {
+            "title": "含偶氮苯并噻唑发色团的二阶非线性光学互穿网络聚合物",
+            "authors": "刘志红， 谢洪泉， 何平， 过俊石",
+            "venue": "高分子学报, 62-67, 1999",
+            "year": "1999",
+            "citations": 9
+        },
+        {
+            "title": "Real-time 3D human pose estimation without skeletal a priori structures",
+            "authors": "G Bai, Y Luo, X Pan, J Wang, JM Guo",
+            "venue": "Image and Vision Computing 132, 104649, 2023",
+            "year": "2023",
+            "citations": 8
+        },
+        {
+            "title": "Efficient and adaptable patch-based crack detection",
+            "authors": "JM Guo, H Markoni",
+            "venue": "IEEE Transactions on Intelligent Transportation Systems 23 (11), 21885-21896, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Reversible data hiding in halftone images based on dynamic embedding states group",
+            "authors": "X Yin, W Lu, W Liu, JM Guo, J Huang, YQ Shi",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 31 (7), 2631-2645, 2020",
+            "year": "2020",
+            "citations": 8
+        },
+        {
+            "title": "Long-term correlation tracking via spatial–temporal context",
+            "authors": "Z Chen, P Liu, Y Du, Y Luo, JM Guo",
+            "venue": "The Visual Computer 36 (2), 425-442, 2020",
+            "year": "2020",
+            "citations": 8
+        },
+        {
+            "title": "Watermarking in dot-diffusion halftones using adaptive class-matrix and error diffusion",
+            "authors": "JM Guo, S Seshathiri",
+            "venue": "ECTI Transactions on Computer and Information Technology (ECTI-CIT) 13 (1), 1-8, 2019",
+            "year": "2019",
+            "citations": 8
+        },
+        {
+            "title": "Halftone image generation method and image processing system and computer program product thereof",
+            "authors": "JM Guo, Y Liu",
+            "venue": "US Patent 8,390,890, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "虚拟场景的一种快速优化 Kd-Tree 构造方法",
+            "authors": "过洁， 徐晓旸， 潘金贵",
+            "venue": "电子学报 39 (8), 1811-1817, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "扁蓿豆愈伤组织原生质体分离条件的研究",
+            "authors": "陶茸， 李玉珠， 王娟， 安惠惠， 郭婧， 师尚礼",
+            "venue": "草地学报 19 (2), 288-293, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "左旋甲基多巴分子印迹纳米给药系统的合成, 表征及药物缓释研究",
+            "authors": "凌霞， 李红萍， 郭娟， 汤又文， 赖家平",
+            "venue": "化学学报 68 (01), 95, 2010",
+            "year": "2010",
+            "citations": 8
+        },
+        {
+            "title": "离子色谱法测定烟气脱硫海水中的亚硫酸根离子",
+            "authors": "尹丽倩， 袁东星， 郭娟， 刘锡尧",
+            "venue": "色谱 6, 2009",
+            "year": "2009",
+            "citations": 8
+        },
+        {
+            "title": "聚环氧乙烷为支链的两亲共聚物的表征及性能",
+            "authors": "刘锦， 谢洪泉， 过俊石",
+            "venue": "高分子学报, 136-141, 1996",
+            "year": "1996",
+            "citations": 8
+        },
+        {
+            "title": "The Generative Artificial Intelligence Revolution in Nursing: A New Chapter in Enhancing Care Quality and Education",
+            "authors": "IC Yu, JM Guo",
+            "venue": "Hu Li Za Zhi 71 (2), 12-19, 2024",
+            "year": "2024",
+            "citations": 7
+        },
+        {
+            "title": "Guest editorial introduction to special section on modern reversible data hiding and watermarking",
+            "authors": "X Cao, Y Zhou, JM Guo",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 30 (8), 2297-2299, 2020",
+            "year": "2020",
+            "citations": 7
+        },
+        {
+            "title": "Face gender recognition with halftoning-based adaboost classifiers",
+            "authors": "JM Guo, CC Lin, CH Chang, YF Liu",
+            "venue": "2013 IEEE International Symposium on Circuits and Systems (ISCAS), 2497-2500, 2013",
+            "year": "2013",
+            "citations": 7
+        },
+        {
+            "title": "Object detection method and apparatus thereof",
+            "authors": "JM Guo, YC Tian",
+            "venue": "US Patent 8,116,525, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "烤烟主要烟气化学成分对卷烟感官舒适度的影响研究",
+            "authors": "朱保昆， 王明锋， 韩毅， 焦玉磊， 郭婧超， 赵建华， 廖头根",
+            "venue": "云南大学学报 (自然科学版) 34 (1), 77-83, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "Method of halftone watermarking for hiding multi-tone watermark or two-tone watermark",
+            "authors": "JM Guo, Y Liu",
+            "venue": "US Patent 8,049,930, 2011",
+            "year": "2011",
+            "citations": 7
+        },
+        {
+            "title": "Watermarking in halftone images with parity-matched error diffusion",
+            "authors": "JM Guo, SC Pei, H Lee",
+            "venue": "Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech …, 2005",
+            "year": "2005",
+            "citations": 7
+        },
+        {
+            "title": "TCM treatment of Parkinson's syndrome--a report of 40 cases.",
+            "authors": "J Chen, J Guo, J Sun, W Jiang, B Wu",
+            "venue": "Journal of Traditional Chinese Medicine= Chung i tsa Chih Ying wen pan 23 (3 …, 2003",
+            "year": "2003",
+            "citations": 7
+        },
+        {
+            "title": "Motion identification method and system",
+            "authors": "JM Guo, PC Huang, T Lin, CH Wang, YW Wei, YH Lin",
+            "venue": "US Patent 11,328,535, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Banknote reconstruction from fragments using quadratic programming and SIFT points",
+            "authors": "PH Wu, JJ Ding, JM Guo, PJ Kang, CE Pu",
+            "venue": "2014 IEEE International Symposium on Circuits and Systems (ISCAS), 570-573, 2014",
+            "year": "2014",
+            "citations": 6
+        },
+        {
+            "title": "J-子空间格代数上中心化子和广义导子的刻画",
+            "authors": "齐霄霏",
+            "venue": "数学物理学报 34 (2), 463-472, 2014",
+            "year": "2014",
+            "citations": 6
+        },
+        {
+            "title": "Security attacks on the wavelet transform and singular value decomposition image watermarking",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "2013 IEEE International Symposium on Consumer Electronics (ISCE), 217-218, 2013",
+            "year": "2013",
+            "citations": 6
+        },
+        {
+            "title": "Improved directional lifting-based discrete wavelet transform for low resolution moving object detection",
+            "authors": "CH Hsia, JM Guo",
+            "venue": "2012 19th IEEE International Conference on Image Processing, 2457-2460, 2012",
+            "year": "2012",
+            "citations": 6
+        },
+        {
+            "title": "Multiple license plates recognition system",
+            "authors": "JM Guo, YF Liu, CH Hsia",
+            "venue": "2012 International conference on system science and engineering (ICSSE), 120-125, 2012",
+            "year": "2012",
+            "citations": 6
+        },
+        {
+            "title": "Digital halftoning method utilizing diffused weighting and class matrix optimization",
+            "authors": "JM Guo, Y Liu",
+            "venue": "US Patent 8,077,355, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "Blocking effect and halftoning impulse suppression in an ED/OD BTC image with optimized texture-dependent filter sets",
+            "authors": "JM Guo, CC Su, HJ Kim",
+            "venue": "Proceedings 2011 International Conference on System Science and Engineering …, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "Watermarking in halftone images with mixed halftone techniques",
+            "authors": "JM Guo, H Lee",
+            "venue": "International journal of imaging systems and technology 17 (5), 303-314, 2007",
+            "year": "2007",
+            "citations": 6
+        },
+        {
+            "title": "High-capacity data hiding in halftone images using minimal error bit searching",
+            "authors": "SC Pei, JM Guo",
+            "venue": "2004 International Conference on Image Processing, 2004. ICIP'04. 5, 3463-3466, 2004",
+            "year": "2004",
+            "citations": 6
+        },
+        {
+            "title": "Hashing-based Batik Image Retrieval using Progressive Multi-Stage Training",
+            "authors": "JM Guo, AWH Prayuda, H Prasetyo",
+            "venue": "2022 1st International Conference on Smart Technology, Applied Informatics …, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "AWGN-based image denoiser using convolutional vision transformer",
+            "authors": "AWH Prayuda, H Prasetyo, JM Guo",
+            "venue": "2021 International Symposium on Electronics and Smart Devices (ISESD), 1-6, 2021",
+            "year": "2021",
+            "citations": 5
+        },
+        {
+            "title": "Robust visual tracking using self-adaptive strategy",
+            "authors": "Z Chen, P Liu, Y Du, Y Luo, JM Guo",
+            "venue": "Multimedia Tools and Applications 79 (1), 141-162, 2020",
+            "year": "2020",
+            "citations": 5
+        },
+        {
+            "title": "Improving EDBTC image quality using stationary and decimated wavelet transform",
+            "authors": "H Prasetyo, CH Hsia, JM Guo",
+            "venue": "2019 International Symposium on Electronics and Smart Devices (ISESD), 1-5, 2019",
+            "year": "2019",
+            "citations": 5
+        },
+        {
+            "title": "An efficient and geometric-distortion-free binary robust local feature",
+            "authors": "JM Guo, LY Chang, JD Lee",
+            "venue": "Sensors 19 (10), 2315, 2019",
+            "year": "2019",
+            "citations": 5
+        },
+        {
+            "title": "Blind prediction-based wavelet watermarking",
+            "authors": "JM Guo, YF Liu, JD Lee, YQ Tzeng",
+            "venue": "Multimedia Tools and Applications 76 (7), 9803-9828, 2017",
+            "year": "2017",
+            "citations": 5
+        },
+        {
+            "title": "Adaptive block truncation coding image compression technique using optimized dot diffusion",
+            "authors": "YF Liu, JM Guo, Y Cheng",
+            "venue": "2016 IEEE International Conference on Image Processing (ICIP), 2137-2141, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Near-aperiodic dot-diffused block truncation coding",
+            "authors": "YF Liu, JM Guo, ZJ Wu, H Lee",
+            "venue": "Signal Processing 120, 373-384, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Inverse halftoning with context driven prediction",
+            "authors": "JM Guo, YF Liu, JH Chen, JD Lee",
+            "venue": "IEEE transactions on image processing 23 (4), 1923-1924, 2014",
+            "year": "2014",
+            "citations": 5
+        },
+        {
+            "title": "Effective image retrieval using feature extracted using dot diffused BTC",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "IEEE Trans 24 (3), 1010-1024, 2014",
+            "year": "2014",
+            "citations": 5
+        },
+        {
+            "title": "Content-based image retrieval with ordered dither block truncation coding features",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "2013 IEEE international conference on image processing, 4006-4009, 2013",
+            "year": "2013",
+            "citations": 5
+        },
+        {
+            "title": "Image data processing systems for hiding secret information and data hiding methods using the same",
+            "authors": "JM Guo, JJ Tsai",
+            "venue": "US Patent 8,351,644, 2013",
+            "year": "2013",
+            "citations": 5
+        },
+        {
+            "title": "Blind wavelet-based watermarking method",
+            "authors": "JM Guo, YQ Tzeng",
+            "venue": "US Patent 8,300,878, 2012",
+            "year": "2012",
+            "citations": 5
+        },
+        {
+            "title": "翼状胬肉逆行切除联合自体结膜或角膜缘干细胞移植术的疗效观察",
+            "authors": "沈林雄， 蔡继林， 黄楚良， 郭静",
+            "venue": "中国眼耳鼻喉科杂志, 303-305, 2010",
+            "year": "2010",
+            "citations": 5
+        },
+        {
+            "title": "Pt/MoO3/ZrO2 催化剂的制备及三效催化性能的研究",
+            "authors": "温怡芸， 刘志敏， 蔡黎， 郭家秀， 龚茂初， 陈耀强",
+            "venue": "无机材料学报 23 (6), 1267-1271, 2008",
+            "year": "2008",
+            "citations": 5
+        },
+        {
+            "title": "High efficiency digital halftoning with two-element error kernel",
+            "authors": "J Guo, J Chen",
+            "venue": "2006 International Conference on Image Processing, 1501-1504, 2006",
+            "year": "2006",
+            "citations": 5
+        },
+        {
+            "title": "Modeling of solidification grain structure for Ti-45% Al alloy ingot by cellular automaton",
+            "authors": "吴士平， 刘东戎， 郭景杰， 傅恒志",
+            "venue": "中国有色金属学会会刊: 英文版 15 (2), 291-295, 2005",
+            "year": "2005",
+            "citations": 5
+        },
+        {
+            "title": "Robust semi-supervised learning with multi-consistency and data augmentation",
+            "authors": "JM Guo, CC Sun, KY Chan, CY Liu",
+            "venue": "IEEE Transactions on Consumer Electronics 70 (1), 414-424, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "Visually encrypted watermarking for ordered-dithered clustered-dot halftones",
+            "authors": "JM Guo, S Seshathiri",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 33 (8), 4375-4387, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "Visual interpretability of deep learning models in glaucoma detection using color fundus images",
+            "authors": "DW Lu, WW Hsu, YC Huang, LC Lee, JM Guo, YT Hsiao, IH Lin, ...",
+            "venue": "2022 IET International conference on engineering technologies and …, 2022",
+            "year": "2022",
+            "citations": 4
+        },
+        {
+            "title": "Fall detection with the spatial-temporal correlation encoded by a sequence-to-sequence denoised GAN",
+            "authors": "WW Hsu, JM Guo, CY Chen, YC Chang",
+            "venue": "Sensors 22 (11), 4194, 2022",
+            "year": "2022",
+            "citations": 4
+        },
+        {
+            "title": "Deep learning based lane line detection and segmentation using slice image feature",
+            "authors": "JM Guo, H Markoni",
+            "venue": "2021 International Symposium on Intelligent Signal Processing and …, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Deep concatenated residual networks for improving quality of halftoning-based BTC decoded image",
+            "authors": "H Prasetyo, A Wicaksono Hari Prayuda, CH Hsia, JM Guo",
+            "venue": "Journal of Imaging 7 (2), 13, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Enhanced block truncation coding image using digital multitone screen",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Multi-mode halftoning using stochastic clustered-dot screen",
+            "authors": "YF Liu, JM Guo, SC Lin",
+            "venue": "International Conference on Frontier Computing, 423-431, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Multimedia classification using bipolar relation graphs",
+            "authors": "YF Liu, JM Guo, L An",
+            "venue": "IEEE Transactions on Multimedia 19 (8), 1860-1869, 2017",
+            "year": "2017",
+            "citations": 4
+        },
+        {
+            "title": "Accurate facial landmark extraction",
+            "authors": "JM Guo, SH Tseng, KS Wong",
+            "venue": "IEEE Signal Processing Letters 23 (5), 605-609, 2016",
+            "year": "2016",
+            "citations": 4
+        },
+        {
+            "title": "Senior Member, IEEE, Heri Prasetyo. Content-based image retrieval using features extracted from halftoning-based block truncation coding",
+            "authors": "JM Guo",
+            "venue": "IEEE Transactions on Image Processing 24 (3), 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "The effect of H2O2 surface treatment of posts on the bond strength between glass fiber posts and the resin cement",
+            "authors": "J Wang, J Wang, J Guo, H Zhu",
+            "venue": "Shanghai journal of stomatology 22 (5), 508, 2013",
+            "year": "2013",
+            "citations": 4
+        },
+        {
+            "title": "Hand gesture recognition using codebook model and Pixel-Based Hierarchical-Feature Adaboosting",
+            "authors": "K Pattanaworapan, K Chamnongthai, JM Guo",
+            "venue": "2013 13th International Symposium on Communications and Information …, 2013",
+            "year": "2013",
+            "citations": 4
+        },
+        {
+            "title": "Texture orientation modulation for halftoning watermarking",
+            "authors": "JM Guo, CC Su, YF Liu",
+            "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012",
+            "year": "2012",
+            "citations": 4
+        },
+        {
+            "title": "不同煤燃烧方式降低 NOx 排放比较及解耦燃烧应用",
+            "authors": "高士秋， 汪印， 董利， 许光文， 郭景海",
+            "venue": "燃料化学学报 40 (6), 672-679, 2012",
+            "year": "2012",
+            "citations": 4
+        },
+        {
+            "title": "Hybrid hand tracking system",
+            "authors": "JM Guo, HS Nguyen",
+            "venue": "2011 18th IEEE International Conference on Image Processing, 549-552, 2011",
+            "year": "2011",
+            "citations": 4
+        },
+        {
+            "title": "睡眠呼吸暂停低通气综合征与患者肱踝脉搏波传导速度的关系",
+            "authors": "李民， 郭杰， 李玉柱， 赵玉生， 张文莉， 韩斌， 李为民， 解立新， 唐杰， ...",
+            "venue": "中华结核和呼吸杂志 34 (4), 278-281, 2011",
+            "year": "2011",
+            "citations": 4
+        },
+        {
+            "title": "Pixel-based hierarchical-feature face detection",
+            "authors": "JM Guo, MF Wu",
+            "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010",
+            "year": "2010",
+            "citations": 4
+        },
+        {
+            "title": "Variance-classified capacity watermarking using discrete cosine transform",
+            "authors": "JM Guo, YC Lu, JD Lee",
+            "venue": "2008 International Conference on Intelligent Information Hiding and …, 2008",
+            "year": "2008",
+            "citations": 4
+        },
+        {
+            "title": "Improved pair toggling data hiding by cooperating human visual system in halftone images",
+            "authors": "JM Guo",
+            "venue": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
+            "year": "2007",
+            "citations": 4
+        },
+        {
+            "title": "A complete printer model in error-diffused halftone images",
+            "authors": "JM Guo",
+            "venue": "2006 International Conference on Image Processing, 1529-1532, 2006",
+            "year": "2006",
+            "citations": 4
+        },
+        {
+            "title": "聚苯胺/苯乙烯-丁二烯-苯乙烯复合材料伸长过程中的导电性变化",
+            "authors": "马永梅， 刘小武， 过俊石， 谢洪泉",
+            "venue": "高分子学报, 14-20, 1998",
+            "year": "1998",
+            "citations": 4
+        },
+        {
+            "title": "Enhancing Polyp Segmentation Efficiency Using Pixel Channel Attention HalfU-Net",
+            "authors": "H Prasetyo, MAF Rohman, AWH Prayuda, JM Guo",
+            "venue": "2024 IEEE 10th Information Technology International Seminar (ITIS), 381-386, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Generalized halftone classification approach using stochastic analysis",
+            "authors": "JM Guo, S Seshathiri",
+            "venue": "Journal of Ambient Intelligence and Humanized Computing 14 (11), 14907-14919, 2023",
+            "year": "2023",
+            "citations": 3
+        },
+        {
+            "title": "Contactless Deception Detection System with Hybrid Facial Features.",
+            "authors": "JM Guo, CH Hsia, LW Hsiao, CC Yao",
+            "venue": "Journal of Information Science & Engineering 37 (4), 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Combining fractal hourglass network and skeleton joints pairwise affinity for multi-person pose estimation",
+            "authors": "Y Luo, Z Xu, P Liu, Y Du, J Guo",
+            "venue": "Multimedia Tools and Applications 78 (6), 7341-7363, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "JPEG false contour reduction using error diffusion",
+            "authors": "JM Guo, CH Hsia, CH Chang",
+            "venue": "Information Processing Letters 115 (3), 403-407, 2015",
+            "year": "2015",
+            "citations": 3
+        },
+        {
+            "title": "Effectiveness analysis of CALIS III subject librarian literacy training",
+            "authors": "J Guo, Q Huang, Z Gu, X Yu, X Gao, L Tang",
+            "venue": "Library management 34 (4/5), 372-384, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "基于机器视觉的钢包头检测系统设计",
+            "authors": "郭杰， 雷刚， 陈健生， 向守兵",
+            "venue": "Chinese Journal of Liquid Crystals and Displays 28 (5), 770-775, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "Reversible Data Hiding Scheme with High Embedding Capacity Using Semi‐Indicator‐Free Strategy",
+            "authors": "JD Lee, YH Chiou, JM Guo",
+            "venue": "Mathematical Problems in Engineering 2013 (1), 476181, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "Two-layer features extracted from essential areas for facial expression recognition",
+            "authors": "JM Guo, JL Chen",
+            "venue": "Proceedings 2011 International Conference on System Science and Engineering …, 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "Histological study about the effect of orthodontic loading time and duration on the periodontal repair in autologous tooth transplantation.",
+            "authors": "SUN Hui-fang, LIU Yi, GUO Jing, C Yang-xi",
+            "venue": "West China Journal of Stomatology 29 (3), 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "三叶形等距型面联接的接触-冲击特性分析",
+            "authors": "郭嘉， 黄滨， 吴大转， 王乐勤",
+            "venue": "工程设计学报 18 (2), 109-114, 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "Parallel and element-reduced error-diffused block truncation coding",
+            "authors": "JM Guo, CY Lin",
+            "venue": "2009 16th IEEE International Conference on Image Processing (ICIP), 1905-1908, 2009",
+            "year": "2009",
+            "citations": 3
+        },
+        {
+            "title": "Ink saving and tone correction printing technique using error diffusion",
+            "authors": "JM Guo",
+            "venue": "US Patent App. 11/836,400, 2008",
+            "year": "2008",
+            "citations": 3
+        },
+        {
+            "title": "Robust watermarking with kernels-alternated error diffusion and weighted lookup table in halftone images",
+            "authors": "JM Guo",
+            "venue": "Seventh IEEE International Symposium on Multimedia (ISM'05), 6 pp., 2005",
+            "year": "2005",
+            "citations": 3
+        },
+        {
+            "title": "Novel data hiding and blind decoding in dithering halftone images",
+            "authors": "SC Pei, JM Guo",
+            "venue": "2005 5th International Conference on Information Communications & Signal …, 2005",
+            "year": "2005",
+            "citations": 3
+        },
+        {
+            "title": "DeepVinci: A Semantic Segmentation Model with Edge Super-vision and Densely Multi-scale Pyramid Module for DaVinci Gynecological Surgery",
+            "authors": "LA Tseng, HC Lin, MY Bai, MF Li, YL Lee, KJ Chiang, YC Wang, JM Guo",
+            "venue": null,
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Channel Attention HalfU-Net for Skin Lesion Segmentation",
+            "authors": "H Prasetyo, AA Mahdy, ADF Nadhif, JM Guo, CH Hsia",
+            "venue": "2023 1st International Conference on Advanced Engineering and Technologies …, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Digital halftone classification using simplified CNN and stochastic statistics",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Efficient finger vein technology based on fast binary robust independent elementary feature combined with multi-image quality assessment verification",
+            "authors": "JM Guo, CH Hsia, CS Wu, LY Chang",
+            "venue": "2020 IEEE international conference on consumer electronics-taiwan (ICCE …, 2020",
+            "year": "2020",
+            "citations": 2
+        },
+        {
+            "title": "Atrial fibrillation detection in spectrogram based on convolution neural networks",
+            "authors": "JM Guo, CC Yang, ZH Wang, CH Hsia, LY Chang",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "H-BTC database: a brief review on halftone based block truncation coding (H-BTC) images",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "Friendly and progressive visual secret sharing with lossless reconstruction",
+            "authors": "H Prasetyo, JM Guo, CH Hsia",
+            "venue": "2019 5th International Conference on Science in Information Technology …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "Content-based image retrieval using direct binary search block truncation coding features",
+            "authors": "JM Guo, H Prasetyo, CC Yao",
+            "venue": "2015 Asia-Pacific Signal and Information Processing Association Annual …, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Watermarking for position-mapping-based halftoning",
+            "authors": "JM Guo, YF Liu, SH Chou, JD Lee",
+            "venue": "2015 IEEE International Conference on Image Processing (ICIP), 2314-2318, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Incorporating color feature on LBP-based image retrieval",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, 31-32, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Alter ation detection and recovery for medical and surveillance systems",
+            "authors": "JM Guo, K Tsair",
+            "venue": "ICIC Inter Conf 9 (4), 1389-1408, 2013",
+            "year": "2013",
+            "citations": 2
+        },
+        {
+            "title": "Hierarchical pedestrian detection under low resolution scenario",
+            "authors": "YF Liu, JM Guo, CH Chang, CH Hsia",
+            "venue": "2012 International Symposium on Intelligent Signal Processing and …, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "Classified-filter-based post-compensation interpolation for color filter array demosaicing",
+            "authors": "JM Guo, YF Liu, BS Lai, PH Wang, JD Lee",
+            "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "Limitation investigation toward lips recognition",
+            "authors": "YF Liu, CY Lin, JM Guo",
+            "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "脂肪醇聚氧乙烯醚磺酸盐系列表面活性剂的协同效应",
+            "authors": "郭东红， 杨晓鹏， 郭家兴， 崔晓东， 辛浩川",
+            "venue": "石油学报 (石油加工) 28 (2), 323-328, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "People tracking in a building using color histogram classifiers and gaussian weighted individual separation approaches",
+            "authors": "CH Lin, SL Chung, JM Guo",
+            "venue": "International Conference on Multimedia Modeling, 177-186, 2011",
+            "year": "2011",
+            "citations": 2
+        },
+        {
+            "title": "桩长对搅拌桩复合地基承载性能影响的数值分析",
+            "authors": "张伟丽， 蔡健， 郭嘉， 林奕禧， 黄良机",
+            "venue": "长江科学院院报 27 (12), 64, 2010",
+            "year": "2010",
+            "citations": 2
+        },
+        {
+            "title": "Alteration detection and image recovery using halftone replacement prior watermark embedding",
+            "authors": "JM Guo, T Kao, YF Liu, JT Wang",
+            "venue": "2010 International Conference on Machine Learning and Cybernetics 6, 3021-3025, 2010",
+            "year": "2010",
+            "citations": 2
+        },
+        {
+            "title": "Continuous-tone watermark hiding in halftone images",
+            "authors": "JM Guo, YF Liu",
+            "venue": "2010 12th International Asia-Pacific Web Conference, 411-414, 2010",
+            "year": "2010",
+            "citations": 2
+        },
+        {
+            "title": "A blind wavelet-based watermarking with detail-subband coefficients prediction",
+            "authors": "JM Guo, YQ Tzeng, JD Lee",
+            "venue": "2008 34th Annual Conference of IEEE Industrial Electronics, 1805-1810, 2008",
+            "year": "2008",
+            "citations": 2
+        },
+        {
+            "title": "Quality Compressed Steganography Using Hidden Referenced Halftoning",
+            "authors": "JM Guo, JH Chen",
+            "venue": "Ninth IEEE International Symposium on Multimedia (ISM 2007), 273-281, 2007",
+            "year": "2007",
+            "citations": 2
+        },
+        {
+            "title": "High Efficiency and Contrast Enhanced Haiftoning with Hybrid Ordered Dithering and Error Diffusion Model",
+            "authors": "JM Guo, CY Lin",
+            "venue": "2005 5th International Conference on Information Communications & Signal …, 2005",
+            "year": "2005",
+            "citations": 2
+        },
+        {
+            "title": "Watermarking in halftone images with cooperating error diffusion and ordered dithering",
+            "authors": "SC Pei, JM Guo, H Lee",
+            "venue": "IASTED International Conference on Signal and Image Processing, USA, 11-16, 2004",
+            "year": "2004",
+            "citations": 2
+        },
+        {
+            "title": "Weakly supervised zero-shot cross-modal semantic segmentation",
+            "authors": "HC Lin, JY Su, JM Guo, YC Zeng",
+            "venue": "International Workshop on Advanced Imaging Technology (IWAIT) 2025 13510, 36-40, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "Implement of Dual Recognition Processes for Comprehensive Object Recognition and Checking",
+            "authors": "YC Zeng, JM Guo",
+            "venue": "2024 IEEE 13th Global Conference on Consumer Electronics (GCCE), 789-792, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Attention Mechanism and Out-of-Distribution Data on Cross Language Image Matching for Weakly Supervised Semantic Segmentation",
+            "authors": "CC Sun, JM Guo, CH Chung, BY Chen",
+            "venue": "IEEE Transactions on Cognitive and Developmental Systems 16 (4), 1604-1610, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "A novel image descriptor based on dot-diffused block truncation coding with bit probability",
+            "authors": "D Riyono, CC Sun, JM Guo, KS Wong",
+            "venue": "Journal of Ambient Intelligence and Humanized Computing 14 (11), 14841-14858, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Deep Residual and Classified Neural Networks for Inverse Halftoning",
+            "authors": "JM Guo, S Sankarasrinivasan, LV Hung, W Liu",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Self-supervised learning for scanned halftone classification with novel augmentation techniques",
+            "authors": "JM Guo, S Seshathiri",
+            "venue": "2023 IEEE International Conference on Image Processing (ICIP), 2650-2654, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Two-Stage Cascaded CNN Model for 3D Mitochondria EM Segmentation",
+            "authors": "JM Guo, S Seshathiri, JH Liu, WW Hsu",
+            "venue": "Electronics 12 (4), 928, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Saliency Guidance and Expansion Suppression on PuzzleCAM for Weakly Supervised Semantic Segmentation",
+            "authors": "RH Chang, JM Guo, S Seshathiri",
+            "venue": "Electronics 11 (24), 4068, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Neural data-to-text generation: An encoder-decoder structure with Multi-Candidate-based Context Module",
+            "authors": "JM Guo, KS Wong, BR Cheng, CH Chung",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Few-Shot Classification with Dual-Model Deep Feature Extraction and Similarity Measurement",
+            "authors": "JM Guo, S Seshathiri, WH Chen",
+            "venue": "Electronics 11 (21), 3502, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Error diffusion halftone classification using contrastive learning",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2022 IEEE International Conference on Consumer Electronics-Taiwan, 401-402, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Digital Multitone Image Reconstruction using Deep Generative Adversarial Nets",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Enhanced Image Quality Assessment Based on Halftoning Metrics",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2021 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Nighttime image dehazing based on improved erosion dark channel and multi-scale clipping limit histogram equalization",
+            "authors": "JM Guo, CH Lin",
+            "venue": "International Workshop on Advanced Imaging Technology (IWAIT) 2021 11766 …, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "DDSnet: A Deep Document Segmentation with Hybrid Blocks Architecture Network",
+            "authors": "JM Guo, LY Chang, HH Lee",
+            "venue": "2020 International Symposium on Computer, Consumer and Control (IS3C), 91-94, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Autoencoder-based image companding",
+            "authors": "AW HP, H Prasetyo, JM Guo",
+            "venue": "2020 IEEE International Conference on Consumer Electronics-Taiwan (ICCE …, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Residual Concatenated Network for ODBTC Image Restoration",
+            "authors": "A Wicaksono, H Prasetyo, JM Guo",
+            "venue": "2019 International Symposium on Intelligent Signal Processing and …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Reconstruction of multitone BTC images using conditional generative adversarial nets",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Image Semantic Segmentation With Edge and Feature Level Attenuators",
+            "authors": "JM Guo, H Markoni",
+            "venue": "2019 IEEE International Conference on Image Processing (ICIP), 2511-2515, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "BN-IQA: A rapid image quality assessment based on blue noise dithering",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2019 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Performance evaluation of error diffusion block truncation coding feature for color image retrieval",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "Multimedia Retrieval-Perspective and Challenges 4, 67-92, 2015",
+            "year": "2015",
+            "citations": 1
+        },
+        {
+            "title": "Banding effect removal for digital multitoning",
+            "authors": "JM Guo, JY Chang, YF Liu",
+            "venue": "Signal and Information Processing Association Annual Summit and Conference …, 2014",
+            "year": "2014",
+            "citations": 1
+        },
+        {
+            "title": "Image compression method and device thereof",
+            "authors": "JM Guo",
+            "venue": "US Patent 8,270,746, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "An Improved Low Complexity Algorithm for 2-D Integer Lifting-Based Discrete Wavelet Transform Using Symmetric Mask-Based Scheme",
+            "authors": "CH Hsia, JM Guo, JS Chiang",
+            "venue": "DISCRETE WAVELET TRANSFORMS ͳ THEORY AND APPLICATIONS, 113, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "基于 Modelica 的生物质燃气内燃机性能模拟研究",
+            "authors": "郭甲生， 秦朝葵",
+            "venue": "工程设计学报 18 (1), 28-33, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "嵌入式油田无线远程监控系统的研究和设计",
+            "authors": "黄家才， 李宏胜， 郭婧",
+            "venue": "自动化仪表 32 (11), 46-48, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "Emergency surveillance and viral etiology of flu like patients after the first case of human bird flu reported in Beijing, 2009",
+            "authors": "YN Lue, F Huang, SJ Cui, XM Peng, J Guo, ZY Gao, X Zhang, J Li, ...",
+            "venue": "Zhongguo Yufang Yixue Zazhi- Chinese Preventive Medicine 11 (10), 1003-1007, 2010",
+            "year": "2010",
+            "citations": 1
+        },
+        {
+            "title": "Image compression method using block truncation coding",
+            "authors": "JM Guo, MF Wu",
+            "venue": "US Patent App. 12/261,059, 2010",
+            "year": "2010",
+            "citations": 1
+        },
+        {
+            "title": "A study of subject-focused liaison services to its academic constituents under an IC~ 2 conceptualized program at Shanghai Jiao Tong University Library",
+            "authors": "J GUO, J CHEN",
+            "venue": "收藏 1, 2010",
+            "year": "2010",
+            "citations": 1
+        },
+        {
+            "title": "Inverse halftoning with variance classified filtering",
+            "authors": "JM Guo, JH Chen",
+            "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009",
+            "year": "2009",
+            "citations": 1
+        },
+        {
+            "title": "Inverse Halftoning based on Bayesian theorem",
+            "authors": "YF Liu, JM Guo, JD Lee",
+            "venue": "Pacific-Rim Symposium on Image and Video Technology, 130-142, 2009",
+            "year": "2009",
+            "citations": 1
+        },
+        {
+            "title": "Object matching using hybrid modified RGB color model and HRR-based background detection",
+            "authors": "JM Guo, YC Tian, JD Lee",
+            "venue": "2008 34th Annual Conference of IEEE Industrial Electronics, 2992-2997, 2008",
+            "year": "2008",
+            "citations": 1
+        },
+        {
+            "title": "Watermarking in halftone images with kernels-alternated error diffusion and Haar Wavelet Transform",
+            "authors": "JM Guo, JH Chen",
+            "venue": "2007 IEEE International Conference on Multimedia and Expo, 623-626, 2007",
+            "year": "2007",
+            "citations": 1
+        },
+        {
+            "title": "A new progressive coding scheme for halftone dithered images using bit‐interleaving",
+            "authors": "JM Guo, SC Pei, H Lee",
+            "venue": "International Journal of Imaging Systems and Technology 16 (4), 121-127, 2006",
+            "year": "2006",
+            "citations": 1
+        },
+        {
+            "title": "A New Digital Haiftoning and Data Hiding Designed with LMS Optimization",
+            "authors": "JM Guo",
+            "venue": "2005 5th International Conference on Information Communications & Signal …, 2005",
+            "year": "2005",
+            "citations": 1
+        },
+        {
+            "title": "Design an ideal digital reference service (DRS) model for academic libraries",
+            "authors": "J Guo, W Pan, Q Zheng, M Huang, Z Yang, Y Ye",
+            "venue": "International Conference on Asian Digital Libraries, 668-669, 2004",
+            "year": "2004",
+            "citations": 1
+        },
+        {
+            "title": "A new progressive coding algorithm of dithered images",
+            "authors": "SC Pei, JM Guo, H Lee",
+            "venue": "6th IEEE Southwest Symposium on Image Analysis and Interpretation, 2004., 61-65, 2004",
+            "year": "2004",
+            "citations": 1
+        },
+        {
+            "title": "Influences of Microwave and Conventional Sintering on the Wear Behavior of Al~ 2O~ 3-ZrO~ 2 Ceramics",
+            "authors": "R Zhang, L Gao, LQ Jiang",
+            "venue": "JOURNAL OF INORGANIC MATERIALS-BEIJING- 17 (3), 621-626, 2002",
+            "year": "2002",
+            "citations": 1
+        },
+        {
+            "title": "DeepVinci: Organ and Tool Segmentation with Edge Supervision and a Densely Multi-Scale Pyramid Module for Robot-Assisted Surgery",
+            "authors": "LA Tseng, YC Tsai, MY Bai, MF Li, YL Lee, KJ Chiang, YC Wang, JM Guo",
+            "venue": "Diagnostics 15 (15), 1917, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "ERCU-Net: Advancing Skin Lesion Segmentation Through Efficient and Accurate Deep Learning Model",
+            "authors": "MAF Rohman, H Prasetyo, HM Akbar, ADF Nadhif, AWH Prayuda, ...",
+            "venue": "2025 International Seminar on Intelligent Technology and Its Applications …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Improved Semantic Segmentation with Large-scale Attention-based Self-supervised Few-shot Learning",
+            "authors": "JM Guo, WT Wang, YC Zeng, ZY Chen",
+            "venue": "IEEE Transactions on Consumer Electronics, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Automated Building Segmentation Using Half-UNet with Multi-Scale Residual Attention and Self-Calibrated Pixel Attention",
+            "authors": "HM Akbar, H Prasetyo, MAF Rohman, AK Septiano, JM Guo",
+            "venue": "2025 4th International Conference on Electronics Representation and …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "FMDDU-Net: An Effective and Efficient Deep Learning Method for Automatic Colorectal Polyp Detection",
+            "authors": "MAF Rohman, H Prasetyo, HM Akbar, ADF Nadhif, AK Septiano, JM Guo",
+            "venue": "2025 4th International Conference on Electronics Representation and …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Object detection method and electronic apparatus",
+            "authors": "JM Guo, JS Yang, HW Wu",
+            "venue": "US Patent 12,315,224, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Enhancing Code Transformation in Large Language Models Through Retrieval-Augmented Fine-Tuning",
+            "authors": "JM Guo, PY Liu, YC Zeng, TJ Chen",
+            "venue": "IEEE Transactions on Consumer Electronics, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Object Checking Framework Using a Set of Multi-Category Classifiers with Designed-Augmented Data",
+            "authors": "YC Zeng, JM Guo",
+            "venue": "2025 IEEE International Conference on Consumer Electronics (ICCE), 1-6, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Lightweight Gaze Tracking Model Based on GhostNet",
+            "authors": "JM Guo, YS Cheng, YC Zeng, ZY Yang",
+            "venue": "2025 IEEE International Conference on Consumer Electronics (ICCE), 1-5, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "GhostBlock-Augmented Lightweight Gaze Tracking via Depthwise Separable Convolution",
+            "authors": "C Yu-Sung, Z Yi-Chong, Y Zong-Yan",
+            "venue": "Electronics 14 (15), 2978, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Contrastive Learning Based Knowledge Distillation for Enhancing Defect Detection",
+            "authors": "JM Guo, LD Yuan, C Huang, YC Zeng",
+            "venue": "2024 Asia Pacific Signal and Information Processing Association Annual …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Hybrid Suppression and Attention with Online Augmentation for Weakly Supervised Semantic Segmentation",
+            "authors": "LA Tseng, JM Guo, ZH Lin",
+            "venue": "2024 International Conference on Consumer Electronics-Taiwan (ICCE-Taiwan …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Heart rhythm detection method and system using radar sensor",
+            "authors": "JM Guo, T Lin, CF CHANG, J Susanto, YH Lin, PC Huang, YW Wei",
+            "venue": "US Patent 11,992,322, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Pose focus transformer meet inter-part relation",
+            "authors": "Y Luo, H Lin, W Huang, Y Wang, J Du, JM Guo",
+            "venue": "Expert Systems with Applications 240, 122476, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Model Efficiency Improvement with Simplified Architectures",
+            "authors": "JM Guo, TY Chang, CW Huang",
+            "venue": "2024 IEEE International Conference on Consumer Electronics (ICCE), 1-4, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Novel Stacking and Boundary Enhanced Hybrid Halftone Screen for Laser Printers",
+            "authors": "JM Guo, S Seshathiri, YF Liu, SC Lin",
+            "venue": "IEEE Transactions on Consumer Electronics 70 (1), 327-337, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Multitask Record for Badminton Match",
+            "authors": "JM Guo, YS Huang, TY Chang, TC Ciou, YC Yeh, J Chen",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Radar detection and identification device",
+            "authors": "JM Guo, T Lin, CF CHANG, J Susanto, YH Lin, PC Huang, YW Wei",
+            "venue": "US Patent 11,796,668, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Depth estimation for outdoor monocular images using multiscale transformer",
+            "authors": "JM Guo, AV Bui, CC Wu",
+            "venue": "IET Conference Proceedings CP840 2023 (35), 140-141, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Self-attention Mechanism and Pyramid Feature Fusion for Point Cloud Segmentation",
+            "authors": "JM Guo, HC Vo, WT Wang",
+            "venue": "2023 International Conference on Consumer Electronics-Taiwan (ICCE-Taiwan …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Electronic device and method for document segmentation",
+            "authors": "JM Guo, LY Chang",
+            "venue": "US Patent 11,657,279, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "A Unified Compression and Watermarking Scheme for MT-BTC Images",
+            "authors": "JM Guo, S riniva an Seshathiri",
+            "venue": "2022 Asia-Pacific Signal and Information Processing Association Annual …, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "MEAN: Multi-Edge Adaptation Network for Salient Object Detection Refinement",
+            "authors": "JM Guo, H Markoni",
+            "venue": "Electronics 11 (12), 1855, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Video condensation and recognition method and system thereof",
+            "authors": "JM Guo, T Lin, H Markoni, A Christianto, CE Tsai, HY Liang, YH Lin, ...",
+            "venue": "US Patent 11,328,160, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Deep learning for multimedia signal processing and applications",
+            "authors": "GS Lin, JM Guo, CH Yeh, M Dong",
+            "venue": "Multimedia Tools and Applications 81, 11823, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Quality Improvement of Dot Diffused Block Truncation Coding using Convolutional Neural Networks",
+            "authors": "H Prasetyo, AWH Prayuda, JM Guo",
+            "venue": "2021 International Symposium on Electronics and Smart Devices (ISESD), 1-6, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Pyramid M-Shaped Network for Ordered Dithering Block Truncation Coding Image Restoration",
+            "authors": "HPA Wicaksono, H Prasetyo, MFI Amal, JM Guo",
+            "venue": "2020 27th International Conference on Telecommunications (ICT), 1-5, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Error Diffused Halftohe Classification Using Stochastic Geometrical Features",
+            "authors": "JM Guo, S Sankarasrinivasan",
+            "venue": "2018 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "EFFICIENT ARTIFACT-FREE VIDEO SYNOPSIS FOR TARGET DETECTION AND TRACKING",
+            "authors": "JM Guo, CH Chang, H Lee, V Radzicki",
+            "venue": "International Foundation for Telemetering, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Efficient Blue-Noise Dithering for Multitoning",
+            "authors": "JM Guo, Y Cheng",
+            "venue": "TANET2016 臺灣網際網路研討會, 362-367-067, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "FUSION-BASED AND FLICKER-FREE DEFOGGING",
+            "authors": "JM Guo, JY Syue, V Radzicki, H Lee",
+            "venue": "International Foundation for Telemetering, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Guest Editorial: Smart Multimedia Signal Processing in Consumer Electronics",
+            "authors": "CH Hsia, JM Guo",
+            "venue": "JOURNAL OF INTERNET TECHNOLOGY 卷: 17 (期:), 321-322, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Welcome message from the general chairs",
+            "authors": "JM Guo, WC Kao",
+            "venue": "2015 IEEE International Conference on Consumer Electronics-Taiwan, ICCE-TW …, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Vehicle verification using Generalized Gaussian Distribution feature descriptor",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "2014 IEEE International Conference on Consumer Electronics-Taiwan, 247-248, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Mutual optimization system for class matrix and diffusion weighting used in halftone image processing technique",
+            "authors": "JM Guo, CH Chang",
+            "venue": "US Patent 8,649,059, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Moving Object Detection Based on Ordered Dithering Codebook Model",
+            "authors": "JM Guo, NV Thinh, H Lee",
+            "venue": "International Foundation for Telemetering, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Statistical modeling of the Gabor filter magnitude using Gamma distribution for effectively vehicle verification",
+            "authors": "JM Guo, H Prasetyo",
+            "venue": "2013 9th International Conference on Information, Communications & Signal …, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Digital halftoning method and method for constructing class tiling map",
+            "authors": "JM Guo, Y Liu",
+            "venue": "US Patent 8,570,602, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Banach 空间中可数非扩张映像族公共不动点迭代算法",
+            "authors": "何松年， 郭军",
+            "venue": "应用数学与计算数学学报, 75-86, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "On Lexical Processing in Teaching of College English Reading",
+            "authors": "聂晓黎",
+            "venue": "海外英语, 137-138, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Laser mask micromachining system based on beam-scanning widening technique",
+            "authors": "GAO Fei, PAN Qi-kun, Y Gui-long, S Chun-lei, GUO Jing",
+            "venue": "CIOMP-OSA Summer Session: Lasers and Their Applications, Tu23, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Watermarking in halftone images with noise balance strategy",
+            "authors": "JM Guo, SC Pei, H Lee",
+            "venue": "International Journal of Imaging Systems and Technology 20 (3), 202-214, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Stability of moving on (2+ α) chain.",
+            "authors": "AP Buslaev, JM Guo, NJ Wang, MV Yashina",
+            "venue": "Journal of Computational Analysis & Applications 12, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Complexity‐reduced and contrast‐enhanced halftoning with hybrid model",
+            "authors": "JM Guo, CY Lin",
+            "venue": "International Journal of Imaging Systems and Technology 19 (4), 356-361, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Majority-Parity-Guided Watermarking for Block-Truncated Images",
+            "authors": "JM Guo, YF Liu",
+            "venue": "2009 Fifth International Conference on Information Assurance and Security 1 …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Prediction-Based Watermarking Schemes for DCT-Based Image Coding",
+            "authors": "JM Guo, CH Chang",
+            "venue": "2009 Fifth International Conference on Information Assurance and Security 2 …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Error-Diffused Image Security Improving Using Overall Minimal-Error Searching",
+            "authors": "JM Guo, YF Liu",
+            "venue": "Pacific-Rim Symposium on Image and Video Technology, 550-561, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "《 能量转换利用研究动态》 2009 年第 2 期",
+            "authors": "张焕芬， 黄汉豪， 陈捷",
+            "venue": "中国科学院广州能源研究所图书馆, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Mean-Classified and Hierarchical Block Matching Watermarking in Fractal Coding",
+            "authors": "JM Guo, CT Yang, JD Lee",
+            "venue": "2008 International Conference on Intelligent Information Hiding and …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Improved dot diffusion using optimized diffused weighting and class matrix",
+            "authors": "JM Guo, YF Liu",
+            "venue": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Complexity Reduction and Fast Algorithm for 2-D Integer Discrete Wavelet Transform Using Symmetric Mask-Based Scheme",
+            "authors": "CH Hsia, JM Guo, JS Chiang",
+            "venue": "Ninth IEEE International Symposium on Multimedia (ISM 2007), 57-64, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Complementary Steganography in Error-Diffused Block Truncation Coding Images",
+            "authors": "JM Guo",
+            "venue": "Third International Conference on Intelligent Information Hiding and …, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "基于余弦整形变换的手写汉字训练样本生成方法",
+            "authors": "陈光， 张洪刚， 郭军",
+            "venue": "北京邮电大学学报 29 (s2), 118, 2006",
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "3-Step Bi-Level Images for Multiscaling and Lossless Compression",
+            "authors": "SC Pei, JM Guo",
+            "venue": "2005 5th International Conference on Information Communications & Signal …, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "Image Compression for Halftone Display",
+            "authors": "JM Guo, Y Lin",
+            "venue": "Signal and Image Processing: Proceedings of the Sixth IASTED International …, 2004",
+            "year": "2004",
+            "citations": null
+        },
+        {
+            "title": "Outline",
+            "authors": "BM Model, W Calculating, FCF FCF",
+            "venue": "Phonology: Critical Concepts in Linguistics 6, 343, 2001",
+            "year": "2001",
+            "citations": null
+        },
+        {
+            "title": "The energy absorption and anomalous thermal expansion of Bi-based high T sub c superconductor",
+            "authors": "J Chen, Z Yang, M Cai, M Gao, J Guo, B Zhou",
+            "venue": "Chinese Journal of Materials Research(China) 13 (2), 179-182, 1999",
+            "year": "1999",
+            "citations": null
+        },
+        {
+            "title": "HLA-DRB GENES POLYMORPHISM IN CHINESE NORTHERN PATIENTS WITH ATOPIC ASTHMA",
+            "authors": "高金明， 林耀广， 邱长春， 马毅",
+            "venue": "中国医学科学杂志: 英文版 13 (2), 80-84, 1998",
+            "year": "1998",
+            "citations": null
+        },
+        {
+            "title": "Information Hiding Based on Block Match Coding for VQ-Compressed Images",
+            "authors": "JD Lee, YH Chiou, JM Guo",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "中国文献情报 (英) 2010, 3 (1) 50-64 DOI: ISSN: 1674-3393 CN: 11-5670/G2",
+            "authors": "J GUO, J CHEN",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Technical Sponsor",
+            "authors": "YO Su, RCH Chang, PJ Lee, JM Guo, YUC Fan, CP Fan, KS Wong, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "PANORAMIC POSE-INVARIANT FACE RECOGNITION",
+            "authors": "YF Liu, JM Guo, PH Liu, JD Lee",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "AN ADAPTIVE HISTOGRAM EQUALIZATION METHOD WITH CONSTANT TIME COMPLEXITY",
+            "authors": "YF Liu, JM Guo",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Session information",
+            "authors": "JM Guo, WC Kao, MB Frankston",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Program at a glance",
+            "authors": "RH Kao",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Hake S Herman JG Horikoshi M Jia Y",
+            "authors": "I Kisu, A Bannister, K Banno, H Binder, M Brock, MV Buschbeck, JS Butler, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "A comparative analysis of information literacy curriculum standards in the educational programs of high schools in China and in the United States",
+            "authors": "J GUO, J SUN",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

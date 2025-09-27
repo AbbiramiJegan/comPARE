@@ -1,0 +1,714 @@
+{
+    "author_id": "QCsBsbQAAAAJ",
+    "name": "Roslan Ismail, PhD. Email: apdrroslan@gmail.com",
+    "affiliations": "UNITEN - Retired Associate Professor",
+    "metrics": [
+        {
+            "citations": {
+                "all": 8626,
+                "since_2020": 1778
+            }
+        },
+        {
+            "h_index": {
+                "all": 19,
+                "since_2020": 12
+            }
+        },
+        {
+            "i10_index": {
+                "all": 30,
+                "since_2020": 15
+            }
+        }
+    ],
+    "co_authors": [
+        "Audun Jøsang",
+        "Colin Boyd",
+        "Abdul Rahim Ahmad",
+        "Mohammed Najah Mahdi",
+        "Asmidar Abu Bakar",
+        "Salman Yussof",
+        "Yunus Yusoff, PhD",
+        "Ramona Ramli",
+        "Norziana Jamil",
+        "Majdi Beseiso",
+        "Dr. Jamalul-lail Ab Manan",
+        "Mohd Ezanee Rusli",
+        "Dr. Hothefa Sh. Jassim"
+    ],
+    "articles": [
+        {
+            "title": "A survey of trust and reputation systems for online service provision",
+            "authors": "A Jøsang, R Ismail, C Boyd",
+            "venue": "Decision support systems 43 (2), 618-644, 2007",
+            "year": "2007",
+            "citations": 4991
+        },
+        {
+            "title": "The beta reputation system",
+            "authors": "A Josang, R Ismail",
+            "venue": "Proceedings of the 15th bled electronic commerce conference 5, 2502-2511, 2002",
+            "year": "2002",
+            "citations": 2402
+        },
+        {
+            "title": "Common phases of computer forensics investigation models",
+            "authors": "Y Yusoff, R Ismail, Z Hassan",
+            "venue": "International Journal of Computer Science & Information Technology 3 (3), 17-31, 2011",
+            "year": "2011",
+            "citations": 267
+        },
+        {
+            "title": "A review of security attacks on IEC61850 substation automation system network",
+            "authors": "MTA Rashid, S Yussof, Y Yusoff, R Ismail",
+            "venue": "Proceedings of the 6th international conference on information technology …, 2014",
+            "year": "2014",
+            "citations": 88
+        },
+        {
+            "title": "Software project management using machine learning technique—a review",
+            "authors": "MN Mahdi, MH Mohamed Zabil, AR Ahmad, R Ismail, Y Yusoff, LK Cheng, ...",
+            "venue": "Applied Sciences 11 (11), 5183, 2021",
+            "year": "2021",
+            "citations": 83
+        },
+        {
+            "title": "A Survey of Arabic language Support in Semantic web",
+            "authors": "M Beseiso, AR Ahmad, R Ismail",
+            "venue": "International Journal of Computer Applications 9 (1), 35-40, 2010",
+            "year": "2010",
+            "citations": 66
+        },
+        {
+            "title": "A survey of scada testbed implementation approaches",
+            "authors": "Q Qassim, N Jamil, IZ Abidin, ME Rusli, S Yussof, R Ismail, F Abdullah, ...",
+            "venue": "Indian Journal of Science and Technology 10 (26), 1-8, 2017",
+            "year": "2017",
+            "citations": 62
+        },
+        {
+            "title": "The beta reputation system",
+            "authors": "A Jesang, R Ismail",
+            "venue": "15th Bled Electronic Commerce Conference e-Reality: Constructing the e-Economy, 2002",
+            "year": "2002",
+            "citations": 50
+        },
+        {
+            "title": "Solution for information overload using faceted search–a review",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, H Natiq, MA Mohammed",
+            "venue": "IEEE Access 8, 119554-119585, 2020",
+            "year": "2020",
+            "citations": 41
+        },
+        {
+            "title": "A Routing Protocol based on Trusted and shortest Path selection for Mobile Ad hoc Network",
+            "authors": "HS Jassim, S Yussof, TS Kiong, SP Koh, R Ismail",
+            "venue": "2009 IEEE 9th Malaysia International Conference on Communications (MICC …, 2009",
+            "year": "2009",
+            "citations": 36
+        },
+        {
+            "title": "A security architecture for reputation systems",
+            "authors": "R Ismail, C Boyd, A Josang, S Russell",
+            "venue": "International Conference on Electronic Commerce and Web Technologies, 176-185, 2003",
+            "year": "2003",
+            "citations": 33
+        },
+        {
+            "title": "Adopting hadith verification techniques in to digital evidence authentication",
+            "authors": "Y Yusoff, R Ismail, Z Hassan",
+            "venue": "Journal of Computer Science 6 (6), 613, 2010",
+            "year": "2010",
+            "citations": 31
+        },
+        {
+            "title": "An Arabic language framework for semantic web",
+            "authors": "M Beseiso, AR Ahmad, R Ismail",
+            "venue": "2011 International Conference on Semantic Technology and Information …, 2011",
+            "year": "2011",
+            "citations": 27
+        },
+        {
+            "title": "Strong privacy in reputation systems",
+            "authors": "R Ismail, C Boyd, A Josang, S Russel",
+            "venue": "Information security applications: proceedings of the 4th International …, 2003",
+            "year": "2003",
+            "citations": 25
+        },
+        {
+            "title": "Sign language to voice recognition: hand detection techniques for vision-based approach",
+            "authors": "NSM Salleh, J Jais, L Mazalan, R Ismail, S Yussof, A Ahmad, A Anuar, ...",
+            "venue": "Current Developments in Technology-Assisted Education 422, 2006",
+            "year": "2006",
+            "citations": 23
+        },
+        {
+            "title": "Private reputation schemes for p2p systems",
+            "authors": "R Ismail, C Boyd, A Josang, S Russell",
+            "venue": "International Workshop on Security In Information Systems 2, 196-206, 2004",
+            "year": "2004",
+            "citations": 22
+        },
+        {
+            "title": "Information overload: the effects of large amounts of information",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, MA Subhi, MM Abdulrazzaq, QS Qassim",
+            "venue": "2020 1st. Information Technology To Enhance e-learning and Other Application …, 2020",
+            "year": "2020",
+            "citations": 21
+        },
+        {
+            "title": "Simulating command injection attacks on IEC 60870-5-104 protocol in SCADA system",
+            "authors": "QS Qassim, N Jamil, M Daud, N Ja’affar, S Yussof, R Ismail, ...",
+            "venue": "International Journal of Engineering & Technology 7 (2.14), 153-159, 2018",
+            "year": "2018",
+            "citations": 20
+        },
+        {
+            "title": "Information Technology program students' awareness and perceptions towards personal data protection and privacy",
+            "authors": "LF Chen, R Ismail",
+            "venue": "2013 International Conference on Research and Innovation in Information …, 2013",
+            "year": "2013",
+            "citations": 20
+        },
+        {
+            "title": "Malware threat analysis techniques and approaches for iot applications: A review",
+            "authors": "CC Uchenna, N Jamil, R Ismail, LK Yan, MA Mohamed",
+            "venue": "Bulletin of Electrical Engineering and Informatics 10 (3), 1558-1571, 2021",
+            "year": "2021",
+            "citations": 19
+        },
+        {
+            "title": "Financial impacts of smart meter security and privacy breach",
+            "authors": "S Yussof, ME Rusli, Y Yusoff, R Ismail, AA Ghapar",
+            "venue": "Proceedings of the 6th International Conference on Information Technology …, 2014",
+            "year": "2014",
+            "citations": 19
+        },
+        {
+            "title": "Forming trust in mobile ad hoc network",
+            "authors": "AA Bakar, R Ismail, J Jais",
+            "venue": "2009 WRI International Conference on Communications and Mobile Computing 3 …, 2009",
+            "year": "2009",
+            "citations": 19
+        },
+        {
+            "title": "A review on extended role based access control (E-RBAC) model in pervasive computing environment",
+            "authors": "AA Bakar, R Ismail, J Jais",
+            "venue": "2009 First International Conference on Networked Digital Technologies, 533-535, 2009",
+            "year": "2009",
+            "citations": 17
+        },
+        {
+            "title": "Leveling-index based variable rate seeding technique for paddy",
+            "authors": "B Abu Bakar, MT Ahmad, MSS Ghazali, MNF Abd Rani, MA Mhd Bookeri, ...",
+            "venue": "Precision Agriculture 21 (4), 729-736, 2020",
+            "year": "2020",
+            "citations": 16
+        },
+        {
+            "title": "Access control and privacy in MANET emergency environment",
+            "authors": "AA Bakar, AA Ghapar, R Ismail",
+            "venue": "2014 International Conference on Computer and Information Sciences (ICCOINS …, 2014",
+            "year": "2014",
+            "citations": 14
+        },
+        {
+            "title": "Ensuring data privacy and security in MANET: Case in emergency rescue mission",
+            "authors": "A Bakar, R Ismail, AAR Hmad, JL Manan",
+            "venue": "Proceedings of the international conference on information and knowledge …, 2012",
+            "year": "2012",
+            "citations": 14
+        },
+        {
+            "title": "A new architecture for email knowledge extraction",
+            "authors": "M Beseiso, AR Ahmad, R Ismail",
+            "venue": "International Journal of Web & Semantic Technology 3 (3), 1, 2012",
+            "year": "2012",
+            "citations": 14
+        },
+        {
+            "title": "Paradigm extension of faceted search techniques a review",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "Journal of Telecommunication, Electronic and Computer Engineering (JTEC) 9 …, 2017",
+            "year": "2017",
+            "citations": 10
+        },
+        {
+            "title": "The trust effect towards online seller in social commerce",
+            "authors": "R Ramli, AA Bakar, R Ismail, N Aziz",
+            "venue": "Proceedings of the 6th International Conference on Computing and Informatics …, 2017",
+            "year": "2017",
+            "citations": 10
+        },
+        {
+            "title": "An efficient off-line reputation scheme using articulated certificates",
+            "authors": "R Ismail, C Boyd, A Josang, S Russell",
+            "venue": "Security In Information Systems, 53-62, 2004",
+            "year": "2004",
+            "citations": 10
+        },
+        {
+            "title": "Smart grid digital forensics investigation framework",
+            "authors": "HIM Abdullah, MZ Mustaffa, FA Rahim, ZA Ibrahim, Y Yusoff, S Yussof, ...",
+            "venue": "2020 8th International Conference on Information Technology and Multimedia …, 2020",
+            "year": "2020",
+            "citations": 9
+        },
+        {
+            "title": "Issues and challenges of forensics analysis of agents' behavior in multi-agent systems: A critical review",
+            "authors": "NA Musa, MZM Yusoff, R Ismail, Y Yusoff",
+            "venue": "2015 International Symposium on Agents, Multi-Agent Systems and Robotics …, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Trust formation based on subjective logic and pgp web-of-trust for information sharing in mobile ad hoc networks",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JLA Manan",
+            "venue": "2010 IEEE Second International Conference on Social Computing, 1004-1009, 2010",
+            "year": "2010",
+            "citations": 9
+        },
+        {
+            "title": "Bfedroid: a feature selection technique to detect malware in android apps using machine learning",
+            "authors": "C Chimeleze, N Jamil, R Ismail, KY Lam, JS Teh, J Samual, ...",
+            "venue": "Security and Communication Networks 2022 (1), 5339926, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Improving faceted search results for web-based information exploration",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "Int. J. Adv. Sci. Eng. Inf. Technol 10, 1143-1152, 2020",
+            "year": "2020",
+            "citations": 7
+        },
+        {
+            "title": "Similarity search techniques in exploratory search: a review",
+            "authors": "M Mahdi, AR Ahmad, R Ismail",
+            "venue": "TENCON 2018-2018 IEEE Region 10 Conference, 2193-2198, 2018",
+            "year": "2018",
+            "citations": 7
+        },
+        {
+            "title": "Intelligent metadata web search engines: A brief review of literature on intelligent metadata based search engines",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "Proceedings of the 6th International Conference on Information Technology …, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "Group based access control scheme: proof of method for secure access control architecture in mobile ad-hoc networks",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JA Manan, J Jais",
+            "venue": "Proceedings of the 7th International Conference on Advances in Mobile …, 2009",
+            "year": "2009",
+            "citations": 7
+        },
+        {
+            "title": "Security of reputation systems",
+            "authors": "R Ismail",
+            "venue": "Queensland University of Technology, 2004",
+            "year": "2004",
+            "citations": 7
+        },
+        {
+            "title": "An anomaly detection technique for deception attacks in industrial control systems",
+            "authors": "QS Qassim, AR Ahmad, R Ismail, AA Bakar, FA Rahim, MZ Mokhtar, ...",
+            "venue": "2019 IEEE 5th Intl Conference on Big Data Security on Cloud (BigDataSecurity …, 2019",
+            "year": "2019",
+            "citations": 6
+        },
+        {
+            "title": "The authentication techniques for enhancing the RPL security mode: A survey",
+            "authors": "MF Razali, ME Rusli, N Jamil, R Ismail, S Yussof",
+            "venue": "Proceedings of the 6th International Conference on Computing & Informatics …, 2017",
+            "year": "2017",
+            "citations": 6
+        },
+        {
+            "title": "Group based access control scheme (GBAC): Keeping information sharing secure in mobile Ad-hoc environment",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JL Abdul, J Jais",
+            "venue": "2009 Fourth International Conference on Digital Information Management, 1-6, 2009",
+            "year": "2009",
+            "citations": 6
+        },
+        {
+            "title": "Improving big data technologies with visual faceted search",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, MA Subhi",
+            "venue": "2020 8th International conference on information technology and multimedia …, 2020",
+            "year": "2020",
+            "citations": 5
+        },
+        {
+            "title": "Scenario based performance analysis of reliant ad hoc on-demand distance vector routing (R-AODV) for mobile ad hoc network",
+            "authors": "HSH Jassim, SK Tiong, S Yussof, SP Koh, R Ismail",
+            "venue": "vol 2, 78-89, 2011",
+            "year": "2011",
+            "citations": 5
+        },
+        {
+            "title": "Privacy preserving features selection for data mining using machine learning algorithms",
+            "authors": "NK Anuar, AA Bakar, S Yussof, FA Rahim, R Ramli, R Ismail",
+            "venue": "2020 8th International Conference on Information Technology and Multimedia …, 2020",
+            "year": "2020",
+            "citations": 4
+        },
+        {
+            "title": "Performance evaluation of active canopy sensor for variable rate fertilizer model in paddy production",
+            "authors": "J Muslimin, BA Bakar, MNF Abd Rani, MA Bookeri, MZK Abdullah, ...",
+            "venue": "ASM Sci. J 13, 96-103, 2020",
+            "year": "2020",
+            "citations": 4
+        },
+        {
+            "title": "Design and implementation of an attestation protocol for measured dynamic behavior",
+            "authors": "T Ali, R Ismail, S Musa, M Nauman, S Khan",
+            "venue": "The Journal of Supercomputing 74 (11), 5746-5773, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "A Real Time Visual Exploratory Search Engine for Information Retrieval in a Cloud",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "International Journal of Future Computer and Communication 4 (3), 216, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Review of techniques in faceted search applications",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, M Subhi",
+            "venue": "2020 International Symposium on Networks, Computers and Communications …, 2020",
+            "year": "2020",
+            "citations": 3
+        },
+        {
+            "title": "Shifting dataset to preserve data privacy",
+            "authors": "MSM Pozi, AA Bakar, R Ismail, S Yussof, FA Rahim, R Ramli",
+            "venue": "2018 IEEE Conference on e-Learning, e-Management and e-Services (IC3e), 134-139, 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "Ambit determination method in estimating rice plant population density",
+            "authors": "B Abu Bakar, A Rahman, CC Teoh, MZK Abdullah, R Ismail",
+            "venue": "Food Research 2 (2), 177-182, 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "A design of faceted search engine-A review",
+            "authors": "MN Mahdi, R Ismail, AR Ahmad, K Thambiratnam, AM Mohammed",
+            "venue": "International Journal of Engineering and Technology 7, 489-493, 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "Online student supervision management system (OSSMS)",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, S Aziz",
+            "venue": "International Journal of Science and Research 2 (2), 2319-7064, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "Subjective trust model for mobile ad-hoc network in emergency environment",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JA Manan",
+            "venue": "2012 IEEE Symposium on Wireless Technology and Applications (ISWTA), 297-302, 2012",
+            "year": "2012",
+            "citations": 3
+        },
+        {
+            "title": "Visualization in Faceted Search Engine-A Review",
+            "authors": "MN Mahdi, AR Ahmad, MA Subhi, R Ismail, QS Qassim",
+            "venue": "2020 IEEE Conference on Big Data and Analytics (ICBDA), 84-89, 2020",
+            "year": "2020",
+            "citations": 2
+        },
+        {
+            "title": "Privacy preserving technique for smart metering data: A preliminary result",
+            "authors": "FA Rahim, AA Bakar, S Yussof, R Ramli, R Ismail, BM Yusof",
+            "venue": "Advanced Science Letters 24 (3), 1839-1842, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "Evaluating search results in exploratory search",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "Int. J. Eng. Technol 7, 276, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "Ascertaining trust of information transmitted during a disaster",
+            "authors": "Y Yusoff, AA Bakar, N Aziz, R Ismail, R Ramli",
+            "venue": "Journal of Telecommunication, Electronic and Computer Engineering (JTEC) 8 …, 2016",
+            "year": "2016",
+            "citations": 2
+        },
+        {
+            "title": "Preserving privacy for mobile ad-hoc network emergency services via heterogeneous access control model",
+            "authors": "AA Bakar, EMH El-Talib, R Ismail",
+            "venue": "Advanced Science Letters 20 (10-11), 2046-2049, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Agent based information retrieval in a cloud: a theoretical framework for an institutional repository",
+            "authors": "M Mahdi, A Ahmad, R Ismail",
+            "venue": "Int J Emerg Technol Adv Eng 4, 447-450, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Evaluating and selecting software testing tools: a case study",
+            "authors": "R Ramli, R Ismail, AR Ahmad",
+            "venue": null,
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Multilingual Ontology Learning Algorithm for Emails",
+            "authors": "M Beseiso, AR Ahmad, R Ismail, M Taher",
+            "venue": "International Multi-Conference on Artificial Intelligence Technology, 229-244, 2013",
+            "year": "2013",
+            "citations": 2
+        },
+        {
+            "title": "A Review on Malware Variants Detection Techniques for Threat Intelligence in Resource Constrained Devices: Existing Approaches, Limitations and Future Direction",
+            "authors": "CU Chimeleze, N Jamil, R Ismail, KY Lam",
+            "venue": "International Conference on Advances in Cyber Security, 354-370, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Perceived Usefulness of KALAM",
+            "authors": "Z Ali, R Ismail, AH Abu Bakar, NN Muhammad, FL Ahmad Azmey",
+            "venue": "International Journal of Novel Research in Education and Learning 6 (4), 8-15, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "A Review of Big Data Digital Forensic Analysis in Advanced Metering Infrastructure",
+            "authors": "ZA Ibrahim, FA Rahim, R Ismail, AA Bakar",
+            "venue": "Advanced Science Letters 24 (3), 1603-1607, 2018",
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "Privacy Preservation Framework For Advanced Metering Infrastructure",
+            "authors": "FA Rahim, AA Bakar, S Yussof, R Ismail, R Ramli",
+            "venue": "Proceedings of International Conference on Computing and Informatics, 2017",
+            "year": "2017",
+            "citations": 1
+        },
+        {
+            "title": "A Hybrid Architecture for Database Intrusion Preventer",
+            "authors": "YA Albakoush, R Ismail, AA Bakar",
+            "venue": "Proceedings of the 6th International Conference on Information Technology …, 2014",
+            "year": "2014",
+            "citations": 1
+        },
+        {
+            "title": "Congestion avoidance: Network based schemes solution",
+            "authors": "AQ Shaii, R Ismail, J Jais, J Manan",
+            "venue": "2008 International Symposium on Information Technology 3, 1-4, 2008",
+            "year": "2008",
+            "citations": 1
+        },
+        {
+            "title": "Reputation Systems Security (Position Paper)",
+            "authors": "R Ismail, C Boyd, A Jøsang, S Russell",
+            "venue": "Co-operative Research Centre for Enterprise Distributed Systems Technology …, 2006",
+            "year": "2006",
+            "citations": 1
+        },
+        {
+            "title": "Strong privacy in reputation systems (preliminary version)",
+            "authors": "R Ismail, C Boyd, A Josang, S Russel",
+            "venue": "the proceedings of WISA 2003, 2003",
+            "year": "2003",
+            "citations": 1
+        },
+        {
+            "title": "Improving the usability of faceted exploratory search tools",
+            "authors": "MN Mahdi, AR Ahmad, QS Qassim, R Ismail",
+            "venue": "TELKOMNIKA (Telecommunication Computing Electronics and Control) 20 (1), 70-80, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "VExSearch: Improving Visualizations Results for Web-based Information Exploration and Refinement",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, AM Buhari",
+            "venue": "International Association of Engineers, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Smart Grid Digital Forensics Investigation Framework",
+            "authors": "MA HI, MZ Mustaffa, FA Rahim, ZA Ibrahim, Y Yusoff, S Yussof, AA Bakar, ...",
+            "venue": "Institute of Electrical and Electronics Engineers Inc., 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "A Visualization Technique to Support Searching Filtering",
+            "authors": "MN Mehdi, AR Ahmad, R Ismail",
+            "venue": "MATEC Web of Conferences 255, 05003, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Problems in models of opening networks resources and methods for calculating system performance and reliability",
+            "authors": "B Gulnara, ARB Ahmad, R Ismail",
+            "venue": "2018 18th International Conference on Control, Automation and Systems (ICCAS …, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "Preventing Stack Overflow Using Alternative Stack Approaches",
+            "authors": "KAM Salleh, AR Ahmad, R Ismail",
+            "venue": "International Journal of Engineering & Technology 7 (4.35), 239-243, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "Retracted: Software approach in providing an alternate stack to avoid buffer overflow",
+            "authors": "KAM Salleh, R Ismail, AR Ahmad",
+            "venue": "Journal of Fundamental and Applied Sciences 10 (6S), 2683-2695, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "An authentication mechanism for heterogeneous access control model in MANET emergency rescue mission",
+            "authors": "EH El Talib, AA Bakar, R Ismail",
+            "venue": "Proceedings of the 6th International Conference on Information Technology …, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Data analysis technique to extract threshold value for Fuzzy Inference System in classifying malicious agents",
+            "authors": "NA Musa, MZM Yusoff, Y Yusoff, R Ismail",
+            "venue": "Proceedings of the 6th International Conference on Information Technology …, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Proposal for grid computing for nuclear applications",
+            "authors": "FM Idris, WATW Abdullah, ZA Ibrahim, Z Zolkapli, AA Anuar, ...",
+            "venue": "AIP Conference Proceedings 1584 (1), 114-116, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "A Visual Exploratory Meta Data Search Engine Solution based on Cloud Computing",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": "International Journal of Computer Applications 104 (8), 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Email Ontology Learning System Based on Fuzzy Logic.",
+            "authors": "M Beseiso, AR Ahmad, R Ismail",
+            "venue": "Int. J. Web Appl. 5 (1), 37-45, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Protocol for Secure Access in Mobile Ad-hoc Network for Emergency Services Using Group Based Access Control Model",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JA Manan",
+            "venue": "Trustworthy Ubiquitous Computing, 149-173, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Subjective trust model for mobile ad-hoc network in emergency environment",
+            "authors": "A Abu Bakar, R Ismail, AR Ahmad, JL Abdul Manan",
+            "venue": null,
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Representing e-mail semantically for automated ontology building",
+            "authors": "M Beseiso, AR Ahmad, R Ismail",
+            "venue": "Knowledge Technology Week, 364-367, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Combination of GREEN and SHRed AQM for short-lived traffic",
+            "authors": "AQ Shaii, R Ismail, J Jais",
+            "venue": null,
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Hand Gesture Recognition using Hidden Markov Models: A Review on Techniques and Approaches",
+            "authors": "NSM Salleh, J Jais, L Mazalan, R Ismail, S Yussof, A Ahmad, A Anuar, ...",
+            "venue": null,
+            "year": "2006",
+            "citations": null
+        },
+        {
+            "title": "Saving Fertilizer in Malaysia's Large-Scale Paddy Production through Precision Farming",
+            "authors": "BA Bakar, MSA Rahman, H Rahim, MNFA Rani, MSS Ghazali, M Bookeri, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Solution for Information Overload Using Faceted Search—A Review",
+            "authors": "R ISMAIL, H NATIQ, MA MOHAMMED",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "No. Author No. Author No~ Author 1I No. AUthor",
+            "authors": "AR Kram, AR Othman, A Ramli, ASM Supa'at, A Abas, AF Abas, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "DEVELOPING AND VALIDATING AN INSTRUMENT TO MEASURE THE TRUST EFFECT TOWARDS ONLINE SELLER IN SOCIAL COMMERCE",
+            "authors": "R Ramli, AA Bakar, R Ismail, MZ Mokhtar, SI Roslan, N Aziz",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Organizing Comittee",
+            "authors": "ZB Hassan, YB Yusoff, AB Selamat, MDAB Suliman, MHM Zabil, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "CHALLENGES AND SOLUTIONS OF REAL-TIME CLUSTERING FOR NETWORK ANOMALY DETECTION",
+            "authors": "J Kunasaikaran, R Ismail, AR Ahmad",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "CLASSIFICATION AND ALGORITHM OF RELIABILITY CALCULATIONS FOR NON-STANDARD GRID SYSTEMS",
+            "authors": "GU Bektemyssova, ARB Ahmad, R Ismail",
+            "venue": "Мы очень ценим Вашу человеческую мудрость, Вашу доброжелательность в …, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Secure Access Control Protocol using Group Based Access Control scheme (GBAC)",
+            "authors": "AA Bakar, R Ismail, AR Ahmad, JA Manan, J Jais, IMI Saud",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Information Retrieval in a Cloud using Ontologies and Multi-Agent System",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

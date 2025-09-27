@@ -1,0 +1,242 @@
+{
+    "author_id": "NfBluEcAAAAJ",
+    "name": "Ts. Dr. Sicily Ting Fung Fung",
+    "affiliations": "Lecturer, Monash University Malaysia",
+    "metrics": [
+        {
+            "citations": {
+                "all": 1254,
+                "since_2020": 1192
+            }
+        },
+        {
+            "h_index": {
+                "all": 10,
+                "since_2020": 10
+            }
+        },
+        {
+            "i10_index": {
+                "all": 11,
+                "since_2020": 10
+            }
+        }
+    ],
+    "co_authors": [
+        "Prof. Dr. Ir. Sim Kok Swee, FASc",
+        "Raphaël C.-W. Phan",
+        "Chih-Ping Tso, C. P. Tso, C. Tso, Tso...",
+        "Seifedine Kadry, Fellow IET",
+        "David Taniar",
+        "Eng Kiong Wong",
+        "Anuja Dharmaratne",
+        "Golnoush Abaei",
+        "CP Lim",
+        "Ming Kang"
+    ],
+    "articles": [
+        {
+            "title": "Convolutional neural network improvement for breast cancer classification",
+            "authors": "FF Ting, YJ Tan, KS Sim",
+            "venue": "Expert Systems with Applications 120, 103-115, 2019",
+            "year": "2019",
+            "citations": 520
+        },
+        {
+            "title": "ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "Image and Vision Computing 147, 105057, 2024",
+            "year": "2024",
+            "citations": 274
+        },
+        {
+            "title": "Breast cancer detection using convolutional neural networks for mammogram imaging system",
+            "authors": "YJ Tan, KS Sim, FF Ting",
+            "venue": "2017 International Conference on Robotics, Automation and Sciences (ICORAS), 1-5, 2017",
+            "year": "2017",
+            "citations": 148
+        },
+        {
+            "title": "RCS-YOLO: A fast and high-accuracy object detector for brain tumor detection",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "International conference on medical image computing and computer-assisted …, 2023",
+            "year": "2023",
+            "citations": 90
+        },
+        {
+            "title": "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "International Conference on Medical Image Computing and Computer-Assisted …, 2024",
+            "year": "2024",
+            "citations": 59
+        },
+        {
+            "title": "Self-regulated multilayer perceptron neural network for breast cancer classification",
+            "authors": "FF Ting, KS Sim",
+            "venue": "2017 international conference on robotics, automation and sciences (ICORAS), 1-5, 2017",
+            "year": "2017",
+            "citations": 49
+        },
+        {
+            "title": "CST-YOLO: A novel method for blood cell detection based on improved YOLOv7 and CNN-swin transformer",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 3024-3029, 2024",
+            "year": "2024",
+            "citations": 21
+        },
+        {
+            "title": "Signal-to-noise ratio estimation for SEM single image using cubic spline interpolation with linear least square regression",
+            "authors": "KS Sim, FF Ting, JW Leong, CP Tso",
+            "venue": "Engineering Letters 27 (1), 151-165, 2019",
+            "year": "2019",
+            "citations": 15
+        },
+        {
+            "title": "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities",
+            "authors": "M Kang, FF Ting, RCW Phan, Z Ge, CM Ting",
+            "venue": "arXiv preprint arXiv:2404.14019, 2024",
+            "year": "2024",
+            "citations": 10
+        },
+        {
+            "title": "Toward more accurate diagnosis of multiple sclerosis:Automated lesion segmentation in brain magneticresonance image using modified U-Net model",
+            "authors": "D Amaludin, B, Kadry, S, Ting, FF, Taniar",
+            "venue": "International Journal of Imaging Systems and Technology 2023, 1-16, 2023",
+            "year": "2023",
+            "citations": 10
+        },
+        {
+            "title": "Estimation of Window Width Setting for CT Scan Brain Images Using Mean of Greyscale Level to Standard Deviation Ratio",
+            "authors": "CS Ee, V Teh, KS Sim, FF Ting",
+            "venue": "The 2016 International Conference on Robotics, Automation and Sciences …, 2016",
+            "year": "2016",
+            "citations": 10
+        },
+        {
+            "title": "A Rapid Medical Image Noise Variance Estimation Method",
+            "authors": "FF Ting, KS Sim, W E.K",
+            "venue": "The 2016 International Conference on Robotics, Automation and Sciences …, 2016",
+            "year": "2016",
+            "citations": 8
+        },
+        {
+            "title": "Three-Dimensional Model Reconstruction Using Surface Interpolation with the Interfacing of Hermite Surface for Breast Cancer MRI Imaging System",
+            "authors": "FF Ting, KS Sim, Y Lee",
+            "venue": "The 2016 International Conference on Robotics, Automation and Sciences …, 2016",
+            "year": "2016",
+            "citations": 7
+        },
+        {
+            "title": "Auto-probing breast cancer mass segmentation for early detection",
+            "authors": "FF Ting, KS Sim, SS Chong",
+            "venue": "2017 International Conference on Robotics, Automation and Sciences (ICORAS), 1-5, 2017",
+            "year": "2017",
+            "citations": 6
+        },
+        {
+            "title": "Implementing a Successful Collaborative Active Learning Approach in Information Technology Discipline",
+            "authors": "A Dharmaratne, FF Ting, G Abaei",
+            "venue": "Collaborative Active Learning, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "The performance of adaptive tuning piecewise cubic Hermite interpolation model for Signal-to-noise ratio estimation",
+            "authors": "KS Sim, ZX Yeap, FF Ting, CP Tso",
+            "venue": "International Journal of Innovative Computing, Information and Control …, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices",
+            "authors": "M Kang, FF Ting, RCW Phan, CM Ting",
+            "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "Cafct-Net: A Cnn-Transformer Hybrid Network With Contextual And Attentional Feature Fusion For Liver Tumor Segmentation",
+            "authors": "M Kang, CM Ting, FF Ting, CWR Phan",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2970-2974, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Adaptive Tuning Noise Estimation for Medical Images using Maximum Element Convolution Laplacian",
+            "authors": "FF Ting, KS Sim",
+            "venue": "International Journal of Innovative Computing, Information and Control …, 2020",
+            "year": "2020",
+            "citations": 3
+        },
+        {
+            "title": "Case-control comparison brain lesion segmentation for early infarct detection",
+            "authors": "FF Ting, KS Sim, CP Lim",
+            "venue": "Computerized Medical Imaging and Graphics 69, 82-95, 2018",
+            "year": "2018",
+            "citations": 3
+        },
+        {
+            "title": "Gastrointestinal Endoscopy Colour-based Image Processing Technique for Bleeding, Lesion and Reflux",
+            "authors": "TK Kho, KS Sim, FF Ting",
+            "venue": "The 2016 International Conference on Robotics, Automation and Sciences …, 2016",
+            "year": "2016",
+            "citations": 3
+        },
+        {
+            "title": "Development of High Data Capacity Color Code",
+            "authors": "KS Sim, ZY Lim, FF Ting",
+            "venue": "International Journal of Machine Learning and Computing, IJMLC 8 (4), 341-344, 2018",
+            "year": "2018",
+            "citations": 2
+        },
+        {
+            "title": "Implicit Volume Ray Cast Mesh Renderer for Breast Cancer Detection",
+            "authors": "FF Ting, KS Sim",
+            "venue": "International Journal of Mechanical Engineering and Robotics Research 8 (5 …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "HG-YOLO: Improving Tumor Detection with PP-HGNet and Global Attention Mechanism",
+            "authors": "K Trang, BQ Vuong, AH Nguyen, FF Ting, CM Ting",
+            "venue": "International Conference on Computational Science and Its Applications, 332-344, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Node-Based Graph Convolutional Network With SLIC Method for Breast Cancer Ultrasound Images Classification",
+            "authors": "K Trang, FF Ting, BQ Vuong, CM Ting",
+            "venue": "IEEE Access, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation.",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "CoRR, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Computerized Brain Database Management System for Radiological Department in Hospital",
+            "authors": "KS Sim, TK Kho, FS Abas, V Teh, FF Ting, CS Ee",
+            "venue": "The 2016 International Conference on Robotics, Automation and Sciences …, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Development of a Graphical User Interface Training System for Early Infarct Detection",
+            "authors": "CS Ee, FF Ting, KS Sim, CP Tso",
+            "venue": "International Journal of Information and Electronics Engineering 6 (1), 7, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "ICORAS 2016",
+            "authors": "MAM Yuden, MM Ghazaly, AC Amran, IW Jamaludin, Z Abdullah, I Ismail, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

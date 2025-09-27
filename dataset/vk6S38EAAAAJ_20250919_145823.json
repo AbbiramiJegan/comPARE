@@ -1,0 +1,481 @@
+{
+    "author_id": "vk6S38EAAAAJ",
+    "name": "Wee Chan Au",
+    "affiliations": "Newcastle University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 884,
+                "since_2020": 837
+            }
+        },
+        {
+            "h_index": {
+                "all": 13,
+                "since_2020": 13
+            }
+        },
+        {
+            "i10_index": {
+                "all": 15,
+                "since_2020": 15
+            }
+        }
+    ],
+    "co_authors": [
+        "Mina Beigi; Ph.D.",
+        "Melika Shirmohammadi",
+        "Andreana Drencheva",
+        "Sian Stephens"
+    ],
+    "articles": [
+        {
+            "title": "Remote work and work-life balance: Lessons learned from the covid-19 pandemic and suggestions for HRD practitioners",
+            "authors": "M Shirmohammadi, WC Au, M Beigi",
+            "venue": "Human Resource Development International 25 (2), 163-181, 2022",
+            "year": "2022",
+            "citations": 425
+        },
+        {
+            "title": "Sustainable people management through work-life balance: a study of the Malaysian Chinese context",
+            "authors": "WC Au, PK Ahmed",
+            "venue": "Asia-Pacific Journal of Business Administration 6 (3), 262-280, 2014",
+            "year": "2014",
+            "citations": 79
+        },
+        {
+            "title": "Antecedents and outcomes of work-life balance while working from home: A review of the research conducted during the COVID-19 pandemic",
+            "authors": "MB Melika Shirmohammadi, Wee Chan Au",
+            "venue": "Human Resource Development Review, 2022",
+            "year": "2022",
+            "citations": 62
+        },
+        {
+            "title": "Relationships between superior support, work role stressors and work-life experience",
+            "authors": "WC Au, PK Ahmed",
+            "venue": "Personnel Review 45 (4), 782-803, 2016",
+            "year": "2016",
+            "citations": 55
+        },
+        {
+            "title": "Narrating career in social entrepreneurship: Experiences of social entrepreneurs",
+            "authors": "WC Au, A Drencheva, JL Yew",
+            "venue": "Journal of Social Entrepreneurship 14 (3), 343-369, 2023",
+            "year": "2023",
+            "citations": 36
+        },
+        {
+            "title": "Exploring the effects of workplace support on work-life experience: a study of Malaysia",
+            "authors": "WC Au, PK Ahmed",
+            "venue": "Human Resource Development International 18 (4), 346-365, 2015",
+            "year": "2015",
+            "citations": 34
+        },
+        {
+            "title": "The work-life experiences of an invisible workforce: The case of live-in women migrant domestic workers in Malaysia",
+            "authors": "WC Au, U Chatrakul Na Ayudhya, YS Tan, PK Ahmed",
+            "venue": "Equality, Diversity and Inclusion: An International Journal 39 (5), 567-583, 2019",
+            "year": "2019",
+            "citations": 24
+        },
+        {
+            "title": "Bringing the family logic in: From duality to plurality in social enterprises",
+            "authors": "A Drencheva, WC Au",
+            "venue": "Journal of Business Ethics, 1-17, 2021",
+            "year": "2021",
+            "citations": 22
+        },
+        {
+            "title": "Running their own show: Malaysian women entrepreneurs’ kaleidoscope careers",
+            "authors": "WC Au, M Beigi, M Shirmohammadi",
+            "venue": "Career Development International 26 (5), 613-639, 2021",
+            "year": "2021",
+            "citations": 20
+        },
+        {
+            "title": "Working for impact, but failing to experience it: Exploring individuals’ sensemaking in social enterprises",
+            "authors": "A Drencheva, WC Au, JL Yew",
+            "venue": "Business & Society, 2023",
+            "year": "2023",
+            "citations": 18
+        },
+        {
+            "title": "Co-worker undermining, emotional exhaustion and organisational commitment: the moderating role of servant leadership",
+            "authors": "AMS Mostafa, S Yunus, WC Au, Z Cai",
+            "venue": "Journal of Managerial Psychology 38 (3), 194-209, 2023",
+            "year": "2023",
+            "citations": 16
+        },
+        {
+            "title": "Unbundling subjective career success: A sequential mediation analysis",
+            "authors": "Z Rossenkhan, WC Au, PK Ahmed",
+            "venue": "European Business Review 33 (1), 2021",
+            "year": "2021",
+            "citations": 14
+        },
+        {
+            "title": "Relational HR practices in Malaysian SMEs: An ethics of care perspective",
+            "authors": "WC Au, S Stephens, PK Ahmed",
+            "venue": "Journal of Business Ethics 191, 323-336, 2023",
+            "year": "2023",
+            "citations": 13
+        },
+        {
+            "title": "How do refugee entrepreneurs navigate institutional voids? Insights from Malaysia",
+            "authors": "WC Au, A Drencheva, JL Yew",
+            "venue": "Disadvantaged Entrepreneurship and the Entrepreneurial Ecosystem 14, 121-144, 2022",
+            "year": "2022",
+            "citations": 11
+        },
+        {
+            "title": "Who moved my boundary? Strategies adopted by families working from home",
+            "authors": "M Shirmohammadi, M Beigi, WC Au, C Tochia",
+            "venue": "Journal of Vocational Behavior 143, 103866, 2023",
+            "year": "2023",
+            "citations": 10
+        },
+        {
+            "title": "We were all in it together: Managing work from home as dual‐earner households with school‐age children",
+            "authors": "M Beigi, M Shirmohammadi, WC Au, C Tochia",
+            "venue": "Journal of Organizational Behavior 45, 539-557, 2024",
+            "year": "2024",
+            "citations": 9
+        },
+        {
+            "title": "I am not just a nurse: The need for a boundaried ethic of care in the context of prolific relationality",
+            "authors": "WC Au, S Stephen",
+            "venue": "Journal of Business Ethics, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "The unfolding process of womens entrepreneurship in a patriarchal society: an exploration of Bangladeshi women entrepreneurs experiences",
+            "authors": "WC Au, S Nourin, PK Ahmed",
+            "venue": "Women’s Entrepreneurship and Culture, 47-67, 2021",
+            "year": "2021",
+            "citations": 5
+        },
+        {
+            "title": "Complexities of Muslim women managers’ careers: An identity perspective",
+            "authors": "Z Rossenkhan, AW Chan, PK Ahmed",
+            "venue": "Gender Studies 16, 17, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "The implicit and explicit influence on work-life balance in Malaysia",
+            "authors": "WC Au",
+            "venue": "Work-life interface: Non-western perspectives, 313-342, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Sustainable people management through work-life balance: a study of the Malaysian Chinese context. Asia-Pacific Journal of Business Administration, 6 (3), 262-280",
+            "authors": "WC Au, PK Ahmed",
+            "venue": null,
+            "year": "2014",
+            "citations": 4
+        },
+        {
+            "title": "Keep calm and work from home: Strategies used by dual-earner households with school-age children",
+            "authors": "M Beigi, M Shirmohammadi, WC Au, C Tochia, A Hashemian",
+            "venue": "Academy of Management Proceedings 2021 (1), 10350, 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Competency development opportunities and organizational citizenship behaviors: the mediating role of subjective career success",
+            "authors": "HH Teow, WC Au, P Ahmed",
+            "venue": "Career Development International 29 (4), 452-465, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "The relationship between burnout and turnover intention among early-career employees in Malaysia: The role of the supervisor",
+            "authors": "HH Teow, WC Au",
+            "venue": "Employee Wellbeing in the Global South: A Critical Overview, 53-65, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "The unheard voices behind the closed doors: An investigation of live-in migrant domestic workers in Malaysia",
+            "authors": "WC Au",
+            "venue": "Employee Voice in the Global South: Insights from Asia, Africa and South …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "High commitment HR practices in Malaysian SMEs",
+            "authors": "WC Au",
+            "venue": "HRM in the Global South, 253-281, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Business Sentiment 2020/2021: A Perspective from Malaysian Executives",
+            "authors": "MS Nair, PK Ahmed, S Vaithilingam, P Narayanan, WC Au",
+            "venue": "Certified Practicing Accountants (CPA) Australia & Monash University Malaysia, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Wellbeing assessment of pull and push women entrepreneurs: The case of Bangladesh",
+            "authors": "S Nourin, WC Au, P Ahmed",
+            "venue": "The Wellbeing of Women in Entrepreneurship, 324-342, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Business Sentiment 2019/2020: A Perspective from Malaysian Executives",
+            "authors": "MS Nair, PK Ahmed, S Vaithilingam, P Narayanan, WC Au",
+            "venue": "Certified Practicing Accountants (CPA) Australia & Monash University Malaysia, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Do institutional pressures drive change? Evidence from Bangladesh garment industry",
+            "authors": "MJ Uddin, WC Au, PK Ahmed",
+            "venue": "Academy of Management Proceedings 2018 (1), 17366, 2018",
+            "year": "2018",
+            "citations": 1
+        },
+        {
+            "title": "A Study on Knowledge Content in Key Economic Sectors in Malaysia Phase III (MYKE III) Final Report (Phase 2)",
+            "authors": "MS Nair, PK Ahmed, S Vaithilingam, WC Au",
+            "venue": "Economic Planning Unit (EPU), Prime Minister’s Department Malaysia & Monash …, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Career Success and Minority Status: A Review and Conceptual Framework",
+            "authors": "M Beigi, M Shirmohammadi, M Ayoobzadeh, A Hedayati Mehdiabadi, ...",
+            "venue": "Journal of Management, 01492063251342190, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Collective Home-based Working: Written evidence submission to the UK Parliament’s Home-based Working Committee",
+            "authors": "M Beigi, WC Au, M Shirmohammadi",
+            "venue": "https://committees.parliament.uk/committee/771/homebased-working-committee …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Navigating sustainable careers: the role of subjective career success, career crafting, and social capital",
+            "authors": "HH Teow, WC Au, PK Ahmed",
+            "venue": "European Journal of Work and Organizational Psychology 34 (1), 58-74, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Legitimacy in the literature: Distinguishing between perceived and actual value congruence in carbon reduction initiatives",
+            "authors": "S Stephens, S Azizzadeh, WC Au",
+            "venue": "Business Strategy and the Environment, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Role incongruity and prejudice: barriers in Malay Muslim women managers’ career experiences",
+            "authors": "Z Rossenkhan, WC Au, PK Ahmed",
+            "venue": "Equality, Diversity and Inclusion: An International Journal, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Using the theory of planned behavior to develop business students into capable change agents for socially sustainable development",
+            "authors": "A Bhattacharya, WC Au, G Croy",
+            "venue": "The Palgrave Handbook of Social Sustainability in Business Education, 443-464, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Impact investment in Southeast Asia: An overview and framework",
+            "authors": "JL Yew, WC Au, A Drencheva",
+            "venue": "De Gruyter Handbook of Sustainable Entrepreneurship Research, 365-388, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "A critical consideration of the ethics of care in nursing work",
+            "authors": "WC Au, S Stephens",
+            "venue": "European Academy of Management (EURAM) Conference, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "“Who is on-call to take care of my kids?”: The country and occupation contexts enabling informal childcare and nursing careers",
+            "authors": "WC Au, M Shirmohammadi, M Beigi",
+            "venue": "82nd Annual Meeting of the Academy of Management, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "What have work-life balance scholars learned from the covid-19 pandemic? A systematic literature review",
+            "authors": "M Shirmohammadi, WC Au, M Beigi",
+            "venue": "29th International Research Conference in the Americas by the Academy of …, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Venture changes as identity work: Responding to identity-implicating experiences during a crisis",
+            "authors": "AM Drencheva, WC Au",
+            "venue": "Academy of Management Proceedings 2022, https://doi.org/10.5465/AMBPP.2022.11400, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Sustainable Careers in Nursing: Focusing on Health, Happiness and Productivity",
+            "authors": "WC Au, M Beigi, ML Fox, S Kainrath, M Latzke, CB Mahoney, ...",
+            "venue": "Academy of Management Proceedings 2022 (1), 13833, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "A qualitative investigation of within-organization sustainable career",
+            "authors": "HH Teow, WC Au, PK Ahmed",
+            "venue": "Academy of International Business Asia Pacific Regional Conference, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Is the work indeed meaningful? Investigation of the lived experiences of social entrepreneurs",
+            "authors": "WC Au, AM Drencheva",
+            "venue": "13th International Social Innovation Research Conference (ISIRC2021), 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Doing Good, Staying Well: A Wellbeing Toolkit for Social Entrepreneurs",
+            "authors": "JL Yew, A Drencheva, O Hough, WC Au",
+            "venue": "Social Innovation Movement, Sheffield University, Impact Hub Phnom Penh …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "The notion of meaningful work in social entrepreneurship",
+            "authors": "WC Au, A Drencheva",
+            "venue": "8th International Conference on Emerging Challenges (ICECH): Contemporary …, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Navigate institutional voids in market participation: Insights from refugees in Malaysia",
+            "authors": "WC Au, AM Drencheva, JL Liew",
+            "venue": "Academy of International Business Southeast Asia Regional Conference, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "From duality to plurality: Embedding family logic in social enterprises",
+            "authors": "AM Drencheva, WC Au, JL Liew",
+            "venue": "The International Social Innovation Research Conference, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Narrating career in the social entrepreneurship: Experiences of young social entrepreneurs",
+            "authors": "WC Au, AM Drencheva, JL Liew",
+            "venue": "Institute of Work Psychology International Conference, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Industrial Skills Framework for the Malaysian Plastics Industry",
+            "authors": "S Vaithilingam, MS Nair, PK Ahmed, WC Au",
+            "venue": "Malaysian Plastics Manufacturers Association, Ministry of Human Resources …, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Subjective experiences of positive impact in social enterprises: Working for impact, seeing impact",
+            "authors": "A Drencheva, WC Au, JL Yew",
+            "venue": "Academy of Management Proceedings 2020 (1), 11839, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Context of career: Does planning translate into success?",
+            "authors": "HH Teow, WC Au",
+            "venue": "European Academy of Management (EURAM) Conference, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "The work-life experiences of migrant domestic workers in Malaysia",
+            "authors": "YS Tan, WC Au, A Na, PK Ahmed",
+            "venue": "8th International Community, Work and Family Conference, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Exploring the process of career success through sequential mediation modelling?",
+            "authors": "Z Rossenkhan, PK Ahmed, WC Au",
+            "venue": "European Academy of Management (EURAM) Conference, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Entrepreneurship and women's well-being in Bangladesh",
+            "authors": "WC Au, S Nourin, PK Ahmed",
+            "venue": "ICSB World Conference Proceedings, 1-8, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Authentic, balanced, and challenged women entrepreneurs: a qualitative study in Malaysia",
+            "authors": "WC Au, M Beigi",
+            "venue": null,
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Business Sentiment 2018: A Perspective from Malaysian Executives",
+            "authors": "MS Nair, PK Ahmed, S Vaithilingam, P Narayanan, WC Au",
+            "venue": "Certified Practicing Accountants (CPA) Australia & Monash University Malaysia, 2018",
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "A Discussion Paper: Gender Differences In Protean Career Orientation",
+            "authors": "HH Teow, WC Au, PK Ahmed",
+            "venue": null,
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Organizational and institutional barriers for welfare based HRM practices in the multinational setting: a critical exploratory investigation",
+            "authors": "J Uddin, WC Au, PK Ahmed",
+            "venue": "Academy of International Business (AIB) Southeast Asia Regional Conference 2016, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Sustainability in a Global Market: Strategies for Unlocking the Potential of the Halal Industry",
+            "authors": "PK Ahmed, AQS Hilles, WC Au",
+            "venue": "Newcastle University, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "The bi-directional and componential nature of work-life balance: An investigation of the concept",
+            "authors": "WC Au, DD Tee, PK Ahmed",
+            "venue": "British Academy of Management Conference 2012, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Phenomenological exploration of competing work-life metaphors",
+            "authors": "WC Au, P Ahmed, DD Tee",
+            "venue": "Australian and New Zealand Academy of Management Conference 2011, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Antecedents and consequences of work-life balance: an exploration of the Malaysian workforce",
+            "authors": "WC Au",
+            "venue": "Monash University, 0",
+            "year": "",
+            "citations": null
+        }
+    ]
+}

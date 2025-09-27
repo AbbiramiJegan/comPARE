@@ -1,0 +1,2667 @@
+{
+    "author_id": "wR84XY1kACcC",
+    "name": "Raphaël C.-W. Phan",
+    "affiliations": "Professor at Monash University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 9693,
+                "since_2020": 5074
+            }
+        },
+        {
+            "h_index": {
+                "all": 54,
+                "since_2020": 35
+            }
+        },
+        {
+            "i10_index": {
+                "all": 151,
+                "since_2020": 90
+            }
+        }
+    ],
+    "co_authors": [
+        "Bok-Min Goi",
+        "KokSheik Wong",
+        "Swee-Huay Heng",
+        "Chee-Ming Ting",
+        "Jean-Philippe Aumasson",
+        "Wei-Chuen Yau",
+        "Willi Meier",
+        "LIONG SZE TENG",
+        "Huo-Chong Ling",
+        "Yogachandran RAHULAMATHAVAN",
+        "Wai Kong Lee",
+        "Vishnu Monn Baskaran",
+        "Muttukrishnan Rajarajan",
+        "Wun-She Yap",
+        "Glenford Mapp",
+        "Ji-Jian Chin",
+        "Jonathon A Chambers",
+        "Mahdi Aiash",
+        "Syh Yuan Tan",
+        "Hernando Ombao"
+    ],
+    "articles": [
+        {
+            "title": "Less is more: Micro-expression recognition from video using apex frame",
+            "authors": "ST Liong, J See, KS Wong, RCW Phan",
+            "venue": "Signal Processing: Image Communication 62, 82-92, 2018",
+            "year": "2018",
+            "citations": 426
+        },
+        {
+            "title": "Sha-3 proposal blake",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": "Submission to NIST 92, 1-79, 2008",
+            "year": "2008",
+            "citations": 397
+        },
+        {
+            "title": "Lbp with six intersection points: Reducing redundant information in lbp-top for micro-expression recognition",
+            "authors": "Y Wang, J See, RCW Phan, YH Oh",
+            "venue": "Asian conference on computer vision, 525-537, 2014",
+            "year": "2014",
+            "citations": 343
+        },
+        {
+            "title": "ASF-YOLO: A novel YOLO model with attentional scale sequence fusion for cell instance segmentation",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "Image and Vision Computing 147, 105057, 2024",
+            "year": "2024",
+            "citations": 274
+        },
+        {
+            "title": "The 8051 microcontroller",
+            "authors": "IS MacKenzie, R Phan",
+            "venue": "Pearson Education, 2006",
+            "year": "2006",
+            "citations": 264
+        },
+        {
+            "title": "Facial expression recognition in the encrypted domain based on local fisher discriminant analysis",
+            "authors": "Y Rahulamathavan, RCW Phan, JA Chambers, DJ Parish",
+            "venue": "IEEE transactions on affective computing 4 (1), 83-92, 2012",
+            "year": "2012",
+            "citations": 263
+        },
+        {
+            "title": "Enriched long-term recurrent convolutional network for facial micro-expression recognition",
+            "authors": "HQ Khor, J See, RCW Phan, W Lin",
+            "venue": "2018 13th IEEE international conference on automatic face & gesture …, 2018",
+            "year": "2018",
+            "citations": 248
+        },
+        {
+            "title": "Privacy-preserving blockchain based IoT ecosystem using attribute-based encryption",
+            "authors": "Y Rahulamathavan, RCW Phan, M Rajarajan, S Misra, A Kondoz",
+            "venue": "2017 IEEE International Conference on Advanced Networks and …, 2017",
+            "year": "2017",
+            "citations": 247
+        },
+        {
+            "title": "Detection of energy theft and defective smart meters in smart grids using linear regression",
+            "authors": "SC Yip, KS Wong, WP Hew, MT Gan, RCW Phan, SW Tan",
+            "venue": "International Journal of Electrical Power & Energy Systems 91, 230-240, 2017",
+            "year": "2017",
+            "citations": 223
+        },
+        {
+            "title": "Security analysis of a chaotic map-based authentication scheme for telecare medicine information systems",
+            "authors": "WC Yau, RCW Phan",
+            "venue": "Journal of medical systems 37 (6), 9993, 2013",
+            "year": "2013",
+            "citations": 221
+        },
+        {
+            "title": "Cryptanalysis of a new ultralightweight RFID authentication protocol—SASI",
+            "authors": "RCW Phan",
+            "venue": "IEEE Transactions on Dependable and secure Computing 6 (4), 316-320, 2008",
+            "year": "2008",
+            "citations": 196
+        },
+        {
+            "title": "Privacy-preserving multi-class support vector machine for outsourcing the data classification in cloud",
+            "authors": "Y Rahulamathavan, RCW Phan, S Veluru, K Cumanan, M Rajarajan",
+            "venue": "IEEE Transactions on Dependable and Secure Computing 11 (5), 467-479, 2013",
+            "year": "2013",
+            "citations": 195
+        },
+        {
+            "title": "Impossible differential cryptanalysis of 7-round Advanced Encryption Standard (AES)",
+            "authors": "RCW Phan",
+            "venue": "Information processing letters 91 (1), 33-38, 2004",
+            "year": "2004",
+            "citations": 192
+        },
+        {
+            "title": "Dual-stream shallow networks for facial micro-expression recognition",
+            "authors": "HQ Khor, J See, ST Liong, RCW Phan, W Lin",
+            "venue": "2019 IEEE international conference on image processing (ICIP), 36-40, 2019",
+            "year": "2019",
+            "citations": 186
+        },
+        {
+            "title": "A survey of automatic facial micro-expression analysis: databases, methods, and challenges",
+            "authors": "YH Oh, J See, AC Le Ngo, RCW Phan, VM Baskaran",
+            "venue": "Frontiers in psychology 9, 1128, 2018",
+            "year": "2018",
+            "citations": 164
+        },
+        {
+            "title": "Efficient spatio-temporal local binary patterns for spontaneous facial micro-expression recognition",
+            "authors": "Y Wang, J See, RCW Phan, YH Oh",
+            "venue": "PloS one 10 (5), e0124674, 2015",
+            "year": "2015",
+            "citations": 156
+        },
+        {
+            "title": "A comprehensive overview of Deepfake: Generation, detection, datasets, and opportunities",
+            "authors": "JW Seow, MK Lim, RCW Phan, JK Liu",
+            "venue": "Neurocomputing 513, 351-371, 2022",
+            "year": "2022",
+            "citations": 155
+        },
+        {
+            "title": "Privacy of recent RFID authentication protocols",
+            "authors": "K Ouafi, RCW Phan",
+            "venue": "International conference on information security practice and experience …, 2008",
+            "year": "2008",
+            "citations": 155
+        },
+        {
+            "title": "Automatic apex frame spotting in micro-expression database",
+            "authors": "ST Liong, J See, KS Wong, AC Le Ngo, YH Oh, R Phan",
+            "venue": "2015 3rd IAPR Asian conference on pattern recognition (ACPR), 665-669, 2015",
+            "year": "2015",
+            "citations": 135
+        },
+        {
+            "title": "Subtle expression recognition using optical strain weighted features",
+            "authors": "ST Liong, J See, RCW Phan, AC Le Ngo, YH Oh, KS Wong",
+            "venue": "Asian conference on computer vision, 644-657, 2014",
+            "year": "2014",
+            "citations": 118
+        },
+        {
+            "title": "Effective recognition of facial micro-expressions with video motion magnification",
+            "authors": "Y Wang, J See, YH Oh, RCW Phan, Y Rahulamathavan, HC Ling, SW Tan, ...",
+            "venue": "Multimedia Tools and Applications 76 (20), 21665-21690, 2017",
+            "year": "2017",
+            "citations": 114
+        },
+        {
+            "title": "Traceable privacy of recent provably-secure RFID protocols",
+            "authors": "K Ouafi, RCW Phan",
+            "venue": "International conference on applied cryptography and network security, 479-489, 2008",
+            "year": "2008",
+            "citations": 108
+        },
+        {
+            "title": "Mini advanced encryption standard (mini-AES): a testbed for cryptanalysis students",
+            "authors": "RCW Phan",
+            "venue": "Cryptologia 26 (4), 283-306, 2002",
+            "year": "2002",
+            "citations": 107
+        },
+        {
+            "title": "The hash function BLAKE",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "Springer Berlin Heidelberg 10, 978-3, 2014",
+            "year": "2014",
+            "citations": 96
+        },
+        {
+            "title": "Privacy-preserving clinical decision support system using gaussian kernel-based classification",
+            "authors": "Y Rahulamathavan, S Veluru, RCW Phan, JA Chambers, M Rajarajan",
+            "venue": "IEEE journal of biomedical and health informatics 18 (1), 56-66, 2013",
+            "year": "2013",
+            "citations": 94
+        },
+        {
+            "title": "RCS-YOLO: A fast and high-accuracy object detector for brain tumor detection",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "International conference on medical image computing and computer-assisted …, 2023",
+            "year": "2023",
+            "citations": 90
+        },
+        {
+            "title": "Cryptanalysis of simple three-party key exchange protocol (S-3PAKE)",
+            "authors": "RCW Phan, WC Yau, BM Goi",
+            "venue": "Information sciences 178 (13), 2849-2856, 2008",
+            "year": "2008",
+            "citations": 89
+        },
+        {
+            "title": "Sparsity in dynamics of spontaneous subtle emotions: analysis and application",
+            "authors": "AC Le Ngo, J See, RCW Phan",
+            "venue": "IEEE Transactions on Affective Computing 8 (3), 396-411, 2016",
+            "year": "2016",
+            "citations": 87
+        },
+        {
+            "title": "Spontaneous subtle expression detection and recognition based on facial strain",
+            "authors": "ST Liong, J See, RCW Phan, YH Oh, AC Le Ngo, KS Wong, SW Tan",
+            "venue": "Signal Processing: Image Communication 47, 170-182, 2016",
+            "year": "2016",
+            "citations": 86
+        },
+        {
+            "title": "Spontaneous subtle expression recognition: Imbalanced databases and solutions",
+            "authors": "AC Le Ngo, RCW Phan, J See",
+            "venue": "Asian conference on computer vision, 33-48, 2014",
+            "year": "2014",
+            "citations": 84
+        },
+        {
+            "title": "Keyword guessing attacks on secure searchable public key encryption schemes with a designated tester",
+            "authors": "WC Yau, RCW Phan, SH Heng, BM Goi",
+            "venue": "International Journal of Computer Mathematics 90 (12), 2581-2587, 2013",
+            "year": "2013",
+            "citations": 83
+        },
+        {
+            "title": "Eulerian emotion magnification for subtle expression recognition",
+            "authors": "AC Le Ngo, YH Oh, RCW Phan, J See",
+            "venue": "2016 IEEE international conference on acoustics, speech and signal …, 2016",
+            "year": "2016",
+            "citations": 81
+        },
+        {
+            "title": "Cryptanalysis of a new image alternate encryption algorithm based on chaotic map",
+            "authors": "WS Yap, RCW Phan, WC Yau, SH Heng",
+            "venue": "Nonlinear Dynamics 80 (3), 1483-1491, 2015",
+            "year": "2015",
+            "citations": 79
+        },
+        {
+            "title": "Security considerations for incremental hash functions based on pair block chaining",
+            "authors": "RCW Phan, D Wagner",
+            "venue": "computers & security 25 (2), 131-136, 2006",
+            "year": "2006",
+            "citations": 78
+        },
+        {
+            "title": "Optical strain based recognition of subtle emotions",
+            "authors": "ST Liong, RCW Phan, J See, YH Oh, KS Wong",
+            "venue": "2014 International symposium on intelligent signal processing and …, 2014",
+            "year": "2014",
+            "citations": 73
+        },
+        {
+            "title": "Automatic micro-expression recognition from long video using a single spotted apex",
+            "authors": "ST Liong, J See, KS Wong, RCW Phan",
+            "venue": "Asian conference on computer vision, 345-360, 2016",
+            "year": "2016",
+            "citations": 71
+        },
+        {
+            "title": "SPRING: a novel parallel chaos-based image encryption scheme",
+            "authors": "WK Lee, RCW Phan, WS Yap, BM Goi",
+            "venue": "Nonlinear dynamics 92 (2), 575-593, 2018",
+            "year": "2018",
+            "citations": 69
+        },
+        {
+            "title": "Monogenic Riesz wavelet representation for micro-expression recognition",
+            "authors": "YH Oh, AC Le Ngo, J See, ST Liong, RCW Phan, HC Ling",
+            "venue": "2015 IEEE International Conference on Digital Signal Processing (DSP), 1237-1241, 2015",
+            "year": "2015",
+            "citations": 68
+        },
+        {
+            "title": "Implementation of searchable symmetric encryption for privacy-preserving keyword search on cloud storage",
+            "authors": "MI Salam, WC Yau, JJ Chin, SH Heng, HC Ling, RCW Phan, GS Poh, ...",
+            "venue": "Human-centric Computing and Information Sciences 5 (1), 19, 2015",
+            "year": "2015",
+            "citations": 68
+        },
+        {
+            "title": "Advanced differential-style cryptanalysis of the NSA's skipjack block cipher",
+            "authors": "J Kim, CWP Raphael",
+            "venue": "Cryptologia 33 (3), 246-270, 2009",
+            "year": "2009",
+            "citations": 66
+        },
+        {
+            "title": "Low complexity multi-authority attribute based encryption scheme for mobile cloud computing",
+            "authors": "F Li, Y Rahulamathavan, M Rajarajan, RCW Phan",
+            "venue": "2013 IEEE Seventh International Symposium on Service-Oriented System …, 2013",
+            "year": "2013",
+            "citations": 64
+        },
+        {
+            "title": "Graph autoencoders for embedding learning in brain networks and major depressive disorder identification",
+            "authors": "F Noman, CM Ting, H Kang, RCW Phan, H Ombao",
+            "venue": "IEEE journal of biomedical and health informatics 28 (3), 1644-1655, 2024",
+            "year": "2024",
+            "citations": 61
+        },
+        {
+            "title": "Augmented attack tree modeling of distributed denial of services and tree based attack detection method",
+            "authors": "J Wang, RCW Phan, JN Whitley, DJ Parish",
+            "venue": "2010 10th IEEE International Conference on Computer and Information …, 2010",
+            "year": "2010",
+            "citations": 61
+        },
+        {
+            "title": "Providing security in 4G systems: unveiling the challenges",
+            "authors": "M Aiash, G Mapp, A Lasebae, R Phan",
+            "venue": "2010 Sixth Advanced International Conference on Telecommunications, 439-444, 2010",
+            "year": "2010",
+            "citations": 60
+        },
+        {
+            "title": "Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "International Conference on Medical Image Computing and Computer-Assisted …, 2024",
+            "year": "2024",
+            "citations": 59
+        },
+        {
+            "title": "Proxy re-encryption with keyword search: New definitions and algorithms",
+            "authors": "WC Yau, RCW Phan, SH Heng, BM Goi",
+            "venue": "Security Technology, Disaster Recovery and Business Continuity …, 2010",
+            "year": "2010",
+            "citations": 57
+        },
+        {
+            "title": "Improved cryptanalysis of Skein",
+            "authors": "JP Aumasson, Ç Çalık, W Meier, O Özen, RCW Phan, K Varıcı",
+            "venue": "International Conference on the Theory and Application of Cryptology and …, 2009",
+            "year": "2009",
+            "citations": 57
+        },
+        {
+            "title": "Proxy re-signatures in the standard model",
+            "authors": "SSM Chow, RCW Phan",
+            "venue": "International Conference on Information Security, 260-276, 2008",
+            "year": "2008",
+            "citations": 57
+        },
+        {
+            "title": "Deepfake attribution: On the source identification of artificially generated images",
+            "authors": "B Khoo, RCW Phan, CH Lim",
+            "venue": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 12 (3 …, 2022",
+            "year": "2022",
+            "citations": 56
+        },
+        {
+            "title": "Authenticated modbus protocol for critical infrastructure protection",
+            "authors": "RCW Phan",
+            "venue": "Ieee transactions on power delivery 27 (3), 1687-1689, 2012",
+            "year": "2012",
+            "citations": 55
+        },
+        {
+            "title": "Cryptanalysis of an improved client-to-client password-authenticated key exchange (C2C-PAKE) scheme",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Applied Cryptography and Network Security, 33-39, 2005",
+            "year": "2005",
+            "citations": 55
+        },
+        {
+            "title": "Cryptanalysis of two anonymous buyer-seller watermarking protocols and an improvement for true anonymity",
+            "authors": "BM Goi, RCW Phan, Y Yang, F Bao, RH Deng, MU Siddiqi",
+            "venue": "International Conference on Applied Cryptography and Network Security, 369-382, 2004",
+            "year": "2004",
+            "citations": 55
+        },
+        {
+            "title": "Distinguishers for ciphers and known key attack against Rijndael with large blocks",
+            "authors": "M Minier, RCW Phan, B Pousse",
+            "venue": "International Conference on Cryptology in Africa, 60-76, 2009",
+            "year": "2009",
+            "citations": 54
+        },
+        {
+            "title": "Fixing the integrated Diffie-Hellman-DSA key exchange protocol",
+            "authors": "RCW Phan",
+            "venue": "IEEE Communications Letters 9 (6), 570-572, 2005",
+            "year": "2005",
+            "citations": 54
+        },
+        {
+            "title": "The hash function family LAKE",
+            "authors": "JP Aumasson, W Meier, RCW Phan",
+            "venue": "International Workshop on Fast Software Encryption, 36-53, 2008",
+            "year": "2008",
+            "citations": 53
+        },
+        {
+            "title": "Cryptanalysis of the David-Prasad RFID ultralightweight authentication protocol",
+            "authors": "JC Hernandez-Castro, P Peris-Lopez, RCW Phan, JME Tapiador",
+            "venue": "International workshop on radio frequency identification: security and …, 2010",
+            "year": "2010",
+            "citations": 52
+        },
+        {
+            "title": "Hybrid facial regions extraction for micro-expression recognition system",
+            "authors": "ST Liong, J See, RCW Phan, KS Wong, SW Tan",
+            "venue": "Journal of Signal Processing Systems 90 (4), 601-617, 2018",
+            "year": "2018",
+            "citations": 49
+        },
+        {
+            "title": "Analyzing the secure simple pairing in Bluetooth v4. 0",
+            "authors": "RCW Phan, P Mingard",
+            "venue": "Wireless Personal Communications 64 (4), 719-737, 2012",
+            "year": "2012",
+            "citations": 48
+        },
+        {
+            "title": "A survey on exotic signatures for post-quantum blockchain: Challenges and research directions",
+            "authors": "M Buser, R Dowsley, M Esgin, C Gritti, S Kasra Kermanshahi, V Kuchta, ...",
+            "venue": "ACM Computing Surveys 55 (12), 1-32, 2023",
+            "year": "2023",
+            "citations": 47
+        },
+        {
+            "title": "VLSI characterization of the cryptographic hash function BLAKE",
+            "authors": "L Henzen, JP Aumasson, W Meier, RCW Phan",
+            "venue": "IEEE transactions on very large scale integration (vlsi) systems 19 (10 …, 2010",
+            "year": "2010",
+            "citations": 46
+        },
+        {
+            "title": "Blake2",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 165-183, 2014",
+            "year": "2014",
+            "citations": 45
+        },
+        {
+            "title": "Amplifying side-channel attacks with techniques from block cipher cryptanalysis",
+            "authors": "RCW Phan, SM Yen",
+            "venue": "International Conference on Smart Card Research and Advanced Applications …, 2006",
+            "year": "2006",
+            "citations": 44
+        },
+        {
+            "title": "Micro-expression motion magnification: Global lagrangian vs. local eulerian approaches",
+            "authors": "AC Le Ngo, A Johnston, RCW Phan, J See",
+            "venue": "2018 13th IEEE international conference on automatic face & gesture …, 2018",
+            "year": "2018",
+            "citations": 42
+        },
+        {
+            "title": "Privacy analysis of forward and backward untraceable RFID authentication schemes",
+            "authors": "CWP Raphael, J Wu, K Ouafi, DR Stinson",
+            "venue": null,
+            "year": "2010",
+            "citations": 42
+        },
+        {
+            "title": "Tampering with a watermarking-based image authentication scheme",
+            "authors": "RCW Phan",
+            "venue": "Pattern Recognition 41 (11), 3493-3496, 2008",
+            "year": "2008",
+            "citations": 42
+        },
+        {
+            "title": "Cryptanalysis of two provably secure cross-realm C2C-PAKE protocols",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Cryptology in India, 104-117, 2006",
+            "year": "2006",
+            "citations": 41
+        },
+        {
+            "title": "Signature gateway: Offloading signature generation to IoT gateway accelerated by GPU",
+            "authors": "CC Chang, WK Lee, Y Liu, BM Goi, RCW Phan",
+            "venue": "IEEE Internet of Things Journal 6 (3), 4448-4461, 2018",
+            "year": "2018",
+            "citations": 40
+        },
+        {
+            "title": "Fast implementation of block ciphers and PRNGs in Maxwell GPU architecture",
+            "authors": "WK Lee, HS Cheong, RCW Phan, BM Goi",
+            "venue": "Cluster Computing 19 (1), 335-347, 2016",
+            "year": "2016",
+            "citations": 40
+        },
+        {
+            "title": "Augmented attack tree modeling of SQL injection attacks",
+            "authors": "J Wang, RCW Phan, JN Whitley, DJ Parish",
+            "venue": "2010 2nd IEEE International Conference on Information Management and …, 2010",
+            "year": "2010",
+            "citations": 35
+        },
+        {
+            "title": "A formally verified AKA protocol for vertical handover in heterogeneous environments using Casper/FDR",
+            "authors": "M Aiash, G Mapp, A Lasebae, R Phan, J Loo",
+            "venue": "EURASIP Journal on Wireless Communications and Networking 2012 (1), 57, 2012",
+            "year": "2012",
+            "citations": 34
+        },
+        {
+            "title": "Post-quantum verifiable random function from symmetric primitives in pos blockchain",
+            "authors": "M Buser, R Dowsley, MF Esgin, S Kasra Kermanshahi, V Kuchta, JK Liu, ...",
+            "venue": "European Symposium on Research in Computer Security, 25-45, 2022",
+            "year": "2022",
+            "citations": 33
+        },
+        {
+            "title": "New multiset attacks on Rijndael with large blocks",
+            "authors": "J Nakahara Jr, DS De Freitas, RCW Phan",
+            "venue": "International Conference on Cryptology in Malaysia, 277-295, 2005",
+            "year": "2005",
+            "citations": 33
+        },
+        {
+            "title": "Comment on “Robust blind image watermarking scheme based on redundant discrete wavelet transform and singular value decomposition”",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "AEU-International Journal of Electronics and Communications 67 (10), 894-897, 2013",
+            "year": "2013",
+            "citations": 32
+        },
+        {
+            "title": "Unified parametrizable attack tree",
+            "authors": "J Wang, JN Whitley, RCW Phan, DJ Parish",
+            "venue": "International Journal for Information Security Research 1 (1), 20-26, 2011",
+            "year": "2011",
+            "citations": 29
+        },
+        {
+            "title": "Generalised impossible differentials of advanced encryption standard",
+            "authors": "RCW Phan, MU Siddiqi",
+            "venue": "Electronics Letters 37 (14), 896-898, 2001",
+            "year": "2001",
+            "citations": 29
+        },
+        {
+            "title": "On the security of a hybrid watermarking algorithm based on singular value decomposition and Radon transform",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "AEU-International Journal of Electronics and Communications 65 (11), 958-960, 2011",
+            "year": "2011",
+            "citations": 28
+        },
+        {
+            "title": "Related-key attacks on triple-DES and DESX variants",
+            "authors": "RCW Phan",
+            "venue": "Cryptographers’ Track at the RSA Conference, 15-24, 2004",
+            "year": "2004",
+            "citations": 27
+        },
+        {
+            "title": "On the effective subkey space of some image encryption algorithms using external key",
+            "authors": "WS Yap, RCW Phan, BM Goi, WC Yau, SH Heng",
+            "venue": "Journal of Visual Communication and Image Representation 40, 51-57, 2016",
+            "year": "2016",
+            "citations": 26
+        },
+        {
+            "title": "Cryptanalysis of the n-party encrypted diffie-hellman key exchange using different passwords",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Applied Cryptography and Network Security, 226-238, 2006",
+            "year": "2006",
+            "citations": 26
+        },
+        {
+            "title": "FACS-based graph features for real-time micro-expression recognition",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Journal of Imaging 6 (12), 130, 2020",
+            "year": "2020",
+            "citations": 25
+        },
+        {
+            "title": "Seeing the invisible: Survey of video motion magnification and small motion analysis",
+            "authors": "AC Le Ngo, RCW Phan",
+            "venue": "ACM Computing Surveys (CSUR) 52 (6), 1-20, 2019",
+            "year": "2019",
+            "citations": 25
+        },
+        {
+            "title": "Attribution of attack trees",
+            "authors": "JN Whitley, RCW Phan, J Wang, DJ Parish",
+            "venue": "Computers & Electrical Engineering 37 (4), 624-628, 2011",
+            "year": "2011",
+            "citations": 25
+        },
+        {
+            "title": "Separable authentication in encrypted HEVC video",
+            "authors": "Y Tew, KS Wong, RCW Phan, KN Ngan",
+            "venue": "Multimedia Tools and Applications 77 (18), 24165-24184, 2018",
+            "year": "2018",
+            "citations": 24
+        },
+        {
+            "title": "A novel sketch attack for H. 264/AVC format-compliant encrypted video",
+            "authors": "K Minemura, KS Wong, RCW Phan, K Tanaka",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology 27 (11), 2309 …, 2016",
+            "year": "2016",
+            "citations": 23
+        },
+        {
+            "title": "Quasi-linear cryptanalysis of a secure RFID ultralightweight authentication protocol",
+            "authors": "P Peris-Lopez, JC Hernandez-Castro, RCW Phan, JME Tapiador, T Li",
+            "venue": "International Conference on Information Security and Cryptology, 427-442, 2010",
+            "year": "2010",
+            "citations": 23
+        },
+        {
+            "title": "A framework for describing block cipher cryptanalysis",
+            "authors": "RCW Phan, MU Siddiqi",
+            "venue": "IEEE Transactions on Computers 55 (11), 1402-1409, 2006",
+            "year": "2006",
+            "citations": 23
+        },
+        {
+            "title": "Classes of impossible differentials of advanced encryption standard",
+            "authors": "RCW Phan",
+            "venue": "Electronics Letters 38 (11), 508-510, 2002",
+            "year": "2002",
+            "citations": 23
+        },
+        {
+            "title": "Random differential fault attacks on the lightweight authenticated encryption stream cipher grain-128AEAD",
+            "authors": "I Salam, TH Ooi, L Xue, WC Yau, J Pieprzyk, RCW Phan",
+            "venue": "IEEE Access 9, 72568-72586, 2021",
+            "year": "2021",
+            "citations": 22
+        },
+        {
+            "title": "Are subtle expressions too sparse to recognize?",
+            "authors": "AC Le Ngo, ST Liong, J See, RCW Phan",
+            "venue": "2015 IEEE International Conference on Digital Signal Processing (DSP), 1246-1250, 2015",
+            "year": "2015",
+            "citations": 22
+        },
+        {
+            "title": "Security models for heterogeneous networking",
+            "authors": "G Mapp, M Aiash, A Lasebae, R Phan",
+            "venue": "2010 International Conference on Security and Cryptography (SECRYPT), 1-4, 2010",
+            "year": "2010",
+            "citations": 22
+        },
+        {
+            "title": "Impossible differential cryptanalysis of Mini-AES",
+            "authors": "RCW Phan",
+            "venue": "Cryptologia 27 (4), 361-374, 2003",
+            "year": "2003",
+            "citations": 22
+        },
+        {
+            "title": "CST-YOLO: A novel method for blood cell detection based on improved YOLOv7 and CNN-swin transformer",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 3024-3029, 2024",
+            "year": "2024",
+            "citations": 21
+        },
+        {
+            "title": "Multi-layer authentication scheme for HEVC video based on embedded statistics",
+            "authors": "Y Tew, KS Wong, RCW Phan, KN Ngan",
+            "venue": "Journal of Visual Communication and Image Representation 40, 502-515, 2016",
+            "year": "2016",
+            "citations": 20
+        },
+        {
+            "title": "Cube attacks on round-reduced TinyJAMBU",
+            "authors": "WL Teng, I Salam, WC Yau, J Pieprzyk, RCW Phan",
+            "venue": "Scientific Reports 12 (1), 5317, 2022",
+            "year": "2022",
+            "citations": 19
+        },
+        {
+            "title": "Maximise unsafe path routing protocol for forest fire monitoring system using wireless sensor networks",
+            "authors": "A Jamil, DJ Parish, RCW Phan, I Phillips, J Whitley, G Oikonomou",
+            "venue": "2012 IEEE 3rd International Conference on Networked Embedded Systems for …, 2012",
+            "year": "2012",
+            "citations": 19
+        },
+        {
+            "title": "A variant of Schnorr identity-based identification scheme with tight reduction",
+            "authors": "SY Tan, SH Heng, RCW Phan, BM Goi",
+            "venue": "International Conference on Future Generation Information Technology, 361-370, 2011",
+            "year": "2011",
+            "citations": 19
+        },
+        {
+            "title": "Terabit encryption in a second: Performance evaluation of block ciphers in GPU with Kepler, Maxwell, and Pascal architectures",
+            "authors": "WK Lee, BM Goi, RCW Phan",
+            "venue": "Concurrency and Computation: Practice and Experience 31 (11), e5048, 2019",
+            "year": "2019",
+            "citations": 18
+        },
+        {
+            "title": "Detection of energy theft and metering defects in advanced metering infrastructure using analytics",
+            "authors": "SC Yip, CK Tan, WN Tan, MT Gan, KS Wong, RCW Phan",
+            "venue": "2018 International Conference on Smart Grid and Clean Energy Technologies …, 2018",
+            "year": "2018",
+            "citations": 18
+        },
+        {
+            "title": "Intrinsic two-dimensional local structures for micro-expression recognition",
+            "authors": "YH Oh, AC Le Ngo, RCW Phari, J See, HC Ling",
+            "venue": "2016 IEEE international conference on acoustics, speech and signal …, 2016",
+            "year": "2016",
+            "citations": 18
+        },
+        {
+            "title": "Survey of high interaction honeypot tools: Merits and shortcomings",
+            "authors": "A Almutairi, D Parish, R Phan",
+            "venue": "Proceedings of the 13th Annual PostGraduate Symposium on The Convergence of …, 2012",
+            "year": "2012",
+            "citations": 18
+        },
+        {
+            "title": "Metrics for network forensics conviction evidence",
+            "authors": "AR Amran, RCW Phan, DJ Parish",
+            "venue": "2009 International Conference for Internet Technology and Secured …, 2009",
+            "year": "2009",
+            "citations": 18
+        },
+        {
+            "title": "Attacking mouse dynamics authentication using novel Wasserstein conditional DCGAN",
+            "authors": "A Roy, K Wong, RCW Phan",
+            "venue": "IEEE Transactions on Information Forensics and Security 18, 3622-3631, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "A privacy-preserving and cheat-resilient electricity consumption reporting scheme for smart grids",
+            "authors": "SC Yip, KS Wong, RCW Phan, SW Tan, I Ku, WP Hew",
+            "venue": "2014 International conference on computer, information and telecommunication …, 2014",
+            "year": "2014",
+            "citations": 17
+        },
+        {
+            "title": "DDoS attacks traffic and Flash Crowds traffic simulation with a hardware test center platform",
+            "authors": "J Wang, RCW Phan, JN Whitley, DJ Parish",
+            "venue": "2011 World Congress on Internet Security (WorldCIS-2011), 15-20, 2011",
+            "year": "2011",
+            "citations": 17
+        },
+        {
+            "title": "Reducing the exhaustive key search of the Data Encryption Standard (DES)",
+            "authors": "RCW Phan",
+            "venue": "Computer Standards & Interfaces 29 (5), 528-530, 2007",
+            "year": "2007",
+            "citations": 17
+        },
+        {
+            "title": "On related-key and collision attacks: the case for the IBM 4758 cryptoprocessor",
+            "authors": "RCW Phan, H Handschuh",
+            "venue": "International Conference on Information Security, 111-122, 2004",
+            "year": "2004",
+            "citations": 17
+        },
+        {
+            "title": "Cryptanalysis of full Skipjack block cipher",
+            "authors": "RCW Phan",
+            "venue": "Electronics Letters 38 (2), 69-71, 2002",
+            "year": "2002",
+            "citations": 17
+        },
+        {
+            "title": "Twin‐Schnorr: A Security Upgrade for the Schnorr Identity‐Based Identification Scheme",
+            "authors": "JJ Chin, SY Tan, SH Heng, RCW Phan",
+            "venue": "The Scientific World Journal 2015 (1), 237514, 2015",
+            "year": "2015",
+            "citations": 16
+        },
+        {
+            "title": "Analysis and design of security for next generation 4G cellular networks",
+            "authors": "G Escudero-Andreu, CP Raphael, DJ Parish",
+            "venue": "The 13th annual post graduate symposium on the convergence of …, 2012",
+            "year": "2012",
+            "citations": 16
+        },
+        {
+            "title": "Cryptanalysis of genetic algorithm-based encryption scheme",
+            "authors": "KW Wong, WS Yap, DCK Wong, RCW Phan, BM Goi",
+            "venue": "Multimedia Tools and Applications 79 (35), 25259-25276, 2020",
+            "year": "2020",
+            "citations": 15
+        },
+        {
+            "title": "Parallel and high speed hashing in GPU for telemedicine applications",
+            "authors": "WK Lee, RLCW Phan, BM Goi, L Chen, X Zhang, NN Xiong",
+            "venue": "IEEE Access 6, 37991-38002, 2018",
+            "year": "2018",
+            "citations": 15
+        },
+        {
+            "title": "Android based self-diagnostic electrocardiogram system for mobile healthcare",
+            "authors": "KY Choo, HC Ling, YC Lo, ZH Yap, JS Pua, RCW Phan, VT Goh",
+            "venue": "Technology and health care 23 (2_suppl), S435-S442, 2015",
+            "year": "2015",
+            "citations": 15
+        },
+        {
+            "title": "Invisible emotion magnification algorithm (IEMA) for real-time micro-expression recognition with graph-based features",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Multimedia Tools and Applications 81 (7), 9151-9176, 2022",
+            "year": "2022",
+            "citations": 14
+        },
+        {
+            "title": "Cryptanalysis of a high-definition image encryption based on AES modification",
+            "authors": "WS Yap, RCW Phan, BM Goi",
+            "venue": "Wireless Personal Communications 88 (3), 685-699, 2016",
+            "year": "2016",
+            "citations": 14
+        },
+        {
+            "title": "Integrating mobility, quality-of-service and security in future mobile networks",
+            "authors": "M Aiash, G Mapp, A Lasebae, R Phan, J Loo",
+            "venue": "Electrical Engineering and Intelligent Systems, 195-206, 2012",
+            "year": "2012",
+            "citations": 14
+        },
+        {
+            "title": "On the security & design of MyKad",
+            "authors": "RCW Phan, LA Mohammed",
+            "venue": "9th Asia-Pacific Conference on Communications (IEEE Cat. No. 03EX732) 2, 721-724, 2003",
+            "year": "2003",
+            "citations": 14
+        },
+        {
+            "title": "Persistent items tracking in large data streams based on adaptive sampling",
+            "authors": "L Chen, RCW Phan, Z Chen, D Huang",
+            "venue": "IEEE INFOCOM 2022-IEEE Conference on Computer Communications, 1948-1957, 2022",
+            "year": "2022",
+            "citations": 13
+        },
+        {
+            "title": "Privacy-preserving facial recognition based on temporal features",
+            "authors": "SM Leong, RCW Phan, VM Baskaran, CP Ooi",
+            "venue": "Applied Soft Computing 96, 106662, 2020",
+            "year": "2020",
+            "citations": 13
+        },
+        {
+            "title": "Comparison of cube attacks over different vector spaces",
+            "authors": "R WINTER, AM SALAGEAN, RCW PHAN",
+            "venue": "15th IMA International Conference,(IMACC 2015), Oxford, UK, December, 15-17, 2015",
+            "year": "2015",
+            "citations": 13
+        },
+        {
+            "title": "A survey of potential architectures for communication in heterogeneous networks",
+            "authors": "M Aiash, G Mapp, A Lasebae, J Loo, F Sardis, RCW Phan, M Augusto, ...",
+            "venue": "Wireless Telecommunications Symposium 2012, 1-6, 2012",
+            "year": "2012",
+            "citations": 13
+        },
+        {
+            "title": "Attacks on SVD-based watermarking schemes",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "International Conference on Intelligence and Security Informatics, 83-91, 2008",
+            "year": "2008",
+            "citations": 13
+        },
+        {
+            "title": "Cryptanalysis of e-mail protocols providing perfect forward secrecy",
+            "authors": "RCW Phan",
+            "venue": "Computer Standards & Interfaces 30 (3), 101-105, 2008",
+            "year": "2008",
+            "citations": 13
+        },
+        {
+            "title": "On the security of the WinRAR encryption feature",
+            "authors": "GSW Yeo, RCW Phan",
+            "venue": "International Journal of Information Security 5 (2), 115-123, 2006",
+            "year": "2006",
+            "citations": 13
+        },
+        {
+            "title": "RADIFUSION: A multi-radiomics deep learning based breast cancer risk prediction model using sequential mammographic images with image attention and bilateral asymmetry refinement",
+            "authors": "HH Yeoh, A Liew, R Phan, F Strand, K Rahmat, TL Nguyen, JL Hopper, ...",
+            "venue": "arXiv preprint arXiv:2304.00257, 2023",
+            "year": "2023",
+            "citations": 12
+        },
+        {
+            "title": "Graphex: Facial action unit graph for micro-expression classification",
+            "authors": "SM Leong, F Noman, RCW Phan, VM Baskaran, CM Ting",
+            "venue": "2022 IEEE International Conference on Image Processing (ICIP), 3296-3300, 2022",
+            "year": "2022",
+            "citations": 12
+        },
+        {
+            "title": "Adverfacial: Privacy-preserving universal adversarial perturbation against facial micro-expression leakages",
+            "authors": "YY Low, A Tanvy, RCW Phan, X Chang",
+            "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "year": "2022",
+            "citations": 12
+        },
+        {
+            "title": "Data-driven photocatalytic degradation activity prediction with Gaussian process",
+            "authors": "V Chow, RCW Phan, AC Le Ngo, G Krishnasamy, SP Chai",
+            "venue": "Process Safety and Environmental Protection 161, 848-859, 2022",
+            "year": "2022",
+            "citations": 12
+        },
+        {
+            "title": "Cuda-ssl: Ssl/tls accelerated by gpu",
+            "authors": "WK Lee, XF Wong, BM Goi, RCW Phan",
+            "venue": "2017 International Carnahan Conference on Security Technology (ICCST), 1-6, 2017",
+            "year": "2017",
+            "citations": 12
+        },
+        {
+            "title": "Commentary on “a block chaotic image encryption scheme based on self-adaptive modelling”[applied soft computing 22 (2014) 351–357]",
+            "authors": "WS Yap, RCW Phan",
+            "venue": "Applied Soft Computing 52, 501-504, 2017",
+            "year": "2017",
+            "citations": 12
+        },
+        {
+            "title": "A formally verified device authentication protocol using Casper/FDR",
+            "authors": "M Aiash, G Mapp, RCW Phan, A Lasebae, J Loo",
+            "venue": "2012 IEEE 11th International Conference on Trust, Security and Privacy in …, 2012",
+            "year": "2012",
+            "citations": 12
+        },
+        {
+            "title": "On an optimal robust digital image watermarking based on SVD using differential evolution algorithm",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "Optics Communications 284 (19), 4458-4459, 2011",
+            "year": "2011",
+            "citations": 12
+        },
+        {
+            "title": "Enhancing naming and location services to support multi-homed devices in heterogeneous environments",
+            "authors": "M Aiash, G Mapp, A Lasebae, R Phan, M Augusto, R Vanni, E Moreira",
+            "venue": "First Conference on Communication, Science and Information Enginneering …, 2011",
+            "year": "2011",
+            "citations": 12
+        },
+        {
+            "title": "A cryptanalytic view of the NSA’s Skipjack block cipher design",
+            "authors": "J Kim, RCW Phan",
+            "venue": "International Conference on Information Security and Assurance, 368-381, 2009",
+            "year": "2009",
+            "citations": 12
+        },
+        {
+            "title": "Graph autoencoder-based embedded learning in dynamic brain networks for autism spectrum disorder identification",
+            "authors": "F Noman, SY Yap, RCW Phan, H Ombao, CM Ting",
+            "venue": "2022 IEEE International Conference on Image Processing (ICIP), 2891-2895, 2022",
+            "year": "2022",
+            "citations": 11
+        },
+        {
+            "title": "Optimized IoT cryptoprocessor based on QC-MPDC key encapsulation mechanism",
+            "authors": "JH Phoon, WK Lee, DCK Wong, WS Yap, BM Goi, RCW Phan",
+            "venue": "IEEE Internet of Things Journal 7 (9), 8513-8524, 2020",
+            "year": "2020",
+            "citations": 11
+        },
+        {
+            "title": "SearchaStore: Fast and secure searchable cloud services",
+            "authors": "WK Lee, RCW Phan, GS Poh, BM Goi",
+            "venue": "Cluster computing 21 (2), 1189-1202, 2018",
+            "year": "2018",
+            "citations": 11
+        },
+        {
+            "title": "Sha-3 proposal blake. Submission to NIST (Round 3)(2010)",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": "URL http://131002. net/blake/blake. pdf 495, 2010",
+            "year": "2010",
+            "citations": 11
+        },
+        {
+            "title": "Advanced slide attacks revisited: Realigning slide on DES",
+            "authors": "RCW Phan",
+            "venue": "International Conference on Cryptology in Malaysia, 263-276, 2005",
+            "year": "2005",
+            "citations": 11
+        },
+        {
+            "title": "Steganalysis of random LSB insertion using discrete logarithms proposed at CITA03",
+            "authors": "RCW Phan, HC Ling",
+            "venue": "MMU International Symposium on Information and Communication Tecnologies …, 2003",
+            "year": "2003",
+            "citations": 11
+        },
+        {
+            "title": "Sliding Properties of the DES Key Schedule and Potential Extensions to the Slide Attacks",
+            "authors": "CP Raphael",
+            "venue": null,
+            "year": "",
+            "citations": 11
+        },
+        {
+            "title": "A multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities",
+            "authors": "M Kang, FF Ting, RCW Phan, Z Ge, CM Ting",
+            "venue": "arXiv preprint arXiv:2404.14019, 2024",
+            "year": "2024",
+            "citations": 10
+        },
+        {
+            "title": "SHA-3 proposal BLAKE (version 1.3)(2010)",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": "URL: https://www 131002, 2023",
+            "year": "2023",
+            "citations": 10
+        },
+        {
+            "title": "Reduced contact lifting of latent fingerprints from curved surfaces",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "Journal of Information Security and Applications 53, 102520, 2020",
+            "year": "2020",
+            "citations": 10
+        },
+        {
+            "title": "HEVC video authentication using data embedding technique",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2015 IEEE International Conference on Image Processing (ICIP), 1265-1269, 2015",
+            "year": "2015",
+            "citations": 10
+        },
+        {
+            "title": "Cryptanalysis of a chaotic map-based password-authenticated key agreement protocol using smart cards",
+            "authors": "WC Yau, RCW Phan",
+            "venue": "Nonlinear Dynamics 79 (2), 809-821, 2015",
+            "year": "2015",
+            "citations": 10
+        },
+        {
+            "title": "MCMC-PF based multiple head tracking in a room environment",
+            "authors": "A Rehman, SM Naqvi, R Phan, JA Chambers",
+            "venue": "4th UK Computer Vision Student Workshop (BMVW), 2012",
+            "year": "2012",
+            "citations": 10
+        },
+        {
+            "title": "Fooling a liveness-detecting capacitive fingerprint scanner",
+            "authors": "E Bowden-Peters, RCW Phan, JN Whitley, DJ Parish",
+            "venue": "Cryptography and Security: From Theory to Applications: Essays Dedicated to …, 2012",
+            "year": "2012",
+            "citations": 10
+        },
+        {
+            "title": "On the security of ownership watermarking of digital images based on singular value decomposition",
+            "authors": "HC Ling, CWP Raphael, SH Heng",
+            "venue": "Journal of Electronic Imaging 20, 010501, 2011",
+            "year": "2011",
+            "citations": 10
+        },
+        {
+            "title": "Security and privacy preservation in human-involved networks",
+            "authors": "C Asher, JP Aumasson, RCW Phan",
+            "venue": "International Workshop on Open Problems in Network Security, 139-148, 2009",
+            "year": "2009",
+            "citations": 10
+        },
+        {
+            "title": "On the security of a popular web submission and review software (WSaR) for cryptology conferences",
+            "authors": "SW Lo, RCW Phan, BM Goi",
+            "venue": "International Workshop on Information Security Applications, 245-265, 2007",
+            "year": "2007",
+            "citations": 10
+        },
+        {
+            "title": "On the existence of related-key oracles in cryptosystems based on block ciphers",
+            "authors": "E Razali, RCW Phan",
+            "venue": "OTM Confederated International Conferences\" On the Move to Meaningful …, 2006",
+            "year": "2006",
+            "citations": 10
+        },
+        {
+            "title": "ActNetFormer: Transformer-ResNet hybrid method for semi-supervised action recognition in videos",
+            "authors": "SDS Dass, HB Barua, G Krishnasamy, R Paramesran, RCW Phan",
+            "venue": "International Conference on Pattern Recognition, 343-359, 2024",
+            "year": "2024",
+            "citations": 9
+        },
+        {
+            "title": "A comparison between Fourier and Hadamard single-pixel imaging in deep learning-enhanced image reconstruction",
+            "authors": "JY Lim, MR Roslan, JY Lim, VM Baskaran, YS Chiew, RCW Phan, ...",
+            "venue": "IEEE Sensors Letters 7 (9), 1-4, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Self supervised BERT for legal text classification",
+            "authors": "A Pal, S Rajanala, RCW Phan, K Wong",
+            "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Human trafficking and cyber laws in Malaysia",
+            "authors": "OSL Tan, RG Vergara, RCW Phan, S Khan, N Khan",
+            "venue": "Encyclopedia of Criminal Activities and the Deep Web, 518-532, 2020",
+            "year": "2020",
+            "citations": 9
+        },
+        {
+            "title": "Performance Evaluation of RSA and NTRU over GPU with Maxwell and Pascal Architecture",
+            "authors": "XF Wong, BM Goi, WK Lee, RCW Phan",
+            "venue": "J. Softw. Netw, 201-220, 2017",
+            "year": "2017",
+            "citations": 9
+        },
+        {
+            "title": "Accelerating multiple precision multiplication in GPU with Kepler architecture",
+            "authors": "BC Chang, BM Goi, RCW Phan, WK Lee",
+            "venue": "2016 IEEE 18th International Conference on High Performance Computing and …, 2016",
+            "year": "2016",
+            "citations": 9
+        },
+        {
+            "title": "Region-of-interest encryption in HEVC compressed video",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 9
+        },
+        {
+            "title": "SHA-3 proposal BLAKE. Submission to NIST, 2008",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "2013",
+            "citations": 9
+        },
+        {
+            "title": "Cryptanalysis of two password-based authentication schemes using smart cards",
+            "authors": "RCW Phan",
+            "venue": "Computers & Security 25 (1), 52-54, 2006",
+            "year": "2006",
+            "citations": 9
+        },
+        {
+            "title": "Graph‐Regularized Manifold‐Aware Conditional Wasserstein GAN for Brain Functional Connectivity Generation",
+            "authors": "YF Tan, F Noman, RCW Phan, H Ombao, CM Ting",
+            "venue": "Human Brain Mapping 46 (12), e70322, 2025",
+            "year": "2025",
+            "citations": 8
+        },
+        {
+            "title": "Fast and energy-efficient block ciphers implementations in ARM processors and mali GPU",
+            "authors": "WK Lee, RCW Phan, BM Goi",
+            "venue": "IETE Journal of Research 68 (4), 2675-2682, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Higher order differentiation over finite fields with applications to generalising the cube attack",
+            "authors": "A Sălăgean, R Winter, M Mandache-Sălăgean, RCW Phan",
+            "venue": "Designs, codes and cryptography 84 (3), 425-449, 2017",
+            "year": "2017",
+            "citations": 8
+        },
+        {
+            "title": "Vickrey-clarke-groves for privacy-preserving collaborative classification",
+            "authors": "A Panoui, S Lambotharan, RCW Phan",
+            "venue": "2013 Federated Conference on Computer Science and Information Systems, 123-128, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "Cryptanalysis of a provably secure cross-realm client-to-client password-authenticated key agreement protocol of CANS’09",
+            "authors": "WC Yau, RCW Phan, BM Goi, SH Heng",
+            "venue": "International Conference on Cryptology and Network Security, 172-184, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "Tuple cryptanalysis of ARX with application to BLAKE and Skein",
+            "authors": "JP Aumasson, G Leurent, W Meier, F Mendel, N Mouha, RCW Phan, ...",
+            "venue": "ECRYPT II Hash Workshop, Date: 2011/05/19-2011/05/20, Location: Tallinn …, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "Non-repudiable authentication and billing architecture for wireless mesh networks",
+            "authors": "RCW Phan",
+            "venue": "Wireless Networks 17 (4), 1055-1061, 2011",
+            "year": "2011",
+            "citations": 8
+        },
+        {
+            "title": "Improved related-key attacks on DESX and DESX+",
+            "authors": "RCW Phan, A Shamir",
+            "venue": "Cryptologia 32 (1), 13-22, 2008",
+            "year": "2008",
+            "citations": 8
+        },
+        {
+            "title": "Improved speech emotion recognition based on music-related audio features",
+            "authors": "L Vu, RCW Phan, LW Han, D Phung",
+            "venue": "2022 30th European Signal Processing Conference (EUSIPCO), 120-124, 2022",
+            "year": "2022",
+            "citations": 7
+        },
+        {
+            "title": "Cybersecurity laws in Malaysia",
+            "authors": "OSL Tan, RG Vergara, RCW Phan, S Khan, N Khan",
+            "venue": "Encyclopedia of criminal activities and the deep web, 435-448, 2020",
+            "year": "2020",
+            "citations": 7
+        },
+        {
+            "title": "A real time micro-expression detection system with LBP-TOP on a many-core processor",
+            "authors": "XR Soh, VM Baskaran, AM Buhari, RCW Phan",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "Reduced contact lifting of latent fingerprint",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "High speed implementation of symmetric block cipher on GPU",
+            "authors": "WK Lee, BM Goi, RCW Phan, GS Poh",
+            "venue": "2014 International Symposium on Intelligent Signal Processing and …, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "An authentication framework for peer-to-peer cloud",
+            "authors": "GS Poh, MAN Mohd Nazir, BM Goi, SY Tan, RCW Phan, MS Shamsudin",
+            "venue": "Proceedings of the 6th International Conference on Security of Information …, 2013",
+            "year": "2013",
+            "citations": 7
+        },
+        {
+            "title": "On the security of a modified Beth identity-based identification scheme",
+            "authors": "JJ Chin, SY Tan, SH Heng, RCW Phan",
+            "venue": "Information Processing Letters 113 (14-16), 580-583, 2013",
+            "year": "2013",
+            "citations": 7
+        },
+        {
+            "title": "Security models for delegated keyword searching within encrypted contents",
+            "authors": "WC Yau, RCW Phan, SH Heng, BM Goi",
+            "venue": "Journal of Internet Services and Applications 3 (2), 233-241, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "Integral distinguishers of some SHA-3 candidates",
+            "authors": "M Minier, RCW Phan, B Pousse",
+            "venue": "International Conference on Cryptology and Network Security, 106-123, 2010",
+            "year": "2010",
+            "citations": 7
+        },
+        {
+            "title": "How (not) to efficiently dither blockcipher-based hash functions?",
+            "authors": "JP Aumasson, RCW Phan",
+            "venue": "International Conference on Cryptology in Africa, 308-324, 2008",
+            "year": "2008",
+            "citations": 7
+        },
+        {
+            "title": "Proxy Re-encryption with Keyword Search: New Definitions and Algorithms with Proofs",
+            "authors": "WC Yau, CWP Raphael, SH Heng, BM Goi",
+            "venue": null,
+            "year": "",
+            "citations": 7
+        },
+        {
+            "title": "A unified framework for static and dynamic functional connectivity augmentation for multi-domain brain disorder classification",
+            "authors": "YF Tan, CM Ting, F Noman, RCW Phan, H Ombao",
+            "venue": "2023 IEEE International Conference on Image Processing (ICIP), 635-639, 2023",
+            "year": "2023",
+            "citations": 6
+        },
+        {
+            "title": "Differential fault attacks on the lightweight authenticated encryption algorithm CLX-128",
+            "authors": "I Salam, WC Yau, RCW Phan, J Pieprzyk",
+            "venue": "Journal of Cryptographic Engineering 13 (3), 265-281, 2023",
+            "year": "2023",
+            "citations": 6
+        },
+        {
+            "title": "Descover: Debiased semantic context prior for venue recommendation",
+            "authors": "S Rajanala, A Pal, M Singh, RCW Phan, KS Wong",
+            "venue": "Proceedings of the 45th International ACM SIGIR Conference on Research and …, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Planting attack on latent fingerprints",
+            "authors": "MM Askarin, KS Wong, RCW Phan",
+            "venue": "IET Biometrics 7 (5), 396-404, 2018",
+            "year": "2018",
+            "citations": 6
+        },
+        {
+            "title": "An efficient and provably secure certificateless identification scheme",
+            "authors": "JJ Chin, RCW Phan, R Behnia, SH Heng",
+            "venue": "2013 international conference on security and cryptography (SECRYPT), 1-8, 2013",
+            "year": "2013",
+            "citations": 6
+        },
+        {
+            "title": "Efficient encryption with keyword search in mobile networks",
+            "authors": "WC Yau, SH Heng, SY Tan, BM Goi, RCW Phan",
+            "venue": "Security and Communication Networks 5 (12), 1412-1422, 2012",
+            "year": "2012",
+            "citations": 6
+        },
+        {
+            "title": "On the cryptanalysis of the hash function Fugue: Partitioning and inside-out distinguishers",
+            "authors": "JP Aumasson, RCW Phan",
+            "venue": "Information Processing Letters 111 (11), 512-515, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "Analysis of a buyer–seller watermarking protocol for trustworthy purchasing of digital contents",
+            "authors": "RCW Phan, BM Goi, GS Poh, J Kim",
+            "venue": "Wireless Personal Communications 56 (1), 73-83, 2011",
+            "year": "2011",
+            "citations": 6
+        },
+        {
+            "title": "On the Impossibility of Strong Encryption Over",
+            "authors": "RCW Phan, S Vaudenay",
+            "venue": "International Conference on Coding and Cryptology, 202-218, 2009",
+            "year": "2009",
+            "citations": 6
+        },
+        {
+            "title": "Secure data aggregation in wireless sensor networks",
+            "authors": "YW Law, M Palaniswami, RCW Phan",
+            "venue": "Guide to Wireless Sensor Networks, 533-559, 2009",
+            "year": "2009",
+            "citations": 6
+        },
+        {
+            "title": "Traceable privacy of re",
+            "authors": "K Ouafi, RCW Phan",
+            "venue": "cс Springer Verlag, 2008",
+            "year": "2008",
+            "citations": 6
+        },
+        {
+            "title": "On the Notions of PRP-RKA, KR and KR-RKA for block ciphers",
+            "authors": "E Razali, RCW Phan, M Joye",
+            "venue": "International Conference on Provable Security, 188-197, 2007",
+            "year": "2007",
+            "citations": 6
+        },
+        {
+            "title": "Security of a leakage-resilient protocol for key establishment and mutual authentication",
+            "authors": "RCW Phan, KKR Choo, SH Heng",
+            "venue": "International Conference on Provable Security, 169-177, 2007",
+            "year": "2007",
+            "citations": 6
+        },
+        {
+            "title": "Related-mode attacks on block cipher modes of operation",
+            "authors": "RCW Phan, MU Siddiqi",
+            "venue": "International Conference on Computational Science and Its Applications, 661-671, 2005",
+            "year": "2005",
+            "citations": 6
+        },
+        {
+            "title": "SECURITY LIMITATIONS OF AN AUTHORIZED ANONYMOUS ID-BASED SCHEME FOR MOBILE COMMUNICATION",
+            "authors": "RCW Phan",
+            "venue": "IEEE Communications Magazine 43 (5), 149-153, 2005",
+            "year": "2005",
+            "citations": 6
+        },
+        {
+            "title": "Causally uncovering bias in video micro-expression recognition",
+            "authors": "PS Tan, S Rajanala, A Pal, SM Leong, RCW Phan, HF Ong",
+            "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "year": "2024",
+            "citations": 5
+        },
+        {
+            "title": "Cryptography and future security",
+            "authors": "J Kim, H Wu, RCW Phan",
+            "venue": "Discrete Applied Mathematics 241, 1, 2018",
+            "year": "2018",
+            "citations": 5
+        },
+        {
+            "title": "Joint selective encryption and data embedding technique in HEVC video",
+            "authors": "Y Tew, KS Wong, RCW Phan",
+            "venue": "2016 Asia-Pacific Signal and Information Processing Association Annual …, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Cryptanalysis of a certificateless identification scheme",
+            "authors": "JJ Chin, R Behnia, SH Heng, RCW Phan",
+            "venue": "Security and Communication Networks 8 (2), 122-125, 2015",
+            "year": "2015",
+            "citations": 5
+        },
+        {
+            "title": "A new spontaneous expression database and a study of classification-based expression analysis methods",
+            "authors": "S Aina, M Zhou, JA Chambers, RCW Phan",
+            "venue": "2014 22nd European Signal Processing Conference (EUSIPCO), 2505-2509, 2014",
+            "year": "2014",
+            "citations": 5
+        },
+        {
+            "title": "Spontaneous expression classification in the encrypted domain",
+            "authors": "S Aina, Y Rahulamathavan, RCW Phan, JA Chambers",
+            "venue": "arXiv preprint arXiv:1403.3602, 2014",
+            "year": "2014",
+            "citations": 5
+        },
+        {
+            "title": "On integral distinguishers of Rijndael family of ciphers",
+            "authors": "M Minier, RCW Phan, B Pousse",
+            "venue": "Cryptologia 36 (2), 104-118, 2012",
+            "year": "2012",
+            "citations": 5
+        },
+        {
+            "title": "On the security of a hybrid SVD-DCT watermarking method based on LPSNR",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "Pacific-Rim Symposium on Image and Video Technology, 257-266, 2011",
+            "year": "2011",
+            "citations": 5
+        },
+        {
+            "title": "Advanced DDoS attacks traffic simulation with a test center platform",
+            "authors": "J Wang, R Phan, J Whitley, D Parish",
+            "venue": "International Journal for Information Security Research (IJISR) 1 (4), 169-177, 2011",
+            "year": "2011",
+            "citations": 5
+        },
+        {
+            "title": "Analysis on the improved SVD-based watermarking scheme",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "International Conference on Advanced Computer Science and Information …, 2010",
+            "year": "2010",
+            "citations": 5
+        },
+        {
+            "title": "Analysis of a Buyer–Seller Watermarking Protocol for Trustworthy Purchasing",
+            "authors": "CWP Raphael, BM Goi, GS Poh, J Kim",
+            "venue": "Wireless Pers Commun, 2009",
+            "year": "2009",
+            "citations": 5
+        },
+        {
+            "title": "Formal analysis of a TPM-based secrets distribution and storage scheme",
+            "authors": "R Toegl, G Hofferek, K Greimel, A Leung, RCW Phan, R Bloem",
+            "venue": "2008 The 9th International Conference for Young Computer Scientists, 2289-2294, 2008",
+            "year": "2008",
+            "citations": 5
+        },
+        {
+            "title": "Next generation networks: Human-aided and privacy-driven",
+            "authors": "RCW Phan, JP Aumasson",
+            "venue": "2008 First ITU-T Kaleidoscope Academic Conference-Innovations in NGN: Future …, 2008",
+            "year": "2008",
+            "citations": 5
+        },
+        {
+            "title": "Toy versions of BLAKE",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": "See http://www 131002, 2008",
+            "year": "2008",
+            "citations": 5
+        },
+        {
+            "title": "RFID systems: Applications versus security & privacy implications",
+            "authors": "MLW Dennis, CWP Raphael",
+            "venue": "by IDEA group, 2006",
+            "year": "2006",
+            "citations": 5
+        },
+        {
+            "title": "On the Insecurity of the Microsoft Research Conference Management Tool (MSRCMT) System",
+            "authors": "RCW Phan, HC Ling",
+            "venue": "Proceedings of International Conference on IT in Asia (CITA’05), 75-79, 2005",
+            "year": "2005",
+            "citations": 5
+        },
+        {
+            "title": "Enhancing single-pixel imaging reconstruction using hybrid transformer network with adaptive feature refinement",
+            "authors": "JY Lim, YS Chiew, RCW Phan, EKP Chong, X Wang",
+            "venue": "Optics Express 32 (18), 32370-32386, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Video deception detection through the fusion of multimodal feature extraction and neural networks",
+            "authors": "Y Zhuo, VM Baskaran, LWY Kiaw, RCW Phan",
+            "venue": "2024 International Joint Conference on Neural Networks (IJCNN), 1-8, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Cross-domain transfer learning and state inference for soft robots via a semi-supervised sequential variational bayes framework",
+            "authors": "S Sapai, JY Loo, ZY Ding, CP Tan, RCW Phan, VM Baskaran, ...",
+            "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA), 552-559, 2023",
+            "year": "2023",
+            "citations": 4
+        },
+        {
+            "title": "Faceless identification based on temporal strips",
+            "authors": "SM Leong, RCW Phan, VM Baskaran, CP Ooi",
+            "venue": "Multimedia Tools and Applications 80 (1), 279-298, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Multiplying very large integer in GPU with pascal architecture",
+            "authors": "BC Chang, BM Goi, RCW Phan, WK Lee",
+            "venue": "2018 IEEE Symposium on Computer Applications & Industrial Electronics …, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "A provable secure pairing-free certificateless identification scheme",
+            "authors": "JJ Chin, SY Tan, SH Heng, RCW Phan, R Behnia",
+            "venue": "International Journal of Computer Mathematics 92 (8), 1520-1535, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Efficient generation of elementary sequences",
+            "authors": "D Gardner, A Sălăgean, RCW Phan",
+            "venue": "IMA International Conference on Cryptography and Coding, 16-27, 2013",
+            "year": "2013",
+            "citations": 4
+        },
+        {
+            "title": "Quality of detectability (QoD) and QoD-aware AAT-based attack detection",
+            "authors": "J Wang, RCW Phan, JN Whitley, DJ Parish",
+            "venue": "2010 International Conference for Internet Technology and Secured …, 2010",
+            "year": "2010",
+            "citations": 4
+        },
+        {
+            "title": "Analysis of two pairing-based three-party password authenticated key exchange protocols",
+            "authors": "RCW Phan, WC Yau, BM Goi",
+            "venue": "2009 Third International Conference on Network and System Security, 102-106, 2009",
+            "year": "2009",
+            "citations": 4
+        },
+        {
+            "title": "On the rila-mitchell security protocols for biometrics-based cardholder authentication in smartcards",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Computational Science and Its Applications, 488-497, 2005",
+            "year": "2005",
+            "citations": 4
+        },
+        {
+            "title": "Attacks on ATM Authentication Protocols Proposed at WEC2002.",
+            "authors": "RCW Phan",
+            "venue": "CITA, 275-277, 2003",
+            "year": "2003",
+            "citations": 4
+        },
+        {
+            "title": "SHA-3 proposal BLAKE, version 1.3 (2008)",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": 4
+        },
+        {
+            "title": "Sha-3 proposal blake (version 1.4), 2011",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": 4
+        },
+        {
+            "title": "PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices",
+            "authors": "M Kang, FF Ting, RCW Phan, CM Ting",
+            "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025",
+            "year": "2025",
+            "citations": 3
+        },
+        {
+            "title": "Cafct-Net: A Cnn-Transformer Hybrid Network With Contextual And Attentional Feature Fusion For Liver Tumor Segmentation",
+            "authors": "M Kang, CM Ting, FF Ting, CWR Phan",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2970-2974, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification",
+            "authors": "SY Yap, JY Loo, CM Ting, F Noman, RCW Phan, A Razi, DL Dowe",
+            "venue": "33rd International Joint Conference on Artificial Intelligence (IJCAI-24), 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Hessian unsupervised extreme learning machine",
+            "authors": "SDS Dass, G Krishnasamy, R Paramesran, R C.-W. Phan",
+            "venue": "International Journal of Machine Learning and Cybernetics 15 (5), 2013-2022, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Brainfc-cgan: A conditional generative adversarial network for brain functional connectivity augmentation and aging synthesis",
+            "authors": "YF Tan, JY Loo, CM Ting, F Noman, RCW Phan, H Ombao",
+            "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Synthesize-it-classifier: Learning a generative classifier through recurrent self-analysis",
+            "authors": "A Pal, RCW Phan, KS Wong",
+            "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",
+            "year": "2021",
+            "citations": 3
+        },
+        {
+            "title": "Multimodal decomposition with magnification on micro-expressions and its impact on facial biometric recognition",
+            "authors": "ZC Lee, RCW Phan, SW Tan, KH Lee",
+            "venue": "2017 IEEE International Symposium on Consumer Electronics (ISCE), 45-46, 2017",
+            "year": "2017",
+            "citations": 3
+        },
+        {
+            "title": "Twin-Beth: Security under active and concurrent attacks for the beth identity-based identification scheme",
+            "authors": "JJ Chin, SY Tan, SH Heng, RCW Phan",
+            "venue": "Cryptography and Communications 8 (4), 579-591, 2016",
+            "year": "2016",
+            "citations": 3
+        },
+        {
+            "title": "An efficient and provable secure security-mediated identity-based identification scheme",
+            "authors": "JJ Chin, R Behnia, SH Heng, RCW Phan",
+            "venue": "2013 Eighth Asia Joint Conference on Information Security, 27-32, 2013",
+            "year": "2013",
+            "citations": 3
+        },
+        {
+            "title": "Index tables of finite fields and modular golomb rulers",
+            "authors": "A Sălăgean, D Gardner, R Phan",
+            "venue": "International Conference on Sequences and Their Applications, 136-147, 2012",
+            "year": "2012",
+            "citations": 3
+        },
+        {
+            "title": "Linear complexity for sequences with characteristic polynomial ƒv",
+            "authors": "AJ Burrage, A Salagean, RCW Phan",
+            "venue": "Information Theory Proceedings (ISIT), 2011 IEEE International Symposium on …, 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "SHA-3 Proposal BLAKE version 1.3, December 16, 2010",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "2010",
+            "citations": 3
+        },
+        {
+            "title": "Distinguisher for full final round of Fugue-256",
+            "authors": "JP Aumasson, RCW Phan",
+            "venue": "NIST Second Sha3 Conference, 2010",
+            "year": "2010",
+            "citations": 3
+        },
+        {
+            "title": "Cryptanalysis of Two Non-anonymous Buyer-Seller Watermarking Protocols for Content Protection",
+            "authors": "BM Goi, RCW Phan, HT Chuah",
+            "venue": "Lecture Notes in Computer Science 4705, 951-960, 2007",
+            "year": "2007",
+            "citations": 3
+        },
+        {
+            "title": "Cryptanalysis of a generalized anonymous buyer-seller watermarking protocol of IWDW 2004",
+            "authors": "BM Goi, RCW Phan, MU Siddiqi",
+            "venue": "International Conference on Embedded and Ubiquitous Computing, 936-944, 2005",
+            "year": "2005",
+            "citations": 3
+        },
+        {
+            "title": "Mini Advanced Encryption Standard (Mini-AES): A Testbed for Cryptanalysis Students-Cryptologia",
+            "authors": "RCW Phan",
+            "venue": null,
+            "year": "2002",
+            "citations": 3
+        },
+        {
+            "title": "John See, Raphael C.-W. Phan, Yee-Hui Oh, Spatio-Temporal Local Binary Patterns for Spontaneous Facial Micro-Expression Recognition, May 19, 2015",
+            "authors": "Y Wang",
+            "venue": null,
+            "year": "",
+            "citations": 3
+        },
+        {
+            "title": "Causal-Ex: Causal Graph-based Micro and Macro Expression Spotting",
+            "authors": "PS Tan, S Rajanala, A Pal, RCW Phan, HF Ong",
+            "venue": "arXiv preprint arXiv:2503.09098, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "Denoising via Repainting: an image denoising method using layer wise medical image repainting",
+            "authors": "A Pal, S Rajanala, CM Ting, R Phan",
+            "venue": "arXiv preprint arXiv:2503.08094, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "SFC-GAN: A Generative Adversarial Network for Brain Functional and Structural Connectome Translation",
+            "authors": "YF Tan, JL Liow, PS Tan, F Noman, RCW Phan, H Ombao, CM Ting",
+            "venue": "arXiv preprint arXiv:2501.07055, 2025",
+            "year": "2025",
+            "citations": 2
+        },
+        {
+            "title": "fMRI Functional Connectivity Augmentation Using Convolutional Generative Adversarial Networks for Brain Disorder Classification",
+            "authors": "YF Tan, CM Ting, F Noman, RCW Phan, H Ombao",
+            "venue": "2024 IEEE International Symposium on Biomedical Imaging (ISBI), 1-5, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Schatten p-norm based image-to-video adaptation for video action recognition",
+            "authors": "SDS Dass, G Krishnasamy, R Paramesran, RCW Phan",
+            "venue": "2023 International Joint Conference on Neural Networks (IJCNN), 1-8, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Transferable Class-Modelling for Decentralized Source Attribution of GAN-Generated Images",
+            "authors": "BBG Khoo, CH Lim, RCW Phan",
+            "venue": "arXiv preprint arXiv:2203.09777, 2022",
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Deepfake attribution: On the source identification of artificially generated images. WIREs Data Mining and Knowledge Discovery 12, 3 (2022), e1438",
+            "authors": "B Khoo, RCW Phan, CH Lim",
+            "venue": null,
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Strengthening speech content authentication against tampering",
+            "authors": "RCW Phan, YY Low, KS Wong, K Minemura",
+            "venue": "Speech Communication 129, 41-57, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Multimodal decomposition for enhanced subtle emotion recognition",
+            "authors": "ZC Lee, RCW Phan, SW Tan, KH Lee",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 2
+        },
+        {
+            "title": "Efficient and Provable Secure Pairing‐Free Security‐Mediated Identity‐Based Identification Schemes",
+            "authors": "JJ Chin, SY Tan, SH Heng, RCW Phan",
+            "venue": "The Scientific World Journal 2014 (1), 170906, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "On the security of the XOR sandwiching paradigm for multiple keyed block ciphers",
+            "authors": "RN Ii-Yung, K Khoo, RCW Phan",
+            "venue": "2013 International Conference on Security and Cryptography (SECRYPT), 1-8, 2013",
+            "year": "2013",
+            "citations": 2
+        },
+        {
+            "title": "On the Stability of m-Sequences",
+            "authors": "AJ Burrage, A Sălăgean, RCW Phan",
+            "venue": "IMA International Conference on Cryptography and Coding, 259-274, 2011",
+            "year": "2011",
+            "citations": 2
+        },
+        {
+            "title": "Energy-efficient cryptographic engineering paradigm",
+            "authors": "M Minier, RCW Phan",
+            "venue": "International Workshop on Open Problems in Network Security, 78-88, 2011",
+            "year": "2011",
+            "citations": 2
+        },
+        {
+            "title": "Passive Black-box cryptanalysis of an ultralightweight protocol after eavesdropping one authentication session",
+            "authors": "JC Hernandez-Castro, P Peris-Lopez, JE Tapiador, RCW Phan, T Li",
+            "venue": "Radio Frequency Identification System Security, 3-17, 2011",
+            "year": "2011",
+            "citations": 2
+        },
+        {
+            "title": "Evidential notions of defensibility and admissibility with property preservation",
+            "authors": "RCW Phan, AR Amran, JN Whitley, DJ Parish",
+            "venue": "International Workshop on Open Problems in Network Security, 134-139, 2010",
+            "year": "2010",
+            "citations": 2
+        },
+        {
+            "title": "Evidential structures and metrics for network forensics",
+            "authors": "AR Amran, RCW Phan, DJ Parish, JN Whitley",
+            "venue": "International Journal of Internet Technology and Secured Transactions 2 (3-4 …, 2010",
+            "year": "2010",
+            "citations": 2
+        },
+        {
+            "title": "On the Design of Forgiving Biometric Security Systems",
+            "authors": "RCW Phan, JN Whitley, DJ Parish",
+            "venue": "International Workshop on Open Problems in Network Security, 1-8, 2009",
+            "year": "2009",
+            "citations": 2
+        },
+        {
+            "title": "Review of Security Engineering: A Guide to Building Dependable Distributed Systems, by Ross J. Anderson: Anderson, Ross J. Security Engineering: A Guide to Building Dependable …",
+            "authors": "RCW Phan",
+            "venue": "Taylor & Francis Group 33 (1), 102-103, 2009",
+            "year": "2009",
+            "citations": 2
+        },
+        {
+            "title": "Cryptanalysis of the application secure alternative to SNMP (APSSNMP)",
+            "authors": "RCW Phan",
+            "venue": "Computer Standards & Interfaces 31 (1), 63-65, 2009",
+            "year": "2009",
+            "citations": 2
+        },
+        {
+            "title": "(In) Security of an Efficient Fingerprinting Scheme with Symmetric and Commutative Encryption of IWDW 2005",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Workshop on Digital Watermarking, 34-44, 2007",
+            "year": "2007",
+            "citations": 2
+        },
+        {
+            "title": "Cryptanalysis of some improved password-authenticated key exchange schemes",
+            "authors": "RCW Phan, BM Goi, KH Wong",
+            "venue": "Computer communications 29 (15), 2822-2829, 2006",
+            "year": "2006",
+            "citations": 2
+        },
+        {
+            "title": "RFID systems",
+            "authors": "DML Wong, RCW Phan",
+            "venue": "Applications versus security privacy implications, 2006",
+            "year": "2006",
+            "citations": 2
+        },
+        {
+            "title": "On the Security Bounds of CMC, EME, EME + and EME* Modes of Operation",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Information and Communications Security, 136-146, 2005",
+            "year": "2005",
+            "citations": 2
+        },
+        {
+            "title": "Flaws in generic watermarking protocols based on zero-knowledge proofs",
+            "authors": "RCW Phan, HC Ling",
+            "venue": "International Workshop on Digital Watermarking, 184-191, 2004",
+            "year": "2004",
+            "citations": 2
+        },
+        {
+            "title": "Generalised Impossible Differential of Advanced Encryption Standard [J]",
+            "authors": "C Raphael, W Phan, MU Siddiqi",
+            "venue": "IEE Electronics Letters 37 (14), 896-898, 2001",
+            "year": "2001",
+            "citations": 2
+        },
+        {
+            "title": "Mini Advanced Encryption Standard (Mini-AES): A Testbed for Cryptanalysis Students, Cryptologia, XXVI (4). Swinburne Sarawak Institute of Technology, 2002",
+            "authors": "RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": 2
+        },
+        {
+            "title": "SHA-3 proposal BLAKE (version 1.3). Revised submission to NIST, 2010",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": 2
+        },
+        {
+            "title": "SHA-3 proposal BLAKE, Décembre 2010. Cf",
+            "authors": "JP Aumasson, L Henzen, W Meier, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": 2
+        },
+        {
+            "title": "Dynamic MRI reconstruction using low-rank plus sparse decomposition with smoothness regularization",
+            "authors": "CM Ting, F Noman, RCW Phan, H Ombao",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2800-2806, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "A comparative study of deep learning models for image super-resolution",
+            "authors": "JY Lim, YS Chiew, RCW Phan, X Wang",
+            "venue": "Asia Conference on Electronic Technology (ACET 2024) 13211, 22-27, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Toward end-to-end interpretable convolutional neural networks for waveform signals",
+            "authors": "L Vu, T Tran, WH Lim, R Phan",
+            "venue": "arXiv preprint arXiv:2405.01815, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Emotion-specific AUs for micro-expression recognition",
+            "authors": "SM Leong, RCW Phan, VM Baskaran",
+            "venue": "Multimedia Tools and Applications 83 (8), 22773-22810, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Unbiased decision-making framework in long-video macro & micro-expression spotting",
+            "authors": "PS Tan, S Rajanala, A Pal, RCW Phan, HF Ong",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "USURP: Universal single-source adversarial perturbations on multimodal emotion recognition",
+            "authors": "YY Low, RCW Phan, A Pal, X Chang",
+            "venue": "2023 IEEE International Conference on Image Processing (ICIP), 2150-2154, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Sparconet with block-switched self-supervised learning: an effective framework for deepfake detection with improved adversarial defense",
+            "authors": "JW Seow, MK Lim, RCW Phan, JK Liu",
+            "venue": "Available at SSRN 4682561, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Network Reconfiguration via Diversity: Theoretical Foundation and Algorithm Design",
+            "authors": "L Chen, RCW Phan",
+            "venue": "2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 1-5, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Emotional manifestations of humanoids of the future",
+            "authors": "RCW Phan, E Sheppard",
+            "venue": "Journal of Future Robot Life 1 (1), 91-97, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Advances in security research in the Asiacrypt region",
+            "authors": "RCW Phan, M Abe, L Batten, JH Cheon, E Dawson, S Galbraith, J Guo, ...",
+            "venue": "Communications of the ACM 63 (4), 76-81, 2020",
+            "year": "2020",
+            "citations": 1
+        },
+        {
+            "title": "Paradigms in Cryptology–Mycrypt 2016. Malicious and Exploratory Cryptology: Second International Conference, Mycrypt 2016, Kuala Lumpur, Malaysia, December 1-2, 2016, Revised …",
+            "authors": "RCW Phan, M Yung",
+            "venue": "Springer, 2017",
+            "year": "2017",
+            "citations": 1
+        },
+        {
+            "title": "An efficient and provable secure certificateless identification scheme in the standard model",
+            "authors": "JJ Chin, SH Heng, RCW Phan",
+            "venue": "KSII Transactions on Internet and Information Systems (TIIS) 8 (7), 2532-2553, 2014",
+            "year": "2014",
+            "citations": 1
+        },
+        {
+            "title": "Robust spontaneous facial expression recognition using sparse representation",
+            "authors": "S Aina, JA Chambers, RCW Phan",
+            "venue": "IET Intelligent Signal Processing Conference 2013 (ISP 2013), 7. P10, 2013",
+            "year": "2013",
+            "citations": 1
+        },
+        {
+            "title": "User and system identification using captured network traffic",
+            "authors": "J Woods, D Parish, R Phan",
+            "venue": "13th Annual Postgraduate symposium on the Convergence of Telecommunications …, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "On the security of a robust watermarking scheme based on RDWT-SVD",
+            "authors": "HC Ling, RCW Phan, SH Heng",
+            "venue": "International Conference on Future Generation Information Technology, 249-256, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "Multispeaker direction of arrival tracking for multimodal source separation of moving sources",
+            "authors": "Ata-ur-Rehman, SM Naqvi, R Phan, JA Chambers",
+            "venue": "Sensor Signal Processing for Defence (SSPD 2011), 6/1-6/5, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "Exploring the concept of scope to provide better security for internet services.",
+            "authors": "M Aiash, G Mapp, A Lasebae, R Phan",
+            "venue": "First Global Conference on Communication, Science and Engineering (CCSIE 2011), 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "Adversarial security: getting to the root of the problem",
+            "authors": "RCW Phan, JN Whitley, DJ Parish",
+            "venue": "International Workshop on Open Problems in Network Security, 47-55, 2010",
+            "year": "2010",
+            "citations": 1
+        },
+        {
+            "title": "Collusion attacks on secret keys multiplication (skm) group re-keying scheme proposed at CITA03",
+            "authors": "CP Raphael",
+            "venue": "unpublished, 2009",
+            "year": "2009",
+            "citations": 1
+        },
+        {
+            "title": "(In) security of efficient tree-based group key agreement using bilinear map",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "2008 IEEE/IFIP International Conference on Embedded and Ubiquitous Computing …, 2008",
+            "year": "2008",
+            "citations": 1
+        },
+        {
+            "title": "Analysis of a zero location based authentication scheme for biomedical images",
+            "authors": "AWT Goh, MLD Wong, RCW Phan",
+            "venue": "Proceedings of the 1st international conference on Forensic applications and …, 2008",
+            "year": "2008",
+            "citations": 1
+        },
+        {
+            "title": "On the security of zhou et al.’s authentication and integrity scheme for digital mammography images",
+            "authors": "AWT Goh, E Razali, RCW Phan, MLD Wong",
+            "venue": "4th Kuala Lumpur International Conference on Biomedical Engineering 2008 …, 2008",
+            "year": "2008",
+            "citations": 1
+        },
+        {
+            "title": "Extending commutative diagram cryptanalysis to slide, boomerang, rectangle and square attacks",
+            "authors": "RCW Phan",
+            "venue": "Computer Standards & Interfaces 29 (4), 444-448, 2007",
+            "year": "2007",
+            "citations": 1
+        },
+        {
+            "title": "How to Explain Block Cipher Cryptanalysis to your Kids",
+            "authors": "RCW Phan",
+            "venue": "Cryptologia 29 (2), 148-158, 2005",
+            "year": "2005",
+            "citations": 1
+        },
+        {
+            "title": "Further attacks and comments on'security of two remote user authentication schemes using smart cards'",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "IEEE Transactions on Consumer Electronics 50 (2), 609-611, 2004",
+            "year": "2004",
+            "citations": 1
+        },
+        {
+            "title": "Guided Diffusion For Class-Conditioned Synthesis & Classification Of Microscopic Blood Cell Images",
+            "authors": "KE Hoh, JY Loo, YF Tan, RCW Phan, CM Ting",
+            "venue": "2025 IEEE International Conference on Image Processing (ICIP), 773-778, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Learning Energy-Based Generative Models via Potential Flow: A Variational Principle Approach to Probability Density Homotopy Matching",
+            "authors": "JY Loo, LF Yu, M Adeline, JK Lau, HH Tew, A Pal, VM Baskaran, CM Ting, ...",
+            "venue": "Transactions on Machine Learning Research, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "@ LM DeceptionNet: A multimodal approach for efficient transfer learning-based deception detection",
+            "authors": "Y Zhuo, VM Baskaran, LYK Wang, RCW Phan",
+            "venue": "Knowledge-Based Systems, 113499, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification",
+            "authors": "YF Tan, PS Tan, F Noman, RCW Phan, H Ombao, CM Ting",
+            "venue": "2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI), 1-5, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Post-Hoc Adversarial Stickers Against Micro-Expression Leakage",
+            "authors": "PS Tan, S Rajanala, YF Tan, A Pal, CL Tan, RCW Phan, HF Ong",
+            "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "GENIE: Socially Unbiased Generative Text-to-Image Editing",
+            "authors": "JK Lau, RCW Phan, S Rajanala, IJ Cox, A Pal",
+            "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling",
+            "authors": "SDS Dass, HB Barua, G Krishnasamy, R Paramesran, RCW Phan",
+            "venue": "arXiv preprint arXiv:2502.03724, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Anatomy-to-Tract Mapping: Inferring White Matter Pathways Without Diffusion Streamline Propagation",
+            "authors": "YF Tan, S Liu, KM Huynh, RCW Phan, CM Ting, PT Yap",
+            "venue": "bioRxiv, 2024.12. 24.630267, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "A new Time-decay Radiomics Integrated Network (TRINet) for short-term breast cancer risk prediction",
+            "authors": "HH Yeoh, F Strand, R Phan, K Rahmat, M Tan",
+            "venue": "arXiv preprint arXiv:2412.03081, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Deep Multi-Graph Embedded Clustering for Community Detection in FMRI Functional Brain Networks Across Individuals",
+            "authors": "KJ See, CM Ting, F Noman, JY Loo, YF Tan, H Ombao, RCW Phan",
+            "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2996-3002, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Unveiling the Black Box: Neural Cryptanalysis with XAI",
+            "authors": "YT Goi, SM Leong, RCW Phan, S Lai, A Sălăgean",
+            "venue": "2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Distingusic: Distinguishing Synthesized Music from Human",
+            "authors": "ZQ Yong, SM Leong, S Rajanala, A Pal, RCW Phan",
+            "venue": "2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling",
+            "authors": "JY Loo, M Adeline, A Pal, VM Baskaran, CM Ting, RCW Phan",
+            "venue": "arXiv preprint arXiv:2407.15238, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "A Transformer-free signal encoding module for efficient networked AI systems",
+            "authors": "L Vu, WH Lim, RCW Phan",
+            "venue": "Proceedings of the 2nd International Workshop on Networked AI Systems, 1-6, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Distingusic: Distinguishing Synthesized Music from Human",
+            "authors": "YZ Qian, SM Leong, S Rajanala, A Pal, RCW Phan",
+            "venue": "IEEE International Conference on Systems, Man, and Cybernetics 2024, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation.",
+            "authors": "M Kang, CM Ting, FF Ting, RCW Phan",
+            "venue": "CoRR, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": ": Cryptographically Distinguishing Autoencoder for Cipher Cryptanalysis",
+            "authors": "RCW Phan, A Pal, KS Wong, S Rajanala",
+            "venue": "GLOBECOM 2023-2023 IEEE Global Communications Conference, 4467-4472, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "ELEGANT: End-to-end Language Grounded Speech Denoiser for Efficient Generation of Talking Face",
+            "authors": "AF Chai, S Rajanala, A Pal, RCW Phan, CM Ting",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Scheduling Dependent Batching Tasks",
+            "authors": "H Shi, L Chen, M Lin, R Phan",
+            "venue": "Proceedings of the 52nd International Conference on Parallel Processing, 585-594, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Guess-It-Generator: Generating in a Lewis Signaling Framework through Logical Reasoning",
+            "authors": "A Pal, S Rajanala, R Phan, K Wong",
+            "venue": "Proceedings of the 30th ACM International Conference on Multimedia, 6396-6405, 2022",
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Cyber Security and Biometric Data: A Socio-legal Study",
+            "authors": "RG Vergara, OSL Tan, RCW Phan",
+            "venue": null,
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "Data Privacy and Security Among Malaysians: A Socio-legal Study",
+            "authors": "RG Vergara, OSL Tan, RCW Phan",
+            "venue": null,
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Paradigm Shifts in Cryptographic Engineering",
+            "authors": "R Phan, M Yung",
+            "venue": "IEEE Transactions on Dependable and Secure Computing 16 (5), 729-730, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Speeding up the Montgomery Exponentiation with CMM-SDR Over GPU with Maxwell and Pascal Architecture",
+            "authors": "XF Wong, BM Goi, WK Lee, RCW Phan",
+            "venue": "International Conference on Mobile and Wireless Technology, 75-85, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Speeding up the Montgomery Exponentiation",
+            "authors": "XF Wong¹, BMGWK Lee, RCW Phan",
+            "venue": "Mobile and Wireless Technologies 2017: ICMWT 2017 425, 75, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Tuple Cryptanalysis: Slicing and Fusing Multisets",
+            "authors": "M Minier, RCW Phan",
+            "venue": "International Conference on Cryptology in Malaysia, 294-320, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Smart, secure and seamless access control scheme for mobile devices",
+            "authors": "Y Rahulamathavan, M Rajarajan, RCW Phan",
+            "venue": "2016 IEEE International Conference on Communications (ICC), 1-6, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Design Rationale",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 107-129, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Security of BLAKE",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 131-163, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "BLAKE in Software",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 55-95, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Using BLAKE",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 45-54, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Specification of BLAKE",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 37-44, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "BLAKE in Hardware",
+            "authors": "JP Aumasson, W Meier, RCW Phan, L Henzen",
+            "venue": "The Hash Function BLAKE, 97-105, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Survey and new idea for attribute-based identification scheme secure against reset attacks",
+            "authors": "JJ Chin, H Anada, S Arita, K Sakurai, SH Heng, R Phan",
+            "venue": "4th International Cryptology and Information Security Conference 2014 …, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Computing the linear complexity for sequences with characteristic polynomial fv",
+            "authors": "A Sălăgean, AJ Burrage, RCW Phan",
+            "venue": "Cryptography and Communications 5 (2), 163-177, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Cheating Resistance of a Secure Incentive Protocol for Mobile Ad Hoc Networks",
+            "authors": "RCW Phan",
+            "venue": "Wireless Personal Communications 67 (4), 803-809, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Notions and relations for RKA-secure permutation and function families",
+            "authors": "J Kim, J Sung, E Razali, RCW Phan, M Joye",
+            "venue": "Designs, Codes and Cryptography 60 (1), 15-35, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "On the stability of m-sequences",
+            "authors": "A Salagean, AJ Burrage, RCW Phan",
+            "venue": "Loughborough University, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "On the stability of m-sequences. IN: 13th International IMA conference on Cryptography and Coding",
+            "authors": "AM SALAGEAN, AJ BURRAGE, RCW PHAN",
+            "venue": "Oxford, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Towards an integrated network security framework using the Y-Comm architecture",
+            "authors": "G Mapp, J Crowcroft, R Phan",
+            "venue": "Handbook of Electronic Security and Digital Forensics, 169, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "On hashing with tweakable ciphers",
+            "authors": "RCW Phan, JP Aumasson",
+            "venue": "2009 IEEE International Conference on Communications, 1-5, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Security of group key exchange protocols with different passwords",
+            "authors": "RCW Phan",
+            "venue": "2009 International Conference on Advanced Information Networking and …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Security of two recent constant-round password authenticated group key exchange schemes",
+            "authors": "RCW Phan",
+            "venue": "2009 International Conference on Advanced Information Networking and …, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "On the Design ofBiometric Security Systems",
+            "authors": "RCW Phan, JN Whitley, DJ Parish",
+            "venue": "iNetSeC, 2009",
+            "year": "2009",
+            "citations": null
+        },
+        {
+            "title": "Attacks on improved key distribution protocols with perfect reparability",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "2008 IEEE/IFIP International Conference on Embedded and Ubiquitous Computing …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Attacks on improved key distribution protocols with perfect reparability. IN: IEEE",
+            "authors": "RCW PHAN, BM GOI",
+            "venue": "IFIP International Conference on Embedded and Ubiquitous Computing,(EUC08 …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Traceable privacy of re-cent provably-secure RFID protocols. IN: Bellovin, SM... et al",
+            "authors": "K OUAFI, RCW PHAN",
+            "venue": "6th International conference, ACNS, 3-6, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Communication Security Technologies in Smart Organizations",
+            "authors": "RCW Phan",
+            "venue": "Information Security and Ethics: Concepts, Methodologies, Tools, and …, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Security-preserving asymmetric protocol encapsulation",
+            "authors": "RCW Phan, S Vaudenay",
+            "venue": "International Conference on Information Security and Cryptology, 346-366, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "On the analysis and design of a family tree of smart card based user authentication schemes",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "International Conference on Ubiquitous Intelligence and Computing, 1213-1221, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Attacks on a Blind Signature-Based Steganographic Protocol of IEEE-WISP 2001",
+            "authors": "HC Ling, SH Heng, RCW Phan",
+            "venue": "The 9th International Conference on Advanced Communication Technology 3 …, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Subtle Interactions: Security Protocols and Cipher Modes of Operation",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "Web Services Security and E-Business, 239-261, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "On the security of the WinRAR encryption method",
+            "authors": "GSW Yeo, RCW Phan",
+            "venue": "International Conference on Information Security, 402-416, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "New Multiset Attacks on Rijndael with",
+            "authors": "RCW Phan, INE LabSEC",
+            "venue": "Progress in Cryptology–Mycrypt 2005: First International Conference on …, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "On the Security of the",
+            "authors": "SWY Gary, RCW Phan",
+            "venue": "Information Security:... International Conference, ISC..., Proceedings, 402, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "On the Security of a Pay-TV Scheme of ICON 2001.",
+            "authors": "AWT Goh, RCW Phan, LA Mohammed",
+            "venue": "CITA, 112-118, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "The First International Workshop on Security in Ubiquitous Computing Systems (SecUbiq 2005)-Cryptanalysis of a Generalized Anonymous Buyer-Seller Watermarking Protocol of IWDW 2004",
+            "authors": "BM Goi, RCW Phan, MU Siddiqi",
+            "venue": "Lecture Notes in Computer Science 3823, 936-944, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "Authentication Authorization Accounting (AAA) Workshop-On the Rila-Mitchell Security Protocols for Biometrics-Based Cardholder Authentication in Smartcards",
+            "authors": "RCW Phan, BM Goi",
+            "venue": "Lecture Notes in Computer Science 3480, 488-497, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "Cryptanalysis Of Block Ciphers: Generalization, Extensions And Integration",
+            "authors": "RCW Phan",
+            "venue": "Multimedia University, 2005",
+            "year": "2005",
+            "citations": null
+        },
+        {
+            "title": "Attacks on the secure SSM architecture proposed at ICON 2002",
+            "authors": "MC Ang, RCW Phah",
+            "venue": "Networks, 2004.(ICON 2004). Proceedings. 12th IEEE International Conference …, 2004",
+            "year": "2004",
+            "citations": null
+        },
+        {
+            "title": "Cryptanalysis of Two Anonymous Buyer-Seller",
+            "authors": "BM Goi¹, RCW Phan, Y Yang, F Bao, RH Deng, MU Siddiqi¹",
+            "venue": "Applied Cryptography and Network Security:... International Conference, ACNS …, 2004",
+            "year": "2004",
+            "citations": null
+        },
+        {
+            "title": "Cryptanalysis of Two Anonymous Buyer-Seller Watermarking Protocols",
+            "authors": "BM Goi¹, RCW Phan, Y Yang, F Bao, RH Deng, MU Siddiqi¹",
+            "venue": "Applied Cryptography and Network Security: Second International Conference …, 2004",
+            "year": "2004",
+            "citations": null
+        },
+        {
+            "title": "Cryptanalysis Of The Advanced Encription Standard & Skip Jack",
+            "authors": "RCW Phan",
+            "venue": "Multimedia University, 2002",
+            "year": "2002",
+            "citations": null
+        },
+        {
+            "title": "Further notes for a self-study course in block-cipher cryptanalysis",
+            "authors": "R Chung-Wei Phan",
+            "venue": "Cryptologia 26 (2), 129-137, 2002",
+            "year": "2002",
+            "citations": null
+        },
+        {
+            "title": "Explainable Artificial Intelligence for Class-Conditioned Guided Diffusion: Visual Interpretation of Microscopic Blood Cell Images",
+            "authors": "KE Hoh, JY Loo, RCW Phan, CM Ting",
+            "venue": "Available at SSRN 5475299, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Anatomy to Tract Mapping: A Repeatability Study",
+            "authors": "YF Tan, S Liu, KM Huynh, RCW Phan, CM Ting, PT Yap",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Middlesex University Research Repository",
+            "authors": "M Aiash, GE Mapp, R Phan, A Lasebae, J Loo",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Paradigms in Cryptology–Mycrypt 2016",
+            "authors": "RCW Phan, M Yung",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "ATM: Anatomy to Tract Mapping",
+            "authors": "YF Tan, S Liu, CWP Raphaël, CM Ting, PT Yap",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Efficient Single-Pixel Imaging Reconstruction Using a Hybrid Convolutional-Transformer Network with Adaptive Feature Refinement",
+            "authors": "JY Lim, YS Chiew, RCW Phan, EKP Chong, X Wang",
+            "venue": "Available at SSRN 4654401, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Attacks on Blind Signature-Based Steganographic Protocol of IEEE-WISP 2001",
+            "authors": "RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Image/Video Processing",
+            "authors": "KQ Dinh, B Jeon, K Minemura, K Wong, RCW Phan, K Tanaka",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Guest Editor’s Introduction: Special Issue on Paradigm Shifts in Cryptographic Engineering",
+            "authors": "R Phan, M Yung",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "A QoS Framework for Heterogeneous Networking",
+            "authors": "R Phan",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Accelerating DGHV’s Fully Homomorphic Encryption With GPU",
+            "authors": "JZ Goey, BM Goi, WK Lee, RCW Phan",
+            "venue": "Cryptology and Information Security Conference 2018, 151, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Lightweight Privacy-Preserving Decentralized Access Control Scheme for Mobile Environment",
+            "authors": "Y Rahulamathavan, M Rajarajan, CWP Raphael",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Security and privacy preservation in human-involved networks",
+            "authors": "CAJP Aumasson, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Passive Cryptanalysis of an Ultralightweight Authentication Protocol of RFIDsec’10 Asia",
+            "authors": "P Peris-Lopez, JC Hernandez-Castro, R Phan, JE Tapiador, T Li",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Security Technologies for Online Transactions",
+            "authors": "R Chung-Wei",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Selection Cryptanalysis: A Deadly Surname",
+            "authors": "RCW Phan, RYZ Phan",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "ATTACKS ON AUTHENTICATION PROTOCOLS FOR WIRELESS NETWORKS PROPOSED AT M2USIC 2001, AND SOME COUNTERMEASURES",
+            "authors": "BM Goi, RCW Phan",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "author_id": "-X_S9UMAAAAJ",
+    "name": "Wern Han Lim",
+    "affiliations": "Monash University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 75,
+                "since_2020": 55
+            }
+        },
+        {
+            "h_index": {
+                "all": 4,
+                "since_2020": 3
+            }
+        },
+        {
+            "i10_index": {
+                "all": 3,
+                "since_2020": 2
+            }
+        }
+    ],
+    "co_authors": [
+        "Saadat M. Alhashmi",
+        "Mark J. Carman"
+    ],
+    "articles": [
+        {
+            "title": "Caching transient data in Information-Centric Internet-of-Things (IC-IoT) networks: A survey",
+            "authors": "H Al-Ward, CK Tan, WH Lim",
+            "venue": "Journal of Network and Computer Applications 206, 103491, 2022",
+            "year": "2022",
+            "citations": 25
+        },
+        {
+            "title": "Estimating relative user expertise for content quality prediction on Reddit",
+            "authors": "WH Lim, MJ Carman, SMJ Wong",
+            "venue": "Proceedings of the 28th ACM conference on hypertext and social media, 55-64, 2017",
+            "year": "2017",
+            "citations": 21
+        },
+        {
+            "title": "Joint web-feature (JFEAT): a novel web page classification framework",
+            "authors": "LW Han, M Saadat",
+            "venue": "Communications of the IBIMA, 2010",
+            "year": "2010",
+            "citations": 13
+        },
+        {
+            "title": "Improved speech emotion recognition based on music-related audio features",
+            "authors": "L Vu, RCW Phan, LW Han, D Phung",
+            "venue": "30th European Signal Processing Conference (EUSIPCO 2022), 120-124, 2022",
+            "year": "2022",
+            "citations": 7
+        },
+        {
+            "title": "Estimating domain-specific user expertise for answer retrieval in community question-answering platforms",
+            "authors": "WH Lim, MJ Carman, SMJ Wong",
+            "venue": "Proceedings of the 21st Australasian Document Computing Symposium, 33-40, 2016",
+            "year": "2016",
+            "citations": 4
+        },
+        {
+            "title": "Machine learning-based risk prediction model for medication administration errors in neonatal intensive care units: A prospective direct observational study",
+            "authors": "J Henry Basil, WH Lim, SM Syed Ahmad, C Menon Premakumar, ...",
+            "venue": "Digital Health 10, 20552076241286434, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Toward end-to-end interpretable convolutional neural networks for waveform signals",
+            "authors": "L Vu, T Tran, WH Lim, R Phan",
+            "venue": "arXiv preprint arXiv:2405.01815, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Cryptocurrency Analysis: Price Prediction of Cryptocurrency Using User Sentiments and Quantitative Data",
+            "authors": "D Perera, J Lim, S Gunraku, WH Lim",
+            "venue": "16th International Conference on Agents and Artificial Intelligence 3, 210-217, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Optimising search operations with swarm intelligence",
+            "authors": "NC Hou, LW Han, LM Kuan",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "The Information Potential and Temporal Elements of Web 2.0 Folksonomy for User Profiling in Personalized Information Retrieval",
+            "authors": "WH Lim, SM Alhashmi, EG Siew",
+            "venue": "Journal of Internet Social Networking & Virtual Communities 2011, a1-14, 2011",
+            "year": "2011",
+            "citations": 1
+        },
+        {
+            "title": "A Transformer-free signal encoding module for efficient networked AI systems",
+            "authors": "RCWP Linh Vu, Wern Han Lim",
+            "venue": "International Workshop on Networked AI Systems (NetAISys '24), 1-6, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Bringing Order to User-Generated Content on the Web",
+            "authors": "WH Lim",
+            "venue": null,
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "Annotator Expertise and Information Quality in Annotation-based Retrieval",
+            "authors": "WH Lim, MJ Carman",
+            "venue": "Proceedings of the 22nd Australasian Document Computing Symposium, 1-8, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "A combination of geometric patterns and heterogeneous features for webpage multi-classifier",
+            "authors": "S Orimaye, W Lim, S Alhashmi, EG Siew",
+            "venue": "International Conference on Machine Learning and Computing (ICMLC), 411-415, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Joint-feature (JFEAT) web page classification",
+            "authors": "LW Han, SM Alhashmi",
+            "venue": "International Business Information Management 2010, 819-828, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Hyper-classification framework with heterogeneous web features",
+            "authors": "SO Orimaye, LW Han, SM Alhashmi, S Eu-Gene",
+            "venue": null,
+            "year": "2010",
+            "citations": null
+        }
+    ]
+}

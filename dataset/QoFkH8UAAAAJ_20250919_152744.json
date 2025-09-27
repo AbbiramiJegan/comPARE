@@ -1,0 +1,1512 @@
+{
+    "author_id": "QoFkH8UAAAAJ",
+    "name": "Yeong Shiong Chiew",
+    "affiliations": "Monash University",
+    "metrics": [
+        {
+            "citations": {
+                "all": 3086,
+                "since_2020": 2163
+            }
+        },
+        {
+            "h_index": {
+                "all": 30,
+                "since_2020": 26
+            }
+        },
+        {
+            "i10_index": {
+                "all": 72,
+                "since_2020": 54
+            }
+        }
+    ],
+    "co_authors": [
+        "J. Geoffrey Chase",
+        "Geoff Shaw",
+        "Thomas Desaive",
+        "Christopher Pretty",
+        "Paul D Docherty",
+        "Moeller, Knut",
+        "Mohd Basri Mat Nor",
+        "Daniel Paul Redmond",
+        "Tan Chee Pin",
+        "Balázs Benyó",
+        "Jennifer L. Knopp (Dickson)",
+        "Christoph Schranz",
+        "Vincent J Major",
+        "Szlávecz Ákos",
+        "Ganesa Ramachandran Arunachalam",
+        "Sarah Howe",
+        "Merryn Tawhai",
+        "Alex Beatson",
+        "Shaun M Davidson",
+        "Ruby Langdon"
+    ],
+    "articles": [
+        {
+            "title": "Erratum to: 36th international symposium on intensive care and emergency medicine: Brussels, Belgium. 15-18 march 2016",
+            "authors": "RM Bateman, MD Sharpe, JE Jagger, CG Ellis, J Solé-Violán, ...",
+            "venue": "Critical care 20 (1), 347, 2016",
+            "year": "2016",
+            "citations": 249
+        },
+        {
+            "title": "Next-generation, personalised, model-based critical care medicine: a state-of-the art review of in silico virtual patient models, methods, and cohorts, and how to validation them",
+            "authors": "JG Chase, JC Preiser, JL Dickson, A Pironet, YS Chiew, CG Pretty, ...",
+            "venue": "Biomedical engineering online 17 (1), 24, 2018",
+            "year": "2018",
+            "citations": 232
+        },
+        {
+            "title": "Model-based PEEP optimisation in mechanical ventilation",
+            "authors": "YS Chiew, JG Chase, GM Shaw, A Sundaresan, T Desaive",
+            "venue": "Biomedical engineering online 10 (1), 111, 2011",
+            "year": "2011",
+            "citations": 169
+        },
+        {
+            "title": "Time-varying respiratory system elastance: a physiological model for patients who are spontaneously breathing",
+            "authors": "YS Chiew, C Pretty, PD Docherty, B Lambermont, GM Shaw, T Desaive, ...",
+            "venue": "PloS one 10 (1), e0114847, 2015",
+            "year": "2015",
+            "citations": 97
+        },
+        {
+            "title": "The Clinical Utilisation of Respiratory Elastance Software (CURE Soft): a bedside software for real-time respiratory mechanics monitoring and mechanical ventilation management",
+            "authors": "A Szlavecz, YS Chiew, D Redmond, A Beatson, D Glassenbury, S Corbett, ...",
+            "venue": "Biomedical engineering online 13 (1), 140, 2014",
+            "year": "2014",
+            "citations": 94
+        },
+        {
+            "title": "Biomedical engineer’s guide to the clinical aspects of intensive care mechanical ventilation",
+            "authors": "VJ Major, YS Chiew, GM Shaw, JG Chase",
+            "venue": "Biomedical engineering online 17 (1), 169, 2018",
+            "year": "2018",
+            "citations": 86
+        },
+        {
+            "title": "Model-based optimal PEEP in mechanically ventilated ARDS patients in the Intensive Care Unit",
+            "authors": "A Sundaresan, JG Chase, GM Shaw, YS Chiew, T Desaive",
+            "venue": "Biomedical engineering online 10 (1), 64, 2011",
+            "year": "2011",
+            "citations": 78
+        },
+        {
+            "title": "Structural identifiability and practical applicability of an alveolar recruitment model for ARDS patients",
+            "authors": "C Schranz, PD Docherty, YS Chiew, JG Chase, K Möller",
+            "venue": "IEEE Transactions on biomedical engineering 59 (12), 3396-3404, 2012",
+            "year": "2012",
+            "citations": 71
+        },
+        {
+            "title": "Expiratory model-based method to monitor ARDS disease state",
+            "authors": "EJ Van Drunen, YS Chiew, JG Chase, GM Shaw, B Lambermont, ...",
+            "venue": "Biomedical engineering online 12 (1), 57, 2013",
+            "year": "2013",
+            "citations": 70
+        },
+        {
+            "title": "Feasibility of titrating PEEP to minimum elastance for mechanically ventilated patients",
+            "authors": "YS Chiew, CG Pretty, GM Shaw, YW Chiew, B Lambermont, T Desaive, ...",
+            "venue": "Pilot and feasibility studies 1 (1), 9, 2015",
+            "year": "2015",
+            "citations": 66
+        },
+        {
+            "title": "Evaluation of model-based methods in estimating respiratory mechanics in the presence of variable patient effort",
+            "authors": "DP Redmond, YS Chiew, V Major, JG Chase",
+            "venue": "Computer methods and programs in biomedicine 171, 67-79, 2019",
+            "year": "2019",
+            "citations": 56
+        },
+        {
+            "title": "Visualisation of time-varying respiratory system elastance in experimental ARDS animal models",
+            "authors": "EJ Van Drunen, YS Chiew, C Pretty, GM Shaw, B Lambermont, ...",
+            "venue": "BMC pulmonary medicine 14 (1), 33, 2014",
+            "year": "2014",
+            "citations": 55
+        },
+        {
+            "title": "Assessing mechanical ventilation asynchrony through iterative airway pressure reconstruction",
+            "authors": "YS Chiew, CP Tan, JG Chase, YW Chiew, T Desaive, AM Ralib, MBM Nor",
+            "venue": "Computer methods and programs in biomedicine 157, 217-224, 2018",
+            "year": "2018",
+            "citations": 51
+        },
+        {
+            "title": "Assessing respiratory mechanics using pressure reconstruction method in mechanically ventilated spontaneous breathing patient",
+            "authors": "NS Damanhuri, YS Chiew, NA Othman, PD Docherty, CG Pretty, ...",
+            "venue": "Computer methods and programs in biomedicine 130, 175-185, 2016",
+            "year": "2016",
+            "citations": 48
+        },
+        {
+            "title": "Digital twins in critical care: what, when, how, where, why?",
+            "authors": "JG Chase, C Zhou, JL Knopp, GM Shaw, K Näswall, JHK Wong, ...",
+            "venue": "Ifac-Papersonline 54 (15), 310-315, 2021",
+            "year": "2021",
+            "citations": 46
+        },
+        {
+            "title": "Robust fault reconstruction for a class of non-infinitely observable descriptor systems using two sliding mode observers in cascade",
+            "authors": "JCL Chan, CP Tan, H Trinh, MAS Kamal, YS Chiew",
+            "venue": "Applied Mathematics and Computation 350, 78-92, 2019",
+            "year": "2019",
+            "citations": 46
+        },
+        {
+            "title": "A machine learning model for real-time asynchronous breathing monitoring",
+            "authors": "NL Loo, YS Chiew, CP Tan, G Arunachalam, AM Ralib, MB Mat-Nor",
+            "venue": "Ifac-Papersonline 51 (27), 378-383, 2018",
+            "year": "2018",
+            "citations": 46
+        },
+        {
+            "title": "Respiratory mechanics assessment for reverse-triggered breathing cycles using pressure reconstruction",
+            "authors": "V Major, S Corbett, D Redmond, A Beatson, D Glassenbury, YS Chiew, ...",
+            "venue": "Biomedical Signal Processing and Control 23, 1-9, 2016",
+            "year": "2016",
+            "citations": 45
+        },
+        {
+            "title": "Iterative integral parameter identification of a respiratory mechanics model",
+            "authors": "C Schranz, PD Docherty, YS Chiew, K Möller, JG Chase",
+            "venue": "Biomedical engineering online 11 (1), 38, 2012",
+            "year": "2012",
+            "citations": 44
+        },
+        {
+            "title": "Analysing the effects of cold, normal, and warm digits on transmittance pulse oximetry",
+            "authors": "M Khan, CG Pretty, AC Amies, R Elliott, YS Chiew, GM Shaw, JG Chase",
+            "venue": "Biomedical Signal Processing and Control 26, 34-41, 2016",
+            "year": "2016",
+            "citations": 41
+        },
+        {
+            "title": "Model-based PEEP titration versus standard practice in mechanical ventilation: a randomised controlled trial",
+            "authors": "KT Kim, S Morton, S Howe, YS Chiew, JL Knopp, P Docherty, C Pretty, ...",
+            "venue": "Trials 21 (1), 130, 2020",
+            "year": "2020",
+            "citations": 40
+        },
+        {
+            "title": "Estimating the true respiratory mechanics during asynchronous pressure controlled ventilation",
+            "authors": "DO Kannangara, F Newberry, S Howe, V Major, D Redmond, A Szlavecs, ...",
+            "venue": "Biomedical Signal Processing and Control 30, 70-78, 2016",
+            "year": "2016",
+            "citations": 40
+        },
+        {
+            "title": "NAVA enhances tidal volume and diaphragmatic electro-myographic activity matching: a Range90 analysis of supply and demand",
+            "authors": "KT Moorhead, L Piquilloud, B Lambermont, J Roeseler, YS Chiew, ...",
+            "venue": "Journal of Clinical Monitoring and Computing 27 (1), 61-70, 2013",
+            "year": "2013",
+            "citations": 39
+        },
+        {
+            "title": "Network data acquisition and monitoring system for intensive care mechanical ventilation treatment",
+            "authors": "QA Ng, YS Chiew, X Wang, CP Tan, MBM Nor, NS Damanhuri, JG Chase",
+            "venue": "Ieee Access 9, 91859-91873, 2021",
+            "year": "2021",
+            "citations": 37
+        },
+        {
+            "title": "Use of basis functions within a non-linear autoregressive model of pulmonary mechanics",
+            "authors": "R Langdon, PD Docherty, YS Chiew, K Moeller, JG Chase",
+            "venue": "Biomedical Signal Processing and Control 27, 44-50, 2016",
+            "year": "2016",
+            "citations": 36
+        },
+        {
+            "title": "Clinical application of respiratory elastance (CARE trial) for mechanically ventilated respiratory failure patients: a model-based study",
+            "authors": "YS Chiew, JG Chase, G Arunachalam, CP Tan, NL Loo, YW Chiew, ...",
+            "venue": "Ifac-Papersonline 51 (27), 209-214, 2018",
+            "year": "2018",
+            "citations": 33
+        },
+        {
+            "title": "Clinical Utilisation of Respiratory Elastance (CURE): Pilot trials for the optimisation of mechanical ventilation settings for the critically Ill",
+            "authors": "SM Davidson, DP Redmond, H Laing, R White, F Radzi, YS Chiew, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 8403-8408, 2014",
+            "year": "2014",
+            "citations": 33
+        },
+        {
+            "title": "Continuous stroke volume estimation from aortic pressure using zero dimensional cardiovascular model: proof of concept study from porcine experiments",
+            "authors": "S Kamoi, C Pretty, P Docherty, D Squire, J Revie, YS Chiew, T Desaive, ...",
+            "venue": "PloS one 9 (7), e102476, 2014",
+            "year": "2014",
+            "citations": 32
+        },
+        {
+            "title": "When the value of gold is zero",
+            "authors": "JG Chase, K Moeller, GM Shaw, C Schranz, YS Chiew, T Desaive",
+            "venue": "BMC research notes 7 (1), 404, 2014",
+            "year": "2014",
+            "citations": 32
+        },
+        {
+            "title": "Evaluation of air quality in Sunway City, Selangor, Malaysia from a mobile monitoring campaign using air pollution micro-sensors",
+            "authors": "CC Lee, MV Tran, CW Choo, CP Tan, YS Chiew",
+            "venue": "Environmental Pollution 265, 115058, 2020",
+            "year": "2020",
+            "citations": 31
+        },
+        {
+            "title": "A machine learning approach to assess magnitude of asynchrony breathing",
+            "authors": "NL Loo, YS Chiew, CP Tan, MB Mat-Nor, AM Ralib",
+            "venue": "Biomedical signal processing and control 66, 102505, 2021",
+            "year": "2021",
+            "citations": 30
+        },
+        {
+            "title": "Extrapolation of a non-linear autoregressive model of pulmonary mechanics",
+            "authors": "R Langdon, PD Docherty, YS Chiew, JG Chase",
+            "venue": "Mathematical biosciences 284, 32-39, 2017",
+            "year": "2017",
+            "citations": 30
+        },
+        {
+            "title": "Stochastic modelling of respiratory system elastance for mechanically ventilated respiratory failure patients",
+            "authors": "JWW Lee, YS Chiew, X Wang, CP Tan, MB Mat Nor, NS Damanhuri, ...",
+            "venue": "Annals of Biomedical Engineering 49 (12), 3280-3295, 2021",
+            "year": "2021",
+            "citations": 29
+        },
+        {
+            "title": "Reformulation of the pressure-dependent recruitment model (PRM) of respiratory mechanics",
+            "authors": "PD Docherty, C Schranz, YS Chiew, K Möller, JG Chase",
+            "venue": "Biomedical Signal Processing and Control 12, 47-53, 2014",
+            "year": "2014",
+            "citations": 29
+        },
+        {
+            "title": "A numerical study to investigate the effects of tumour position on the treatment of bladder cancer in mice using gold nanorods assisted photothermal ablation",
+            "authors": "JKK Cheong, V Popov, E Alchera, I Locatelli, M Alfano, L Menichetti, ...",
+            "venue": "Computers in Biology and Medicine 138, 104881, 2021",
+            "year": "2021",
+            "citations": 27
+        },
+        {
+            "title": "Digital twins and automation of care in the intensive care unit",
+            "authors": "J Geoffrey Chase, C Zhou, JL Knopp, K Moeller, B Benyo, T Desaive, ...",
+            "venue": "Cyber–Physical–Human Systems: Fundamentals and Applications, 457-489, 2023",
+            "year": "2023",
+            "citations": 24
+        },
+        {
+            "title": "Physiological relevance and performance of a minimal lung model–an experimental study in healthy and acute respiratory distress syndrome model piglets",
+            "authors": "YS Chiew, JG Chase, B Lambermont, N Janssen, C Schranz, K Moeller, ...",
+            "venue": "BMC pulmonary medicine 12 (1), 59, 2012",
+            "year": "2012",
+            "citations": 24
+        },
+        {
+            "title": "Reconstructing asynchrony for mechanical ventilation using a hysteresis loop virtual patient model",
+            "authors": "C Zhou, JG Chase, Q Sun, J Knopp, MH Tawhai, T Desaive, K Möller, ...",
+            "venue": "Biomedical engineering online 21 (1), 16, 2022",
+            "year": "2022",
+            "citations": 23
+        },
+        {
+            "title": "Safe doubling of ventilator capacity: a last resort proposal for last resorts",
+            "authors": "JG Chase, YS Chiew, B Lambermont, P Morimont, GM Shaw, T Desaive",
+            "venue": "Critical Care 24 (1), 222, 2020",
+            "year": "2020",
+            "citations": 23
+        },
+        {
+            "title": "Patient asynchrony modelling during controlled mechanical ventilation therapy",
+            "authors": "GR Arunachalam, YS Chiew, CP Tan, AM Ralib, MBM Nor",
+            "venue": "Computer methods and programs in biomedicine 183, 105103, 2020",
+            "year": "2020",
+            "citations": 23
+        },
+        {
+            "title": "Gold nanorods assisted photothermal therapy of bladder cancer in mice: a computational study on the effects of gold nanorods distribution at the centre, periphery, and surface …",
+            "authors": "JKK Cheong, EH Ooi, YS Chiew, L Menichetti, P Armanetti, MC Franchini, ...",
+            "venue": "Computer Methods and Programs in Biomedicine 230, 107363, 2023",
+            "year": "2023",
+            "citations": 22
+        },
+        {
+            "title": "Clinical Activity Monitoring System (CATS): an automatic system to quantify bedside clinical activities in the intensive care unit",
+            "authors": "P Guo, YS Chiew, GM Shaw, L Shao, R Green, A Clark, JG Chase",
+            "venue": "Intensive and Critical Care Nursing 37, 52-61, 2016",
+            "year": "2016",
+            "citations": 22
+        },
+        {
+            "title": "Iterative interpolative pressure reconstruction for improved respiratory mechanics estimation during asynchronous volume controlled ventilation",
+            "authors": "F Newberry, O Kannangara, S Howe, V Major, D Redmond, A Szlavecz, ...",
+            "venue": "International conference for innovation in biomedical engineering and life …, 2015",
+            "year": "2015",
+            "citations": 18
+        },
+        {
+            "title": "Quantification of respiratory effort magnitude in spontaneous breathing patients using Convolutional Autoencoders",
+            "authors": "CYS Ang, YS Chiew, LH Vu, ME Cove",
+            "venue": "Computer Methods and Programs in Biomedicine 215, 106601, 2022",
+            "year": "2022",
+            "citations": 17
+        },
+        {
+            "title": "A polynomial model of patient-specific breathing effort during controlled mechanical ventilation",
+            "authors": "DP Redmond, PD Docherty, YS Chiew, JG Chase",
+            "venue": "2015 37th Annual International Conference of the IEEE Engineering in …, 2015",
+            "year": "2015",
+            "citations": 17
+        },
+        {
+            "title": "Model-based respiratory mechanics to titrate PEEP and monitor disease state for experimental ARDS subjects",
+            "authors": "EJ Van Drunen, YS Chiew, JG Chase, B Lambermont, N Janssen, ...",
+            "venue": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013",
+            "year": "2013",
+            "citations": 17
+        },
+        {
+            "title": "Kinematic modeling of driving simulator motion platform",
+            "authors": "YS Chiew, MKA Jalil, M Hussein",
+            "venue": "2008 IEEE Conference on Innovative Technologies in Intelligent Systems and …, 2008",
+            "year": "2008",
+            "citations": 17
+        },
+        {
+            "title": "Classification patient-ventilator asynchrony with dual-input convolutional neural network",
+            "authors": "TC Chong, NL Loo, YS Chiew, MB Mat-Nor, AM Ralib",
+            "venue": "Ifac-Papersonline 54 (15), 322-327, 2021",
+            "year": "2021",
+            "citations": 16
+        },
+        {
+            "title": "Automated logging of inspiratory and expiratory non-synchronized breathing (ALIEN) for mechanical ventilation",
+            "authors": "YS Chiew, CG Pretty, A Beatson, D Glassenbury, V Major, S Corbett, ...",
+            "venue": "2015 37th Annual International Conference of the IEEE Engineering in …, 2015",
+            "year": "2015",
+            "citations": 16
+        },
+        {
+            "title": "A Patient‐Specific Airway Branching Model for Mechanically Ventilated Patients",
+            "authors": "NS Damanhuri, PD Docherty, YS Chiew, EJ Van Drunen, T Desaive, ...",
+            "venue": "Computational and mathematical methods in medicine 2014 (1), 645732, 2014",
+            "year": "2014",
+            "citations": 16
+        },
+        {
+            "title": "Effects of Neurally Adjusted Ventilatory Assist (NAVA) levels in non-invasive ventilated patients: titrating NAVA levels with electric diaphragmatic activity and tidal volume …",
+            "authors": "YS Chiew, JG Chase, B Lambermont, J Roeseler, C Pretty, E Bialais, ...",
+            "venue": "Biomedical engineering online 12 (1), 61, 2013",
+            "year": "2013",
+            "citations": 16
+        },
+        {
+            "title": "CAREDAQ: Data acquisition device for mechanical ventilation waveform monitoring",
+            "authors": "QA Ng, CYS Ang, YS Chiew, X Wang, CP Tan, MBM Nor, NS Damanhuri, ...",
+            "venue": "HardwareX 12, e00358, 2022",
+            "year": "2022",
+            "citations": 15
+        },
+        {
+            "title": "Performance of variations of the dynamic elastance model in lung mechanics",
+            "authors": "B Laufer, PD Docherty, A Knörzer, YS Chiew, R Langdon, K Möller, ...",
+            "venue": "Control Engineering Practice 58, 262-267, 2017",
+            "year": "2017",
+            "citations": 14
+        },
+        {
+            "title": "Relationship between stroke volume and pulse wave velocity",
+            "authors": "S Kamoi, C Pretty, YS Chiew, S Davidson, A Pironet, T Desaive, GM Shaw, ...",
+            "venue": "IFAC-PapersOnLine 48 (20), 285-290, 2015",
+            "year": "2015",
+            "citations": 14
+        },
+        {
+            "title": "Analysis of different model-based approaches for estimating dFRC for real-time application",
+            "authors": "EJ van Drunen, JG Chase, YS Chiew, GM Shaw, T Desaive",
+            "venue": "Biomedical engineering online 12 (1), 9, 2013",
+            "year": "2013",
+            "citations": 14
+        },
+        {
+            "title": "Virtual patient framework for the testing of mechanical ventilation airway pressure and flow settings protocol",
+            "authors": "CYS Ang, JWW Lee, YS Chiew, X Wang, CP Tan, ME Cove, MBM Nor, ...",
+            "venue": "Computer Methods and Programs in Biomedicine 226, 107146, 2022",
+            "year": "2022",
+            "citations": 13
+        },
+        {
+            "title": "Differences in respiratory mechanics estimation with respect to manoeuvres and mathematical models",
+            "authors": "J Kretschmer, C Bibiano, B Laufer, PD Docherty, YS Chiew, D Redmond, ...",
+            "venue": "Biomedical Physics & Engineering Express 3 (1), 014002, 2017",
+            "year": "2017",
+            "citations": 13
+        },
+        {
+            "title": "Pressure reconstruction by eliminating the demand effect of spontaneous respiration (PREDATOR) method for assessing respiratory mechanics of reverse-triggered breathing cycles",
+            "authors": "DP Redmond, V Major, S Corbett, D Glassenbury, A Beatson, A Szlávecz, ...",
+            "venue": "2014 IEEE Conference on Biomedical Engineering and Sciences (IECBES), 332-337, 2014",
+            "year": "2014",
+            "citations": 13
+        },
+        {
+            "title": "Utility of a novel error-stepping method to improve gradient-based parameter identification by increasing the smoothness of the local objective surface: A case-study of …",
+            "authors": "PD Docherty, C Schranz, JG Chase, YS Chiew, K Möller",
+            "venue": "Computer methods and programs in biomedicine 114 (3), e70-e78, 2014",
+            "year": "2014",
+            "citations": 13
+        },
+        {
+            "title": "Motion cues visualisation of a motion base for driving simulator",
+            "authors": "YS Chiew, MKA Jalil, M Hussein",
+            "venue": "2008 IEEE International Conference on Robotics and Biomimetics, 1497-1502, 2009",
+            "year": "2009",
+            "citations": 13
+        },
+        {
+            "title": "Predicting mechanically ventilated patients future respiratory system elastance–A stochastic modelling approach",
+            "authors": "CYS Ang, YS Chiew, X Wang, MBM Nor, ME Cove, JG Chase",
+            "venue": "Computers in Biology and Medicine 151, 106275, 2022",
+            "year": "2022",
+            "citations": 12
+        },
+        {
+            "title": "Protocol conception for safe selection of mechanical ventilation settings for respiratory failure Patients",
+            "authors": "JWW Lee, YS Chiew, X Wang, CP Tan, MBM Nor, ME Cove, ...",
+            "venue": "Computer Methods and Programs in Biomedicine 214, 106577, 2022",
+            "year": "2022",
+            "citations": 12
+        },
+        {
+            "title": "In-parallel ventilator sharing during an acute shortage: too much risk for a wider uptake",
+            "authors": "JG Chase, YS Chiew, B Lambermont, P Morimont, GM Shaw, T Desaive",
+            "venue": "American Journal of Respiratory and Critical Care Medicine 202 (9), 1316-1317, 2020",
+            "year": "2020",
+            "citations": 12
+        },
+        {
+            "title": "Real-time breath-to-breath asynchrony event detection using time-varying respiratory elastance model",
+            "authors": "SF Poole, YS Chiew, DP Redmond, SM Davidson, NS Damanhuri, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 5629-5634, 2014",
+            "year": "2014",
+            "citations": 12
+        },
+        {
+            "title": "A method for 3D reconstruction of net undulation for fluid structure interaction of fractal induced turbulence",
+            "authors": "MJS Goh, YS Chiew, JJ Foo",
+            "venue": "IEEE Sensors Journal 20 (20), 12013-12023, 2020",
+            "year": "2020",
+            "citations": 11
+        },
+        {
+            "title": "Quantifying patient effort in spontaneously breathing patient using negative component of dynamic Elastance",
+            "authors": "KT Kim, DP Redmond, SE Morton, SL Howe, YS Chiew, JG Chase",
+            "venue": "IFAC-PapersOnLine 50 (1), 5486-5491, 2017",
+            "year": "2017",
+            "citations": 11
+        },
+        {
+            "title": "A variable resistance respiratory mechanics model",
+            "authors": "DP Redmond, KT Kim, SE Morton, SL Howe, YS Chiew, JG Chase",
+            "venue": "IFAC-PapersOnLine 50 (1), 6660-6665, 2017",
+            "year": "2017",
+            "citations": 11
+        },
+        {
+            "title": "Effective sample size estimation for a mechanical ventilation trial through Monte-Carlo simulation: length of mechanical ventilation and ventilator free days",
+            "authors": "SE Morton, YS Chiew, C Pretty, E Moltchanova, C Scarrott, D Redmond, ...",
+            "venue": "Mathematical Biosciences 284, 21-31, 2017",
+            "year": "2017",
+            "citations": 11
+        },
+        {
+            "title": "Model-based mechanical ventilation for the critically ill",
+            "authors": "YS Chiew",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": 11
+        },
+        {
+            "title": "Motion visualisation and control of a driving simulator motion platform",
+            "authors": "CY Shiong, MKA Jalil, M Hussein",
+            "venue": "2009 6th International Symposium on Mechatronics and its Applications, 1-5, 2009",
+            "year": "2009",
+            "citations": 11
+        },
+        {
+            "title": "A minimal algorithm for a minimal recruitment model–model estimation of alveoli opening pressure of an acute respiratory distress syndrome (ARDS) lung",
+            "authors": "D Redmond, YS Chiew, E Van Drunen, GM Shaw, JG Chase",
+            "venue": "Biomedical Signal Processing and Control 14, 1-8, 2014",
+            "year": "2014",
+            "citations": 10
+        },
+        {
+            "title": "Time-varying respiratory elastance for spontaneously breathing patients",
+            "authors": "YS Chiew, SF Poole, DP Redmond, EJ Van Drunen, NS Damanhuri, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 5659-5664, 2014",
+            "year": "2014",
+            "citations": 10
+        },
+        {
+            "title": "A comparison between Fourier and Hadamard single-pixel imaging in deep learning-enhanced image reconstruction",
+            "authors": "JY Lim, MR Roslan, JY Lim, VM Baskaran, YS Chiew, RCW Phan, ...",
+            "venue": "IEEE Sensors Letters 7 (9), 1-4, 2023",
+            "year": "2023",
+            "citations": 9
+        },
+        {
+            "title": "Virtual Mechanical Ventilation Protocol–A Model-based Method To determine MV Settings",
+            "authors": "GR Arunachalam, YS Chiew, CP Tan, AM Ralib, MBM Nor",
+            "venue": "IFAC-PapersOnLine 53 (2), 16119-16124, 2021",
+            "year": "2021",
+            "citations": 9
+        },
+        {
+            "title": "Breath-to-breath respiratory mechanics variation: how much variation should we expect?",
+            "authors": "KT Kim, YS Chiew, C Pretty, GM Shaw, T Desaive, JG Chase",
+            "venue": "Critical Care 19 (Suppl 1), P260, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Assessing respiratory mechanics of reverse-triggered breathing cycles-case study of two mechanically ventilated patients",
+            "authors": "V Major, C Simon, D Redmond, A Beatson, D Glassenbury, YS Chiew, ...",
+            "venue": "IFAC-PapersOnLine 48 (20), 505-510, 2015",
+            "year": "2015",
+            "citations": 9
+        },
+        {
+            "title": "Respiratory airway resistance monitoring in mechanically ventilated patients",
+            "authors": "NS Damanhuri, YS Chiew, P Docherty, P Geoghegan, G Chase",
+            "venue": "2012 IEEE-EMBS Conference on Biomedical Engineering and Sciences, 311-315, 2012",
+            "year": "2012",
+            "citations": 9
+        },
+        {
+            "title": "A computational framework for the multiphysics simulation of microbubble-mediated sonothrombolysis using a forward-viewing intravascular transducer",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ Foo, EYK Ng, ET Ooi",
+            "venue": "Ultrasonics 131, 106961, 2023",
+            "year": "2023",
+            "citations": 8
+        },
+        {
+            "title": "Model-based approaches in biomedical engineering",
+            "authors": "EH Ooi, YS Chiew",
+            "venue": "IOP Publishing, 2023",
+            "year": "2023",
+            "citations": 8
+        },
+        {
+            "title": "Remaining useful life estimation for high speed industrial robots using an unknown input observer for feature extraction",
+            "authors": "YPS Kumaran, CP Tan, YS Chiew, WS Chua",
+            "venue": "IEEE Transactions on Reliability 72 (3), 1018-1028, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Stochastic integrated model-based protocol for volume-controlled ventilation setting",
+            "authors": "JWW Lee, YS Chiew, X Wang, MB Mat Nor, JG Chase, T Desaive",
+            "venue": "BioMedical Engineering OnLine 21 (1), 13, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Assessing the asynchrony event based on the ventilation mode for mechanically ventilated patients in ICU",
+            "authors": "NSM Sauki, NS Damanhuri, NA Othman, BCC Meng, YS Chiew, MBM Nor",
+            "venue": "Bioengineering 8 (12), 222, 2021",
+            "year": "2021",
+            "citations": 8
+        },
+        {
+            "title": "Implementation of a non-linear autoregressive model with modified Gauss-Newton parameter identification to determine pulmonary mechanics of respiratory patients that are …",
+            "authors": "R Langdon, PD Docherty, YS Chiew, NS Damanhuri, JG Chase",
+            "venue": "IFAC-PapersOnLine 48 (20), 354-359, 2015",
+            "year": "2015",
+            "citations": 8
+        },
+        {
+            "title": "Visualisation of time-variant respiratory system elastance in ARDS models",
+            "authors": "EJ Drunen, YS Chiew, Z Zhao, B Lambermont, N Janssen, C Pretty, ...",
+            "venue": "Biomedical Engineering/Biomedizinische Technik 58 (SI-1-Track-N …, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "A time-continuous model of respiratory mechanics of ARDS patients",
+            "authors": "C Schranz, PD Docherty, YS Chiew, JG Chase, K Möller",
+            "venue": "World Congress on Medical Physics and Biomedical Engineering May 26-31, 2012 …, 2013",
+            "year": "2013",
+            "citations": 8
+        },
+        {
+            "title": "Patient-ventilator asynchrony classification in mechanically ventilated patients: Model-based or machine learning method?",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, ME Cove, Y Chen, C Zhou, ...",
+            "venue": "Computer Methods and Programs in Biomedicine 255, 108323, 2024",
+            "year": "2024",
+            "citations": 7
+        },
+        {
+            "title": "Mechanical Ventilation Monitoring: Development of a Network Data Acquisition System",
+            "authors": "QA Ng, NL Loo, YS Chiew, CP Tan, AM Ralib, MBM Nor",
+            "venue": "IFAC-PapersOnLine 53 (2), 15916-15921, 2021",
+            "year": "2021",
+            "citations": 7
+        },
+        {
+            "title": "Negative lung elastance in mechanically ventilated spontaneously breathing patient",
+            "authors": "NS Damanhuri, YS Chiew, PD Docherty, NA Othman, GM Shaw, ...",
+            "venue": "IFAC-PapersOnLine 50 (1), 15179-15184, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "An extension to the first order model of pulmonary mechanics to capture a pressure dependent elastance in the human lung",
+            "authors": "A Knörzer, PD Docherty, YS Chiew, JG Chase, K Möller",
+            "venue": "IFAC Proceedings Volumes 47 (3), 1176-1181, 2014",
+            "year": "2014",
+            "citations": 7
+        },
+        {
+            "title": "Identifiability analysis of a pressure-depending alveolar recruitment model",
+            "authors": "C Schranz, PD Docherty, YS Chiew, K Möller, JG Chase",
+            "venue": "IFAC Proceedings Volumes 45 (18), 137-142, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "Respiratory system elastance monitoring during PEEP titration",
+            "authors": "YS Chiew, JG Chase, GM Shaw, T Desaive",
+            "venue": "Critical Care 16 (Suppl 1), P103, 2012",
+            "year": "2012",
+            "citations": 7
+        },
+        {
+            "title": "Model-based analysis of respiratory mechanics and parameters in critically ill mechanically ventilated patients",
+            "authors": "CYS Ang, YS Chiew, X Wang, MBM Nor",
+            "venue": "2022 Ieee-Embs Conference On Biomedical Engineering And Sciences (Iecbes …, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Estimating the incidence of spontaneous breathing effort of mechanically ventilated patients using a non-linear auto regressive (NARX) model",
+            "authors": "NM Zainol, NS Damanhuri, NA Othman, YS Chiew, MBM Nor, ...",
+            "venue": "Computer Methods and Programs in Biomedicine 220, 106835, 2022",
+            "year": "2022",
+            "citations": 6
+        },
+        {
+            "title": "Outlier percentage estimation for shape‐and parameter‐independent outlier detection",
+            "authors": "MJS Goh, YS Chiew, JJ Foo",
+            "venue": "IET Image Processing 14 (14), 3414-3421, 2020",
+            "year": "2020",
+            "citations": 6
+        },
+        {
+            "title": "Pressure reconstruction method for spontaneous breathing effort monitoring",
+            "authors": "N Damanhuri, YS Chiew, NA Othman, PD Docherty, GM Shaw, JG Chase",
+            "venue": "Critical Care 19 (Suppl 1), P259, 2015",
+            "year": "2015",
+            "citations": 6
+        },
+        {
+            "title": "Accuracy of stroke volume estimation via reservoir pressure concept and three element Windkessel model",
+            "authors": "S Kamoi, D Squire, J Revie, C Pretty, P Docherty, YS Chiew, T Desaive, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 5647-5652, 2014",
+            "year": "2014",
+            "citations": 6
+        },
+        {
+            "title": "Traversing the Fuzzy Valley: problems caused by reliance on default simulation and parameter identification programs for discontinuous models",
+            "authors": "PD Docherty, C Schranz, G Chase, YS Chiew, K Möller",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": 6
+        },
+        {
+            "title": "Stochasticity of the respiratory mechanics during mechanical ventilation treatment",
+            "authors": "CYS Ang, YS Chiew, X Wang, MBM Nor, JG Chase",
+            "venue": "Results in Engineering 19, 101257, 2023",
+            "year": "2023",
+            "citations": 5
+        },
+        {
+            "title": "Model-based patient matching for in-parallel multiplexing mechanical ventilation support",
+            "authors": "JW Wong, YS Chiew, T Desaive, JG Chase",
+            "venue": "Ifac-papersonline 54 (15), 121-126, 2021",
+            "year": "2021",
+            "citations": 5
+        },
+        {
+            "title": "The effect of respiratory manoeuvres for patient-specific respiratory mechanics monitoring",
+            "authors": "DP Redmond, YS Chiew, JG Chase",
+            "venue": "IFAC-PapersOnLine 48 (20), 135-140, 2015",
+            "year": "2015",
+            "citations": 5
+        },
+        {
+            "title": "Enhancing single-pixel imaging reconstruction using hybrid transformer network with adaptive feature refinement",
+            "authors": "JY Lim, YS Chiew, RCW Phan, EKP Chong, X Wang",
+            "venue": "Optics Express 32 (18), 32370-32386, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Modelling the dynamics of microbubble undergoing stable and inertial cavitation: Delineating the effects of ultrasound and microbubble parameters on sonothrombolysis",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ Foo, YK Ng, ET Ooi",
+            "venue": "Biocybernetics and Biomedical Engineering 44 (2), 358-368, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Ubiquity of models describing inspiratory effort dynamics in patients on pressure support ventilation",
+            "authors": "JL Knopp, YS Chiew, D Georgopoulos, GM Shaw, JG Chase",
+            "venue": "IFAC Journal of Systems and Control 27, 100250, 2024",
+            "year": "2024",
+            "citations": 4
+        },
+        {
+            "title": "Fractal-induced 2D flexible net undulation",
+            "authors": "MJS Goh, YS Chiew, JJ Foo",
+            "venue": "Scientific Reports 11 (1), 7063, 2021",
+            "year": "2021",
+            "citations": 4
+        },
+        {
+            "title": "Assessing SB effort via a non-invasive model-based method in mechanically ventilated patients in malaysian ICU hospital",
+            "authors": "NS Damanhuri, NNN Ariffin, NA Othman, YS Chiew, AM Ralib, MBM Noor, ...",
+            "venue": "Indonesian Journal of Electrical Engineering and Computer Science 15 (3 …, 2019",
+            "year": "2019",
+            "citations": 4
+        },
+        {
+            "title": "Identifiability of Patient Effort Respiratory Mechanics Model",
+            "authors": "JZ Chee, YS Chiew, CP Tan, G Arunachalam",
+            "venue": "2018 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), 48-53, 2019",
+            "year": "2019",
+            "citations": 4
+        },
+        {
+            "title": "Lung Mechanics in Premature infants: Modelling and clinical validation",
+            "authors": "KT Kim, S Howe, YS Chiew, J Knopp, JG Chase",
+            "venue": "IFAC-PapersOnLine 51 (27), 225-230, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "Modelling Expiration Using Viscoelastic Pressure Dependant Recruitment Models? Is It The Same As Inspiration?",
+            "authors": "D Redmond, J Kretschmer, YS Chiew, CG Pretty, K Möller, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Reducing the length of mechanical ventilation with significance: a case study of sample size estimation trial design using Monte-Carlo simulation",
+            "authors": "YS Chiew, C Pretty, E Moltchanova, C Scarrott, D Redmond, GM Shaw, ...",
+            "venue": "IFAC-PapersOnLine 48 (20), 273-278, 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Exploring variable observational time windows for patient–ventilator asynchrony during mechanical ventilation treatment",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, MBM Nor, ME Cove, JG Chase",
+            "venue": "IFAC Journal of Systems and Control 29, 100266, 2024",
+            "year": "2024",
+            "citations": 3
+        },
+        {
+            "title": "Automatic detection of asynchrony levels of mechanically ventilated patients",
+            "authors": "NS Damanhuri, IKNA Bakar, NSAM Sauki, NA Othman, YS Chiew, ...",
+            "venue": "2023 19th IEEE International Colloquium on Signal Processing & Its …, 2023",
+            "year": "2023",
+            "citations": 3
+        },
+        {
+            "title": "Estimation of asynchrony events with negative elastance in spontaneously breathing mechanically ventilated patients in ICU",
+            "authors": "NSM Sauki, NS Damanhuri, NA Othman, YS Chiew, BCC Meng, MBM Nor, ...",
+            "venue": "2022 8th International Conference on Control, Decision and Information …, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "Generative adversarial network in reconstructing asynchronous breathing cycle",
+            "authors": "NL Loo, YS Chiew, CP Tan, G Arunachalam, AM Ralib, MB Mat-Nor",
+            "venue": "International Conference for Innovation in Biomedical Engineering and Life …, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "Development of Electrical Impedance Tomography for Breast Phantom Monitoring",
+            "authors": "V Mothi, YS Chiew, CP Tan",
+            "venue": "2018 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES …, 2019",
+            "year": "2019",
+            "citations": 3
+        },
+        {
+            "title": "Model iterative airway pressure reconstruction during mechanical ventilation asynchrony: Shapes and sizes of reconstruction",
+            "authors": "CP Tan, YS Chiew, J Geoffrey Chase, YW Chiew, C Pretty, T Desaive, ...",
+            "venue": "International Conference for Innovation in Biomedical Engineering and Life …, 2017",
+            "year": "2017",
+            "citations": 3
+        },
+        {
+            "title": "Effects of different models and different respiratory manoeuvres in respiratory mechanics estimation",
+            "authors": "C Bibiano, YS Chiew, D Redmond, J Kretschmer, PD Docherty, JG Chase, ...",
+            "venue": "XIV Mediterranean Conference on Medical and Biological Engineering and …, 2016",
+            "year": "2016",
+            "citations": 3
+        },
+        {
+            "title": "Validation of clinical activity tracking system in Intensive Care Unit to assess nurse workload distribution",
+            "authors": "P Guo, YS Chiew, G Shaw, G Chase",
+            "venue": "2015 37th Annual International Conference of the IEEE Engineering in …, 2015",
+            "year": "2015",
+            "citations": 3
+        },
+        {
+            "title": "Performance of lung recruitment model in healthy anesthetised pigs",
+            "authors": "YS Chiew, B Lambermont, N Janssen, G Shaw, C Schranz, AN Mishra, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": 3
+        },
+        {
+            "title": "Effect of various Neurally Adjusted Ventilatory Assist (NAVA) gains on the relationship between diaphragmatic activity (Eadi max) and tidal volume (Vt)",
+            "authors": "YS Chiew, L Piquilloud, T Desaive, B Lambermont, J Roeseler, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2011",
+            "year": "2011",
+            "citations": 3
+        },
+        {
+            "title": "Performance of proportional control in CVT Electro-Mechanical Clutch",
+            "authors": "YS Chiew, MZM Zain, KB Tawi, S Ariyono, B Supriyo, N WS",
+            "venue": "International Conference on Control, Instrumentation and Mechatronics …, 2007",
+            "year": "2007",
+            "citations": 3
+        },
+        {
+            "title": "Enhancing sonothrombolysis outcomes with dual-frequency ultrasound: insights from an in silico microbubble dynamics study",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ Foo, YK Ng, ET Ooi",
+            "venue": "Computers in Biology and Medicine 181, 109061, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Comparative virtual trials: pressure-controlled versus volume-controlled stochastic integrated model-based mechanical ventilation protocols",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, MBM Nor, C Zhou, JG Chase",
+            "venue": "IFAC-PapersOnLine 58 (24), 100-105, 2024",
+            "year": "2024",
+            "citations": 2
+        },
+        {
+            "title": "Virtual patient with temporal evolution for mechanical ventilation trial studies: A stochastic model approach",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, MBM Nor, ME Cove, JG Chase",
+            "venue": "Computer Methods and Programs in Biomedicine 240, 107728, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Positive end-expiratory pressure in acute respiratory distress syndrome; where have we been, where are we going?: PEEP setting in ARDS",
+            "authors": "SS Radhi, RC Freebairn, YS Chiew, JG Chase, ME Cove",
+            "venue": "Clinical Critical Care 31, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Classification type of asynchrony breathing image using 2-dimensional convolutional neural network",
+            "authors": "NSM Sauki, NS Damanhuri, NA Othman, YS Chiew, BCC Meng, MBM Nor, ...",
+            "venue": "2023 9th International Conference on Control, Decision and Information …, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Patient-ventilator interaction using autoencoder derived magnitude of asynchrony breathing",
+            "authors": "NL Loo, YS Chiew, CYS Ang, CP Tan, MBM Nor",
+            "venue": "IFAC-PapersOnLine 56 (2), 2067-2072, 2023",
+            "year": "2023",
+            "citations": 2
+        },
+        {
+            "title": "Effects of data structure in convolutional neural network for detection of asynchronous breathing in mechanical ventilation treatment",
+            "authors": "CYS Ang, NL Loo, YS Chiew, CP Tan, MBM Nor, JG Chase",
+            "venue": "2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES …, 2022",
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Model-based patient matching for in-parallel pressure-controlled ventilation",
+            "authors": "JW Wong, YS Chiew, T Desaive, JG Chase",
+            "venue": "BioMedical Engineering OnLine 21 (1), 11, 2022",
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Digital twins in critical care: What, when, how, where, why?",
+            "authors": "J Geoffrey Chase, C Zhou, JL Knopp, GM Shaw, K Näswall, JHK Wong, ...",
+            "venue": "IFAC-PapersOnLine 54 (15), 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Identification of asynchronous effect via pressure-volume loop reconstruction in mechanically ventilated breathing waveforms",
+            "authors": "C Zhou, JG Chase, Q Sun, J Knopp, MH Tawhai, T Desaive, K Möller, ...",
+            "venue": "IFAC-PapersOnLine 54 (15), 186-191, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Lung mechanics-airway resistance in the dynamic elastance model",
+            "authors": "B Laufer, J Kretschmer, PD Docherty, YS Chiew, K Möller",
+            "venue": "Health and Technology 7 (1), 61-70, 2017",
+            "year": "2017",
+            "citations": 2
+        },
+        {
+            "title": "The influence of airway resistance in the dynamic elastance model",
+            "authors": "B Laufer, J Kretschmer, PD Docherty, YS Chiew, K Möller",
+            "venue": "XIV Mediterranean Conference on Medical and Biological Engineering and …, 2016",
+            "year": "2016",
+            "citations": 2
+        },
+        {
+            "title": "A better way to determine sample size to detect changes in length of mechanical ventilation?",
+            "authors": "YS Chiew, C Pretty, D Redmond, GM Shaw, T Desaive, JG Chase",
+            "venue": "Critical Care 19 (Suppl 1), P227, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Identifying pressure dependent elastance in lung mechanics with reduced influence of unmodelled effects",
+            "authors": "B Laufer, PD Docherty, YS Chiew, K Möller, JG Chase",
+            "venue": "IFAC-PapersOnLine 48 (20), 401-406, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Interpolation within a recruitment manoeuvre using a non-linear autoregressive model of pulmonary mechanics",
+            "authors": "R Langdon, PD Docherty, YS Chiew, K Möller, JG Chase",
+            "venue": "IFAC-PapersOnLine 48 (20), 297-302, 2015",
+            "year": "2015",
+            "citations": 2
+        },
+        {
+            "title": "Novel visualisation approach for Intensive Care Unit Clinical Activity monitoring",
+            "authors": "P Guo, YS Chiew, L Shao, A Clark, GM Shaw, JG Chase",
+            "venue": "2014 9th IEEE Conference on Industrial Electronics and Applications, 83-88, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Relation of respiratory system elastance and expiratory time constant: Are they from the same lung?",
+            "authors": "NS Damanhuri, PD Docherty, YS Chiew, EJ Van Drunen, NA Othman, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 4784-4789, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Managing Patient-Specific Mechanical Ventilation: Clinical Utilisation of Respiratory Elastance (CURE)–Model and Software Development",
+            "authors": "DP Redmond, SM Davidson, HA Laing, RH White, F Radzi, YS Chiew, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 3875-3880, 2014",
+            "year": "2014",
+            "citations": 2
+        },
+        {
+            "title": "Physiological relevance of a minimal model in healthy pigs lung",
+            "authors": "YS Chiew, T Desaive, B Lambermont, N Janssen, GM Shaw, C Schranz, ...",
+            "venue": "IFAC Proceedings Volumes 45 (18), 444-449, 2012",
+            "year": "2012",
+            "citations": 2
+        },
+        {
+            "title": "Design of a six degree of freedom motion platform for vehicle driving simulator application",
+            "authors": "CY SHIONG",
+            "venue": "Universiti Teknologi Malaysia, 2009",
+            "year": "2009",
+            "citations": 2
+        },
+        {
+            "title": "Methods for estimating resting energy expenditure in intensive care patients: A comparative study of predictive equations with machine learning and deep learning approaches",
+            "authors": "CYS Ang, MBM Nor, NS Nordin, TZ Kyi, A Razali, YS Chiew",
+            "venue": "Computer Methods and Programs in Biomedicine 262, 108657, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "A Computational Study on the Use of Phase Shift to Improve Dual-frequency Sonothrombolysis Outcomes",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ Foo, YK Ng, ET Ooi",
+            "venue": "2024 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES …, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "CARETestLung: A mechanical test lung with Configurable airway Resistance, lung Elastance, and breathing efforts",
+            "authors": "WY Tay, CYS Ang, YS Chiew, JG Chase",
+            "venue": "HardwareX 19, e00579, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "A comparative study of deep learning models for image super-resolution",
+            "authors": "JY Lim, YS Chiew, RCW Phan, X Wang",
+            "venue": "Asia Conference on Electronic Technology (ACET 2024) 13211, 22-27, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Mechanical ventilation mode Classification: a dual-input convolutional neural network approach with class activation mapping",
+            "authors": "ZH Hor, CYS Ang, YS Chiew, MBM Nor, ME Cove, JG Chase",
+            "venue": "IFAC-PapersOnLine 58 (24), 502-507, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Virtual clinical trials for mechanically ventilated respiratory failure patients under volume-controlled ventilation–The Challenges of Volume-Control Protocols",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, MBM Nor, C Zhou, JG Chase",
+            "venue": "IFAC-PapersOnLine 58 (24), 94-99, 2024",
+            "year": "2024",
+            "citations": 1
+        },
+        {
+            "title": "Competing Effect of Jetting During Microbubble-Mediated Sonothrombolysis",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ Foo, EYK Ng, ET Ooi",
+            "venue": "Annual Congress of the Asia-Pacific Society for Artificial Organs, 11-18, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Development of a mechanical test lung for respiratory mechanics research",
+            "authors": "WY Tay, YS Chiew, CYS Ang",
+            "venue": "Annual Congress of the Asia-Pacific Society for Artificial Organs, 225-231, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "An Optimal Vehicle Counting Framework for Non-CCTV Placements",
+            "authors": "NC Hooi, ETC Pin, CY Shiong, LM Kuan",
+            "venue": "2022 Asia-Pacific Signal and Information Processing Association Annual …, 2022",
+            "year": "2022",
+            "citations": 1
+        },
+        {
+            "title": "Two Camera 3D Time Series Reconstruction of a Mesh Subjected to Differential Excitation",
+            "authors": "MJS Goh, YS Chiew, JJ Foo",
+            "venue": "IFAC-PapersOnLine 53 (2), 11464-11469, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Analysis of Insulin Sensitivity Stochastic Models Between STAR Original and Malaysian Cohorts",
+            "authors": "JWW Lee, YS Chiew, CP Tan, AA Razak, NNA Razak",
+            "venue": "IFAC-PapersOnLine 53 (2), 16143-16148, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Safe mechanical ventilation treatment settings for respiratory failure patients",
+            "authors": "JWW Lee, SSA Shah, X Wang, YS Chiew, MBM Nor, JG Chase",
+            "venue": "IFAC-PapersOnLine 54 (15), 115-120, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "What does a first order model tell us about PEEP wave maneuvers?",
+            "authors": "B Laufer, J Kretschmer, PD Docherty, YS Chiew, K Möller",
+            "venue": "Journal of Biomedical Science and Engineering 10 (5), 66-76, 2017",
+            "year": "2017",
+            "citations": 1
+        },
+        {
+            "title": "Erratum to:: 36th International Symposium on Intensive Care and Emergency Medicine",
+            "authors": "AA Raventós, RM Bateman, MD Sharpe, JE Jagger, CG Ellis, JS Violan, ...",
+            "venue": "Critical Care 20, 2016",
+            "year": "2016",
+            "citations": 1
+        },
+        {
+            "title": "Improved respiratory mechanical estimation during pressure controlled mechanical ventilation",
+            "authors": "O Kannangara, F Newberry, S Howe, V Major, D Redmond, A Szlavecz, ...",
+            "venue": "International Conference for Innovation in Biomedical Engineering and Life …, 2015",
+            "year": "2015",
+            "citations": 1
+        },
+        {
+            "title": "Stroke Volume estimation using aortic pressure measurements and aortic cross sectional area: Proof of concept",
+            "authors": "S Kamoi, CG Pretty, YS Chiew, A Pironet, S Davidson, T Desaive, ...",
+            "venue": "2015 37th Annual International Conference of the IEEE Engineering in …, 2015",
+            "year": "2015",
+            "citations": 1
+        },
+        {
+            "title": "mAGiC DRAGONS: A Protocol for Accurate Glycaemic Control in General Wards",
+            "authors": "F Thomas, H Tomlinson, A Waston, H Borowczyk, C Pretty, L Fisk, ...",
+            "venue": "IFAC Proceedings Volumes 47 (3), 10138-10143, 2014",
+            "year": "2014",
+            "citations": 1
+        },
+        {
+            "title": "Covariance analysis for practical identifiability of an alveolar recruitment model",
+            "authors": "C Schranz, K Moeller, PD Docherty, YS Chiew, JG Chase",
+            "venue": "Biomedical Engineering/Biomedizinische Technik 57 (SI-1-Track-O), 47-47, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Model-based approach to estimate Dfrc in the ICU using measured lung dynamics",
+            "authors": "AN Mishra, YS Chiew, GM Shaw, JG Chase",
+            "venue": "IFAC Proceedings Volumes 45 (18), 143-148, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Range90 as indicator for ventilator output versus patients demand: NAVA and pressure support for non-invasively ventilated patients",
+            "authors": "YS Chiew, L Piquilloud, B Lambermont, J Roeseler, JP Revelly, E Bialais, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "Effects of skin surface roughness on the passive and active thermographic detection of melanoma: A numerical analysis",
+            "authors": "HY Mok, EH Ooi, YS Chiew, N Pamidi, ET Ooi",
+            "venue": "International Journal of Heat and Mass Transfer 251, 127345, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Stochastic virtual patient-guided mechanical ventilation treatment: A virtual patient study with mechanical power consideration",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, MBM Nor, ME Cove, C Zhou, ...",
+            "venue": "IFAC Journal of Systems and Control, 100334, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Convolutional long short-term memory neural network integrated with classifier in classifying type of asynchrony breathing in mechanically ventilated patients",
+            "authors": "NSM Sauki, NS Damanhuri, NA Othman, YS Chiew, BCC Meng, MBM Nor",
+            "venue": "Computer Methods and Programs in Biomedicine 263, 108680, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Estimation of Inspiratory Muscle Effort in Healthy Subjects",
+            "authors": "G Arunachalam, CYS Ang, YS Chiew, JG Chase",
+            "venue": "2024 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), 1-6, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Enhanced Detection of Patient-Ventilator Asynchrony Using Multi-Input Convolutional Neural Networks",
+            "authors": "CYS Ang, YS Chiew, X Wang, EH Ooi, Y Chen, C Zhou, JG Chase",
+            "venue": "2024 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Competing Effect of Jetting During",
+            "authors": "ZQ Tan, EH Ooi, YS Chiew, JJ FooD",
+            "venue": "Proceedings of the Annual Congress of the Asia-Pacific Society for …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "In-Parallel Co-Ventilation–A Preliminary Experimental Study",
+            "authors": "EG Tee, WP Ting, KC Tham, CYS Ang, YS Chiew, JG Chase",
+            "venue": "IFAC-PapersOnLine 58 (24), 70-75, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Performance Evaluation of a Mechanical Test Lung Prototype for Lung Mechanics Research",
+            "authors": "WY Tay, YS Chiew, CYS Ang, JG Chase",
+            "venue": "IFAC-PapersOnLine 58 (24), 88-93, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Is the DISST applicable to a Malaysian cohort?",
+            "authors": "MH Abbas, SA Shamsuddin, NA Othman, NS Damanhuri, BCC Meng, ...",
+            "venue": "2023 9th International Conference on Control, Decision and Information …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Assessing the Asynchrony Event Based on the Ventilation Mode for Mechanically Ventilated Patients in ICU",
+            "authors": "NS Muhamad Sauki, NS Damanhuri, NA Othman, BC Chiew Meng, ...",
+            "venue": "Bioengineering 8 (12), 222, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Identification of Asynchronous Effect via Pressure-Volume Loop Reconstruction in Mechanically Ventilated Breathing Waveforms",
+            "authors": "GM Möller, YS Chiew, B Benyo, C Zhou, JG Chase, Q Sun, J Knopp, ...",
+            "venue": null,
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Letter to the Editor in response to\" COVID-19: Desperate times call for desperate measures\"",
+            "authors": "YS Chiew, B Lambermont, P Morimont, T Desaive, G Chase, G Shaw",
+            "venue": "Springer Science and Business Media LLC, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Parameter Identification and Identifiability Analysis for Patient-Induced Effort in Respiratory Mechanics Models",
+            "authors": "JLT Jeen, CY Shiong, G Arunachalam",
+            "venue": "International Conference for Innovation in Biomedical Engineering and Life …, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Modelling Patient’s Spontaneous Effort During Controlled Mechanical Ventilation Using Basis Functions",
+            "authors": "GR Arunachalam, YS Chiew, CP Tan, AM Ralib, MBM Nor",
+            "venue": "International Conference for Innovation in Biomedical Engineering and Life …, 2019",
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Model-based Research in Mechanical Ventilation Treatment: The Development and Introduction to CURE trial",
+            "authors": "G Chase, CP Tan, YS Chiew",
+            "venue": null,
+            "year": "2019",
+            "citations": null
+        },
+        {
+            "title": "Respiratory Care in the ICU: Models, Engineering, Productivity and Next-Generation Care",
+            "authors": "G Chase, JL Dickson, YS Chiew, G Shaw",
+            "venue": null,
+            "year": "2018",
+            "citations": null
+        },
+        {
+            "title": "Model Iterative Airway Pressure Reconstruction During Mechanical Ventilation Asynchrony: Shapes",
+            "authors": "CP Tan, YS Chiew, JG Chase",
+            "venue": "2nd International Conference for Innovation in Biomedical Engineering and …, 2017",
+            "year": "2017",
+            "citations": null
+        },
+        {
+            "title": "Early clinical trial termination: Simulation-based design of a robust stopping rule using difference in interventional effect on mortality",
+            "authors": "YS Chiew, GM Shaw, P Docherty, J Dickson, C Pretty, JG Chase",
+            "venue": "2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES …, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Respiratory mechanics variation during partially supported ventilation",
+            "authors": "KT Kim, YS Chiew, D Redmond, CG Pretty, G Shaw, T Desaive, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Novel Stroke Volume Estimation Method from Aortic Pressure Measurements and Aortic Diameter",
+            "authors": "S Kamoi, CG Pretty, SM Davidson, YS Chiew, J Balmer, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Breath-to-breath respiratory mechanics variation: how much variation should we expect?",
+            "authors": "YS Chiew, KT Kim, CG Pretty, G Shaw, T Desaive, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Lung injury and respiratory mechanics in rugby union.",
+            "authors": "A Lindsay, A Bernard, SM Davidson, DP Redmond, YS Chiew, C Pretty, ...",
+            "venue": "The Journal of Sports Medicine and Physical Fitness 56 (4), 450-457, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Estimating Ventricular stroke work from aortic pressure waveform",
+            "authors": "S Kamoi, C Pretty, YS Chiew, A Pironet, T Desaive, G Shaw, JG Chase",
+            "venue": "13th Belgian Day on Biomedical Engineering, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "When the value of gold is zero.",
+            "authors": "J Geoffrey Chase, K Moeller, GM Shaw, C Schranz, T Desaive",
+            "venue": "BMC Research Notes 7 (1), 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "An automatic system to quantify nursing intervention",
+            "authors": "P Guo, YS Chiew, G Shaw, G Chase",
+            "venue": null,
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Estimating Relative Change in Ventricular Stroke Work from Aortic Pressure",
+            "authors": "S Kamoi, C Pretty, YS Chiew, A Pironet, T Desaive, G Shaw, JG Chase",
+            "venue": "48th annual conference of the German Society for Biomedical Engineering, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Model-based mechanical ventilation, the CURE Trial",
+            "authors": "G Shaw, G Chase, YS Chiew",
+            "venue": "University of Canterbury. Mechanical Engineering, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Estimating Relative Change in Ventricular Stroke Work from Aortic Pressure Alone: Proof of Concept Study",
+            "authors": "S Kamoi, CG Pretty, YS Chiew, A Pironet, T Desaive, G Shaw, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "A novel visualization system for ICU clinical activity tracking",
+            "authors": "P Guo, YS Chiew, L Shaol, A Clark, JG Chase",
+            "venue": "IFAC Proceedings Volumes 47 (3), 3581-3586, 2014",
+            "year": "2014",
+            "citations": null
+        },
+        {
+            "title": "Model-Based Mechanical Ventilation for the Critically Ill",
+            "authors": "CY Shiong",
+            "venue": null,
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Visualisation of 3-Dimension Respiratory System Elastance in ARDS Models",
+            "authors": "E Van Drunen, YS Chiew, B Lambermont, N Janssen, C Pretty, T Desaive, ...",
+            "venue": "Biomedizinische Technik Conference (BMT 2013), 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Why yesterday's care is now not good enough-an engineered approach to mechanical ventilation (Model-based elastance and optimal peep selection)",
+            "authors": "G Shaw, YS Chiew, G Chase, A Sundaresan, T Desaive",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Patient-Ventilator Interaction using Time-varying Pulmonary Mechanics-A Retrospective Comparison between Pressure Support and Neurally Adjusted Ventilatory Assist",
+            "authors": "YS Chiew, S Poole, EJ Van Drunen, B Lambermont, P Morimont, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "A Novel Visualisation System for ICU Nursing Effort Per-Patient",
+            "authors": "P Guo, YS Chiew, G Shaw, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "In-Breath Monitoring of Lung Recruitment and Distension using Pulmonary Mechanics in an Experimental ARDS Animal model",
+            "authors": "YS Chiew, EJ Van Drunen, B Lambermont, P Morimont, N Janssen, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "DetectiNG Ventilation Asynchronies using Time-Variant Respiratory Mechanics",
+            "authors": "YS Chiew, PD Docherty, CG Pretty, D Redmond, S Davidson, S Poole, ...",
+            "venue": "University of Canterbury. Mechanical Engineering, 2013",
+            "year": "2013",
+            "citations": null
+        },
+        {
+            "title": "Model-based elastance and optimal PEEP selection",
+            "authors": "YS Chiew, G Chase, G Shaw, A Sundaresan, T Desaive",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Optimal PEEP-the final solution: Model-based mechanical ventilation for intensive care",
+            "authors": "G Shaw, G Chase, YS Chiew, NS Damanhuri, E van Drunen",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Identifizierbarkeit und Parameter Identifizierung in einem alveolaren Rekrutierungsmodell für die Atemmechanik",
+            "authors": "C Schranz, K Moller, PD Docherty, YS Chiew, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2012",
+            "year": "2012",
+            "citations": null
+        },
+        {
+            "title": "Under non invasive ventilation, Neurally Adjusted Ventilatory Assist (NAVA) improves the matching of diaphragmatic electrical activity and tidal volume compared to pressure …",
+            "authors": "L Piquilloud, YS Chiew, E Bialais, B Lambermont, J Roeseler, GJ Chase, ...",
+            "venue": "Gemeinsame Jahrestagung 11 (Suppl. 56), 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "PEEP in mechanically ventilated patients: a clinical proof of concept",
+            "authors": "A Sundaresan, G Shaw, YS Chiew, G Chase",
+            "venue": "University of Canterbury. Mechanical Engineering, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "Neurally Adjusted Ventilatory Assist (NAVA) improves the matching of diaphragmatic electrical activity and tidal volume in comparison to pressure support (PS) under non …",
+            "authors": "L Piquilloud, YS Chiew, E Bialais, B Lambermont, J Roeseler, GJ Chase, ...",
+            "venue": "ESICM 2011, 24th Annual Congress of the European Society of Intensive Care …, 2011",
+            "year": "2011",
+            "citations": null
+        },
+        {
+            "title": "A Development of Web-based Bernese Automated Global Positioning System Processing Package",
+            "authors": "HS Suhasril",
+            "venue": "Universiti Teknologi Malaysia, 2008",
+            "year": "2008",
+            "citations": null
+        },
+        {
+            "title": "Graphical simulation for motion platform design",
+            "authors": "C Yeong Shiong, A Jalil, M Kasim, M Hussein",
+            "venue": "Penerbit UTM, 2007",
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Performance of proportional control in CVT electro-mechanical clutch",
+            "authors": "MZ Md Zin, YS Chiew, KB Tawi, B Supriyo, S Ariyono, WS Ng",
+            "venue": null,
+            "year": "2007",
+            "citations": null
+        },
+        {
+            "title": "Efficient Single-Pixel Imaging Reconstruction Using a Hybrid Convolutional-Transformer Network with Adaptive Feature Refinement",
+            "authors": "JY Lim, YS Chiew, RCW Phan, EKP Chong, X Wang",
+            "venue": "Available at SSRN 4654401, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Research Article A Patient-Specific Airway Branching Model for Mechanically Ventilated Patients",
+            "authors": "NS Damanhuri, PD Docherty, YS Chiew, EJ van Drunen, T Desaive, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Convolutional Neural Network for Monitoring Asynchronous Breathing Waveform During Mechanical Ventilation Treatment",
+            "authors": "CYS Ang, NL Loo, YS Chiew, CP Tan, MBM Nor, MR Azrina, JG Chase",
+            "venue": "Available at SSRN 4095176, 0",
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Category 1: Respiratory monitoring Category 2: Respiratory-airway management A118-A pressure reconstruction method for spontaneous breathing effort monitoring.",
+            "authors": "N Damanhuri, YS Chiew, NA Othman, PD Docherty, GM Shaw, JG Chase",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

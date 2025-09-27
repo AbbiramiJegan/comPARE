@@ -1,0 +1,324 @@
+{
+    "author_id": "0OjUid0AAAAJ",
+    "name": "Golnoush Abaei",
+    "affiliations": "RMIT School of Computing Technologies",
+    "metrics": [
+        {
+            "citations": {
+                "all": 710,
+                "since_2020": 504
+            }
+        },
+        {
+            "h_index": {
+                "all": 12,
+                "since_2020": 10
+            }
+        },
+        {
+            "i10_index": {
+                "all": 12,
+                "since_2020": 10
+            }
+        }
+    ],
+    "co_authors": [
+        "Ali Selamat",
+        "Elahe Abdolkarimi",
+        "Mojtaba Sepehrnia",
+        "Jehad Al Dallal",
+        "M. R. Mosavi",
+        "D S Guru",
+        "Pooria M. Yaghini",
+        "Fujita H; Hamido Fujita; Fujita Hamido"
+    ],
+    "articles": [
+        {
+            "title": "An empirical study based on semi-supervised hybrid self-organizing map for software fault prediction",
+            "authors": "G Abaei, A Selamat, H Fujita",
+            "venue": "Knowledge-Based Systems 74, 28-39, 2015",
+            "year": "2015",
+            "citations": 127
+        },
+        {
+            "title": "A survey on software fault detection based on different prediction approaches",
+            "authors": "G Abaei, A Selamat",
+            "venue": "Vietnam Journal of Computer Science, Springer, 2014",
+            "year": "2014",
+            "citations": 114
+        },
+        {
+            "title": "Hybridizing genetic algorithm and grey wolf optimizer to advance an intelligent and lightweight intrusion detection system for IoT wireless networks",
+            "authors": "A Davahli, M Shamsi, G Abaei",
+            "venue": "Journal of Ambient Intelligence and Humanized Computing, 2020",
+            "year": "2020",
+            "citations": 105
+        },
+        {
+            "title": "A wavelet-extreme learning machine for low-cost INS/GPS navigation system in high-speed applications",
+            "authors": "ES Abdolkarimi, G Abaei, MR Mosavi",
+            "venue": "Gps Solutions 22 (1), 15, 2018",
+            "year": "2018",
+            "citations": 63
+        },
+        {
+            "title": "RLBEEP: Reinforcement-Learning-Based Energy Efficient Control and Routing Protocol for Wireless Sensor Networks",
+            "authors": "AFE Abadi, SA Asghari, MB Marvasti, G Abaei, M Nabavi, Y Savaria",
+            "venue": "IEEE Access, 2022",
+            "year": "2022",
+            "citations": 60
+        },
+        {
+            "title": "Fault Prediction by Utilizing Self-Organizing Map and Threshold",
+            "authors": "G Abaei, Z Rezaei, A Selamat",
+            "venue": "2013 IEEE International Conference on Control Systems, Computing and …, 2013",
+            "year": "2013",
+            "citations": 34
+        },
+        {
+            "title": "A Fuzzy Logic Expert System to Predict Module Fault Proneness using Unlabeled Data",
+            "authors": "G Abaei, A Selamat, J Al Dallal",
+            "venue": "Journal of King Saud University - Computer and In- formation Sciences, 2018",
+            "year": "2018",
+            "citations": 30
+        },
+        {
+            "title": "Extracting test cases by using data mining; reducing the cost of testing",
+            "authors": "A Ilkhani, G Abaee",
+            "venue": "Computer Information Systems and Industrial Management Applications (CISIM …, 2010",
+            "year": "2010",
+            "citations": 24
+        },
+        {
+            "title": "A hybrid Type-2 Fuzzy Logic System and Extreme Learning Machine for low-cost INS/GPS in high-speed vehicular navigation system",
+            "authors": "ES Abdolkarimi, G Abaei, A Selamat, MR Mosavi",
+            "venue": "Applied Soft Computing 94, 106447, 2020",
+            "year": "2020",
+            "citations": 23
+        },
+        {
+            "title": "A lightweight Anomaly detection model using SVM for WSNs in IoT through a hybrid feature selection algorithm based on GA and GWO",
+            "authors": "A Davahli, M Shamsi, G Abaei",
+            "venue": "Journal of Computing and Security 7 (1), 63-79, 2020",
+            "year": "2020",
+            "citations": 23
+        },
+        {
+            "title": "Study of flow field, heat transfer, and entropy generation of nanofluid turbulent natural convection in an enclosure utilizing the computational fluid dynamics‐artificial …",
+            "authors": "M Sepehrnia, G Sheikhzadeh, G Abaei, M Motamedian",
+            "venue": "Heat Transfer—Asian Research 48 (4), 2019",
+            "year": "2019",
+            "citations": 19
+        },
+        {
+            "title": "Increasing the Accuracy of Software Fault Prediction Using Majority Ranking Fuzzy Clustering.",
+            "authors": "G Abaei, A Selamat",
+            "venue": "Software Engineering, Artificial Intelligence, Networking and Parallel …, 2015",
+            "year": "2015",
+            "citations": 14
+        },
+        {
+            "title": "Empirical analyses of genetic algorithm and grey wolf optimiser to improve their efficiency with a new multi-objective weighted fitness function for feature selection in …",
+            "authors": "A Davahli, M Shamsi, G Abaei, K Arash",
+            "venue": "Journal of Experimental & Theoretical Artificial Intelligence 35, 2022",
+            "year": "2022",
+            "citations": 9
+        },
+        {
+            "title": "Numerical Simulation and Designing Artificial Neural Network for Water-Diamond Nanofluid Flow for Micro-Scale Cooling of Medical Equipment",
+            "authors": "M Sepehrnia, G Abaei, Z Khosromirza, F RooghaniYazdi",
+            "venue": "2018 25th National and 3rd International Iranian Conference on Biomedical …, 2019",
+            "year": "2019",
+            "citations": 9
+        },
+        {
+            "title": "A Robust Fingerprint Recognition System Based on Hybrid DCT and DWT",
+            "authors": "Z Rezaei, G Abaei",
+            "venue": "2017 24th National and 2nd International Iranian Conference on Biomedical …, 2018",
+            "year": "2018",
+            "citations": 9
+        },
+        {
+            "title": "Improving software fault prediction in imbalanced datasets using the under-sampling approach",
+            "authors": "G Abaei, WZ Tah, JZW Toh, ESJ Hor",
+            "venue": "ICSCA 2022: 2022 11th International Conference on Software and Computer …, 2022",
+            "year": "2022",
+            "citations": 8
+        },
+        {
+            "title": "Increasing the accuracy of software fault prediction using majority ranking fuzzy clustering",
+            "authors": "G Abaei, A Selamat",
+            "venue": "International Journal of Software Innovation (IJSI) 2 (4), 60-71, 2014",
+            "year": "2014",
+            "citations": 8
+        },
+        {
+            "title": "Software fault prediction based on improved fuzzy clustering",
+            "authors": "G Abaei, A Selamat",
+            "venue": "Distributed Computing and Artificial Intelligence, 11th International …, 2014",
+            "year": "2014",
+            "citations": 6
+        },
+        {
+            "title": "Implementing a successful collaborative active learning approach in information technology discipline",
+            "authors": "A Dharmaratne, T Fung Fung, G Abaei",
+            "venue": "Collaborative active learning: Practical activity-based approaches to …, 2022",
+            "year": "2022",
+            "citations": 5
+        },
+        {
+            "title": "Important issues in software fault prediction: A road map",
+            "authors": "G Abaei, A Selamat",
+            "venue": "Computer Systems and Software Engineering: Concepts, Methodologies, Tools …, 2018",
+            "year": "2018",
+            "citations": 4
+        },
+        {
+            "title": "Comparative study of clustering algorithms in order to virtual histology (vh) image segmentation",
+            "authors": "Z Rezaei, MD Kasmuni, A Selamat, MSM Rahim, G Abaei, MRA Kadir",
+            "venue": "Jurnal Teknologi (Sciences & Engineering) 75 (2), 2015",
+            "year": "2015",
+            "citations": 4
+        },
+        {
+            "title": "Enhancement of bug tracking tools; the debugger",
+            "authors": "G Abaee, DS Guru",
+            "venue": "2010 2nd International Conference on Software Technology and Engineering 1 …, 2010",
+            "year": "2010",
+            "citations": 4
+        },
+        {
+            "title": "Software fault prediction using BP-based crisp artificial neural networks",
+            "authors": "G Abaei, MR Mashinchi, A Selamat",
+            "venue": "International Journal of Intelligent Information and Database Systems 9 (1 …, 2015",
+            "year": "2015",
+            "citations": 3
+        },
+        {
+            "title": "Analysis of Software Fault Prediction Models Using Machine Learning Techniques",
+            "authors": "G Abaei, A Selamat",
+            "venue": "International Journal of Computer & Information Science, 13 (2), 29-36, 2012",
+            "year": "2012",
+            "citations": 3
+        },
+        {
+            "title": "Developing an Improved Method to Remove Pectoral Muscle for Better Diagnosis of Breast Cancer in Mammography Images",
+            "authors": "G Abaei, Z Rezaei, UQ Mian, YAA Abdalla, N Mathew, LY Gan",
+            "venue": "International Journal of Advanced Computer Science and Applications(IJACSA …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Attestation of improved SimBlock node churn simulation",
+            "authors": "ZH Chin, VM Baskaran, G Abaei, IKT Tan, TTV Yap",
+            "venue": "Journal of Information and Communication Technology 22 (2), 231-254, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Improved thin cap Fibroatheroma detection system using virtual histology-intravascular ultrasound image based on the empirical study",
+            "authors": "Z Rezaei, G Abaei",
+            "venue": "Neural Computing and Applications 37 (18), 12407-12445, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "Investigating the Effectiveness of Different Models of Convolutional Neural Networks to Detect the Types of Cultivation, an Emperical Study",
+            "authors": "M Pirhayatiroozbahani, G Abaei",
+            "venue": "Available at SSRN 4676407, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Improved Vulnerable Plaque Detection System using Virtual Histology-Intravascular Ultrasound Image Based on an Empirical Study",
+            "authors": "Z Rezaei, G Abaei",
+            "venue": null,
+            "year": "2022",
+            "citations": null
+        },
+        {
+            "title": "A fuzzy logic expert system to predict module fault proneness using unlabeled data (vol 32, pg 684, 2018)",
+            "authors": "G Abaei",
+            "venue": "JOURNAL OF KING SAUD UNIVERSITY-COMPUTER AND INFORMATION SCIENCES 32 (10 …, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "ALightweight Anomaly Detection Model usingSVMfor WSNs in IoT through a Hybrid Feature Selection Algorithm based on GAand GWO",
+            "authors": "M Shamsi, G Abaei",
+            "venue": "JOURNAL OF COMPUTING AND SECURITY 7 (1), 63-79, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Identifying license plate region using fuzzy logic system",
+            "authors": "Kazemi, Abaei, Aghakoochaki",
+            "venue": "1st International Conference on New Research Achievements in Electrical and …, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "PEX: Programmers Experience Management System",
+            "authors": "A Salehi, H Akhtari, G Abaei",
+            "venue": "1st International Conference on New Research Achievements in Electrical and …, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Anomaly-based intrusion detection system using Relational Detector Tree (RTD)",
+            "authors": "M Dabiri, K Khosharay, G Abaei",
+            "venue": "2nd International Conference On Electrical Engineering and Computer Science …, 2016",
+            "year": "2016",
+            "citations": null
+        },
+        {
+            "title": "Software Fault Prediction Models Using Machine Learning Approach",
+            "authors": "G Abaei",
+            "venue": "Universiti Teknologi Malaysia, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "Knowledge Discovery from Iranian Capital Market by Using Data Patterns Clustering",
+            "authors": "A Ilkhani, G Abaee",
+            "venue": "The 5th International Conference on E-Commerce in Developing Countries: with …, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "Test Documentation Tools and CBR Reduce the Cost of Testing",
+            "authors": "G Abaee, PM Yaghini",
+            "venue": "Software Engineering Research and Practice 2010 (SERP'10), 270-276, 2010",
+            "year": "2010",
+            "citations": null
+        },
+        {
+            "title": "AN AGENT-BASED FRAMEWORK FOR AUTOMATED WEB-BASED APPLICATIONS",
+            "authors": "G ABAEI, A bin Selamat",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Author's index",
+            "authors": "AA Ma'Radzi, CS Vui, AB Badri, CW Tan, ARM Radzol, CS Horng, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "The Organizing and Technical Committees of 2014 IEEE International Conference on Control System, Computing and Engineering (lCCSCE 2014) would like to express gratitude to all …",
+            "authors": "D Abdellah, DT Abdolreza, A Rahim, AA Izhar, C Ani, A Fadzil, M Hani, ...",
+            "venue": null,
+            "year": "",
+            "citations": null
+        },
+        {
+            "title": "Software Fault Prediction based on Different Machine Learning Techniques",
+            "authors": "G Abaei, A Selamat",
+            "venue": null,
+            "year": "",
+            "citations": null
+        }
+    ]
+}

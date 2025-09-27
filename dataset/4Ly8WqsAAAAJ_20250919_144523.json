@@ -1,0 +1,138 @@
+{
+    "author_id": "4Ly8WqsAAAAJ",
+    "name": "Adamu Muhammad Buhari",
+    "affiliations": "School of Information Technology, Monash University Malaysia.",
+    "metrics": [
+        {
+            "citations": {
+                "all": 132,
+                "since_2020": 118
+            }
+        },
+        {
+            "h_index": {
+                "all": 6,
+                "since_2020": 6
+            }
+        },
+        {
+            "i10_index": {
+                "all": 4,
+                "since_2020": 4
+            }
+        }
+    ],
+    "co_authors": [
+        "Vishnu Monn Baskaran",
+        "KokSheik Wong",
+        "Raphaël C.-W. Phan",
+        "Ooi Chee Pun",
+        "Wooi Haw Tan",
+        "Huo-Chong Ling",
+        "Kazi Sajedur Rahman",
+        "Md. Rokonuzzaman",
+        "Mahmuda Mishu",
+        "Rajib Baran Roy",
+        "Jagadeesh Pasupuleti",
+        "Nowshad Amin",
+        "Hisham Neyaz",
+        "Abdul Rahim Ahmad",
+        "Mohammed Najah Mahdi",
+        "Taofiq Adeola Bakare",
+        "Khalid Sheikhidris Mohamed",
+        "Roslan Ismail, PhD. E..."
+    ],
+    "articles": [
+        {
+            "title": "Self-sustained autonomous wireless sensor network with integrated solar photovoltaic system for internet of smart home-building (IoSHB) applications",
+            "authors": "MD Rokonuzzaman, MK Mishu, N Amin, M Nadarajah, RB Roy, ...",
+            "venue": "Micromachines 12 (6), 653, 2021",
+            "year": "2021",
+            "citations": 42
+        },
+        {
+            "title": "FACS-based graph features for real-time micro-expression recognition",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Journal of Imaging 6 (12), 130, 2020",
+            "year": "2020",
+            "citations": 25
+        },
+        {
+            "title": "Fast watermarking scheme for real-time spatial scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "Signal Processing: Image Communication 47, 86-95, 2016",
+            "year": "2016",
+            "citations": 23
+        },
+        {
+            "title": "Invisible emotion magnification algorithm (IEMA) for real-time micro-expression recognition with graph-based features",
+            "authors": "AM Buhari, CP Ooi, VM Baskaran, RCW Phan, KS Wong, WH Tan",
+            "venue": "Multimedia Tools and Applications 81 (7), 9151-9176, 2022",
+            "year": "2022",
+            "citations": 14
+        },
+        {
+            "title": "Smart scale tracking system using calibrated load cells",
+            "authors": "S Jaiteh, SFA Suhaimi, TC Seong, AM Buhari, L Lini, H Neyaz",
+            "venue": "2019 IEEE Conference on Sustainable Utilization and Development in …, 2019",
+            "year": "2019",
+            "citations": 9
+        },
+        {
+            "title": "A Real Time Micro-expression Detection System with LBP-TOP on a Many-core Processor",
+            "authors": "XR Soh, VM Baskaran, AM Buhari, RCW Phan",
+            "venue": "Asia-Pacific Signal and Information Processing Association Annual Summit and …, 2017",
+            "year": "2017",
+            "citations": 7
+        },
+        {
+            "title": "Real-time high-resolution downsampling algorithm on many-core processor for spatially scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "Journal of Electronic Imaging 24 (1), 013025-013025, 2015",
+            "year": "2015",
+            "citations": 6
+        },
+        {
+            "title": "Low complexity watermarking scheme for scalable video coding",
+            "authors": "AM Buhari, HC Ling, VM Baskaran, KS Wong",
+            "venue": "2016 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 1-2, 2016",
+            "year": "2016",
+            "citations": 5
+        },
+        {
+            "title": "Scalable Smartification of Commercial Buildings HVAC Systems Using the Internet of Things and Machine Learning",
+            "authors": "MN Mahdi, TA Bakare, AR Ahmad, AM Buhari, KS Mohamed",
+            "venue": "International Conference on Emerging Technologies and Intelligent Systems …, 2021",
+            "year": "2021",
+            "citations": 1
+        },
+        {
+            "title": "Buildings HVAC Systems Using the Internet of Things and Machine",
+            "authors": "MN Mahdi, TA Bakare, AR Ahmad, AM Buhari",
+            "venue": "Proceedings of International Conference on Emerging Technologies and …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Motion and Geometric Feature Analysis for Real-time Automatic Micro-expression Recognition Systems",
+            "authors": "A Muhammad Buhari, CP Ooi, VM Baskaran, WH Tan",
+            "venue": "F1000Research 10, 1029, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "VExSearch: Improving Visualizations Results for Web-based Information Exploration and Refinement",
+            "authors": "MN Mahdi, AR Ahmad, R Ismail, AM Buhari",
+            "venue": "International Association of Engineers, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Digital watermarking for real-time hardware accelerated scalable video streaming",
+            "authors": "AM Buhari",
+            "venue": "PQDT-Global, 2015",
+            "year": "2015",
+            "citations": null
+        }
+    ]
+}

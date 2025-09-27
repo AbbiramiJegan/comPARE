@@ -1,0 +1,326 @@
+{
+    "author_id": "1xWR0IgAAAAJ",
+    "name": "CHERN HONG LIM",
+    "affiliations": "Lecturer, Monash University Malaysia",
+    "metrics": [
+        {
+            "citations": {
+                "all": 467,
+                "since_2020": 327
+            }
+        },
+        {
+            "h_index": {
+                "all": 11,
+                "since_2020": 10
+            }
+        },
+        {
+            "i10_index": {
+                "all": 12,
+                "since_2020": 10
+            }
+        }
+    ],
+    "co_authors": [
+        "Chee Seng Chan",
+        "Tan Hock Siew, Patrick",
+        "Raphaël C.-W. Phan",
+        "Ekta Vats",
+        "KokSheik Wong",
+        "Muhammad Fermi Pasha",
+        "Muhammad Hasnain",
+        "Jian Han Lim",
+        "Foo Su Chern",
+        "Bhanuka Gamage",
+        "Ian Tan",
+        "Kam Meng Goh",
+        "Anhar Risnumawan",
+        "Mohammed Moussa",
+        "Low Jia Ming",
+        "Wai Lam Hoo",
+        "Alexander Kadyrov"
+    ],
+    "articles": [
+        {
+            "title": "Fuzzy human motion analysis: A review",
+            "authors": "CH Lim, E Vats, CS Chan",
+            "venue": "Pattern Recognition 48 (5), 1773-1796, 2015",
+            "year": "2015",
+            "citations": 113
+        },
+        {
+            "title": "Automated classroom monitoring with connected visioning system",
+            "authors": "JH Lim, EY Teh, MH Geh, CH Lim",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 57
+        },
+        {
+            "title": "Deepfake attribution: On the source identification of artificially generated images",
+            "authors": "B Khoo, RCW Phan, CH Lim",
+            "venue": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 12 (3 …, 2022",
+            "year": "2022",
+            "citations": 56
+        },
+        {
+            "title": "The role of artificial intelligence in the battle against antimicrobial-resistant bacteria",
+            "authors": "HJ Lau, CH Lim, SC Foo, HS Tan",
+            "venue": "Current genetics 67 (3), 421-429, 2021",
+            "year": "2021",
+            "citations": 55
+        },
+        {
+            "title": "Improving tuberculosis severity assessment in computed tomography images using novel DAvoU-Net segmentation and deep learning framework",
+            "authors": "DO Alebiosu, A Dharmaratne, CH Lim",
+            "venue": "Expert Systems with Applications 213, 119287, 2023",
+            "year": "2023",
+            "citations": 19
+        },
+        {
+            "title": "Towards more stable LIME for explainable AI",
+            "authors": "CH Ng, HS Abuwala, CH Lim",
+            "venue": "2022 International Symposium on Intelligent Signal Processing and …, 2022",
+            "year": "2022",
+            "citations": 19
+        },
+        {
+            "title": "A scene image is nonmutually exclusive—a fuzzy qualitative scene understanding",
+            "authors": "CH Lim, A Risnumawan, CS Chan",
+            "venue": "IEEE transactions on fuzzy systems 22 (6), 1541-1556, 2014",
+            "year": "2014",
+            "citations": 19
+        },
+        {
+            "title": "Selecting antibacterial aptamers against the BamA protein in Pseudomonas aeruginosa by incorporating genetic algorithm to optimise computational screening …",
+            "authors": "R Selvam, IHY Lim, JC Lewis, CH Lim, MKK Yap, HS Tan",
+            "venue": "Scientific Reports 13 (1), 7582, 2023",
+            "year": "2023",
+            "citations": 17
+        },
+        {
+            "title": "A fuzzy qualitative approach for scene classification",
+            "authors": "CH Lim, CS Chan",
+            "venue": "2012 IEEE International Conference on Fuzzy Systems, 1-8, 2012",
+            "year": "2012",
+            "citations": 16
+        },
+        {
+            "title": "Recurrent neural network for web services performance forecasting, ranking and regression testing",
+            "authors": "M Hasnain, MF Pasha, CH Lim, I Ghan",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 15
+        },
+        {
+            "title": "Baitradar: A multi-model clickbait detection algorithm using deep learning",
+            "authors": "B Gamage, A Labib, A Joomun, CH Lim, KS Wong",
+            "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+            "year": "2021",
+            "citations": 12
+        },
+        {
+            "title": "A comprehensive review on regression test case prioritization techniques for web services",
+            "authors": "M Hasnain, I Ghani, MF Pasha, CH Lim, SR Jeong",
+            "venue": "KSII Transactions on Internet and Information Systems (TIIS) 14 (5), 1861-1885, 2020",
+            "year": "2020",
+            "citations": 10
+        },
+        {
+            "title": "Facial anthropometric measurements and photographs—An interdisciplinary study",
+            "authors": "J Dhaliwal, J Wagner, SL Leong, CH Lim",
+            "venue": "IEEE Access 8, 181998-182013, 2020",
+            "year": "2020",
+            "citations": 9
+        },
+        {
+            "title": "Fuzzy qualitative approach for micro-expression recognition",
+            "authors": "CH Lim, KM Goh",
+            "venue": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+            "year": "2017",
+            "citations": 8
+        },
+        {
+            "title": "Fuzzy qualitative human model for viewpoint identification",
+            "authors": "CH Lim, CS Chan",
+            "venue": "Neural Computing and Applications 27 (4), 845-856, 2016",
+            "year": "2016",
+            "citations": 8
+        },
+        {
+            "title": "Keybook: Unbias object recognition using keywords",
+            "authors": "WL Hoo, CH Lim, CS Chan",
+            "venue": "Expert Systems with Applications 42 (8), 3991-3999, 2015",
+            "year": "2015",
+            "citations": 6
+        },
+        {
+            "title": "Amogel: a multi-omics classification framework using associative graph neural networks with prior knowledge for biomarker identification",
+            "authors": "CY Tan, HF Ong, CH Lim, MS Tan, EH Ooi, KS Wong",
+            "venue": "BMC bioinformatics 26 (1), 1-27, 2025",
+            "year": "2025",
+            "citations": 4
+        },
+        {
+            "title": "Bridging explainable machine vision in CAD systems for lung cancer detection",
+            "authors": "N Alwarasneh, YSS Chow, STM Yan, CH Lim",
+            "venue": "International Conference on Intelligent Robotics and Applications, 254-269, 2020",
+            "year": "2020",
+            "citations": 4
+        },
+        {
+            "title": "Fuzzy action recognition for multiple views within single camera",
+            "authors": "CH Lim, CS Chan",
+            "venue": "2013 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 1-8, 2013",
+            "year": "2013",
+            "citations": 4
+        },
+        {
+            "title": "Improving co-SVD for cold-start recommendations using sparsity reduction",
+            "authors": "LJ Ming, CH Lim, IKT Tan",
+            "venue": "2022 Asia-Pacific Signal and Information Processing Association Annual …, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "Refined co-SVD recommender algorithm: data processing and performance metrics",
+            "authors": "LJ Ming, KTT Ian, CH Lim",
+            "venue": "International Conference on Pattern Recognition Applications and Methods …, 2022",
+            "year": "2022",
+            "citations": 3
+        },
+        {
+            "title": "Transferable Class-Modelling for Decentralized Source Attribution of GAN-Generated Images",
+            "authors": "BBG Khoo, CH Lim, RCW Phan",
+            "venue": "arXiv preprint arXiv:2203.09777, 2022",
+            "year": "2022",
+            "citations": 2
+        },
+        {
+            "title": "Improved RAMEN: towards domain generalization for visual question answering",
+            "authors": "BMSV Gamage, LC Hong",
+            "venue": "arXiv preprint arXiv:2109.02370, 2021",
+            "year": "2021",
+            "citations": 2
+        },
+        {
+            "title": "Interpreting abnormality of a complex static scene using generative adversarial network",
+            "authors": "M Moussa, CH Lim",
+            "venue": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+            "year": "2019",
+            "citations": 2
+        },
+        {
+            "title": "CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning",
+            "authors": "T Chen, H Liu, CH Lim, J See, X Gao, J Hou, W Lin",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology, 2025",
+            "year": "2025",
+            "citations": 1
+        },
+        {
+            "title": "CapFormer: A Space-Time Video Description Model using Joint-Attention Transformer",
+            "authors": "M Moussa, CH Lim, KS Wong",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": 1
+        },
+        {
+            "title": "Comparative Study on Obstacle Detection and Avoidance System by Using Real-Time Image Processing and Artificial Intelligence in Autonomous Wheelchair Application",
+            "authors": "YK Lee, SD Tan, YH Goh, CH Lim",
+            "venue": "2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and …, 2019",
+            "year": "2019",
+            "citations": 1
+        },
+        {
+            "title": "Motion detection based on simulated depth measurement",
+            "authors": "CH Lim, A Kadyrov, C Seng Chan, H Liu",
+            "venue": "Advances in Knowledge-Based and Intelligent Information and Engineering …, 2012",
+            "year": "2012",
+            "citations": 1
+        },
+        {
+            "title": "MCA: 2D-3D Retrieval with Noisy Labels Via Multi-Level Adaptive Correction and Alignment",
+            "authors": "G Zou, C Gan, CH Lim, S Aramvith, W Lin",
+            "venue": "arXiv preprint arXiv:2508.06104, 2025",
+            "year": "2025",
+            "citations": null
+        },
+        {
+            "title": "IoT-based Smart Attendance System using Face Recognition and Motion Detection",
+            "authors": "U Syamimi, LC Hong, LYK Wang",
+            "venue": "2024 Asia Pacific Signal and Information Processing Association Annual …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "A Parameter-free model for long-term concrete creep prediction",
+            "authors": "C Li, CH Lim, X Wang",
+            "venue": "2024 Asia Pacific Signal and Information Processing Association Annual …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights",
+            "authors": "G Li, CH Lim, Q Ma, X Tang, HH Tew, F Ding, X Luo",
+            "venue": "2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC …, 2024",
+            "year": "2024",
+            "citations": null
+        },
+        {
+            "title": "Towards Discrete Object Representations in Vision Transformers with Tensor Products",
+            "authors": "WY Teh, CH Lim, MK Lim, IKT Tan",
+            "venue": "Proceedings of the 2023 7th International Conference on Computer Science and …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Enhanced 3D-OTSU Algorithm for Robust Tuberculosis and COVID-19 CT Scans Segmentation",
+            "authors": "DO Alebiosu, CH Lim, A Dharmaratne",
+            "venue": "2023 IEEE International Conference on Visual Communications and Image …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Towards AST-LLDs for the Analysis of Depression in Speech Signals",
+            "authors": "S Nagappan, CH Lim, AT Dharmaratne",
+            "venue": "2023 Asia Pacific Signal and Information Processing Association Annual …, 2023",
+            "year": "2023",
+            "citations": null
+        },
+        {
+            "title": "Bridging Explainable Machine Vision in CAD Systems for Lung Cancer Detection",
+            "authors": "CH Lim",
+            "venue": "Intelligent Robotics and Applications: 13th International Conference, ICIRA …, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Intelligent Robotics and Applications: 13th International Conference, ICIRA 2020, Kuala Lumpur, Malaysia, November 5–7, 2020, Proceedings",
+            "authors": "CS Chan, H Liu, X Zhu, CH Lim, X Liu, L Liu, KM Goh",
+            "venue": "Springer Nature, 2021",
+            "year": "2021",
+            "citations": null
+        },
+        {
+            "title": "Extending Egocentric Vision into Vehicles: Malaysian Dash-Cam Dataset",
+            "authors": "M Moussa, CH Lim, KS Wong",
+            "venue": "International Conference on Intelligent Robotics and Applications, 270-281, 2020",
+            "year": "2020",
+            "citations": null
+        },
+        {
+            "title": "Fuzzy Qualitative Approach to Address Uncertainty in Human Motion Analysis",
+            "authors": "CH Lim",
+            "venue": "Fakulti Sains Komputer Dan Teknologi Maklumat, Universiti Malaya, 2015",
+            "year": "2015",
+            "citations": null
+        },
+        {
+            "title": "A framework on fuzzy intrusion detection",
+            "authors": "CH Lim, CS Chan",
+            "venue": "International Workshop on Advanced Computational Intelligence and …, 2011",
+            "year": "2011",
+            "citations": null
+        }
+    ]
+}
