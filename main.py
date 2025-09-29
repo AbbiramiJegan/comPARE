@@ -1,10 +1,18 @@
+# Import streamlit library -> for UI
 import streamlit as st
+# Import pandas (dataframes) -> for reading and manipulating CSV data
 import pandas as pd
+# Regular expressions module -> Extract author id
 import re
+# fuzz -> String similarity helper & process -> fallback when embeddings don't give high confidence
 from fuzzywuzzy import fuzz, process
+# ST -> To load an embedding model & util -> helper functions
 from sentence_transformers import SentenceTransformer, util
+# PyTorch
 import torch
 
+# page_title sets the browser tab title
+# layout makes the page wider 
 st.set_page_config(page_title="Scholar Report Card", layout="wide")
 
 # ---------------- Load datasets ----------------
@@ -13,23 +21,30 @@ articles = pd.read_csv("Articles.csv")
 
 # Journals
 journals = pd.read_csv("qualityJournal.csv")
-
-# Conferences (main + journal versions)
+# Conferences (main)
 conf_main = pd.read_csv("qualityConferences.csv")
+# Conferences (main + journal versions)
 conf_journal = pd.read_csv("qualityConferences-journal.csv")
 
-# Normalize column names
+# Normalize column names for conf_main
 if "Title" not in conf_main.columns:
-    if "CORE Conference Name" in conf_main.columns:
+    if "Conference Name (DBLP)" in conf_main.columns:
+        conf_main.rename(columns={"Conference Name (DBLP)": "Title"}, inplace=True)
+    elif "CORE Conference Name" in conf_main.columns:
         conf_main.rename(columns={"CORE Conference Name": "Title"}, inplace=True)
     elif "ERA Conference Name" in conf_main.columns:
         conf_main.rename(columns={"ERA Conference Name": "Title"}, inplace=True)
     elif "GS Name" in conf_main.columns:
         conf_main.rename(columns={"GS Name": "Title"}, inplace=True)
 
+# Normalize column names for conf_journal
 if "Title" not in conf_journal.columns:
-    if "ERA Conference Name" in conf_journal.columns:
+    if "Conference Name (DBLP)" in conf_journal.columns:
+        conf_journal.rename(columns={"Conference Name (DBLP)": "Title"}, inplace=True)
+    elif "ERA Conference Name" in conf_journal.columns:
         conf_journal.rename(columns={"ERA Conference Name": "Title"}, inplace=True)
+    elif "GS Name" in conf_journal.columns:
+        conf_journal.rename(columns={"GS Name": "Title"}, inplace=True)
 
 # Merge the two conference sources
 conferences = pd.concat([conf_main, conf_journal], ignore_index=True)
