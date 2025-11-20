@@ -1,53 +1,17 @@
-# Import streamlit library -> for UI
+# main.py
+
 import streamlit as st
-# Import pandas (dataframes) -> for reading and manipulating CSV data
 import pandas as pd
-# Regular expressions module -> Extract author id
 import re
-# fuzz -> String similarity helper & process -> fallback when embeddings don't give high confidence
+import os
+import json
 from fuzzywuzzy import fuzz, process
-# ST -> To load an embedding model & util -> helper functions
 from sentence_transformers import SentenceTransformer, util
-# PyTorch
 import torch
+from datetime import datetime
+from fetchProfile import get_scholar_profile  # reuse API function
 
-# page_title sets the browser tab title
-# layout makes the page wider 
-st.set_page_config(page_title="Scholar Report Card", layout="wide")
-
-# ---------------- Load datasets ----------------
-authors = pd.read_csv("Authors.csv")
-articles = pd.read_csv("Articles.csv")
-
-# Journals
-journals = pd.read_csv("qualityJournal.csv")
-# Conferences (main)
-conf_main = pd.read_csv("qualityConferences.csv")
-# Conferences (main + journal versions)
-conf_journal = pd.read_csv("qualityConferences-journal.csv")
-
-# Normalize column names for conf_main
-if "Title" not in conf_main.columns:
-    if "Conference Name (DBLP)" in conf_main.columns:
-        conf_main.rename(columns={"Conference Name (DBLP)": "Title"}, inplace=True)
-    elif "CORE Conference Name" in conf_main.columns:
-        conf_main.rename(columns={"CORE Conference Name": "Title"}, inplace=True)
-    elif "ERA Conference Name" in conf_main.columns:
-        conf_main.rename(columns={"ERA Conference Name": "Title"}, inplace=True)
-    elif "GS Name" in conf_main.columns:
-        conf_main.rename(columns={"GS Name": "Title"}, inplace=True)
-
-# Normalize column names for conf_journal
-if "Title" not in conf_journal.columns:
-    if "Conference Name (DBLP)" in conf_journal.columns:
-        conf_journal.rename(columns={"Conference Name (DBLP)": "Title"}, inplace=True)
-    elif "ERA Conference Name" in conf_journal.columns:
-        conf_journal.rename(columns={"ERA Conference Name": "Title"}, inplace=True)
-    elif "GS Name" in conf_journal.columns:
-        conf_journal.rename(columns={"GS Name": "Title"}, inplace=True)
-
-# Merge the two conference sources
-conferences = pd.concat([conf_main, conf_journal], ignore_index=True)
+st.set_page_config(page_title="Scholar Report Card", layout="centered")
 
 # ---------------- Embedding model ----------------
 @st.cache_resource
@@ -56,7 +20,45 @@ def load_model():
 
 model = load_model()
 
-# Precompute embeddings for journals & conferences
+# ---------------- Load quality datasets ----------------
+@st.cache_resource
+def load_quality_data():
+    def clean_columns(df):
+        # Strip whitespace, remove duplicates, lower-case optional
+        df.columns = [c.strip() for c in df.columns]
+        df = df.loc[:, ~df.columns.duplicated()]
+        return df
+
+    # Load CSVs
+    journals = pd.read_csv("qualityJournal.csv")
+    conf_main = pd.read_csv("qualityConferences.csv")
+    conf_journal = pd.read_csv("qualityConferences-journal.csv")
+
+    # Clean columns
+    journals = clean_columns(journals)
+    conf_main = clean_columns(conf_main)
+    conf_journal = clean_columns(conf_journal)
+
+    # Normalize conference column names to "Title"
+    for df in [conf_main, conf_journal]:
+        if "Title" not in df.columns:
+            for col in ["Conference Name (DBLP)", "CORE Conference Name", "ERA Conference Name", "GS Name"]:
+                if col in df.columns:
+                    df.rename(columns={col: "Title"}, inplace=True)
+
+    # Ensure all columns are unique before concatenating
+    conf_main = conf_main.loc[:, ~conf_main.columns.duplicated()]
+    conf_journal = conf_journal.loc[:, ~conf_journal.columns.duplicated()]
+
+    # Concatenate safely
+    conferences = pd.concat([conf_main, conf_journal], ignore_index=True)
+
+    return journals, conferences
+
+# Actually load the datasets
+journals, conferences = load_quality_data()
+
+# ---------------- Precompute embeddings ----------------
 @st.cache_resource
 def precompute_embeddings():
     journal_embs = model.encode(journals["Title"].astype(str).tolist(), convert_to_tensor=True)
@@ -65,14 +67,28 @@ def precompute_embeddings():
 
 journal_embs, conf_embs = precompute_embeddings()
 
+
 # ---------------- Helper functions ----------------
 def extract_author_id(url):
-    """Extract author_id from Google Scholar URL."""
     match = re.search(r"user=([\w-]+)", url)
     return match.group(1) if match else None
 
+def load_or_fetch_author(author_id):
+    """Check dataset folder, if missing call API and save JSON"""
+    os.makedirs("dataset", exist_ok=True)
+    # Check if any file exists with author_id prefix
+    files = [f for f in os.listdir("dataset") if f.startswith(author_id)]
+    if files:
+        # Load the latest file
+        latest_file = max(files, key=lambda x: os.path.getmtime(os.path.join("dataset", x)))
+        with open(os.path.join("dataset", latest_file), "r", encoding="utf-8") as f:
+            data = json.load(f)
+    else:
+        # Fetch via SerpAPI
+        data = get_scholar_profile(author_id)
+    return data
+
 def semantic_match(venue, choices, choice_embs, top_k=5):
-    """Semantic search with embeddings + cosine similarity."""
     if not isinstance(venue, str) or venue.strip() == "":
         return None, 0, None
     venue_emb = model.encode(venue, convert_to_tensor=True)
@@ -83,35 +99,30 @@ def semantic_match(venue, choices, choice_embs, top_k=5):
     return choices.iloc[best_idx], best_score, best_idx
 
 def match_quality(venue, is_cs_ai=False):
-    """Match venue to Journals/Conferences using embeddings + fuzzy fallback."""
     if pd.isna(venue):
         return None, None, None, 0
 
-    # --- CS/AI first: Conferences ---
     if is_cs_ai:
         choice, score, idx = semantic_match(venue, conferences["Title"], conf_embs)
-        if choice and score >= 0.7:  # semantic threshold
+        if choice and score >= 0.7:
             row = conferences.iloc[idx]
             return "Conference", choice, row.get("CORE 2021 Rank", row.get("Rank", "-")), round(score*100, 1)
-        # fallback to journals
         choice, score, idx = semantic_match(venue, journals["Title"], journal_embs)
         if choice and score >= 0.7:
             row = journals.iloc[idx]
             return "Journal", choice, row.get("SCIMAGO Best Quartile 2023", "-"), round(score*100, 1)
 
-    # --- Non-CS/AI: Journals first ---
     choice, score, idx = semantic_match(venue, journals["Title"], journal_embs)
     if choice and score >= 0.7:
         row = journals.iloc[idx]
         return "Journal", choice, row.get("SCIMAGO Best Quartile 2023", "-"), round(score*100, 1)
 
-    # fallback to conferences
     choice, score, idx = semantic_match(venue, conferences["Title"], conf_embs)
     if choice and score >= 0.7:
         row = conferences.iloc[idx]
         return "Conference", choice, row.get("CORE 2021 Rank", row.get("Rank", "-")), round(score*100, 1)
 
-    # Final fallback → fuzzy match
+    # Fuzzy fallback
     result = process.extractOne(
         venue,
         pd.concat([journals["Title"], conferences["Title"]]).astype(str).tolist()
@@ -122,32 +133,34 @@ def match_quality(venue, is_cs_ai=False):
     else:
         return "Fuzzy", None, "-", 0
 
-def evaluate_author(author_id, authors, articles, cs_ai=False):
-    if author_id not in authors["author_id"].values:
-        return None, None
+def evaluate_author_data(author_data, cs_ai=False):
+    articles = pd.DataFrame(author_data["articles"])
 
-    author_name = authors.loc[authors["author_id"] == author_id, "name"].values[0]
-    author_articles = articles[articles["author_id"] == author_id].copy()
+    # Ensure 'year' and 'citations' are numeric
+    articles["year"] = pd.to_numeric(articles["year"], errors="coerce")       # invalid parsing -> NaN
+    articles["citations"] = pd.to_numeric(articles["citations"], errors="coerce").fillna(0).astype(int)
 
-    # Summary stats
-    total_papers = len(author_articles)
-    total_citations = author_articles["citations"].sum()
+    total_papers = len(articles)
+    total_citations = articles["citations"].sum()
     cpp = total_citations / total_papers if total_papers else 0
-    recent_articles = author_articles[author_articles["year"] >= 2020]
+
+    # Filter recent articles safely
+    recent_articles = articles[articles["year"] >= 2020]
     recent_papers = len(recent_articles)
     recent_citations = recent_articles["citations"].sum()
-    top5 = author_articles.sort_values("citations", ascending=False).head(5)
+
+    top5 = articles.sort_values("citations", ascending=False).head(5)
     top5_avg = top5["citations"].mean() if not top5.empty else 0
 
     # Match venues
-    author_articles[["match_type", "matched_title", "rank", "match_score"]] = author_articles.apply(
+    articles[["match_type","matched_title","rank","match_score"]] = articles.apply(
         lambda row: pd.Series(match_quality(row["venue"], is_cs_ai=cs_ai)),
         axis=1
     )
 
     results = {
-        "author_id": author_id,
-        "name": author_name,
+        "author_id": author_data["author_id"],
+        "name": author_data["name"],
         "total_papers": total_papers,
         "total_citations": total_citations,
         "cpp": round(cpp, 2),
@@ -156,68 +169,115 @@ def evaluate_author(author_id, authors, articles, cs_ai=False):
         "top5_avg_citations": round(top5_avg, 2)
     }
 
-    return results, author_articles
+    return results, articles
 
 # ---------------- Streamlit UI ----------------
-st.title("📊 Researcher Quality Report Card")
+st.title("🎓 Research Performance Dashboard")
+st.caption("Comprehensive evaluation of researcher publication quality and impact")
 
-url = st.text_input("Enter Google Scholar Profile Link:")
-is_cs_ai = st.checkbox("💻 Is this a CS/AI researcher? (prefer conferences)")
+url = st.text_input("🔗 Enter Google Scholar Profile Link:")
+is_cs_ai = st.toggle("💻 CS/AI researcher (prioritize conferences)", value=False)
 
 if url:
     author_id = extract_author_id(url)
     if not author_id:
         st.error("❌ Could not extract author ID from URL")
     else:
-        results, papers = evaluate_author(author_id, authors, articles, cs_ai=is_cs_ai)
-        if results is None:
-            st.error("❌ Author ID not found in Authors.csv")
+        author_data = load_or_fetch_author(author_id)
+        if not author_data or not author_data.get("articles"):
+            st.error("❌ No articles found for this author")
         else:
-            st.subheader(f"👤 Report Card for **{results['name']}**")
+            results, papers = evaluate_author_data(author_data, cs_ai=is_cs_ai)
 
-            # --- Stats cards ---
-            st.markdown("### 📊 Key Metrics")
-            col1, col2, col3 = st.columns(3)
-            col1.metric("Total Papers", results['total_papers'])
-            col2.metric("Total Citations", results['total_citations'])
-            col3.metric("Citations per Paper", results['cpp'])
+            st.markdown(f"## 👤 {results['name']} — *Research Summary*")
 
-            col4, col5, col6 = st.columns(3)
-            col4.metric("Recent Papers (>=2020)", results['recent_papers'])
-            col5.metric("Recent Citations", results['recent_citations'])
-            col6.metric("Top 5 Avg Citations", results['top5_avg_citations'])
+            # --- KPIs ---
+            kpi1, kpi2, kpi3 = st.columns(3)
+            kpi1.metric("📄 Total Papers", results['total_papers'])
+            kpi2.metric("📚 Total Citations", results['total_citations'])
+            kpi3.metric("⭐ Citations per Paper", results['cpp'])
 
-            # Count by venue type
-            st.markdown("### Paper Counts by Venue Type")
+            kpi4, kpi5, kpi6 = st.columns(3)
+            kpi4.metric("🕒 Recent Papers (≥2020)", results['recent_papers'])
+            kpi5.metric("🔍 Recent Citations", results['recent_citations'])
+            kpi6.metric("🏆 Top 5 Avg Citations", results['top5_avg_citations'])
+
+            st.markdown("---")
+
+            # --- Publication Type Distribution ---
+            st.subheader("🏛️ Publication Type Distribution")
             venue_counts = papers["match_type"].value_counts()
-            st.table(venue_counts)
-            st.bar_chart(venue_counts)
+            st.dataframe(venue_counts.rename_axis("Type").reset_index(), hide_index=True, use_container_width=True)
 
-            # Count by journal quartile / conference rank
-            st.markdown("### Paper Counts by Rank / Quartile")
+            import plotly.express as px
+            fig_venue = px.pie(
+                values=venue_counts.values,
+                names=venue_counts.index,
+                title="Publication Type Share",
+                hole=0.4,
+                color_discrete_sequence=px.colors.qualitative.Set2
+            )
+            fig_venue.update_traces(textinfo="percent+label", pull=[0.05]*len(venue_counts))
+            st.plotly_chart(fig_venue, use_container_width=True)
+
+            # --- Rank / Quartile Distribution ---
+            st.subheader("📊 Venue Quality (Rank / Quartile)")
             def rank_category(row):
-                if row["match_type"] == "Journal":
-                    return row["rank"] if pd.notna(row["rank"]) else "Unranked"
-                elif row["match_type"] == "Conference":
-                    return row["rank"] if pd.notna(row["rank"]) else "Unranked"
-                else:
-                    return "Other"
-            rank_counts = papers.apply(rank_category, axis=1).value_counts()
-            st.table(rank_counts)
-            st.bar_chart(rank_counts)
+                valid_ranks = {"Q1","Q2","Q3","Q4","A*","A","B","C"}
+                rank = str(row["rank"]).strip() if pd.notna(row["rank"]) else None
+                return rank if rank in valid_ranks else "Unranked"
 
-            # --- Papers table ---
-            with st.expander("📑 Full Paper List with Quality Info", expanded=False):
-                def highlight_rank(val):
-                    if val in ["Q1", "A*"]:
-                        return "background-color:#E3F2FD; font-weight:bold; color:#1E3A8A"
-                    elif val in ["Q2","A"]:
-                        return "background-color:#D1FAE5; color:#065F46"
-                    elif val in ["Q3","B"]:
-                        return "background-color:#FEF9C3; color:#92400E"
-                    else:
-                        return "background-color:#F3F4F6; color:#374151"
-                styled = papers[["title","venue","citations","match_type","matched_title","rank","match_score"]]\
-                    .sort_values(by="citations", ascending=False)\
-                    .style.applymap(highlight_rank, subset=["rank"])
-                st.dataframe(styled, use_container_width=True)
+            rank_counts = papers.apply(rank_category, axis=1).value_counts()
+            desired_order = ["Q1","Q2","Q3","Q4","A*","A","B","C","Unranked"]
+            rank_counts = rank_counts.reindex(desired_order, fill_value=0)
+
+            fig_rank = px.bar(
+                x=rank_counts.values,
+                y=rank_counts.index,
+                orientation="h",
+                text=rank_counts.values,
+                title="Rank / Quartile Distribution",
+                color=rank_counts.index,
+                color_discrete_sequence=px.colors.sequential.Blues
+            )
+            fig_rank.update_layout(yaxis_title="", xaxis_title="Paper Count")
+            st.plotly_chart(fig_rank, use_container_width=True)
+
+            # --- Citation Distribution ---
+            st.subheader("📉 Citation Distribution")
+            import numpy as np
+            bins = [0, 10, 50, 100, 500, 1000]
+            labels = ["0–10", "11–50", "51–100", "101–500", "500+"]
+            papers["citation_band"] = pd.cut(papers["citations"], bins=bins, labels=labels, include_lowest=True)
+            cit_dist = papers["citation_band"].value_counts().sort_index()
+
+            fig_citations = px.bar(
+                x=labels,
+                y=cit_dist.values,
+                title="Citation Range Distribution",
+                color=cit_dist.values,
+                color_continuous_scale="Viridis"
+            )
+            st.plotly_chart(fig_citations, use_container_width=True)
+
+            # --- Full Paper List ---
+            st.markdown("### 📑 Full Paper List with Matched Quality Info")
+            def highlight_rank(val):
+                if val in ["Q1","A*"]:
+                    return "background-color:#E3F2FD; font-weight:bold; color:#1E3A8A"
+                elif val in ["Q2","A"]:
+                    return "background-color:#D1FAE5; color:#065F46"
+                elif val in ["Q3","B"]:
+                    return "background-color:#FEF9C3; color:#92400E"
+                else:
+                    return "background-color:#F3F4F6; color:#374151"
+
+            styled = papers[["title","venue","citations","match_type","matched_title","rank","match_score"]]\
+                .sort_values(by="citations", ascending=False)\
+                .style.applymap(highlight_rank, subset=["rank"])
+            
+            st.dataframe(styled, use_container_width=True)
+
+            st.markdown("---")
+            st.success(f"✅ Evaluation complete for **{results['name']}**. Total of {results['total_papers']} papers analyzed.")
+            st.caption("📘 Powered by semantic embeddings, fuzzy matching, and citation analytics")
