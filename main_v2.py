@@ -13,7 +13,7 @@ from datetime import datetime
 
 # --- Import local modules ---
 try:
-    from fetchProfile import get_scholar_profile, get_paper_details
+    from fetchProfile import get_scholar_profile
     from scopus import search_scopus_venue, get_scopus_metrics_by_issn
 except ImportError as e:
     st.error(f"Critical Error: Could not import helper files. {e}")
@@ -45,9 +45,9 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- 🎨 Logical Color Palette ---
+# --- Logical Color Palette ---
 # Distinct colors for roles to avoid confusion
-# --- 🎨 Colors (Complete) ---
+# --- Colors (Complete) ---
 ROLE_COLORS = {
     "Solo Author": "#D97706",   # Gold
     "First Author": "#1E3A8A",  # Navy
@@ -185,43 +185,12 @@ def evaluate_author_data(data, cs_ai):
     df["year"] = pd.to_numeric(df["year"], errors="coerce")
     df["citations"] = pd.to_numeric(df["citations"], errors="coerce").fillna(0).astype(int)
     
-    # --- NEW: Conditional Deep Scrape Logic ---
-    # We iterate and update 'authors' only if truncated
-    updated_authors = []
-    
-    # Progress bar because this might take a few seconds
-    progress_bar = st.progress(0, text="Verifying author lists...")
-    total_papers = len(df)
-    
-    for index, row in df.iterrows():
-        auth_str = str(row.get("authors", ""))
-        
-        # Check for truncation symbols
-        if "..." in auth_str or "…" in auth_str:
-            # It is truncated! Check if we have an ID to look up
-            cid = row.get("citation_id")
-            if cid:
-                # Call API (Cost: 1 search)
-                full_authors = get_paper_details(cid)
-                if full_authors:
-                    auth_str = full_authors # Update with full list
-        
-        updated_authors.append(auth_str)
-        # Update progress slightly
-        if index % 10 == 0:
-            progress_bar.progress(min(index / total_papers, 1.0))
-            
-    progress_bar.empty() # Remove bar when done
-    df["authors"] = updated_authors
-    # ------------------------------------------
-
     # Match Quality
     df[["match_type","matched_title","rank","match_score", "source"]] = df.apply(
         lambda r: pd.Series(match_quality(r["venue"], cs_ai)), axis=1
     )
     
-    # ... (Rest of the function remains the same: citations, h-index, etc.) ...
-    
+    # Metrics
     citations = sorted(df["citations"].tolist(), reverse=True)
     h_index = sum(x >= i + 1 for i, x in enumerate(citations))
     i10_index = sum(x >= 10 for x in citations)
@@ -233,33 +202,44 @@ def evaluate_author_data(data, cs_ai):
     academic_age = datetime.now().year - min_year if pd.notna(min_year) else 1
     if academic_age < 1: academic_age = 1
 
-    target_name = data["name"].lower().split()[-1] 
+    # --- FIX: Smart Author Cleaning ---
+    target_name_parts = data["name"].lower().split()
+    target_last = target_name_parts[-1] # Match by last name (safest)
+
+    all_authors = []
+    for auth_str in df["authors"].dropna():
+        # 1. Split by comma
+        names = [n.strip() for n in str(auth_str).split(",")]
+        # 2. Filter out "..." (ellipses) which represent hidden authors
+        clean_names = [n for n in names if "..." not in n and len(n) > 1]
+        all_authors.extend(clean_names)
+    
+    # 3. Create unique set
+    unique_authors = set(all_authors)
+    
+    # 4. Remove the researcher themselves (Smart Remove)
+    # We remove any name that looks like the researcher (e.g., "K. Wong" or "Wong KS")
+    unique_authors = {a for a in unique_authors if target_last not in a.lower()}
+    
+    network_size = len(unique_authors)
+
+    # Role Logic (Same as before)
     def get_role(authors_str):
         if not authors_str: return "Unknown"
         parts = [p.strip().lower() for p in str(authors_str).split(",")]
+        parts = [p for p in parts if "..." not in p] # clean ellipses here too
         if not parts: return "Unknown"
         
-        # Now that we have full lists, Last Author check is safe!
         if len(parts) == 1:
-            if target_name in parts[0]: return "Solo Author"
+            if target_last in parts[0]: return "Solo Author"
             return "Unknown"
-        if target_name in parts[0]: return "First Author"
-        if target_name in parts[-1]: return "Last Author"
+        if target_last in parts[0]: return "First Author"
+        if target_last in parts[-1]: return "Last Author"
         return "Middle Author"
 
     df["role"] = df["authors"].apply(get_role)
     lead_count = df[df["role"].isin(["Solo Author", "First Author"])].shape[0]
     leadership_score = round((lead_count / len(df)) * 100, 1) if len(df) > 0 else 0
-
-    all_authors = []
-    for auth_str in df["authors"].dropna():
-        names = [n.strip() for n in auth_str.split(",")]
-        # No need to filter "..." anymore because we cleaned them!
-        all_authors.extend(names)
-    
-    # Remove researcher from network count
-    unique_collabs = {n for n in set(all_authors) if target_name not in n.lower()}
-    network_size = len(unique_collabs)
 
     current_year = datetime.now().year
     recent_df = df[df["year"] >= (current_year - 5)]
@@ -436,4 +416,4 @@ if url:
                 )
                 
                 csv = df.to_csv(index=False).encode('utf-8')
-                st.download_button("📥 Download CSV Report", csv, f"report_{meta['name']}.csv", "text/csv")
+                st.download_button("Download CSV Report", csv, f"report_{meta['name']}.csv", "text/csv")
