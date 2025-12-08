@@ -448,6 +448,8 @@ def evaluate_author_data(data, cs_ai):
     }
     return res, df
 
+
+
 # ---------------- MAIN LAYOUT ----------------
 st.title("ComPARE Intelligence")
 st.markdown("### Researcher Integrity & Performance Toolkit")
@@ -550,53 +552,66 @@ if url:
                     st.plotly_chart(fig_kw, use_container_width=True)
 
             # SECTION 3: VENUE QUALITY (ENHANCED VISUALS)
-            st.subheader("Venue Quality Analysis")
 
-            # Publication Type Pie Chart
-            st.markdown("### 📊 Publication Type Distribution")
-            st.caption("Breakdown of publication venues (Journal • Conference • Unranked)")
+            st.subheader("📌 Venue Group Summary")
+
+            # Count conference vs journal
+            venue_summary = df["match_type"].value_counts()
+
+            conference_count = venue_summary.get("Conference", 0)
+            journal_count = venue_summary.get("Journal", 0)
+            unranked_count = venue_summary.get("Unranked", 0)
+
+            cols = st.columns(3)
+
+            with cols[0]:
+                st.metric("Conferences", conference_count)
+
+            with cols[1]:
+                st.metric("Journals", journal_count)
+
+            with cols[2]:
+                st.metric("Unranked", unranked_count)
+
+            # Publication Type Pie Chart + Top 5 Venues
+            st.markdown("### 📊 Publication Type & Top Venues")
+            st.caption("Left: Breakdown of publication venues (Journal • Conference • Unranked). Right: Top 5 most frequent venues.")
 
             venue_counts = df["match_type"].value_counts()
 
-            fig_pie = px.pie(
-                values=venue_counts.values,
-                names=venue_counts.index,
-                hole=0.45,
-                color_discrete_sequence=[
-                    "#5A6FF0",   # Vibrant indigo
-                    "#FF7C7C",   # Coral red
-                    "#4FD3C4",   # Aqua green
-                    "#F8C537",   # Golden yellow
-                ],
-            )
+            col_pie, col_top = st.columns([2, 1])  # Pie chart gets more space than the list
 
-            fig_pie.update_traces(
-                textinfo="percent",
-                pull=[0.08] * len(venue_counts),
-                rotation=140,
-                hovertemplate="<b>%{label}</b><br>Count: %{value}<br>Percentage: %{percent}",
-                marker=dict(
-                    line=dict(color="white", width=2.5),
+            with col_pie:
+                fig_pie = px.pie(
+                    values=venue_counts.values,
+                    names=venue_counts.index,
+                    hole=0.45,
+                    color_discrete_sequence=["#5A6FF0", "#FF7C7C", "#4FD3C4", "#F8C537"]
                 )
-            )
+                fig_pie.update_traces(
+                    textinfo="percent",
+                    pull=[0.08] * len(venue_counts),
+                    rotation=140,
+                    hovertemplate="<b>%{label}</b><br>Count: %{value}<br>Percentage: %{percent}",
+                    marker=dict(line=dict(color="white", width=2.5))
+                )
+                fig_pie.update_layout(
+                    showlegend=True,
+                    legend_title_text="Venue Type",
+                    margin=dict(t=50, b=20),
+                    annotations=[dict(
+                        text="Venue Mix", x=0.5, y=0.5, font=dict(size=16, color="#333", family="Arial Black"), showarrow=False
+                    )],
+                    paper_bgcolor="rgba(0,0,0,0)",
+                    plot_bgcolor="rgba(0,0,0,0)",
+                )
+                st.plotly_chart(fig_pie, use_container_width=True)
 
-            fig_pie.update_layout(
-                showlegend=True,
-                legend_title_text="Venue Type",
-                margin=dict(t=50, b=20),
-                annotations=[
-                    dict(
-                        text="Venue Mix",
-                        x=0.5, y=0.5,
-                        font=dict(size=16, color="#333", family="Arial Black"),
-                        showarrow=False,
-                    )
-                ],
-                paper_bgcolor="rgba(0,0,0,0)",
-                plot_bgcolor="rgba(0,0,0,0)",
-            )
-
-            st.plotly_chart(fig_pie, use_container_width=True)
+            with col_top:
+                st.markdown("**🏆 Top 5 Venues**")
+                top_venues = df["venue"].value_counts().head(5)
+                for venue, count in top_venues.items():
+                    st.write(f"**{venue}** — {count} paper{'s' if count>1 else ''}")
 
             st.markdown("---")
      
