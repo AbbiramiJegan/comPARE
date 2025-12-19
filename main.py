@@ -13,6 +13,65 @@ from fuzzywuzzy import fuzz, process
 from datetime import datetime
 import torch
 
+import requests
+
+OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_MODEL = "mistral:7b-instruct"
+
+def call_ollama(prompt):
+    response = requests.post(
+        OLLAMA_URL,
+        json={
+            "model": OLLAMA_MODEL,
+            "prompt": prompt,
+            "temperature": 0.1,
+            "top_p": 0.9,
+            "stream": False
+        },
+        timeout=120
+    )
+
+    response.raise_for_status()
+    return response.json()["response"]
+
+import json
+
+def to_python_type(x):
+    if hasattr(x, "item"):
+        return x.item()
+    return x
+
+
+def build_prompt(summary_input):
+    safe_json = json.dumps(
+        summary_input,
+        indent=2,
+        default=lambda o: o.item() if hasattr(o, "item") else str(o)
+    )
+
+    return f"""
+SYSTEM:
+You are an academic report summarization model.
+You must ONLY use the provided metrics.
+You must NOT invent facts, speculate, judge, accuse, or infer intent.
+Use neutral academic language.
+
+USER:
+Generate a structured academic summary using ONLY the following metrics.
+
+Metrics (JSON):
+{safe_json}
+
+Write sections:
+1. Overall Research Profile
+2. Productivity Pattern
+3. Citation Impact
+4. Venue Quality Distribution
+5. Plain-Language Conclusion
+"""
+
+
+
 # --- Import local modules ---
 try:
     from fetchProfile import get_scholar_profile
@@ -380,9 +439,9 @@ def evaluate_author_data(data, cs_ai):
             g_index = i + 1
     
     min_year = df["year"].min()
-    academic_age = datetime.now().year - min_year if pd.notna(min_year) else 1
-    if academic_age < 1: 
-        academic_age = 1
+    years_since_first_publication = datetime.now().year - min_year if pd.notna(min_year) else 1
+    if years_since_first_publication < 1: 
+        years_since_first_publication = 1
 
     # Smart Author Cleaning
     target_name_parts = data["name"].lower().split()
@@ -438,7 +497,7 @@ def evaluate_author_data(data, cs_ai):
         "h_index": h_index, 
         "i10_index": i10_index, 
         "g_index": g_index,
-        "academic_age": int(academic_age),
+        "years_since_first_publication": int(years_since_first_publication),
         "cpp": round(df["citations"].mean(), 1) if len(df) > 0 else 0,
         "leadership_score": leadership_score,
         "network_size": network_size,
@@ -475,12 +534,41 @@ if url:
                 meta, df = evaluate_author_data(data, is_cs_ai)
                 
             st.markdown("---")
+            st.subheader("📄 Executive Research Summary")
+
+            venue_counts = df["match_type"].value_counts()
+            summary_input = {
+                "name": str(meta["name"]),
+                "years_since_first_publication": to_python_type(meta["years_since_first_publication"]),
+                "total_publications": to_python_type(meta["total_p"]),
+                "total_citations": to_python_type(meta["total_c"]),
+                "h_index": to_python_type(meta["h_index"]),
+                "leadership_score": to_python_type(meta["leadership_score"]),
+                "recent_publications_5y": to_python_type(meta["recent_p"]),
+                "one_hit_concentration": to_python_type(meta["one_hit"]),
+                "conference_count": to_python_type(venue_counts.get("Conference", 0)),
+                "journal_count": to_python_type(venue_counts.get("Journal", 0)),
+                "unranked_count": to_python_type(venue_counts.get("Unranked", 0))
+            }
+
+
+            with st.expander("🧠 AI-Generated Summary (Local Model)", expanded=True):
+                st.caption(
+                    "This summary is generated locally using an open-source language model. "
+                    "It assists interpretation and should be read alongside the full metrics."
+                )
+
+                if st.button("Generate Summary"):
+                    with st.spinner("Generating summary..."):
+                        summary = call_ollama(build_prompt(summary_input))
+                        st.markdown(summary)
+
             
             # --- HEADER INFO ---
             h1, h2 = st.columns([1, 3])
             with h1:
                 st.metric("Researcher", meta["name"])
-                st.caption(f"ID: {meta['id']} | Active for {int(meta['academic_age'])} Years")
+                st.caption(f"ID: {meta['id']} | Active for {int(meta['years_since_first_publication'])} Years")
             with h2:
                 # ROW 1: CORE ACADEMIC METRICS
                 m1, m2, m3, m4, m5 = st.columns(5)
